@@ -1,6 +1,6 @@
 title: Day 1: I Lit Out from Reno, I Was Trailed by 20 Hounds
-slug: traveler/apr_2021_ski_trip/day_1
-slug_base: traveler/apr_2021_ski_trip
+slug: traveler/2021_04-ski_trip/day_1
+slug_base: traveler/2020_04-ski_trip
 previous_day: None
 next_day: day_2
 date: 2021-05-04

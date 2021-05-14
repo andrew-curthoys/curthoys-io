@@ -1,6 +1,6 @@
 title: Day 3: Send It
-slug: traveler/apr_2021_ski_trip/day_3
-slug_base: traveler/apr_2021_ski_trip
+slug: traveler/2021_04-ski_trip/day_3
+slug_base: traveler/2021_04-ski_trip
 previous_day: day_2
 next_day: day_4
 date: 2021-05-11
