@@ -12,10 +12,14 @@
         <p class="blog-post-meta">Posted on {{ article.date.strftime('%Y-%m-%d') }}</p>
           {{ article.content }}
       </article>
-      <div class="col flex-nowrap fs-5 mb-5 f-blue-grey">
+      <nav class="blog-pagination" aria-label="Pagination">
+        <a class="btn btn-outline-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
+        <a class="btn btn-outline-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
+      </nav>
+      <!-- <div class="col flex-nowrap fs-5 mb-5 f-blue-grey">
         <a class="f-blue-grey" href="{{ article.previous_day }}.html">{{ prev_day }}</a>
         <a class="f-blue-grey float-end" href="{{ article.next_day }}.html">{{ next_day }}</a>
-      </div>
+      </div> -->
     </div>
     <div class="col-md-4">
       <div class="position-sticky" style="top: 6rem;">
@@ -27,21 +31,22 @@
         <div class="p-4">
           <h4 class="fst-italic">Trips</h4>
           <ol class="list-unstyled mb-0">
-            <li class="fs-5"><a href="#">Apr 2021 Ski Trip</a></li>
-            <li class="pl-3">
-            <ol class="list-unstyled mb-0 pl-3">
-              <li><a href="day_1.html">Day 1</a></li>
-              <li><a href="day_2.html">Day 2</a></li>
-              <li><a href="day_3.html">Day 3</a></li>
-              <li><a href="day_4.html">Day 4</a></li>
-              <li><a href="day_5.html">Day 5</a></li>
-              <li><a href="day_6.html">Day 6</a></li>
-              <li><a href="day_7.html">Day 7</a></li>
-              <li><a href="day_8.html">Day 8</a></li>
-              <li><a href="day_9.html">Day 9</a></li>
-              <li><a href="day_10.html">Day 10</a></li>
-              <li><a href="day_11.html">Day 11</a></li>
-            </ol>
+            <li><a href="#">Apr 2021 Ski Trip</a></li>
+            <div class="pt-0 p-2">
+              <ol class="list-unstyled mb-0 pl-3">
+                <li><a href="day_1.html">Day 1</a></li>
+                <li><a href="day_2.html">Day 2</a></li>
+                <li><a href="day_3.html">Day 3</a></li>
+                <li><a href="day_4.html">Day 4</a></li>
+                <li><a href="day_5.html">Day 5</a></li>
+                <li><a href="day_6.html">Day 6</a></li>
+                <li><a href="day_7.html">Day 7</a></li>
+                <li><a href="day_8.html">Day 8</a></li>
+                <li><a href="day_9.html">Day 9</a></li>
+                <li><a href="day_10.html">Day 10</a></li>
+                <li><a href="day_11.html">Day 11</a></li>
+              </ol>
+            </div>
           </li>
           </ol>
         </div>
@@ -53,7 +58,8 @@
 {% endblock %}
 
 {% set dayDict = 
-  ({"day_1": "Day 1",
+  ({"/traveler": "Traveler Home",
+    "day_1": "Day 1",
     "day_2": "Day 2",
     "day_3": "Day 3",
     "day_4": "Day 4",
@@ -64,13 +70,16 @@
 %}
 
 
-{% set prev_day = "" %}
-{% set next_day = "" %}
+{% set prev_day_link = article.prev_day %}
+{% set prev_day_alias = dayDict[article.prev_day] %}
+{% set next_day_link = article.next_day + ".html" %}
+{% set next_day_alias = dayDict[article.next_day] %}
 
-{% if article.previous_day != "None" %}
-  {% set prev_day = "&lt " + dayDict[article.previous_day] %}
+{% if article.prev_day != "/traveler" %}
+  {% set prev_day_link = prev_day_link + ".html" %}
 {% endif %}
-
+<!--
 {% if article.next_day != "None" %}
-  {% set next_day = dayDict[article.next_day] + " &gt" %}
+  {% set next_day = dayDict[article.next_day] %}
 {% endif %}
+-->
