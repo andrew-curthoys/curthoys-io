@@ -1,0 +1,17 @@
+.fs-125 {
+    font-size: 125%;
+}
+.fs-150 {
+    font-size: 150%;
+}
+.f-blue-grey {
+    color: #356895 !important;
+}
+.figure-caption {
+    color: #356895 !important;
+    font-style: italic !important;
+}
+.image-vert {
+    padding-left: 5rem !important;
+    padding-right: 5rem !important;
+}
