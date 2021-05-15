@@ -8,7 +8,7 @@ SITEURL = 'curthoys.io'
 
 # Traveler Info
 TRAVELERSITENAME = "Uncle Andy's Traveler"
-TRAVELERSUBHEADER = "Musings of a panhandlin manhandlin highrollin dustbowlin daddy"
+TRAVELERSUBHEADER = "A collection of stories from my jaunts, journeys, excursions, and walkabouts"
 
 PATH = 'content'
 STATIC_PATHS = ['traveler']
