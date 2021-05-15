@@ -40,7 +40,9 @@ Anyways, I pull into Portland and really dig the bridges. I like bridges for wha
     <img class="col-6 figure-img img-fluid float-left d.block" src="/theme/images/truss_bridge.jpg" alt="Truss Bridge">
     <img class="col-6 figure-img img-fluid float-right d.block" src="/theme/images/vertical_lift_bridge.jpg" alt="Vertical Lift Bridge">
   </div>
-  <img class="figure-img img-fluid mt-2" src="/theme/images/arch_bridge.jpg" alt="Arch Bridge">
+  <div class="row">
+    <img class="figure-img img-fluid mt-2" src="/theme/images/arch_bridge.jpg" alt="Arch Bridge">
+  </div>
   <figcaption class="figure-caption">Bridges of Portland</figcaption>
 </figure>
 

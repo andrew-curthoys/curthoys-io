@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Custom additions
-**/output/*
+2021_04-ski_trip/output/

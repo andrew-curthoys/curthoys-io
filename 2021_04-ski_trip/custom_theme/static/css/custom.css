@@ -15,16 +15,10 @@
     padding-left: 5rem !important;
     padding-right: 5rem !important;
 }
-.center-crop {
-    height: 250px;
-    width: 400px;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.mrt-20 {
-    margin-right: 20px !important;
-}
 .btn-rounded {
     border-radius: 2rem !important;
+}
+.article-subheader {
+    color: #6680CC !important;
+    font-style: italic !important;
 }
