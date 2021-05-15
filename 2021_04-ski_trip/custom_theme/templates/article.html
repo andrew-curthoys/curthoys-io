@@ -13,13 +13,9 @@
           {{ article.content }}
       </article>
       <nav class="blog-pagination" aria-label="Pagination">
-        <a class="btn btn-outline-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
-        <a class="btn btn-outline-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
+        <a class="btn btn-outline-secondary mx-auto" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
+        <a class="btn btn-outline-secondary mx-auto" href="{{ next_day_link }}">{{ next_day_alias }}</a>
       </nav>
-      <!-- <div class="col flex-nowrap fs-5 mb-5 f-blue-grey">
-        <a class="f-blue-grey" href="{{ article.previous_day }}.html">{{ prev_day }}</a>
-        <a class="f-blue-grey float-end" href="{{ article.next_day }}.html">{{ next_day }}</a>
-      </div> -->
     </div>
     <div class="col-md-4">
       <div class="position-sticky" style="top: 6rem;">

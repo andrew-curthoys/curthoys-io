@@ -14,7 +14,7 @@ The sight of a barren desert landscape severed by majestic snow capped mountains
 
 <figure class="figure">
   <img class="figure-img img-fluid" src="/theme/images/tahoe_plane.jpg" alt="Tahoe from the air">
-  <figcaption class="figure-caption">This photo absolutely does not do it justice</figcaption>
+  <figcaption class="figure-caption">This photo absolutely does not do it justice. Stupid wing ain't helping anything neither. Trust me it was awesome.</figcaption>
 </figure>
 
 I deplane and make my way to baggage claim. As I walk up I see my boot bag emerge from the depths of the Reno airport catacombs and I am ridin high. I call my cousin Randy who just drove up from Vegas and he’s 2 minutes away; everything is comin up Andy. I haven’t left the airport and this trip is going great.

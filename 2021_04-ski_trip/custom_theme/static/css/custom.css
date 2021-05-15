@@ -25,3 +25,6 @@
 .mrt-20 {
     margin-right: 20px !important;
 }
+.btn-rounded {
+    border-radius: 2rem !important;
+}
