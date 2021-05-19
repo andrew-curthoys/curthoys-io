@@ -19,6 +19,7 @@
     border-radius: 2rem !important;
 }
 .article-subheader {
-    color: #6680CC !important;
+    color: #4682B4 !important;
+    font-size: 125% !important;
     font-style: italic !important;
 }

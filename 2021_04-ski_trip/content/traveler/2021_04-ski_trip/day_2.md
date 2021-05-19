@@ -70,7 +70,9 @@ At the top we arrive at an installation called High Camp. This has a massive dec
     <img class="col-6 figure-img img-fluid float-left d.block" src="/theme/images/hangin_at_high_camp.jpg" alt="Randy & I at High Camp">
     <img class="col-6 figure-img img-fluid float-right d.block" src="/theme/images/tahoe_pils.jpg" alt="Tahoe Pils">
   </div>
-  <img class="figure-img img-fluid mt-2" src="/theme/images/view_from_high_camp.jpg" alt="View from High Camp">
+  <div class="row">
+    <img class="figure-img img-fluid mt-2" src="/theme/images/view_from_high_camp.jpg" alt="View from High Camp">
+  </div>
   <figcaption class="figure-caption">Hangin at High Camp</figcaption>
 </figure>
 

@@ -48,6 +48,18 @@ Anyways, I pull into Portland and really dig the bridges. I like bridges for wha
 
 I park outside the Hotel Lucia and get checked in. According to their website, it is “a creatively inspired Portland hotel that’s renowned for its expansive photography collection, eclectic art, and unforgettable style.” Yeah I think they hit the nail on the head there. Taylor behind the counter gets me checked in and hands me my room key card, which has a black and white photo of a young Hugh Hefner and a gaggle of presumably much younger women. She then asks if I’d like to take one of their bikes they offer to guests to ride around town. My friend’s girlfriend (now fiancée, congrats Brady & Shelby!) told me the best strategy to explore Portland is on bike so I’m all over that.
 
+<figure class="figure">
+  <div class="row">
+    <img class="col-6 figure-img img-fluid float-left d.block" src="/theme/images/hef.jpg" alt="Hef">
+    <img class="col-6 figure-img img-fluid float-right d.block" src="/theme/images/seinfeld.jpg" alt="Seinfeld at work">
+  </div>
+  <div class="row">
+    <img class="figure-img img-fluid mt-2" src="/theme/images/prezis.jpg" alt="Presidents">
+  </div>
+  <figcaption class="figure-caption">A collection of photos from my hallway: Hef & his harem, Seinfeld at work, and some Commanders in Chief</figcaption>
+</figure>
+
+
 I drop off my bags and head back down to take a bike out for a spin. I sign some paperwork and they hand me a single speed rickety steed and a helmet to go with it. I appreciate the helmet and wore it, but was a bit amused at the seemingly conflicting positions of handing a hotel guest a helmet that has been worn by god knows who, while making him sign for it with a pen from a “sanitized” cup and putting it into a “dirty” cup. Whatever, let’s explore Portland.
 
 Riding around downtown, the best word I can think of to describe it is “grungy.” Everything seems to have a patina of grime on it. I can’t decide if I like it or hate it. Portland’s gonna Portland.
