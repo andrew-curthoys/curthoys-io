@@ -24,7 +24,7 @@ I get to the top and see the Summit lift spinning up to the top of the volcanic 
 
 I look around and I don’t see another soul. Best not get too fancy, let’s take this nice and easy. I matriculate down the hill at a slow and steady pace and about halfway down the top section the snow starts to soften up a bit. I stop and look around for the Cloudchaser lift, Mt Bachelor’s most recent addition, which opened during the 2016-17 season. This lift is actually the reason I wanted to come to Mt. Bachelor after watching a short YouTube doc on the construction of the lift.
 
-<iframe class="col-12 mb-3" height="400" src="https://www.youtube.com/embed/a2FqT3vO1Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="col-12 mb-3 video-div" height="400" src="https://www.youtube.com/embed/a2FqT3vO1Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I don’t see it, it must be farther East. I keep heading right and drop below the tree line. It has to be over here somewhere. I continue making my way down the mountain until I get to a cat track headed back to the left. Did I overshoot it? I start making my way down the cat track, wondering if I’ll see Cloudchaser or another lift. And I keep making my way. And come to a hill. And another hill. And ridiculous stretches of flat spots. Where the hell am I??
 
