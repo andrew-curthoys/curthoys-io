@@ -1,8 +1,8 @@
 title: Day 9: Fool in the Rain
 slug: traveler/2021_04-ski_trip/day_9
 slug_base: traveler/2021_04-ski_trip
-prev_day: day_7
-next_day: day_9
+prev_day: day_8
+next_day: day_10
 date: 2021-05-18
 category: traveler
 
@@ -21,7 +21,7 @@ We arrive & throw on our rain jackets and head out towards the trail. Along the 
 
 Plant 2 was built in 1910 and is sensibly located above ground, right next to the path that we find ourselves on. The highlight of this stretch of the path is the enormous penstocks (huge water pipes to bring water from above the falls to the power plant) that hug the cliffs and go right below the deck we’re standing on.
 
-<figure class="figure d-block">
+<figure class="figure">
   <div class="row">
     <img class="figure-img img-fluid" src="/theme/images/penstocks.jpg" alt="Penstocks">
   </div>
@@ -30,7 +30,7 @@ Plant 2 was built in 1910 and is sensibly located above ground, right next to th
 
 This is quickly surpassed when we walk around the bend and the valley opens up before us to reveal the falls. It’s a magnificent sight, a torrent of water crashing over the falls flanked by thickly forested sheer cliffs of volcanic rock. We take it in for a few minutes and I snap a few photos that will absolutely not do it justice then start off towards the path towards the top of the falls.
 
-<figure class="figure d-block">
+<figure class="figure">
   <div class="row">
     <img class="figure-img img-fluid" src="/theme/images/falls_bottom.jpg" alt="Bottom of the falls">
   </div>
@@ -41,7 +41,7 @@ It’s a really nice hike through expanses of towering Douglas fir and red alder
 
 I read all there is to read about the falls and the plant and we walk out onto a deck for a better view. And what a view it is. It’s mesmerizing to put your eye on a bit of water and watch it tumble to the bottom. It looks like it’s in slow motion, I wish I had the pot.
 
-<figure class="figure d-block">
+<figure class="figure">
   <div class="row">
     <img class="figure-img img-fluid" src="/theme/images/falls_with_jo.jpg" alt="Falls with Joanne">
   </div>
@@ -50,6 +50,7 @@ I read all there is to read about the falls and the plant and we walk out onto a
   </div>
   <figcaption class="figure-caption">Great day for a hike</figcaption>
 </figure>
+
 We loiter for a bit then start walking back down the path. We get back to the car and are only marginally wet, I'd chalk that up as a win. We start heading back towards Seattle and I mention a spot my friend had recommended called Holy Mountain brewery. It’s on the north side of downtown right off Elliott Bay and we decide we have time for a quick brewski before the wine tastings.
 
 We make our way to the brewery, which is situated in a warehouse next to a trainyard. I was hoping to get a flight to get a sampling of their wares but they don’t offer flights. They do, however, offer small 6 oz pours so I order a trifecta of the Collapsing Star IPA, Plague of Angels Oatmeal Milk Stout, and The Ox oak fermented milk stout. All 3 are excellent and I decide to slug back another full pour of The Ox before we have to leave.
@@ -60,11 +61,18 @@ The tasting menu is a 6 glass sampling, starting with a light Pinot Gris working
 
 We head up the road about a mile to Matthews Winery, where they have a table set up out front to check in and pour us a small glass of welcome rose. Ok I’m liking this place better already. The tasting room is open and airy, with large windows letting in the bit of light scattering through the clouds. They put us in a spot outdoors on their covered patio and we get our pick of 4 wines for our tasting. I choose the Claret and Reserve Claret from Matthews and the Cabernet and Syrah from Tenor, a winery that shares the tasting room with Matthews. I wish I could tell you all the notes of boysenberry, oak, leather, and asparagus, but I don’t get into all that nonsense; what I can tell you is that I really liked these wines. They are significantly better to my amateur palate and Greg & Joanne agree and buy two bottles of the wines they tasted.
 
-During the tasting I get up to use the john, and while I’m relieving myself of all the liquids we’ve acquired over the past few hours a flatulence is released from my body that is exceptionally malodorous. I mean it’s bad. Now the only reason I’m telling you this is what happens next. I leave the lav and immediately run into a cute girl in the hallway who exclaims “oh my god! I love your mask!” Turns out she’s from Buffalo and right after I explain that my dad & his whole side of the family is from Buffalo she hits me with an “oh that’s awesome!” and is gone… like a fart in the wind… right into the unisex latrine that probably has paint peeling off the walls at the moment. Christ. I she darted away so fast I was rattled, I couldn’t even get another syllable out before she entered hells kitchen. Pretty young lass from the Matthews winery, wherever you are, I’m sorry.
+<figure class="figure">
+  <div class="row">
+    <img class="figure-img img-fluid" src="/theme/images/matthews.jpg" alt="Wine tasing at Matthews">
+  </div>
+  <figcaption class="figure-caption">Those were all glasses of water before I showed up</figcaption>
+</figure>
 
-We finish up our wine and head back to the house. I have an early day tomorrow and want to leave by 6 to get out to Mt Baker for some fresh turns. It’s just before 8 so I should have no problem getting to bed by 10. When we get back Greg starts cooking up some spaghetti, he’s got a special red sauce recipe and it is absolutely dynamite. It has a slight sweetness to it that I’ve never tasted in spaghetti sauce and I love it. We enjoy it with an Argentinian wine, the vintner and varietal of which I can’t remember. After dinner we retire to the kitchen for conversation and carrying on. I am thinking it’s probably about to head to bed when Greg opens up a bottle of syrah from Columbia Winery, a local vineyard they have a membership to . Since I have no backbone when it comes to peer pressure I cave when he asks if I want a glass. Hell a glass ain’t gonna kill me and they have been gushing about this winery so let’s fire it up.
+During the tasting I get up to use the john, and while I’m relieving myself of all the liquids we’ve acquired over the past few hours a flatulence is released from my body that is exceptionally malodorous. I mean it’s bad. Now the only reason I’m telling you this is what happens next. I leave the lav and immediately run into a cute girl in the hallway who exclaims “oh my god! I love your mask!” Turns out she’s from Buffalo and right after I explain that my dad & his whole side of the family is from Buffalo she hits me with an “oh that’s awesome!” and is gone… like a fart in the wind… right into the unisex latrine that probably has paint peeling off the walls at the moment. Christ. She darted away so fast I couldn’t even get another syllable out before she entered hells kitchen. Pretty young lass from the Matthews winery, wherever you are, I’m sorry.
 
-The wine is delicious and the company even better, have I mentioned how kickass my family is? I finish my glass and acquiesce to another, albeit with the stipulation that Greg gives me a half pour. Another half glasses worth of time passes and I wonder out loud what time it is. Joanne screams “don’t look at the time!!” but it was too late, I see the clock tick over to 11:37.
+We finish up our wine and head back to the house. I have an early day tomorrow and want to leave by 6 to get out to Mt Baker for some fresh turns. It’s just before 8 so I should have no problem getting to bed by 10. When we get back Greg starts cooking up some spaghetti, he’s got a special red sauce recipe and it is absolutely dynamite. It has a slight sweetness to it that I’ve never tasted in spaghetti sauce and I love it. We enjoy it with an Argentinian wine, the vintner and varietal of which I can’t remember. After dinner we retire to the kitchen for conversation and carrying on. I am thinking it’s probably about time to head to bed when Greg opens up a bottle of syrah from Columbia Winery, a local vineyard where they are members. Since I have no backbone when it comes to peer pressure I cave when he asks if I want a glass. Hell a glass ain’t gonna kill me and they have been gushing about this winery so let’s fire it up.
+
+The wine is delicious and the company even better, have I mentioned how kickass my family is? I finish my glass and acquiesce to another, albeit with the stipulation that Greg gives me a half pour. Another half glass worth of time passes and I wonder out loud what time it is. Joanne screams “don’t look at the time!!” but it was too late, I see the clock tick over to 11:37.
 
 Shit.
 

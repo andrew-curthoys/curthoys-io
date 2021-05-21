@@ -6,7 +6,7 @@ next_day: day_2
 date: 2021-05-04
 category: traveler
 
-I had planned to turn in early the night before but an unexpected text from an old friend had me throwing darts until after my bedtime. I won 5 games to 2 so at least I had that going for me. I still woke up in time for work and after taking care of some business & a bit of final packing I headed off to the airport. The IAH parking was a shitshow as normal but I was able to find a spot and zip through security with about 30 minutes to spare. I boarded a relatively empty flight to Denver, where my 1.5 hour layover stretched to 2.5 hours due to United having to change crews. No matter, I watched the second half of Tottenham’s 2-2 draw to Everton at a cantina while enjoying a Dos Equis Amber and a grilled beef taco salad.
+I had planned to turn in early the night before but an unexpected text from an old friend had me throwing darts until after my bedtime. I won 5 games to 2 so at least I had that going for me. I still woke up in time for work and after taking care of some business & a bit of final packing I head to the airport. The IAH parking was a shitshow as normal but I was able to find a spot and zip through security with about 30 minutes to spare. I boarded a relatively empty flight to Denver, where my 1.5 hour layover stretched to 2.5 hours due to United having to change crews. No matter, I watched the second half of Tottenham’s 2-2 draw to Everton at a cantina while enjoying a Dos Equis Amber and a grilled beef taco salad.
 
 My flight from Denver to Reno was a little fuller, and I exchanged my aisle seat with a dad and a toddler so they could sit next to mom & big bro across the aisle. My magnanimity knows no bounds. The move payed off, however, because I was able to get a few winks on the flight but more importantly I got my first breathtaking views of Lake Tahoe. It is an absolutely magnificent wonder of geology. From the vantage point of the plane I could see how high above the desert floor the basin of water stood, a seeming Sword of Damocles over the city of Reno.
 
@@ -14,12 +14,14 @@ The sight of a barren desert landscape severed by majestic snow capped mountains
 
 <figure class="figure">
   <img class="figure-img img-fluid" src="/theme/images/tahoe_plane.jpg" alt="Tahoe from the air">
-  <figcaption class="figure-caption">This photo absolutely does not do it justice. Stupid wing ain't helping anything neither. Trust me it was awesome.</figcaption>
+  <figcaption class="figure-caption">This photo absolutely does not do it justice. Trust me it was awesome.</figcaption>
 </figure>
 
 I deplane and make my way to baggage claim. As I walk up I see my boot bag emerge from the depths of the Reno airport catacombs and I am ridin high. I call my cousin Randy who just drove up from Vegas and he’s 2 minutes away; everything is comin up Andy. I haven’t left the airport and this trip is going great.
 
 I walk out to the curb and I see Randy’s silver Ford Focus pull up and I throw my shit into the back and we’re on our way. We work our way out of the airport and he asks if it’s cool if we take the scenic route. It’s about 10 minutes longer but it could be an hour longer and I’d vote scenic route 10 times out of 10 based on what I saw from that plane.
+
+<h4 class="article-subheader">Tahoe Time</h4>
 
 We venture for about 5 miles before turning off onto the Mt Rose highway. It only takes a few minutes to realize that it was a good idea to trust Randy on the scenic route. We work our way up the mountain and with every switchback we get a better view of the landscape. Randy regales me of riding down these windy mountain roads on his mountain bike to go buy a car when he first moved here in 1991 at the ripe old age of 22 (He took a Greyhound bus with $69 in his pocket after graduating college because it looked like a cool place to live on a map. He stayed for 9 years. Randy is pretty kickass). I asked Randy what he would have done if he didn’t find a car to buy and had to ride back up that huge ass mountain. He said he thought he had already called and worked something out but his face said he hadn’t even considered that. In any case, it’s a hell of a road to take a mountain bike down.
 
@@ -52,7 +54,7 @@ Anyhow, I get my chips and set $10 on the pass line. I make up enough money on 6
 
 I decide to cut my losses & we head to the cashier and back to the car. We are on the road once again. A few minutes later I get a text message from the Pepper Tree Inn, our world famous (not true) accommodation. They would like to know what time I will be checking in as the lobby will be closing in 30 minutes. I somewhat frantically ask Randy how far we are from the hotel and he calmly responds 10 minutes. I text the hotel back (wait how did I get into a text conversation with my hotel in the first place?) that we will be there shortly.
 
-A few minutes later we pull into the Pepper Tree Inn, a ramshackle motel that looks like it was built by skiers for skiers. I walk into the lobby and the gentleman behind the counter cheerfully inquires “Andrew?” He gives me the hotel lecture, except this one isn’t the normal Hilton or Marriott corporate bullshit, it’s a lot more personal. It’s slightly endearing. I like the Pepper Tree.
+A few minutes later we pull into the Pepper Tree Inn, a ramshackle motel in the heart of Tahoe City that looks like it was built by skiers for skiers. I walk into the lobby and the gentleman behind the counter cheerfully inquires “Andrew?” He gives me the hotel lecture, except this one isn’t the normal Hilton or Marriott corporate bullshit, it’s a lot more personal. It’s slightly endearing. I like the Pepper Tree.
 
 The gentleman behind the counter assigns us room 104, to which I instinctively respond “Teeeeeen-four.” The blank stare indicated that he doesn’t have a CB radio. Probably a Millenial. We wander down to room 104 and discover that it is both the room number and the number of square feet in the room. There are two full size beds but not much room for activities. The chair for the desk I’m currently sitting at backs up to one of the beds and blocks the ingress/egress to the bathroom. But who gives a shit, we’re here to ski.
 
