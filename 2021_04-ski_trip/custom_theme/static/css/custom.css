@@ -31,3 +31,6 @@
     font-style: italic !important;
     margin-bottom: 0.5rem !important;
 }
+.video-div {
+    height: calc(200px + 14vw) !important;
+}
