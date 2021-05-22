@@ -19,7 +19,7 @@ I order a cappuccino and banana raspberry scone and type away while listening to
 
 I head back to the motel and find Randy just about geared up and ready to head out. I strap on my toolbelt and we’re off to Squaw Valley. We get there just after 9 AM and get a much better parking spot than yesterday. A short walk to the base and we’re ready to rock. We decide to head over to the Red Dog chair, thinking there will be some good runs over yonder due to the sun exposure. As we’re about to go through the turnstile Randy asks one of the employees walking by how the runs off this lift have been riding in the morning. He says they’ve been pretty icy & our best bet would be to take the funitel (a gondola with two cables instead of one, a French innovation that’s much more stable in the wind) up to the top and ride the runs off the Emigrant chair. Excellent, I’m glad Randy inquired. *Side note:* he’s one of the most personable people I’ve ever met. If you don’t want to talk, run away quickly if you see my cousin Randy coming your way. He’s the best.
 
-<h4 class="article-subheader">Let's Rip</h4>
+<h4 class="article-subheader">Let's Shred</h4>
 
 We hop on the funitel and the only other passenger is an older woman and based on her accent I’d guess she’s from Scandinavia (she sounds a lot like our øl-loving Norwegian friend Sondre). I would have asked her where she’s from but she and Randy chat the entire way up the lift. Told you he’s personable.
 
