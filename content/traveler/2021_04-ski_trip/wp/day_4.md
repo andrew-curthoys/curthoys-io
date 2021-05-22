@@ -1,6 +1,6 @@
 title: Day 4: Portlandia
-slug: traveler/2021_04-ski_trip/day_4
-slug_base: traveler/2021_04-ski_trip
+slug: traveler/2021_04-ski_trip/wp/day_4
+slug_base: traveler/2021_04-ski_trip/wp
 prev_day: day_3
 next_day: day_5
 date: 2021-05-14

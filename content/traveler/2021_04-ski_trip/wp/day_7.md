@@ -1,6 +1,6 @@
 title: Day 7: Tossed Salads & Scrambled Eggs
-slug: traveler/2021_04-ski_trip/day_7
-slug_base: traveler/2021_04-ski_trip
+slug: traveler/2021_04-ski_trip/wp/day_7
+slug_base: traveler/2021_04-ski_trip/wp
 prev_day: day_6
 next_day: day_8
 date: 2021-05-18

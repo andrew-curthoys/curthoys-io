@@ -1,6 +1,6 @@
 title: Day 2: Springtime in Tahoe
-slug: traveler/2021_04-ski_trip/day_2
-slug_base: traveler/2021_04-ski_trip
+slug: traveler/2021_04-ski_trip/wp/day_2
+slug_base: traveler/2021_04-ski_trip/wp
 prev_day: day_1
 next_day: day_3
 date: 2021-05-04

@@ -1,6 +1,6 @@
 title: Day 8: Yacht Rock
-slug: traveler/2021_04-ski_trip/day_8
-slug_base: traveler/2021_04-ski_trip
+slug: traveler/2021_04-ski_trip/wp/day_8
+slug_base: traveler/2021_04-ski_trip/wp
 prev_day: day_7
 next_day: day_9
 date: 2021-05-18

@@ -1,6 +1,6 @@
 title: Day 10: Powder on the Mountain
-slug: traveler/2021_04-ski_trip/day_10
-slug_base: traveler/2021_04-ski_trip
+slug: traveler/2021_04-ski_trip/wp/day_10
+slug_base: traveler/2021_04-ski_trip/wp
 prev_day: day_9
 next_day: day_11
 date: 2021-05-19

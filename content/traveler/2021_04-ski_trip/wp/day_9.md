@@ -1,6 +1,6 @@
 title: Day 9: Fool in the Rain
-slug: traveler/2021_04-ski_trip/day_9
-slug_base: traveler/2021_04-ski_trip
+slug: traveler/2021_04-ski_trip/wp/day_9
+slug_base: traveler/2021_04-ski_trip/wp
 prev_day: day_8
 next_day: day_10
 date: 2021-05-18

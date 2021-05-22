@@ -1,6 +1,6 @@
 title: Day 5: Mt Bachelor, You Magnificent Bastard
-slug: traveler/2021_04-ski_trip/day_5
-slug_base: traveler/2021_04-ski_trip
+slug: traveler/2021_04-ski_trip/wp/day_5
+slug_base: traveler/2021_04-ski_trip/wp
 prev_day: day_4
 next_day: day_6
 date: 2021-05-14

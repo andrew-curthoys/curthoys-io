@@ -1,6 +1,6 @@
 title: Day 11: Denouement
-slug: traveler/2021_04-ski_trip/day_11
-slug_base: traveler/2021_04-ski_trip
+slug: traveler/2021_04-ski_trip/wp/day_11
+slug_base: traveler/2021_04-ski_trip/wp
 prev_day: day_10
 next_day: /traveler
 date: 2021-05-19
