@@ -34,3 +34,7 @@
 .video-div {
     height: calc(200px + 14vw) !important;
 }
+.comment-box {
+    padding: 10px 10px 50px;
+    line-height: 150%;
+}
