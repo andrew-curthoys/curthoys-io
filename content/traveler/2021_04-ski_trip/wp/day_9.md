@@ -1,9 +1,11 @@
 title: Day 9: Fool in the Rain
 slug: traveler/2021_04-ski_trip/wp/day_9
 slug_base: traveler/2021_04-ski_trip/wp
+day_alias: Day 9
 prev_day: day_8
 next_day: day_10
-date: 2021-05-18
+date: 2021-04-24
+post_date: 2021-05-18
 category: traveler
 
 I wake up and to my delight Seattle has not let me down, it’s raining. Not a downpour but a slight drizzle. The kind of rain that just hangs there and will crush your soul if it’s all you see for a week straight. Luckily I am merely a transient to the region and can enjoy the stereotypical weather with glee. I make my daily walk down to the town square and grab a coffee at Caffe Ladro. When I get back to the house we ponder options for the day. Joanne has scheduled a couple wine tastings that afternoon but other than that we’re wide open.

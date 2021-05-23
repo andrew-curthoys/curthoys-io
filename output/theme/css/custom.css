@@ -38,3 +38,6 @@
     padding: 10px 10px 50px;
     line-height: 150%;
 }
+.page-navigator > div > .btn {
+    border-radius: 2rem;
+}

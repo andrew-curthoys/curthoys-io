@@ -8,10 +8,10 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-S3_BUCKET=my_s3_bucket
+S3_BUCKET=curthoys.io
 
 
-DEBUG ?= 0
+DEBUG ?= 1 
 ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif

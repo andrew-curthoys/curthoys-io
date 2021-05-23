@@ -9,8 +9,19 @@
     <div class="col-md-8">
       <article class="blog-post mb-3">
         <h2 class="blog-post-title f-blue-grey">{{ article.title }}</h2>
-        <p class="blog-post-meta">Posted on {{ article.date.strftime('%Y-%m-%d') }}</p>
-          {{ article.content }}
+        <p class="blog-post-meta">{{ article.date.strftime('%A, %B %d %Y') }}</p>
+        <nav class="navbar page-navigator position-sticky justify-content-between mb-3" style="top: 5rem;" aria-label="Pagination">
+          <div class="navbar-nav flex-start">
+            <a class="btn btn-outline-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
+          </div>
+          <div class = "navbar-nav">
+            <h5>{{ article.day_alias }} </h5>
+          </div>
+          <div class="navbar-nav navbar-right">
+            <a class="btn btn-outline-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
+          </div>
+        </nav>
+        {{ article.content }}
       </article>
       <nav class="blog-pagination" aria-label="Pagination">
         <a class="btn btn-outline-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
@@ -48,7 +59,7 @@
 {% endblock %}
 
 {% set dayDict = 
-  ({"/traveler": "Traveler Home",
+  ({"/traveler": "Traveler",
     "day_1": "Day 1",
     "day_2": "Day 2",
     "day_3": "Day 3",

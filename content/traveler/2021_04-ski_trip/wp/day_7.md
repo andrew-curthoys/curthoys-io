@@ -1,9 +1,11 @@
 title: Day 7: Tossed Salads & Scrambled Eggs
 slug: traveler/2021_04-ski_trip/wp/day_7
 slug_base: traveler/2021_04-ski_trip/wp
+day_alias: Day 7
 prev_day: day_6
 next_day: day_8
-date: 2021-05-18
+date: 2021-04-22
+post_date: 2021-05-18
 category: traveler
 
 I wake up around 8, a bit bleary eyed but ready to see the city. Since Greg & Joanne don’t drink coffee (huh?) I walk down to town and find a nice place called Zoka Coffee. I order a latte and enjoy it at a barstool by the window, observing the goings-on of Kirkland, WA. I finish my beverage and order a black coffee to-go and decide to wander around a bit. I know I’m close to the shores of Lake Washington but don’t know which direction. I vow to not look at my phone and see if I can stumble onto it.

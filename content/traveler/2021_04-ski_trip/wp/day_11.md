@@ -1,9 +1,11 @@
 title: Day 11: Denouement
 slug: traveler/2021_04-ski_trip/wp/day_11
 slug_base: traveler/2021_04-ski_trip/wp
+day_alias: Day 11
 prev_day: day_10
 next_day: /traveler
-date: 2021-05-19
+date: 2021-04-26
+post_date: 2021-05-19
 category: traveler
 
 I wake up in a fit of dread, realizing that I have to work today. Lame, lame, lame, super lame. I hop in the shower and do a bit more packing before firing up my machine and reluctantly checking my emails. I learn that I have a code of business conduct training course due today, which should be a pretty good airplane activity since United informed me that my bird will have wifi access.

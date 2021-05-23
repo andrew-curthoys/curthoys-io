@@ -1,9 +1,11 @@
 title: Day 2: Springtime in Tahoe
 slug: traveler/2021_04-ski_trip/wp/day_2
 slug_base: traveler/2021_04-ski_trip/wp
+day_alias: Day 2
 prev_day: day_1
 next_day: day_3
-date: 2021-05-04
+date: 2021-04-17
+post_date: 2021-05-04
 category: traveler
 
 We set our alarms for 7 AM, but due to the excitement and two hour time difference, I arise at 6:15. I pop in the shower and get ready for the day. Randy is right behind me and we are ready for some breakfast to prime us for the big day ahead.
