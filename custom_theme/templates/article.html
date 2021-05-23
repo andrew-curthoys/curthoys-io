@@ -66,14 +66,12 @@
 
 {% set prev_day_link = article.prev_day %}
 {% set prev_day_alias = dayDict[article.prev_day] %}
-{% set next_day_link = article.next_day + ".html" %}
+{% set next_day_link = article.next_day %}
 {% set next_day_alias = dayDict[article.next_day] %}
 
 {% if article.prev_day != "/traveler" %}
   {% set prev_day_link = prev_day_link + ".html" %}
 {% endif %}
-<!--
-{% if article.next_day != "None" %}
-  {% set next_day = dayDict[article.next_day] %}
+{% if article.next_day != "/traveler" %}
+  {% set next_day_link = next_day_link + ".html" %}
 {% endif %}
--->
