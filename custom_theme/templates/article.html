@@ -4,24 +4,28 @@
 
 {% block subheader %}
 <!-- ARTICLE HEADER -->
-<main class="container pt-5">
+<main class="container container-fluid pt-5">
   <div class="row g-5">
     <div class="col-md-8">
-      <article class="blog-post mb-3">
-        <h2 class="blog-post-title f-blue-grey">{{ article.title }}</h2>
-        <p class="blog-post-meta">{{ article.date.strftime('%A, %B %d %Y') }}</p>
-        <nav class="navbar page-navigator position-sticky justify-content-between mb-3" style="top: 5rem;" aria-label="Pagination">
+      <article class="blog-post">
+        <h2 class="blog-post-title">{{ article.title }}</h2>
+        <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
+        <nav class="navbar blog-pagination position-sticky justify-content-between" aria-label="Pagination">
           <div class="navbar-nav flex-start">
             <a class="btn btn-outline-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
           </div>
           <div class = "navbar-nav">
-            <h5>{{ article.day_alias }} </h5>
+            <h4>{{ article.day_alias }} </h4>
           </div>
           <div class="navbar-nav navbar-right">
             <a class="btn btn-outline-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
           </div>
         </nav>
-        {{ article.content }}
+        <div class="col-12 d-flex">
+          <div class="article-content">
+            {{ article.content }}
+          </div>
+        </div>
       </article>
       <nav class="blog-pagination" aria-label="Pagination">
         <a class="btn btn-outline-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
