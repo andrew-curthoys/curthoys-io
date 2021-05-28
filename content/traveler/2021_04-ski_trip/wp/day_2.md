@@ -72,11 +72,11 @@ As we ride up I take in the incredible views. Randy was right as always. I can i
 At the top we arrive at an installation called High Camp. This has a massive deck with stunning views of the lake and surrounding areas. I grab a Tahoe Pilz and granola bar and we hang out on the deck for about 15 minutes to snap a few pics and enjoy the views and suds. Randy point out across the mountain to a set of cliffs they call the Palisades. They are 60’ high in some places and people with adrenaline imbalances and rubber knees launch off the cliffs and ski their way down.
 
 <figure class="figure">
-  <div class="row">
-    <img class="col-6 figure-img img-fluid float-left d.block" src="/theme/images/hangin_at_high_camp.jpg" alt="Randy & I at High Camp">
+  <div>
+    <img class="col-6 figure-img img-fluid float-left d.block img-" src="/theme/images/hangin_at_high_camp.jpg" alt="Randy & I at High Camp">
     <img class="col-6 figure-img img-fluid float-right d.block" src="/theme/images/tahoe_pils.jpg" alt="Tahoe Pils">
   </div>
-  <div class="row">
+  <div>
     <img class="figure-img img-fluid mt-2" src="/theme/images/view_from_high_camp.jpg" alt="View from High Camp">
   </div>
   <figcaption class="figure-caption">Hangin at High Camp</figcaption>

@@ -44,11 +44,14 @@ My reservation was for an SUV but they put me in an *suv* (lowercase, get it). I
 On the way to the hotel, Google Maps gives me one of those ambiguous exit descriptions and I get a little discombobulated on which lane I should be in. By the time I realize it the exit is coming up fast but I have some room to merge over and I swoop in, blinker activated all the way. Well apparently the old fella in the Ford Ranger behind me did not appreciate that. He laid on his horn and gave me the most exaggerated Dikembe Mutumbo “no sir” finger I’ve ever seen in a rearview mirror. Now I did move over a bit late and there wasn’t a huge amount of room but it wasn’t anything worth getting your knickers in a wad over. Futhermore, he was driving a Ford - who the hell does he think he is berating another driver while behind the wheel of that shitbox.
 
 Anyways, I pull into Portland and really dig the bridges. I like bridges for whatever reason and Portland has the weirdest variety of them. On brand. It’s also a lot more industrial than I would have expected. If you told me I was in a city on the Great Lakes I’d believe you. I guess my expectations were based off the cultural Portland stereotypes but when I think about it, it’s in a natural resource rich area of the country on a big ass river. Makes sense.
-
-<figure class="figure">
+<div class="container px-0">
   <div class="row">
-    <img class="col-6 figure-img img-fluid float-left d.block" src="/theme/images/truss_bridge.jpg" alt="Truss Bridge">
-    <img class="col-6 figure-img img-fluid float-right d.block" src="/theme/images/vertical_lift_bridge.jpg" alt="Vertical Lift Bridge">
+    <figure class="figure col-6 px-3">
+      <img class="col-12 figure-img img-fluid float-left d.block" src="/theme/images/truss_bridge.jpg" alt="Truss Bridge">
+    </figure>
+    <figure class="figure col-6 px-3">
+      <img class="col-12 figure-img img-fluid float-right d.block" src="/theme/images/vertical_lift_bridge.jpg" alt="Vertical Lift Bridge">
+    </figure>
   </div>
   <div class="row">
     <img class="figure-img img-fluid mt-2" src="/theme/images/arch_bridge.jpg" alt="Arch Bridge">
@@ -58,17 +61,22 @@ Anyways, I pull into Portland and really dig the bridges. I like bridges for wha
 
 I park outside the Hotel Lucia and get checked in. According to their website, it is “a creatively inspired Portland hotel that’s renowned for its expansive photography collection, eclectic art, and unforgettable style.” Yeah I think they hit the nail on the head there. Taylor behind the counter gets me checked in and hands me my room key card, which has a black and white photo of a young Hugh Hefner and a gaggle of presumably much younger women. She then asks if I’d like to take one of their bikes they offer to guests for cruisin around town. My friend’s girlfriend (now fiancée, congrats Brady & Shelby!) told me the best strategy to explore Portland is on bike so I’m all over that.
 
-<figure class="figure">
-  <div class="row">
-    <img class="col-6 figure-img img-fluid float-left d.block" src="/theme/images/hef.jpg" alt="Hef">
-    <img class="col-6 figure-img img-fluid float-right d.block" src="/theme/images/seinfeld.jpg" alt="Seinfeld at work">
+<div class="container px-0 img-container">
+  <div class="row img-row">
+    <figure class="figure col-6 px-2">
+        <img class="col-12 figure-img img-fluid rounded float-left" src="/theme/images/hef.jpg" alt="Hef">
+    </figure>
+    <figure class="figure col-6 px-2">
+        <img class="col-12 figure-img img-fluid rounded float-right" src="/theme/images/seinfeld.jpg" alt="Seinfeld at work">
+    </figure>
   </div>
   <div class="row">
-    <img class="figure-img img-fluid mt-2" src="/theme/images/prezis.jpg" alt="Presidents">
+    <figure class="figure">
+      <img class="col-12 figure-img img-fluid rounded mt-2" src="/theme/images/prezis.jpg" alt="Presidents">
+      <figcaption class="figure-caption">A collection of photos from my hallway: Hef & his harem, Seinfeld at work, and some Commanders in Chief</figcaption>
+    </figure>
   </div>
-  <figcaption class="figure-caption">A collection of photos from my hallway: Hef & his harem, Seinfeld at work, and some Commanders in Chief</figcaption>
-</figure>
-
+</div>
 
 I drop off my bags and head back down to take a bike out for a spin. I sign some paperwork and they hand me a single speed rickety steed and a helmet to go with it. I appreciate the helmet and wore it, but was a bit amused at the seemingly conflicting positions of handing a hotel guest a helmet that has been worn by god knows who, while making him sign for it with a pen from a “sanitized” cup and putting it into a “dirty” cup. Whatever, let’s explore.
 
@@ -119,7 +127,7 @@ After perusing the menu I snag a Raspberry Tartlandia sour and find a nice spot 
 The area I’m in is pretty industrial, a lot of old warehouses and a big trainyard. I like the vibe. I traverse a few strange stairwell-under-the-road crossings covered with graffiti and littered with the flotsam of many a homeless night. I make my way across the Morrison Bridge and it’s just a few more blocks to the Lucia. 
 
 <figure class="figure">
-  <div class="row">
+  <div class="row img-row">
     <img class="col-6 figure-img img-fluid float-left d.block" src="/theme/images/under_bridge_2.jpg" alt="What happens under the bridge">
     <img class="col-6 figure-img img-fluid float-right d.block" src="/theme/images/under_bridge_1.jpg" alt="Stays under the bridge">
   </div>
