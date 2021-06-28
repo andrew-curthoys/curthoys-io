@@ -25,7 +25,7 @@ Are we flying directly over Crater Lake!!?
 Sure as shit we *are* flying directly over Crater Lake! Fuckin A. As a kid growing up in Tulsa this is something you learn about on volcano day in elementary school but you never actually expect to see it in person. What a sight.
 
 <figure class="figure">
-  <img class="figure-img img-fluid" src="/theme/images/crater_lake.jpg" alt="Crater Lake">
+  <img class="figure-img img-fluid rounded" src="/theme/images/crater_lake.jpg" alt="Crater Lake">
   <figcaption class="figure-caption">Oh look what we have here</figcaption>
 </figure>
 
@@ -44,39 +44,34 @@ My reservation was for an SUV but they put me in an *suv* (lowercase, get it). I
 On the way to the hotel, Google Maps gives me one of those ambiguous exit descriptions and I get a little discombobulated on which lane I should be in. By the time I realize it the exit is coming up fast but I have some room to merge over and I swoop in, blinker activated all the way. Well apparently the old fella in the Ford Ranger behind me did not appreciate that. He laid on his horn and gave me the most exaggerated Dikembe Mutumbo “no sir” finger I’ve ever seen in a rearview mirror. Now I did move over a bit late and there wasn’t a huge amount of room but it wasn’t anything worth getting your knickers in a wad over. Futhermore, he was driving a Ford - who the hell does he think he is berating another driver while behind the wheel of that shitbox.
 
 Anyways, I pull into Portland and really dig the bridges. I like bridges for whatever reason and Portland has the weirdest variety of them. On brand. It’s also a lot more industrial than I would have expected. If you told me I was in a city on the Great Lakes I’d believe you. I guess my expectations were based off the cultural Portland stereotypes but when I think about it, it’s in a natural resource rich area of the country on a big ass river. Makes sense.
-<div class="container px-0">
+
+<figure class="figure">
   <div class="row">
-    <figure class="figure col-6 px-3">
-      <img class="col-12 figure-img img-fluid float-left d.block" src="/theme/images/truss_bridge.jpg" alt="Truss Bridge">
-    </figure>
-    <figure class="figure col-6 px-3">
-      <img class="col-12 figure-img img-fluid float-right d.block" src="/theme/images/vertical_lift_bridge.jpg" alt="Vertical Lift Bridge">
-    </figure>
+    <div class="col-6">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/truss_bridge.jpg" alt="Truss Bridge">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid float-right rounded" src="/theme/images/vertical_lift_bridge.jpg" alt="Vertical Lift Bridge">
+    </div>
   </div>
-  <div class="row">
-    <img class="figure-img img-fluid mt-2" src="/theme/images/arch_bridge.jpg" alt="Arch Bridge">
-  </div>
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/arch_bridge.jpg" alt="Arch Bridge">
   <figcaption class="figure-caption">Bridges of Portland</figcaption>
 </figure>
 
 I park outside the Hotel Lucia and get checked in. According to their website, it is “a creatively inspired Portland hotel that’s renowned for its expansive photography collection, eclectic art, and unforgettable style.” Yeah I think they hit the nail on the head there. Taylor behind the counter gets me checked in and hands me my room key card, which has a black and white photo of a young Hugh Hefner and a gaggle of presumably much younger women. She then asks if I’d like to take one of their bikes they offer to guests for cruisin around town. My friend’s girlfriend (now fiancée, congrats Brady & Shelby!) told me the best strategy to explore Portland is on bike so I’m all over that.
 
-<div class="container px-0 img-container">
-  <div class="row img-row">
-    <figure class="figure col-6 px-2">
-        <img class="col-12 figure-img img-fluid rounded float-left" src="/theme/images/hef.jpg" alt="Hef">
-    </figure>
-    <figure class="figure col-6 px-2">
-        <img class="col-12 figure-img img-fluid rounded float-right" src="/theme/images/seinfeld.jpg" alt="Seinfeld at work">
-    </figure>
-  </div>
+<figure class="figure">
   <div class="row">
-    <figure class="figure">
-      <img class="col-12 figure-img img-fluid rounded mt-2" src="/theme/images/prezis.jpg" alt="Presidents">
-      <figcaption class="figure-caption">A collection of photos from my hallway: Hef & his harem, Seinfeld at work, and some Commanders in Chief</figcaption>
-    </figure>
+    <div class="col-6">
+      <img class="figure-img img-fluid rounded float-left" src="/theme/images/hef.jpg" alt="Hef">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid rounded float-right" src="/theme/images/seinfeld.jpg" alt="Seinfeld at work">
+    </div>
   </div>
-</div>
+  <img class="figure-img img-fluid rounded mt-2" src="/theme/images/prezis.jpg" alt="Presidents">
+  <figcaption class="figure-caption">A collection of photos from my hallway: Hef & his harem, Seinfeld at work, and some Commanders in Chief</figcaption>
+</figure>
 
 I drop off my bags and head back down to take a bike out for a spin. I sign some paperwork and they hand me a single speed rickety steed and a helmet to go with it. I appreciate the helmet and wore it, but was a bit amused at the seemingly conflicting positions of handing a hotel guest a helmet that has been worn by god knows who, while making him sign for it with a pen from a “sanitized” cup and putting it into a “dirty” cup. Whatever, let’s explore.
 
@@ -87,7 +82,7 @@ My first stop is Powell’s books and holy hell what a place. I spend about 30 m
 The few blocks getting to the river were a piece of cake, but as I get closer to the bridge, the road starts to rise and my legs start to burn. Maybe this wasn’t the best idea. I grit my teeth and keep pumping my gams. Up Gunta up! I make it to the crest of the bridge and snap a few photos and catch my breath. It’s at this point that I notice that my phone battery is disconcertingly low. I had been tracking my path on the bike & the battery did not seem to like that. So I’m on the middle of a bridge over the Willamette River with a dwindling battery and only a general idea of where I want to go.
 
 <figure class="figure">
-  <img class="figure-img img-fluid" src="/theme/images/bridge_from_a_bridge.jpg" alt="Bridge from a bridge">
+  <img class="figure-img img-fluid rounded" src="/theme/images/bridge_from_a_bridge.jpg" alt="Bridge from a bridge">
   <figcaption class="figure-caption">Bridge from a bridge, so meta</figcaption>
 </figure>
 
@@ -100,7 +95,7 @@ I take a right on 9th and the street isn’t very busy and turns into a resident
 At this point I get a feeling that I’m not in the right place. Hmmm.. I look up and the sun is to my left. Fuck. I should be going south & I’m definitely going north. I check to see if my phone has any juice left and I have 1%. I pop open Google Maps and confirm my suspicion. I’m 5 miles north of where I should be. Dammit. I search for breweries nearby so I can at least sit down and charge my phone. Luckily Old Town Brewing is just a couple blocks away.
 
 <figure class="figure">
-  <img class="figure-img img-fluid" src="/theme/images/portland_bike_route.jpg" alt="Portland Bike Route">
+  <img class="figure-img img-fluid rounded" src="/theme/images/portland_bike_route.jpg" alt="Portland Bike Route">
   <figcaption class="figure-caption">A biiiiiiit of a detour</figcaption>
 </figure>
 
@@ -114,8 +109,12 @@ Now I realize I’m in a bit of a pickle. I need a mask to enter the brewery and
 
 <figure class="figure">
   <div class="row">
-    <img class="col-6 figure-img img-fluid float-left d.block" src="/theme/images/bike_chain.jpg" alt="Broken Bike">
-    <img class="col-6 figure-img img-fluid float-right d.block" src="/theme/images/rogue_bike.jpg" alt="Vertical Lift Bridge">
+    <div class="col-6">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/bike_chain.jpg" alt="Broken Bike">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid float-right rounded" src="/theme/images/rogue_bike.jpg" alt="Vertical Lift Bridge">
+    </div>
   </div>
   <figcaption class="figure-caption">Take her to the glue factory</figcaption>
 </figure>
@@ -127,14 +126,17 @@ After perusing the menu I snag a Raspberry Tartlandia sour and find a nice spot 
 The area I’m in is pretty industrial, a lot of old warehouses and a big trainyard. I like the vibe. I traverse a few strange stairwell-under-the-road crossings covered with graffiti and littered with the flotsam of many a homeless night. I make my way across the Morrison Bridge and it’s just a few more blocks to the Lucia. 
 
 <figure class="figure">
-  <div class="row img-row">
-    <img class="col-6 figure-img img-fluid float-left d.block" src="/theme/images/under_bridge_2.jpg" alt="What happens under the bridge">
-    <img class="col-6 figure-img img-fluid float-right d.block" src="/theme/images/under_bridge_1.jpg" alt="Stays under the bridge">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/under_bridge_2.jpg" alt="What happens under the bridge">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid float-right rounded" src="/theme/images/under_bridge_1.jpg" alt="Stays under the bridge">
+    </div>
   </div>
-  <img class="figure-img img-fluid mt-2" src="/theme/images/trains.jpg" alt="Trains">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/trains.jpg" alt="Trains">
   <figcaption class="figure-caption">Portland stuff</figcaption>
 </figure>
-
 
 I tell Matt behind the desk where to find their shitass bike and hand him the key to the lock. It’s a bit late by this point & I ask him where I can get a bite to eat. He directs me to Luc Lac, a great little Vietnamese joint that’s open late. I order a Bo Tai Chanh salad and wash it down with a Southern Dialect, their take on an Old Fashioned.
 

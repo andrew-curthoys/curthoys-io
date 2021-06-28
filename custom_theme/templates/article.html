@@ -2,91 +2,141 @@
 
 {% block title %}{{ article.title }}{% endblock %}
 
-{% block subheader %}
-<!-- ARTICLE HEADER -->
-<main class="container container-fluid pt-5">
-  <div class="row g-5">
-    <div class="col-md-8">
-      <article class="blog-post">
-        <h2 class="blog-post-title">{{ article.title }}</h2>
-        <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
-        <nav class="navbar blog-pagination position-sticky justify-content-between" aria-label="Pagination">
-          <div class="navbar-nav flex-start">
-            <a class="btn btn-outline-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
-          </div>
-          <div class = "navbar-nav">
-            <h4>{{ article.day_alias }} </h4>
-          </div>
-          <div class="navbar-nav navbar-right">
-            <a class="btn btn-outline-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
-          </div>
-        </nav>
-        <div class="col-12 d-flex">
-          <div class="article-content">
-            {{ article.content }}
-          </div>
-        </div>
-      </article>
-      <nav class="blog-pagination" aria-label="Pagination">
-        <a class="btn btn-outline-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
-        <a class="btn btn-outline-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
-      </nav>
-    </div>
-    <div class="col-md-4">
-      <div class="position-sticky" style="top: 6rem;">
-        <div class="p-4 mb-3 bg-light rounded">
-          <h4 class="fst-italic">Traveler</h4>
-          <p class="mb-0">Musings of a panhandlin, manhandlin, postholin, highrollin, dustbowlin daddy</p>
-        </div>
-        <div class="p-4">
-          <h4 class="fst-italic">Trips</h4>
-          <ol class="list-unstyled mb-0">
-            <li class="trip-subheader"><a href="#">Apr 2021 Ski Trip</a></li>
-            <div class="pt-0 p-2">
-              <ol class="list-unstyled mb-0 pl-3">
-                <li><a href="day_1.html">Day 1</a> &middot; <a href="day_2.html">Day 2</a></li>
-                <li><a href="day_3.html">Day 3</a> &middot; <a href="day_4.html">Day 4</a></li>
-                <li><a href="day_5.html">Day 5</a> &middot; <a href="day_6.html">Day 6</a></li>
-                <li><a href="day_7.html">Day 7</a> &middot; <a href="day_8.html">Day 8</a></li>
-                <li><a href="day_9.html">Day 9</a> &middot; <a href="day_10.html">Day 10</a></li>
-                <li><a href="day_11.html">Day 11</a></li>
-              </ol>
+{% block content %}
+
+<!-- Set variables to be used in Traveler article buttons -->
+{% if category == 'traveler' %}
+  {% set dayDict = 
+    ({"/traveler": "Traveler",
+      "day_1": "Day 1",
+      "day_2": "Day 2",
+      "day_3": "Day 3",
+      "day_4": "Day 4",
+      "day_5": "Day 5",
+      "day_6": "Day 6",
+      "day_7": "Day 7",
+      "day_8": "Day 8",
+      "day_9": "Day 9",
+      "day_10": "Day 10",
+      "day_11": "Day 11"
+    })
+  %}
+
+  {% set prev_day_link = article.prev_day %}
+  {% set prev_day_alias = dayDict[article.prev_day] %}
+  {% set next_day_link = article.next_day %}
+  {% set next_day_alias = dayDict[article.next_day] %}
+
+  {% if article.prev_day != "/traveler" %}
+    {% set prev_day_link = prev_day_link + ".html" %}
+  {% endif %}
+  {% if article.next_day != "/traveler" %}
+    {% set next_day_link = next_day_link + ".html" %}
+  {% endif %}
+
+<!-- TRAVELER TEMPLATE -->
+  <!-- ARTICLE HEADER -->
+  <div class="container container-fluid pt-5">
+    <div class="row g-5">
+      <div class="col-md-8">
+        <article class="blog-post">
+          <h2 class="blog-post-title">{{ article.title }}</h2>
+          <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
+          <nav class="navbar blog-pagination position-sticky justify-content-between" aria-label="Pagination">
+            <div class="navbar-nav flex-start">
+              <a class="btn btn-outline-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
             </div>
-          </li>
-          </ol>
+            <div class = "navbar-nav">
+              <h4>{{ article.day_alias }} </h4>
+            </div>
+            <div class="navbar-nav navbar-right">
+              <a class="btn btn-outline-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
+            </div>
+          </nav>
+          <div class="col-12 d-flex">
+            <div class="article-content">
+              {{ article.content }}
+            </div>
+          </div>
+        </article>
+      </div>
+      <div class="col-md-4">
+        <div class="position-sticky" style="top: 6rem;">
+          <div class="p-4 mb-3 bg-light rounded">
+            <h4 class="fst-italic">Traveler</h4>
+            <p class="mb-0">Musings of a panhandlin, manhandlin, postholin, highrollin, dustbowlin daddy</p>
+          </div>
+          <div class="p-4">
+            <h4 class="fst-italic">Trips</h4>
+            <ol class="list-unstyled mb-0">
+              <li class="trip-subheader"><a href="#">Apr 2021 Ski Trip</a></li>
+              <div class="pt-0 p-2">
+                <ol class="list-unstyled mb-0 pl-3">
+                  <li><a href="day_1.html">Day 1</a> &middot; <a href="day_2.html">Day 2</a></li>
+                  <li><a href="day_3.html">Day 3</a> &middot; <a href="day_4.html">Day 4</a></li>
+                  <li><a href="day_5.html">Day 5</a> &middot; <a href="day_6.html">Day 6</a></li>
+                  <li><a href="day_7.html">Day 7</a> &middot; <a href="day_8.html">Day 8</a></li>
+                  <li><a href="day_9.html">Day 9</a> &middot; <a href="day_10.html">Day 10</a></li>
+                  <li><a href="day_11.html">Day 11</a></li>
+                </ol>
+              </div>
+              </li>
+            </ol>
+          </div>
         </div>
       </div>
     </div>
   </div>
-</main>
+
+{% elif category == 'eater' %}
+<!-- EATER TEMPLATE -->
+  <!-- ARTICLE HEADER -->
+  <div class="container container-fluid pt-5">
+    <div class="row g-5">
+      <div class="col-md-8">
+        <article class="blog-post">
+          <h2 class="blog-post-title">{{ article.title }}</h2>
+          <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
+          <!-- CAROUSEL -->
+          <!-- {% set carouselImgs = ({"hog_kyle.jpg": "Kyle & the Hog", "hog_on_pit.jpg": "Hog on the Pit"}) %}
+          <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner w-50 mx-auto">
+            {% for photo, alt_txt in carouselImgs.items() %}
+              {% if loop.index == 1 %}
+                <div class="carousel-item active">
+              {% else %}
+                <div class="carousel-item">
+              {% endif %}
+                  <img class="block w-50" src="/theme/images/eater/2021_06-hog_roast/{{ photo }}" alt="{{ alt_txt }}">
+                </div>
+            {% endfor %}
+            </div>
+          </div> -->
+          <div class="col-12 d-flex">
+            <div class="article-content">
+              {{ article.content }}
+            </div>
+          </div>
+        </article>
+      </div>
+      <div class="col-md-4">
+        <div class="position-sticky" style="top: 6rem;">
+          <div class="p-4 mb-3 bg-light rounded">
+            <h4 class="fst-italic">Eater</h4>
+            <p class="mb-0">Join me on a culinary adventure</p>
+          </div>
+          <div class="p-4">
+            <h4 class="fst-italic">Feasts</h4>
+            <ol class="list-unstyled mb-0">
+              <li class="trip-subheader"><a href="#">June 2021 Hog Roast</a></li>
+              </li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{% endif %}
 
 {% endblock %}
-
-{% set dayDict = 
-  ({"/traveler": "Traveler",
-    "day_1": "Day 1",
-    "day_2": "Day 2",
-    "day_3": "Day 3",
-    "day_4": "Day 4",
-    "day_5": "Day 5",
-    "day_6": "Day 6",
-    "day_7": "Day 7",
-    "day_8": "Day 8",
-    "day_9": "Day 9",
-    "day_10": "Day 10",
-    "day_11": "Day 11"
-  })
-%}
-
-
-{% set prev_day_link = article.prev_day %}
-{% set prev_day_alias = dayDict[article.prev_day] %}
-{% set next_day_link = article.next_day %}
-{% set next_day_alias = dayDict[article.next_day] %}
-
-{% if article.prev_day != "/traveler" %}
-  {% set prev_day_link = prev_day_link + ".html" %}
-{% endif %}
-{% if article.next_day != "/traveler" %}
-  {% set next_day_link = next_day_link + ".html" %}
-{% endif %}

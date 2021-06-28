@@ -10,13 +10,17 @@ SITEURL = 'curthoys.io'
 TRAVELERSITENAME = "Uncle Andy's Traveler"
 TRAVELERSUBHEADER = "A collection of stories from my jaunts, journeys, excursions, and walkabouts"
 
+# Eater Info
+EATERSITENAME = "Eater"
+EATERSUBHEADER = "I like to eat and I like to cook. Let's go on some culinary adventures."
+
 PATH = 'content'
-STATIC_PATHS = ['traveler']
+STATIC_PATHS = ['traveler', 'eater']
 ARTICLE_PATHS = STATIC_PATHS
 ARTICLE_SAVE_AS = '{slug}.html'
 ARTICLE_URL = '{slug}.html'
 USE_FOLDER_AS_CATEGORY = True
-DIRECT_TEMPLATES = ['index', 'traveler/index']
+DIRECT_TEMPLATES = ['index', 'traveler/index', 'eater/index']
 DELETE_OUTPUT_DIRECTORY = True
 
 THEME = 'custom_theme'

@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block title %}{{ EATERSITENAME }}{% endblock %}
+
+{% block subheader %}
+
+<!-- SUBHEADER -->
+<div class="pt-3 text-white bg-dark">
+  <div class="col-md-12 px-0">
+    <h1 class="display-4 fst-italic">{{ EATERSITENAME }}</h1>
+    <p class="lead fs-4 m-0 p-2">{{ EATERSUBHEADER }}</p>
+  </div>
+</div>
+
+{% endblock %}
+{% block content %}
+
+<!-- FEASTS -->
+<div class="container-fluid">
+  <div class="row mt-5">
+    <div class="col-md-auto mx-auto">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-primary">BBQ</strong>
+          <h3 class="mb-0">Hog Roast June 2021</h3>
+          <div class="text-muted">12-June</div>
+          <div class="mb-3 text-muted">Tulsa, OK</div>
+          <p class="card-text mb-0">Hope you brought your appetite</p>
+          <a href="2021_06-hog_roast.html" class="stretched-link">Let's Eat!</a>
+        </div>
+        <div class="col-auto d-none d-md-block">
+          <img class="bd-placeholder-img"  width="200" height="250" src="/theme/images/eater/2021_06-hog_roast/carving.jpg" alt="Carving the Hog" preserveAspectRatio="xMidYMid slice" focusable="false">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
