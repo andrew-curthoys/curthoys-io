@@ -10,12 +10,12 @@ category: traveler
 
 I had planned to turn in early the night before but an unexpected text from an old friend had me throwing darts until after my bedtime. I won 5 games to 2 so at least I had that going for me. I still woke up in time for work and after taking care of some business & a bit of final packing I head to the airport. The IAH parking was a shitshow as normal but I was able to find a spot and zip through security with about 30 minutes to spare. I boarded a relatively empty flight to Denver, where my 1.5 hour layover stretched to 2.5 hours due to United having to change crews. No matter, I watched the second half of Tottenham’s 2-2 draw to Everton at a cantina while enjoying a Dos Equis Amber and a grilled beef taco salad.
 
-My flight from Denver to Reno was a little fuller, and I exchanged my aisle seat with a dad and a toddler so they could sit next to mom & big bro across the aisle. My magnanimity knows no bounds. The move payed off, however, because I was able to get a few winks on the flight but more importantly I got my first breathtaking views of Lake Tahoe. It is an absolutely magnificent wonder of geology. From the vantage point of the plane I could see how high above the desert floor the basin of water stood, a seeming Sword of Damocles over the city of Reno.
+My flight from Denver to Reno was a little fuller, and I exchanged my aisle seat with a dad and a toddler so they could sit next to mom & big bro across the aisle. My magnanimity knows no bounds. The move paid off, however, because I was able to get a few winks on the flight but more importantly I got my first breathtaking views of Lake Tahoe. It is an absolutely magnificent wonder of geology. From the vantage point of the plane I could see how high above the desert floor the basin of water stood, a seeming Sword of Damocles over the city of Reno.
 
 The sight of a barren desert landscape severed by majestic snow capped mountains is indescribable. It truly needs to be seen to be fully appreciated. I had heard of Lake Tahoe’s greatness but just the first glimpse of the terrain shattered even my lofty expectations.
 
 <figure class="figure">
-  <img class="figure-img img-fluid" src="/theme/images/tahoe_plane.jpg" alt="Tahoe from the air">
+  <img class="figure-img img-fluid rounded" src="/theme/images/tahoe_plane.jpg" alt="Tahoe from the air">
   <figcaption class="figure-caption">This photo absolutely does not do it justice. Trust me it was awesome.</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ Yeah…… Yeah……… Yeah………. Randy you were there. That’s on me.
 After scooping up what was left of my self respect off the barroom floor, we walk out on the deck overlooking the lake. I can see the lights of South Lake Tahoe and a couple of boats still floating at the marina that haven’t been extricated from the lake for winter. I finish my ale and Randy and I walk down the shore a bit. We find a pier that’s not locked and walk out to take in the moment. I discover what the fresh mountain lake air can do for a man’s health. We stand on the pier a few minutes in silence, taking in the dazzling quilt of stars overhead. Tahoe is a special place.
 
 <figure class="figure">
-  <img class="figure-img img-fluid" src="/theme/images/marina.jpg" alt="Tahoe marina">
+  <img class="figure-img img-fluid rounded" src="/theme/images/marina.jpg" alt="Tahoe marina">
   <figcaption class="figure-caption">I see a perfect spot for my tooner</figcaption>
 </figure>
 
