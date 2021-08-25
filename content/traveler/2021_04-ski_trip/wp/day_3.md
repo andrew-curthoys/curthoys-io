@@ -6,7 +6,8 @@ prev_day: day_2
 next_day: day_4
 date: 2021-04-18
 post_date: 2021-05-11
-category: traveler
+category: Traveler
+activity: April 2021 Ski Trip
 
 I wake up at quarter to 6 (I’m still on central time so I’m operating 2 hours ahead) and Randy is still snoozing. I check the map for an open coffee shop and it turns out the Coffee Connexion opens a 6. Brilliant. I grab my computer and hoof it the few blocks to the estaminet only to discover it ain’t open. Sign says they open at 6 and it’s ten after. Sign's wrong.
 
