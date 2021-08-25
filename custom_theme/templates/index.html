@@ -2,18 +2,133 @@
 
 {% block title %}{{ SITENAME }}{% endblock %}
 
-{% block subheader %}
-
-<!-- SUBHEADER -->
-<div class="pt-3 text-white bg-dark">
-  <div class="col-md-12 px-0">
-    <h1 class="display-4 fst-italic">{{ SITENAME }}</h1>
-    <p class="lead fs-4 m-0 p-2">{{ SITESUBHEADER }}</p>
-  </div>
-</div>
-
-{% endblock %}
 {% block content %}
 
+<!-- HOMEPAGE TEMPLATE -->
+  <!-- ARTICLE HEADER -->
+  <div class="container-fluid pt-5">
+    <div class="row">
+      <div class="col-12 col-lg-2">
+        <div class="position-sticky" style="top: 6rem;">
+          <div class="p-4 mb-3 bg-light rounded">
+            <div class="row">
+              <div class="col-4 col-md-2 col-lg-12">
+	              <img class="figure-img img-fluid rounded" src="/theme/images/homepage/ja_wyoming.jpg" alt="Josh Allen The Goat">
+              </div>
+              <div class="col-8 col-md-10 col-lg-12">
+                <p class="mb-0">
+                  Welcome to Curthoys.io, a playground for all my beep boopin.
+                </p>
+                <p></p>
+                <p class="mb-0">
+                  If you fancy a tale from the road, or perhaps just check in on
+                  what I’m working on in my spare time you've come to the right
+                  place.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-10 pt-4 px-5">
+        <div class="row mb-3">
+          <h2 class="blog-post-title">Liiiiiitle Help</h2>
+          <div class="col-12 col-lg-8">
+            <figure class="figure px-1 px-md-4" style="float: right;">
+              <img class="float-right" style="width:40vw; max-width: 300px;" src="/theme/images/homepage/running.jpg" alt="Running">
+              <figcaption class="figure-caption">Not havin' a good time</figcaption>
+            </figure>
+            <p>I've made a horrendous decision...</p>
+            <br>
+            <p>
+              I signed up for the NYC Marathon.
+            </p>
+            <p>
+              Yikes... What the hell was I thinking...
+            </p>
+            <p>
+              You'd think that doing something so foolish wouldn't come with
+              stipulations, but in order to make myself miserable on a perfectly
+              good Sunday in November I'm required to raise money for charity.
+              I reckon that ain't the worst thing so I've
+              decided to raise a few shekels for
+              breast cancer research. My lovely Auntie Ann and marvelous cousin
+              Michelle are right in the middle of whooping cancer's ass so I'd
+              like to dedicate
+              my run to them and the myriad friends, family, and loved
+              ones who have battled this horrible disease. I'm hoping the
+              modicum of cash I raise can help continue the mission that the
+              incredible folks at Memorial Sloan Kettering Cancer Center are
+              working towards.
+              Click below for a link to donate, it'd be real swell if you did.
+            </p>
+            <div class="col-12 text-center">
+              <a class="btn btn-secondary fs-5 px-3" href="https://secure2.convio.net/mskcc/site/TR/FredsTeamEvents/Freds_Team?pg=personal&fr_id=3542&px=4829653">Donate!</a>
+            </div>
+          </div>
+          <div class="row">
+            <div class="pt-4">
+              <h2 class="blog-post-title">Latest</h2>
+              <div class="col-12 col-lg-8">
+                {% set loop_dict = {
+                  'article': articles[0],
+                  'min_date_idx': 0,
+                  'post_idxs': []
+                } %}
+
+                {% for article in articles %}
+                {% set last_article = loop_dict['article'] %}
+                {% set next_article = article %}
+                {% set idx = loop.index - 1 %}
+
+                {% if last_article.activity != next_article.activity or loop.index == loop.length %}
+                  {% if last_article.date < articles[loop_dict['min_date_idx']].date %}
+                    {% set _temp = loop_dict['post_idxs'].append(idx) %}
+                  {% else %}
+                    {% set _temp = loop_dict['post_idxs'].append(loop_dict['min_date_idx']) %}
+                  {% endif %}
+                {% elif next_article.date < articles[loop_dict['min_date_idx']].date %}
+                  {% set _temp = loop_dict.update({'min_date_idx': loop.index}) %}
+                {% endif %}
+
+                {% set _temp = loop_dict.update({'article': articles[idx]}) %}
+
+                {% endfor %}
+
+                {% set post_list = [] %}
+                {% set post_list_sorted = [] %}
+                {% for idx in loop_dict['post_idxs'] %}
+                  {% set _temp = post_list.append(articles[idx]) %}
+                {% endfor %}
+                {% for post in post_list|sort(attribute='date', reverse=True) %}
+                  {% set _temp = post_list_sorted.append(post) %}
+                {% endfor %}
+
+                {% for post in post_list_sorted[:4] %}
+                  {% if loop.index % 2 != 0 %}
+                    <div class="row pt-3">
+                  {% endif %}
+                    <div class='col-md-6'>
+                      <h4>
+                        <a class="text-semimuted no-dec" href="{{ post.slug }}.html">{{ post.activity }}</a>
+                      </h4>
+                      <p>
+                        <a class="text-muted no-dec" href="{{ post.slug }}.html">{{ post.date.strftime('%B %d, %Y') }}</a>
+                      </p>
+                      <p>
+                        <a class="text-muted no-dec" href="{{ post.slug }}.html">{{ post.summary[:220] + '...' }}</a>
+                      </p>
+                    </div>
+                  {% if loop.index % 2 == 0 %}
+                    </div>
+                  {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
 {% endblock %}

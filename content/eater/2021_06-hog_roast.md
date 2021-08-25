@@ -4,8 +4,9 @@ slug_base: eater
 day_alias: June 2021 Hog Roast
 date: 2021-06-12
 post_date: 2021-06-20
-category: eater
-
+category: Eater
+activity: Hog Roast
+summary: *"We should roast a pig"*<p> Famous last words. This entire tale is the result of that very utterance. An utterance that was uttered by my good friend Kyle at Kyle's house, the location of which I thought would host the hog roast. Kyle had other ideas and by the time I realized his intention was to cook the pig at my house I had already agreed and put out some feelers to out-of-town friends on preferred dates.</p>
 <script>
   let currentDate = new Date()
   let currentSecond = currentDate.getSeconds()
