@@ -6,7 +6,8 @@ prev_day: day_7
 next_day: day_9
 date: 2021-04-23
 post_date: 2021-05-18
-category: traveler
+category: Traveler
+activity: April 2021 Ski Trip
 
 I wake up bright and early, my tail much bushier than the day before. I head down to another little coffee shop in town called Thruline Coffee Co. for some jitter juice and a raspberry scone. I remember Joanne’s suggestion to check out a nice little park just on the north side of downtown so I make my way down to the water and turn north. I work through Marina Park and past a small beach where 4 different people with telescopic camera lenses are taking photos of ducks. They didn’t look like particularly interesting ducks, they weren’t doing anything seemingly noteworthy, they were just kinda standing there. I have no idea what the extreme interest in the waterfowl was but they were so dialed in I didn’t bother to ask. Plus I probably would have been murdered and cast out to sea if I scared off those ducks.
 

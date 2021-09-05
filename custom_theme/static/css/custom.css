@@ -47,3 +47,9 @@
     position: sticky !important;
     top: 200px !important;
 }
+.text-semimuted {
+    color: #656565;
+}
+.no-dec {
+    text-decoration: none !important;
+}
