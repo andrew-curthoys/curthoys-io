@@ -49,7 +49,16 @@ revelrous escapades. The town is small but it's buzzing and we party on the
 beach through the night. I can dig the travel life.
 
 The next morning I wake up and go for a nice run on the beach. Toxins flushed, I
-return to the hostel & the group is discussing taking a bus to Cohuita for a
+return to the hostel to a minor emergency. A pretty sizable crab, who the group
+has named Henry, has wedged himself between the refrigerator and the kitchen
+trash can. Me, the idiot, looks and estimates that Henry couldn't possibly wrap his
+claws all the way around the back of his body - so I grab the big bastard from the
+back and quickly learn that growing up 500 miles from the nearest saltwater
+source not conducive to your knowledge of marine wildlife and Henry clamps down
+on my finger something fierce. I throw him down and he scurries outside so while
+the execution was unorthodox, the end result was his extrication from the domicile.
+
+Henry situation resolved the group discusses taking a bus to Cohuita for a
 hike around the Cohuita National Park. This place is famous for the wildlife,
 with sightings of monkeys, sloths, bears, snakes, and all kinds of other fauna
 a common occurrence.
@@ -78,8 +87,8 @@ do the reasonable thing and walk down to the supermarket and buy 5 bottles of
 wine and a 6 pack of beer.
 
 By this point everyone has been drinking on their own stash and we're all a bit
-tipsy. We all have our own fresh bottle of wine and a deck of cards so the
-decision is made to play some drinking games. We play versions of games that I
+
+we naturally begin playing some drinking games. We play versions of games that I
 remember playing in college and the wine is going down easy. The party migrates
 outside where the final game doesn't end as much as people lose the capability
 to pay attention longer than 10 seconds.

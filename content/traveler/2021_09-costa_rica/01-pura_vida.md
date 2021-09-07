@@ -3,7 +3,7 @@ slug: traveler/2021_09-costa_rica/01-pura_vida
 slug_base: traveler/2020_09-costa_rica
 day_alias: Pura Vida
 prev_day: /traveler
-next_day: 1travelers_of_the_caribbean
+next_day: travelers_of_the_caribbean
 date: 2021-09-01
 post_date: 2021-09-04
 category: traveler
