@@ -80,3 +80,34 @@ We are only 3 on our shuttle to La Fortuna so we have plenty of room to stretch
 out, read, sleep, relax before La Fortuna and the Arenal volcano.
 
 <h4 class="article-subheader">Arenal</h4>
+
+We flop out of the shuttle to the main square of La Fortuna and take a minute to
+get our bearings. We see a bank and pull out some cash since there wasn't an ATM
+in Tortugero and we're all running a little dry. C&eacute;cile informs us that
+it's only 700 meters to our hostel, which could be half a mile or 10 miles, who
+the hell knows.
+
+We hoof it to the accommodation and this place has more of a party vibe than the
+previous places we've been. There are people playing pool volleyball and there
+is a fridge of beer behind the check-in counter. Naturally I order a beer when
+checking in and lucky me it's happy hour, meaning we can get two Imperials for 5 thousand
+Costa Rican pesos or whatever the hell. When I buy a beer and it's in the
+thousands I'm never going to figure it out.
+
+I need a shower and sustenance in equal measures and I blunder by choosing the
+latter when a group of people from the hostel invite us to grab a bite. We head
+out and walk past so many bars & restaurants I can't keep track. I should have
+just ducked into one by myself. After probably 80,000 meters or something we
+finally arrive to our destination. It's lit like a cafeteria and the food doesn't
+look much better.
+
+Fuck me.
+
+I'm seconds away from cutting my losses and heading back to any of the other
+fine looking establishments we passed along the way when the skies open up and
+unleash a downpour that would make Niagara Falls look like a trickle.
+
+Fuck me sideways.
+
+I stay and choke down the worst meal I've had since I've been in Costa Rica by a
+wide margin. 
