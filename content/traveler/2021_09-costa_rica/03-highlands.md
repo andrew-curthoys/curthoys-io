@@ -1,14 +1,14 @@
-title: Highlands
+title: Part 3: Highlands
 slug: traveler/2021_09-costa_rica/03-highlands
 slug_base: traveler/2020_09-costa_rica
-day_alias: Travelers of the Caribbean
+day_alias: Part 3: Highlands
 prev_day: travelers_of_the_caribbean
 next_day: 
 date: 2021-09-06
 post_date: 2021-09-08
 category: traveler
 activity: September 2021 Costa Rica
-summary:
+summary: After a full day of activities I hit the sack and I'm out like a light. The only disturbance was a 2x6 wooden slat falling from the underside of my bed and slamming against the floor at 3 AM. That certainly woke up everyone in the room. Lo siento. Even though it wasn't my fault. 
 
 After a full day of activities I hit the sack and I'm out like a light. The only
 disturbance was a 2x6 wooden slat falling from the underside of my bed and slamming against the
