@@ -19,8 +19,12 @@
       "day_9": "Day 9",
       "day_10": "Day 10",
       "day_11": "Day 11",
-      "pura_vida": "Pura Vida",
-      "travelers_of_the_caribbean": "Caribbean"
+      "01-pura_vida": "Part 1: Pura Vida",
+      "02-travelers_of_the_caribbean": "Part 2: Caribbean",
+      "03-highlands": "Part 3: Highlands",
+      "04-cloud_forest": "Part 4: Cloud Forest",
+      "*04-cloud_forest": "Part 4: Coming Soon",
+      "*05-playa_del_pacifico": "Part 5: Coming Soon"
     })
   %}
 
@@ -45,14 +49,14 @@
           <h2 class="blog-post-title">{{ article.title }}</h2>
           <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
           <nav class="navbar blog-pagination position-sticky justify-content-between" aria-label="Pagination">
-            <div class="navbar-nav flex-start">
-              <a class="btn btn-outline-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
-            </div>
-            <div class = "navbar-nav">
+            <div class = "navbar-nav col-12 text-center">
               <h4>{{ article.day_alias }} </h4>
             </div>
+            <div class="navbar-nav flex-start">
+              <a class="btn btn-darkish text-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
+            </div>
             <div class="navbar-nav navbar-right">
-              <a class="btn btn-outline-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
+              <a class="btn btn-darkish text-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
             </div>
           </nav>
           <div class="col-12 d-flex">
