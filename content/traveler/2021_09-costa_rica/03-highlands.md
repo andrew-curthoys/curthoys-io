@@ -3,7 +3,7 @@ slug: traveler/2021_09-costa_rica/03-highlands
 slug_base: traveler/2020_09-costa_rica
 day_alias: Part 3: Highlands
 prev_day: 02-travelers_of_the_caribbean
-next_day: *04-cloud_forest
+next_day: 04-extremo
 date: 2021-09-06
 post_date: 2021-09-08
 category: traveler
