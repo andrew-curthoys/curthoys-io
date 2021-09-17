@@ -87,3 +87,15 @@ course Western Union isn't open on the weekends (it's Saturday right now) and
 Monday is a national holiday. They also tell him that even when it's supposed to
 be open it might not be open. And they might not have cash on hand. Because it's
 Costa Rica and that's how they roll.
+
+Moral of the story: don't walk on the beach after dark.
+
+We all watch the sun set, painting the sky with a brilliant panoply of oranges,
+blues, and purples. I'd quicker tell you the wavelengths
+of all those different colors than write something poetic so I'll just let you
+use your imagination. It's really magnificent.
+
+After the sunset we walk back to the hostel where I meet an international couple -
+guy from Spain and girl from Switzerland. We start chatting and I quickly learn
+that they too just quit their job and started traveling. Fuckin A. Or whatever
+you say in Spanish/German.
