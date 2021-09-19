@@ -70,59 +70,28 @@
             <div class="pt-4">
               <h2 class="blog-post-title">Latest</h2>
               <div class="col-12 col-lg-8">
-                {% set loop_dict = {
-                  'article': articles[0],
-                  'min_date_idx': 0,
-                  'post_idxs': []
-                } %}
+
+                {% set latest_dict = {} %}
 
                 {% for article in articles %}
-                {% set last_article = loop_dict['article'] %}
-                {% set next_article = article %}
-                {% set idx = loop.index - 1 %}
-
-                {% if last_article.activity != next_article.activity or loop.index == loop.length %}
-                  {% if last_article.date < articles[loop_dict['min_date_idx']].date %}
-                    {% set _temp = loop_dict['post_idxs'].append(idx) %}
+                  {% if latest_dict[article.activity] %}
+                    {% if latest_dict[article.activity]['min_date'] > article.date %}
+                      {% set _temp = latest_dict[article.activity].update({'min_date': article.date }) %}
+                      {% set _temp = latest_dict[article.activity].update({'summary': article.summary }) %}
+                    {% endif %}
                   {% else %}
-                    {% set _temp = loop_dict['post_idxs'].append(loop_dict['min_date_idx']) %}
-                  {% endif %}
-                {% elif next_article.date < articles[loop_dict['min_date_idx']].date %}
-                  {% set _temp = loop_dict.update({'min_date_idx': loop.index}) %}
-                {% endif %}
-
-                {% set _temp = loop_dict.update({'article': articles[idx]}) %}
-
-                {% endfor %}
-
-                {% set post_list = [] %}
-                {% set post_list_sorted = [] %}
-                {% for idx in loop_dict['post_idxs'] %}
-                  {% set _temp = post_list.append(articles[idx]) %}
-                {% endfor %}
-                {% for post in post_list|sort(attribute='date', reverse=True) %}
-                  {% set _temp = post_list_sorted.append(post) %}
-                {% endfor %}
-
-                {% for post in post_list_sorted[:4] %}
-                  {% if loop.index % 2 != 0 %}
-                    <div class="row pt-3">
-                  {% endif %}
-                    <div class='col-md-6'>
-                      <h4>
-                        <a class="text-semimuted no-dec" href="{{ post.slug }}.html">{{ post.activity }}</a>
-                      </h4>
-                      <p>
-                        <a class="text-muted no-dec" href="{{ post.slug }}.html">{{ post.date.strftime('%B %d, %Y') }}</a>
-                      </p>
-                      <p>
-                        <a class="text-muted no-dec" href="{{ post.slug }}.html">{{ post.summary[:220] + '...' }}</a>
-                      </p>
-                    </div>
-                  {% if loop.index % 2 == 0 %}
-                    </div>
+                    {% set _temp = latest_dict.update(
+                      {article.activity: 
+                        {'min_date': article.date,
+                        'summary': article.summary}
+                      })
+                    %}
                   {% endif %}
                 {% endfor %}
+
+                {% set latest_dict = latest_dict.items()|sort(attribute = '1.min_date', reverse=True) %}
+                {{ latest_dict }}
+
               </div>
             </div>
           </div>
