@@ -99,3 +99,58 @@ After the sunset we walk back to the hostel where I meet an international couple
 guy from Spain and girl from Switzerland. We start chatting and I quickly learn
 that they too just quit their job and started traveling. Fuckin A. Or whatever
 you say in Spanish/German.
+
+We add one more to the over-30 crew when the German girl we met on the beach
+joins us. We have a great conversation about everyone's travels, including a
+story about the German girl falling through a grate during a hike to some ruins
+in Mexico that required a few dozen stitches in her leg. I ask for recommendations
+in Europe when I decide to venture over the pond and they do likewise for
+destinations in the US.
+
+Levent and some other kids join us, including another German girl who learned English
+in Australia. It's pretty hilarious to listen to her talk because she speaks
+English with a full-on Aussie accent then when she starts speaking German all
+the cheeky litheness of her Australian timbre immediately shifts to the harsh,
+utilitarian sounds of her mother tongue.
+
+The kids start talking about the big town party taking place that night & they
+ask the adults if we'd like to join but we demur, content to enjoy each others
+company among some beers and bottles of wine.
+
+I hit the sack, ready for the first NFL Sunday of the season.
+
+<h4 class="article-subheader">Sunday Funday</h4>
+I wake up feeling quite rested, the A/C was wonderful for inducing slumber. I
+have a few hours till NFL kickoff so I head down to the beach for a run. Gotta
+de-tox before I re-tox. After the run I head back to the hostel & get cleaned
+up for the game.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/nfl_business_trip" alt="Business Trip">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/nfl_all_business_nic" alt="All business Nic">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Business trip</figcaption>
+</figure>
+
+This is the most hype the Bills have had to start a season since the Super Bowl
+heydey of the early 90s. They reached the AFC Championship last season and Big
+Josh finished second in MVP voting. They made some seemingly shrewd offseason
+moves and have their sights set on the Super Bowl. So I'm giddy.
+
+I head to Sharky's and they have the game on and even have the audio. Let's Go
+Buffalo. Isaiah McKenzie takes the opening kickoff down to the Pittsburgh 20
+yard line and I think this is just the beginning of the ass whoopin.
+
+Welp I was wrong.
+
+Everything went downhill from that initial kick. The offense was sputtering, the
+playcalling was questionable, the penalties were bountiful. A blocked punt TD for
+the Stillers really put the game away but they really need more out of their
+offense. 16 points for a team that averaged over 30 points a game just ain't
+gonna cut it. At least the defense looked strong for most of the game. Oh well
+it's a long season, just gotta trust the process.
