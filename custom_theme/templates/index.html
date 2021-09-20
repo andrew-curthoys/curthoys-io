@@ -77,13 +77,15 @@
                   {% if latest_dict[article.activity] %}
                     {% if latest_dict[article.activity]['min_date'] > article.date %}
                       {% set _temp = latest_dict[article.activity].update({'min_date': article.date }) %}
+                      {% set _temp = latest_dict[article.activity].update({'slug': article.slug }) %}
                       {% set _temp = latest_dict[article.activity].update({'summary': article.summary }) %}
                     {% endif %}
                   {% else %}
                     {% set _temp = latest_dict.update(
                       {article.activity: 
                         {'min_date': article.date,
-                        'summary': article.summary}
+                         'slug': article.slug,
+                         'summary': article.summary}
                       })
                     %}
                   {% endif %}
@@ -97,13 +99,13 @@
                   {% endif %}
                     <div class='col-md-6'>
                       <h4>
-                        <a class="text-semimuted no-dec" href="{{ post.slug }}.html">{{ post[0] }}</a>
+                        <a class="text-semimuted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[0] }}</a>
                       </h4>
                       <p>
-                        <a class="text-muted no-dec" href="{{ post.slug }}.html">{{ post[1]['min_date'].strftime('%B %d, %Y') }}</a>
+                        <a class="text-muted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[1]['min_date'].strftime('%B %d, %Y') }}</a>
                       </p>
                       <p>
-                        <a class="text-muted no-dec" href="{{ post.slug }}.html">{{ post[1]['summary'][:220] + '...' }}</a>
+                        <a class="text-muted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[1]['summary'][:220] + '...' }}</a>
                       </p>
                     </div>
                   {% if loop.index % 2 == 0 %}
