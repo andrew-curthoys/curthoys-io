@@ -71,13 +71,9 @@ and I reply that it's just me.
 
 "Okkkkk? Hmmmmm"
 
-Don't give me that shit. Leave your fucking 'tude at home and give me the key to
-my palace. Get some more Pura in your Vida. 
-
-I have to say that we're talking 
-
-
-I get settled in & the room has A/C! King of the castle king of the castle!
+Don't give me that shit. The room is $45/night, I'm not a Saudi prince.
+Leave your sour 'tude at home and give me the key to
+my palace. You need more Pura in your Vida. 
 
 I throw on my trunks and head down to the beach for a quick run. A quick run
 turns into a long run when my foot & knee that have been bothering me feel great.
@@ -271,3 +267,21 @@ know how much he paid.
 
 We walk back to the balcony and enjoy the rest of the night. The Pacific coast
 has a different pace than I've been accustomed to.
+
+<h4 class="article-subheader">Kowabunga</h4>
+
+I arise in a much cheerier mood than I expected given my Busch Light nightcap
+and head down to the beach. Maybe we'll give this whole surf thing a whirl. I
+sample the market in town and on the beach and a surf lesson seems to be running
+$40-60 depending on your vendor. I start walking down to the fella who quoted me
+$40 on the beach when a guy who probably can spot a gringo who wants to try
+surfing from a nautical mile away and asks me if I want to go surfing today.
+
+I ask how much and when he replies with a confident "thirty five dollars mi
+amigo, pura vida" Well you drive a hard bargain, sir, but it would behoove me
+to accept your offer. And whom do I have the pleasure of doing business with?
+
+"Tarzan"
+
+Fuck yes. I'm going to learn how to rip barrels from a guy named Tarzan. It's
+beautiful.
