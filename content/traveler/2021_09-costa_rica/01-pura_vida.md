@@ -12,8 +12,9 @@ summary: "We gotta turn around"<p>We were a mile from the house & realized I for
 
 "We gotta turn around"
 
-We were a mile from the house & realized I forgot my Costa Rica travel book
-that I annotated and used to sketch out a rough idea of what I planned to do.
+We were a mile from the house & realized I forgot my Spanis-English pocket
+dictionary. That might be useful with my rudimentary grasp of the Spanish
+language. Not sure if you know this but they have a different word for everything.
 
 Timmy whips the car around and a block or two later I find the book in a separate 
 pocket of my backpack.
@@ -33,7 +34,8 @@ of vaccination form sitting on my desk. Yeah I'm definitely gonna need that.
 Yikes
 
 Luckily everywhere in Tulsa is 15 minutes from the airport and about half an
-hour later we're right back at the airport. This time with proper documentation.
+hour later we're right back at Tulsa International. This time with proper
+documentation.
 
 Timmy drops me off right at 7:50. My flight is at 9:00. Anyone currently reading
 in a big city is probably growing anxious at this point.

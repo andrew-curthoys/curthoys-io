@@ -43,7 +43,7 @@ and informs her that I can stay in the room for the same price as the dorm.
 
 Wunderbar!
 
-I plop down my bags and wander out to the common area. Our travel trio has worked up
+I plop down my bags and head out to the common area. Our travel trio has worked up
 quite an appetite from that bus ride so we walk down to the beach to a little
 cafe for some grub and a few beers. We take in the sunset before heading
 back to the hostel, where we meet a set of brothers
