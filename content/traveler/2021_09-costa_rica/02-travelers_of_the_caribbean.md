@@ -27,8 +27,19 @@ breathtaking. My mood improves accordingly.
 We make our way over the mountains and the scenery flattens out and the
 mugginess returns. It's 4.5 hours to Cahuita, where the woman next to me
 disembarks and I am able to stretch my legs out a bit. 30 more minutes and we're
-in Puerto Viejo and I am ready to get off this damn bus. We disembark and wind our way through
-a cozy little beach town to the Roots Family hostel, where C&eacute;cile has booked
+in Puerto Viejo and I am ready to get off this damn bus.
+
+<h4 class="article-subheader">Puerto Viejo</h4>
+
+Puerto Viejo is a small town with a laid-back vibe and vibrant Caribbean culture
+settled between long stretches of white and black sand beaches. The black
+volcanic sands of Playa Negra are said to be some of the most beautiful in Costa
+Rica. There are small shops, restaurants, and bars scattered throughout the town's
+few streets and most people get around on foot. I dig the slow pace and I'm
+ready to feel like Joey Slowgano and slow things down for a couple days.
+
+We disembark and wind our way through town to the Roots Family hostel, where
+C&eacute;cile has booked
 a bed. We are greeted by Emily, a petite girl from Essex with the most proper
 British accent you could imagine. She's just beginning her gap "6 months" since
 her future employer wouldn't let her do a full gap year.
@@ -55,12 +66,22 @@ to work on my Spanish. But everywhere I go is riddled with Europeans and the com
 language that everyone knows is English. So it's not exactly going according to plan
 on the Espa&ntilde;ol front but c'est la vie.
 
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/pv_fruit_stand.jpg" alt="Fruit stand">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/pv_canada.JPEG" alt="Canadian market">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Puerto Viejo markets</figcaption>
+</figure>
+
 We head down to the supermarket to snag a few beers and make our way back to the
 beach for some
 revelrous escapades. The town is small but it's buzzing and we party on the
 beach through the night.
-
-I can dig it.
 
 The next morning I wake up and go for a nice run on the beach. Toxins flushed, I
 return to the hostel to a minor emergency. A pretty sizable crab, who the group
@@ -134,6 +155,18 @@ Luckily the pasta finishes soon after this discussion begins because the shallow
 well of my knowledge is running dry. I want to keep up appearances with these
 kids that Oklahoma Jesus knows what he's talking about. The food is served and I
 pass around the wine and everyone is merry.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/pv_cat1.jpeg" alt="Cat 1">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/pv_cat2.jpeg" alt="Cat 2">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Hostel cats</figcaption>
+</figure>
 
 I fill my belly and finish the last of my beers in the fridge and arrive at the point in the night
 when decisions need to be made. I ask the group if they are planning on going

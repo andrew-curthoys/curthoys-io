@@ -3,7 +3,7 @@ slug: traveler/2021_09-costa_rica/04-extremo
 slug_base: traveler/2020_09-costa_rica
 day_alias: Part 4: Extremo
 prev_day: 03-highlands
-next_day: 05-playa_del_pacifico
+next_day: *05-playa_del_pacifico
 date: 2021-09-09
 post_date: 2021-09-08
 category: traveler
@@ -64,6 +64,11 @@ nice young man at the front about activities for tomorrow and he gets
 C&eacute;cile and I scheduled for the
 "Extremo zip line/bungee jump bundle package." Levent isn't one for heights so
 he'll do his own thing tomorrow.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/winnie.jpeg" alt="Winnie the Pooh">
+  <figcaption class="figure-caption">My bunk for the night</figcaption>
+</figure>
 
 I see some ads for coffee tours so I ask about taking one this afternoon. There
 is a chocolate/sugar cane/coffee combo tour that goes off in about an hour & I
