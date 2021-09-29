@@ -8,11 +8,11 @@ date: 2021-09-01
 post_date: 2021-09-04
 category: traveler
 activity: September 2021 Costa Rica
-summary: "We gotta turn around"<p>We were a mile from the house & realized I forgot my Costa Rica travel book that I had annotated and sketched out a rough idea of what I planned to do. Timmy whips the car around and a block or two later I find the book in another pocket of my backpack.</p>
+summary: "We gotta turn around"<p>We were a mile from the house & realized I forgot my Spanish-English pocket dictionary. That might be useful with my rudimentary grasp of the Spanish language. Not sure if you know this but they have a different word for everything. Timmy whips the car around and a block or two later I find the book in a separate pocket of my backpack.
 
 "We gotta turn around"
 
-We were a mile from the house & realized I forgot my Spanis-English pocket
+We were a mile from the house & realized I forgot my Spanish-English pocket
 dictionary. That might be useful with my rudimentary grasp of the Spanish
 language. Not sure if you know this but they have a different word for everything.
 

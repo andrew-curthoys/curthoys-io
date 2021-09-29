@@ -35,8 +35,8 @@ Puerto Viejo is a small town with a laid-back vibe and vibrant Caribbean culture
 settled between long stretches of white and black sand beaches. The black
 volcanic sands of Playa Negra are said to be some of the most beautiful in Costa
 Rica. There are small shops, restaurants, and bars scattered throughout the town's
-few streets and most people get around on foot. I dig the slow pace and I'm
-ready to feel like Joey Slowgano and slow things down for a couple days.
+few streets and most people get around on foot. I dig the pace of things here
+and I'm ready to feel like Joey Slowgano and slow things down for a couple days.
 
 We disembark and wind our way through town to the Roots Family hostel, where
 C&eacute;cile has booked
