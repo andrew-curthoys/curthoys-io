@@ -1,7 +1,7 @@
 title: Part 2: Travelers of the Caribbean
 slug: traveler/2021_09-costa_rica/02-travelers_of_the_caribbean
 slug_base: traveler/2020_09-costa_rica
-day_alias: Part 2: Travelers of the Caribbean
+day_alias: Travelers of the Caribbean
 prev_day: 01-pura_vida
 next_day: 03-highlands
 date: 2021-09-02

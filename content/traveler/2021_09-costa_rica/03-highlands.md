@@ -1,7 +1,7 @@
 title: Part 3: Highlands
 slug: traveler/2021_09-costa_rica/03-highlands
 slug_base: traveler/2020_09-costa_rica
-day_alias: Part 3: Highlands
+day_alias: Highlands
 prev_day: 02-travelers_of_the_caribbean
 next_day: 04-extremo
 date: 2021-09-06

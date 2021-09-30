@@ -1,7 +1,7 @@
 title: Part 4: Extremo
 slug: traveler/2021_09-costa_rica/04-extremo
 slug_base: traveler/2020_09-costa_rica
-day_alias: Part 4: Extremo
+day_alias: Extremo
 prev_day: 03-highlands
 next_day: 05-playa_del_pacifico
 date: 2021-09-09

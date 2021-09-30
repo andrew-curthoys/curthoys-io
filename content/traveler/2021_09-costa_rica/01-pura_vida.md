@@ -1,7 +1,7 @@
 title: Part 1: Pura Vida
 slug: traveler/2021_09-costa_rica/01-pura_vida
 slug_base: traveler/2020_09-costa_rica
-day_alias: Part 1: Pura Vida
+day_alias: Pura Vida
 prev_day: /traveler
 next_day: 02-travelers_of_the_caribbean
 date: 2021-09-01

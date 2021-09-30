@@ -1,7 +1,7 @@
 title: Part 6: Kowabunga
 slug: traveler/2021_09-costa_rica/06-kowabunga
 slug_base: traveler/2020_09-costa_rica
-day_alias: Part 6: Kowabunga
+day_alias: Kowabunga
 prev_day: 05-playa_del_pacifico
 next_day: 07-westin
 date: 2021-09-13

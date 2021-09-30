@@ -1,7 +1,7 @@
 title: Part 5: Playa del Pacifico 
 slug: traveler/2021_09-costa_rica/05-playa_del_pacifico
 slug_base: traveler/2020_09-costa_rica
-day_alias: Part 5: Playa del Pacifico
+day_alias: Playa del Pacifico
 prev_day: 04-extremo
 next_day: 06-kowabunga
 date: 2021-09-11
