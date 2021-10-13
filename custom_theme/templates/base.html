@@ -54,11 +54,16 @@
     }
   </style>
 
-  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>    <meta charset="utf-8">
+  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
 </head>
+
+{% set page_type = page_type|default('fun_stuff') %}
+
 <body>
+  {% if page_type == 'career' %}
+
+  {% else %}
   <!-- HEADER NAVBAR -->
-  <!-- TODO: We'll add 'Eater' & 'Builder' once I have some content of me cooking & building shit -->
   <div class="container">
     <header>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
@@ -86,18 +91,23 @@
       </nav>
     </header>
   </div>
+  {% endif %}
 
   <main class="flex-container">
-
     {% block content %}{% endblock %}
-  
-    <!-- FOOTER -->
-    <footer class="blog-footer">
-      <p>Built by Andrew Curthoys. Powered by Pelican and Bootstrap &middot; <a href="https://blog.getpelican.com/">Pelican</a> &middot; <a href="https://getbootstrap.com/">Bootstrap</a></p>
-      <p>
-        <a href="#">Back to top</a>
-      </p>
-    </footer>
   </main>
+
+  {% if page_type == 'career' %}
+
+  {% else %}
+  <!-- FOOTER -->
+  <footer class="blog-footer">
+    <p>Built by Andrew Curthoys. Powered by Pelican and Bootstrap &middot; <a href="https://blog.getpelican.com/">Pelican</a> &middot; <a href="https://getbootstrap.com/">Bootstrap</a></p>
+    <p>
+      <a href="#">Back to top</a>
+    </p>
+  </footer>
+
+  {% endif %}
 </body>
 </html>
