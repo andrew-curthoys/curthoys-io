@@ -3,12 +3,12 @@ slug: traveler/2021_09-costa_rica/07-westin
 slug_base: traveler/2020_09-costa_rica
 day_alias: Westin
 prev_day: 06-kowabunga
-next_day: *07-spokane
+next_day: 08-flamingo
 date: 2021-09-13
 post_date: 2021-09-29
 category: traveler
 activity: September 2021 Costa Rica
-summary: 
+summary: I flag down a collectivo and talk him down to $20 for a trip to the Westin. We spend most of the 30 minute drive speaking broken Spanish, mostly about Costa Rica and soccer and Costa Rican soccer.
 
 I flag down a collectivo and talk him down to $20 for a trip to the Westin. We
 spend most of the 30 minute drive speaking broken Spanish, mostly about Costa
@@ -190,7 +190,7 @@ that your credit card fee is worth it because of the points you "earn" at
 Starbucks. I don't care about your fucking lawn. I *really* don't care about your
 hardship of having to spend the night in La Fortuna, in the foothills of the
 Arenal Volcano, because the drive
-here was too long. If a sugary frozen daquiri does more for you than a rainforest
+here was too long. If a sugary frozen daiquiri does more for you than a rainforest
 covered stratovolcano please leave me alone.
 
 To add insult to injury today is the 200th anniversary of Costa Rica's

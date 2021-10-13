@@ -382,7 +382,7 @@ never knew I needed. It's remarkable.
 
 My kumbaya epiphany is cut short by the rumble of thunder off on the horizon.
 We look at each other and we're all thinking the same thing - let's get the fuck
-out of this crater before it rains because there's no way in hell we're getting
+out of this caldera before it rains because there's no way in hell we're getting
 out if it does. We gather up our things and start climbing out. This is
 significantly easier than the climb in - only 5 minutes
 out, compared to 15 minutes in. Back at the top we breathe a sigh of
