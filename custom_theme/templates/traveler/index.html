@@ -4,6 +4,12 @@
 
 {% block content %}
 
+<!--
+TODO 
+  * Fix trips section to show separate cards for each trip instead of one single row
+  * Fix link on cards that only go to ski trip page
+-->
+
 <!-- CAROUSEL -->
 <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
@@ -26,19 +32,32 @@
 </div>
 
 <!-- TRIPS -->
-<div class="container-fluid">
+<div class="container">
   <div class="row mb-2">
-    <div class="col-md-auto mx-auto">
+    <div class="col-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-success">Gallivanting</strong>
+          <h3 class="mb-0">Costa Rica September 2021</h3>
+          <p class="card-text mt-auto mb-0">San Jos&#233 - Puerto Viejo - Tortuguero</p>
+          <p class="card-text mb-auto">La Fortuna - Monteverde - Tamarindo</p>
+          <a href="/traveler/2021_09-costa_rica/01-pura_vida.html" class="stretched-link">&#161;V&aacute;monos!</a>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <img class="bd-placeholder-img"  width="200" height="250" src="/theme/images/traveler/2021_09-costa_rica/monkey_chillin.JPEG" alt="Ski Trip" preserveAspectRatio="xMidYMid slice" focusable="false">
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
           <strong class="d-inline-block mb-2 text-primary">Skiing</strong>
-          <h3 class="mb-0">Ski Trip April 2021</h3>
-          <div class="mb-3 text-muted">16-26 Apr</div>
-          <p class="card-text mb-0">Reno-Lake Tahoe-Portland-Mt Bachelor</p>
-            <p class="card-text mb-auto">Bend-Mt Hood-Seattle-Mt Baker</p>
-          <a href="2021_04-ski_trip/wp/day_1.html" class="stretched-link">Send It!</a>
+          <h3 class="mb-0">Skiing April 2021</h3>
+          <p class="card-text mt-auto mb-0">Reno-Lake Tahoe-Portland-Mt Bachelor</p>
+          <p class="card-text mb-auto">Bend-Mt Hood-Seattle-Mt Baker</p>
+          <a href="/traveler/2021_04-ski_trip/wp/day_1.html" class="stretched-link">Send It!</a>
         </div>
-        <div class="col-auto d-none d-md-block">
+        <div class="col-auto d-none d-lg-block">
           <img class="bd-placeholder-img"  width="200" height="250" src="/theme/images/top_of_emigrant.jpg" alt="Ski Trip" preserveAspectRatio="xMidYMid slice" focusable="false">
         </div>
       </div>

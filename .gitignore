@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 
 # Custom additions
-2021_04-ski_trip/output/
+custom_theme/static/images/
+output/
+*jpg
+*png

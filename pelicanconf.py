@@ -14,13 +14,20 @@ TRAVELERSUBHEADER = "A collection of stories from my jaunts, journeys, excursion
 EATERSITENAME = "Eater"
 EATERSUBHEADER = "I like to eat and I like to cook. Let's go on some culinary adventures."
 
+# Career Info
+CAREERSITENAME = "Career"
+CAREERSUBHEADER = "Stuff I've done"
+
 PATH = 'content'
 STATIC_PATHS = ['traveler', 'eater']
 ARTICLE_PATHS = STATIC_PATHS
 ARTICLE_SAVE_AS = '{slug}.html'
 ARTICLE_URL = '{slug}.html'
+PAGE_PATHS = ['career']
+PAGE_SAVE_AS = '{slug}.html'
+PAGE_URL = '{slug}.html'
 USE_FOLDER_AS_CATEGORY = True
-DIRECT_TEMPLATES = ['index', 'traveler/index', 'eater/index']
+DIRECT_TEMPLATES = ['index', 'traveler/index', 'eater/index', 'career/index']
 DELETE_OUTPUT_DIRECTORY = True
 
 THEME = 'custom_theme'

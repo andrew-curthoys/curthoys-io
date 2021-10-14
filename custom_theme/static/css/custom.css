@@ -18,6 +18,9 @@
 .btn-rounded {
     border-radius: 2rem !important;
 }
+.btn-darkish {
+    background-color: #e5e5e5 !important;
+}
 .trip-subheader {
     color: #4B739A !important;
     font-size: calc(1.1rem + 0.1vw) !important;
