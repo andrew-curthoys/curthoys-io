@@ -86,8 +86,8 @@ And that's how I met Devlin and the crew from Spokane.
 <h4 class="article-subheader">Spokane</h4>
 
 They post up in a ring of lounge chairs around some coffee tables and I grab a
-beer from the bar and join them. It appears they have kept their foot on
-the gas since breakfast. They're goin' fast.
+beer and join them. It appears they have kept their foot on
+the accelerator since breakfast. They're goin' fast.
 
 I answer the same series of questions from different sections of the group as
 they flit in and out of conversations.
@@ -117,37 +117,34 @@ We head back up to the beach to watch the sunset while some people behind us
 bark that we're in the way. We were here first, chief, there's plenty of beach to
 go 'round.
 
-Once the sun sets I gather up all my gear and we part ways. I
-get Tony's number in case we want to meet up again and hoof it back up the hill to
-my castle. I clean myself up and amble back down the hill for supper. On my way
-back up I pick up some Papagayo Passion Fruit Ales at the supermarket and I
+Once the sun sets I gather up all my gear and we part ways. I hoof it back up
+the hill to my castle where I clean myself up before ambling back down for
+supper. After dinner I pick up some Papagayo Passion Fruit Ales at the
+supermarket and
 enjoy them on my balcony while reading and listening to the waves crash on the
 beach below. It's so soothing that I open all my windows before bed to
 let the waves lull me to sleep.
 
 <h4 class="article-subheader">High Top Mountain</h4>
 
-I wake up feeling refreshed and ready for my scuba diving trip.
-The dive is great, which I'll talk about in the next chapter, because
+I wake up feeling refreshed and ready for scuba diving.
+The dive is great, which I'll talk about in the next chapter because
 afterwards something unpredictable yet perfectly predictable happens. I stop
-at a roadside tiki hut grill for some fish tacos and a beer and as I'm
+at a roadside tiki grill for some fish tacos and a beer and as I'm
 finishing up a big ass van rolls up. Out jumps a group of 12
 rambunctious Washingtonians ready to rage.
 
-Turns out they just finished scuba diving themselves and stopped off for a bite
+Turns out they just finished scuba diving themselves and stopped for a bite
 and a beer on their way back to the house. We throw back a few cocktails and
 discuss our respective dive trips. As their food comes out I immediately regret
-not ordering a burger because they look incredible. They made friends the other
-day with Roy,
-the owner/chef, who is a master on the grill. They only have a tiny
-workspace but he and the two gals working with him get food out for 12 folks in
-pretty good order. 
+not ordering a burger because they look incredible. Roy, the owner and
+grillmaster, really knows what the hell he's doing.
 
-Sometime during the meal one of the crew asks me if I'd like to go hangout at
+Sometime during the meal one of the crew asks me if I'd like to go hang out at
 their house up on the mountain. They describe it as a house fit for a Miami coke 
 dealer with an
-infinity pool and great views. Well I'm sold. Everyone finishes their food &
-drinks and we pile into the van for the drive up the mountain.
+infinity pool and great views. Well I'm sold. Everyone finishes their lunch
+and we pile into the van.
 
 We pull into the driveway and their description is accurate. Definitely a far
 cry from an $8/night hostel. The
@@ -172,7 +169,7 @@ Everybody throws on their bathing costumes and we hit the pool. Rays are caught,
 beers are chugged, jokes are made. The view is miraculous and we
 hang out until sunset.
 
-We all then head back inside to shots being poured. I stop and laugh my ass
+We all then head back inside to a round of shots. I stop and laugh my ass
 off because they are being poured into receptacles I haven't seen since college.
 That's right, we're doing Shot Times!!
 
@@ -183,7 +180,7 @@ That's right, we're doing Shot Times!!
 
 Goodness gracious, what a time to be alive.
 
-We all do a few rounds of shot times before getting cleaned up for dinner. The
+We all do a few rounds before getting cleaned up for dinner. The
 original plan was to drop me off at my Airbnb after supper but they invite me to
 crash on the couch, to which I oblige. Hostels, cheap Airbnbs, an all-inclusive
 resort, and a multi-million dollar mansion, I am really experiencing the full
@@ -227,7 +224,7 @@ beach towels for a blanket. Got a big day on the water tomorrow.
 <h4 class="article-subheader">Sailing</h4>
 
 I slept surprisingly good and wake up giddy with excitement to test out my sea
-legs. Everyone slowly starts waking up and getting mobile. We head out a few
+legs. We head out a few
 minutes late but it really doesn't matter because we'll be the only ones on the
 boat. We pile in the big ol van and head down to the shore. The crew meets us
 in a dinghy on the beach to take us to our ship, the mighty Mr Pelicano.
@@ -273,7 +270,7 @@ I followed for a good little bit.
     </div>
   </div>
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/spokane_boat3.jpg" alt="Spokane boat 3">
-  <figcaption class="figure-caption">I forgot about the floating Jesus on the cross</figcaption>
+  <figcaption class="figure-caption">I forgot about the floating crucifix</figcaption>
 </figure>
 
 I notice a decent amount of garbage in the water and snag an old bottle of
@@ -286,8 +283,8 @@ trunks and forgot to remove it before jumping in. Total nimrod move.
 
 After getting our fill of snorkeling we re-board the boat to a spread of fruit,
 chips & dip, and mini-tacos. We weigh anchor and head about 15 minutes
-to another snorkel spot. This one has a couple caves onshore that we immediately
-dart to. Inside the caves are hundreds of crabs scurrying along
+to another snorkel spot. We see a couple caves onshore and immediately
+dart towards them. Inside the caves are hundreds of crabs scurrying along
 the walls and roof and occasionally falling into the water. Nobody had a crab
 bomb land on them but I was secretly hoping it would happen. Every third
 wave or so is a real doozy and we brace ourselves for the rush of water,
@@ -322,9 +319,8 @@ session. Not the best idea to leave it running for an hour and a half while we'r
 not even on the boat. Damn shame because we would have had some excellent footage
 from the return voyage. Alas.
 
-<iframe class="col-12 mb-3 video-div" height="400" src="https://www.youtube.com/embed/TyqQwgv7aCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<figcaption class="figure-caption">Yacht rockin'</figcaption>
-<br>
+<iframe class="col-12 mb-1 video-div" height="400" src="https://www.youtube.com/embed/TyqQwgv7aCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption class="figure-caption mb-3">Yacht rockin'</figcaption>
 
 We get back to Potrero Bay and hop on the dinghy for the ride to shore. Not
 before leaving my American Solera hat on board, of course. We all pile in the
@@ -338,9 +334,9 @@ duck into the bar. I wait out the rain with a bottle of Imperial and find the
 directions to my place. It's only about a quarter mile down the road and I hoof
 it over there once it clears up.
 
-The owner greets me when I arrive and shows me around the house and to my room.
-It's a pretty nice room with a balcony and hammock and as I am getting settled
-in I hit a bit of a snafu. The bathroom door is locked and I can't open it with
+The owner greets me and shows me to my room, a pretty nice spot with a balcony,
+hammock, and private bathroom. Just as I am getting settled
+I hit a bit of a snafu. The bathroom door is locked and I can't open it with
 any of the keys she gave me. I send her a message to see if I'm doing it wrong
 and she tells me to try to use a kitchen knife to jimmy the lock open.
 

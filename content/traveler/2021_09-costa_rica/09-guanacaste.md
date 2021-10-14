@@ -4,13 +4,13 @@ slug_base: traveler/2020_09-costa_rica
 day_alias: Guanacaste Adventures
 prev_day: 08-flamingo
 next_day: 10-hasta_luego
-date: 2021-09-15
+date: 2021-09-18
 post_date: 2021-10-07
 category: traveler
 activity: September 2021 Costa Rica
 summary: 
 
-Well that was a trip.
+Well that was... *something*.
 
 It was most definitely fun, but I did not expect it in
 the slightest. I can now honestly say I survived an encounter with a dozen
@@ -19,15 +19,15 @@ the tale.
 
 <h4 class="article-subheader">About That Scuba</h4>
 
-If you remember I casually mentioned scuba diving before jumping right into the
-tale of the Spokane Party Palace. Well I figure now is
+If you remember I casually mentioned scuba diving right before jumping right
+into the tale of the Spokane Party Palace. Well I figure now is
 a good a time as any to revisit my undersea undertaking.
 
 A shuttle picks me up at my Airbnb at 7:30 AM and drops me off at the Pacific
 Coast Dive Center in Playa Flamingo. We mull around for a bit until the rest of
 the divers arrive then hop into a bus to take us to the shore. We take a
 glorified piece of plywood out to their dive boat, which looks like it can
-handle 20ish divers. We only have around 8-10 today so it's not too crowded.
+handle 20ish divers. We only have around 8-10 today so it won't be too crowded.
 
 I climb up to the sun deck on top of the vessel for the hour ride out to the
 Catalina Islands. Unfortunately the wine mixer is next week. The weather is
@@ -57,7 +57,7 @@ We see a family of 4 white tipped reef sharks, a big ol
 sea turtle sleeping on a rock, a spotted eagle ray with what must be a 10 foot
 tail, and the most meme-able moray eel I've ever seen.
 I forgot to pack the dive housing for my GoPro so I don't have any photos, but
-honestly my amateur photos are always shit anyways. Here have a look at some
+honestly my amateur photos are always shit anyways. Here, have a look at some
 professional work.
 
 <figure class="figure">
@@ -208,7 +208,8 @@ give you the tour."
 He takes me out back to the brewing operation & explains his setup. I marvel at
 his ability to keep his temperatures in line given the heat and humidity of the
 jungle. He shows me his chiller, which must just plow through the BTUs out here.
-It's a modest setup but he's proud of it and knows how to use it.
+It's a modest setup compared to BOA but he's financed it all himself and you
+can tell he's proud of it and knows how to use it.
 
 We head back in and I get a flight of the Beach Beer (a light, pilsner-style
 crushable brew), Helles, Citra Session IPA, and West Coast IPA. They are all
@@ -216,10 +217,10 @@ outstanding but I'm partial to the West Coast, so I decide I'll have another. An
 another.
 
 The three of us bullshit around the bar, where I learn about Cameron's backstory.
-He was born in Costa Rica, where he lived until he was about 10, before his
+He was born in Costa Rica, where he lived until he was about 10 when his
 family moved back to Minnesota. His dad owned a construction business and he
-followed suit and became a civil engineer, building shit in Minnesota for a few
-years before getting sick of it and moving back to CR. He's had his irons in a
+followed in the family business as a civil engineer before getting
+sick of it and moving back to CR. He's had his irons in a
 lot of fires since his return and this is the first week that the tasting room
 has been open. We're some of his first guests, and likely the first to talk
 detailed engineering for an inordinate amount of time.
@@ -239,7 +240,8 @@ maguey. The more you know).
 
 He then tells us about the different varieties of
 maguey that are used for mezcal, similar to wine varietals. There are dozens of
-different types but Espadin is by far the most common, accounting for around 90%
+different types but Espad&iacute;n is by far the most common, accounting for
+around 90%
 of mezcal production. We're in luck today, though, as Cameron has two other types
 - Cenizo and Madrecuishe (the two on the left in the below photo) - that he says
 will knock our socks off.
@@ -250,12 +252,11 @@ will knock our socks off.
   <figcaption class="figure-caption">Mezcal class is in session</figcaption>
 </figure>
 
-I'm not even wearing socks, I'm sockless, but if I were they would be nowhere in
+I'm not even wearing socks - I'm sockless - but if I were they would be nowhere in
 sight. Holy shit my tastebuds are having a party. I've had my fair share of
 mezcals before but these are on another level. I honestly don't even know how to
-describe the taste, I've never tasted anything even remotely like this. It's
-wild. All I know is I'm going to keep my eyes out for some Cenizo and Madrecuishe
-mezcals next time I'm at the liquor store, my word.
+describe the taste. All I know is I'm going to keep my eyes out for Cenizo and 
+Madrecuishe mezcals next time I'm at the liquor store, my word.
 
 After we recover from that mezcal mindfuck we finally head back to our steed for
 the final stop of the tour, Volcano Brewing back in good ol Tamarindo. We pull
@@ -302,15 +303,14 @@ Curabanda, heartbroken, went to live on the side of the volcano, where she gave
 birth to a son. Now Curabanda must have inherited the level-headed demeanor of
 her father because she made the completely rational decision to throw her son
 into the volcano to be with his father. As Ian was telling me this I couldn't
-believe the Happy Gilmore level logic I just
-described, but upon further research that's what the legend says. Crazy family
-those Curabandes.
+believe the Happy Gilmore level logic I was hearing, but upon further research
+that's what the legend says. Crazy family those Curabandes.
 
 On the drive Ian also tells me about some of the indigenous peoples of Costa
 Rica, namely the Maleku and the Boruca tribes. The Maleku historically occupied
 the area we are now, stretching from Rinc&oacute;n de la Vieja in the north to
-Arenal in the south. The Boruca were farther south, towards present day Panama,
-and claim to be the only tribe in Costa Rica that were not colonized by the
+Arenal in the south. The Boruca were farther south, towards present day Panama.
+They claim to be the only tribe in Costa Rica that were not colonized by the
 Spanish, with many traditional customs and traditions surviving to this
 day. They are probably most well known today for their large wooden masks that
 they adorn for their annual Danza de los Diablitos ceremony celebrating the
@@ -318,7 +318,7 @@ resistance of their ancestors against the Spaniards.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/boruca.jpg" alt="Boruca masks">
-  <figcaption class="figure-caption">Examples of Boruca masks</figcaption>
+  <figcaption class="figure-caption">What is this a gathering of my ex-wives</figcaption>
 </figure>
 
 After my cultural history lesson we pull down the dirt road towards
@@ -327,8 +327,8 @@ other dogs on the property. We walk over to meet our guide for the hike, a
 laconic Tico who sets off down the path with three dogs in tow, Safra, Lucy, and
 Lola. It's not long till we get our first glimpse of the water and it's a
 ridiculous deep turquoise color, a result of Mie scattering from suspended
-minerals. The river also has a high sulfur concentration and has been used
-through history for its supposed medicinal powers.
+minerals. The river also has a high sulfur concentration and has been sought
+throughout history for its supposed medicinal powers.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/waterfall_water.jpg" alt="Turquoise water">
@@ -337,18 +337,17 @@ through history for its supposed medicinal powers.
 
 We continue up the trail and reach our first river crossing. I step in and the
 cool water feels incredible on my feet. I reach down and splash some on my face
-and it's the most refreshing feeling you can imagine. Maybe these waters do have
-healing powers. A few more river crossings later we reach our first waterfall.
-It's not the tallest but we can jump off it.. so I got that goin' for me,
+and it's so refreshing that I reconsider my skeptical stance on its healing powers.
+A few more river crossings later we reach our first waterfall.
+It's not the tallest but I can jump off it.. so I got that goin' for me,
 which is nice.
 
-<iframe class="col-12 mb-3 video-div" height="400" src="https://www.youtube.com/embed/4XQmWWGW2xw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<figcaption class="figure-caption">Splashdown</figcaption>
-<br>
+<iframe class="col-12 mb-1 video-div" height="400" src="https://www.youtube.com/embed/4XQmWWGW2xw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption class="figure-caption mb-3">Splashdown</figcaption>
 
 After the plunge we make our way through some steep walled canyons and a few
 tight passages. We encounter a couple river crossings that are not for the faint
-of heart, and I have to say this hike makes you work for it.. holy cow.
+of heart, this hike *really* makes you work for it.. holy cow.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/waterfall_canyon.jpg" alt="River canyon">
@@ -358,13 +357,11 @@ of heart, and I have to say this hike makes you work for it.. holy cow.
 Soon we arrive at the second waterfall, and this one is more substantial. We swim
 across the river and climb up some rocks and find ourselves behind a curtain
 of violent water. We're in a little cave in water up to our chest just soaking
-it all in. We swim through the torrent to the other side of the waterfall to a
-ledge where we can sit and let the water fall on our shoulders and wash all our
-worries away.
+it all in. We swim through the torrent to a ledge where we can sit and let the
+water fall on our shoulders and wash all our worries away.
 
-<iframe class="col-12 mb-3 video-div" height="400" src="https://www.youtube.com/embed/CPNPZl1vuLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<figcaption class="figure-caption">Waterfall massage</figcaption>
-<br>
+<iframe class="col-12 mb-1 video-div" height="400" src="https://www.youtube.com/embed/CPNPZl1vuLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption class="figure-caption mb-3">Waterfall massage</figcaption>
 
 From here we leave the hiking portion of the trip and begin the climbing section.
 It's not too challenging, though, and shortly we arrive at a section of the
@@ -377,7 +374,7 @@ Catarata La Leona.
 It's a stunning cascade, barreling over the rocks into a crescent shaped gorge
 that has been cut through the limestone. The sound of the water crashing on the
 rocks gives you a respect for the power of the river and the mist adds a feeling
-of calm. Ian and I soak it in, he's been here a handful of times but he's still
+of calm. Ian has been here a handful of times but he's still
 in awe. He tells me that when the river is lower the two streams on either side
 of the rock atop the waterfall split and come together in the shape of a heart.
 He also tells me the first time he came here he repelled down into the canyon,
@@ -389,19 +386,21 @@ which sounds pretty rad.
 </figure>
 
 After getting our fill of the catarata we head back down the trail for a
-traditional Tico lunch and hit the road back to town. On the way out here Ian
-had mentioned that Papagayo brewing was on the way, home of one of my favorite
-brews down here, their Passion Fruit Ale. Well dadgum if it's on the way we
+traditional Tico lunch and hit the road back to town. On the way back Ian
+mentions that we'll pass right by Papagayo Brewing, home of one of my favorite
+brews: the Passion Fruit Ale. Well dadgum if it's on the way we
 might as well stop off for a beer right?
 
 Ian concurs and we belly up to the bar at Papagayo Brewing Company. The first
 beer tastes so good I must order another. I must! I must! While enjoying our
 second (third) round Ian mentions that this shopping center has two other
-breweries so it looks like we have ourselves an impromptu brewery tour. We finish
+breweries - looks like we have ourselves an impromptu brewery tour.
+
+We finish
 up at Papagayo and head over to Numu Brewing, which has a pretty nice tasting
 room with an upstairs lounge atop a spiral staircase. Ian and I enjoy some
 Chorotega IPAs while chatting with Robert the owner, who originally hails from
-Chicago. I make sure to serve him a heaping pile of shit talking regarding the
+Chicago. I make sure to serve him a heaping pile of shit-talking regarding the
 epic implosion of the Cubs, which is nearly as satisfying as the beer.
 
 The last stop on our spur of the moment beer tour is Captain J Match Brewing
@@ -443,16 +442,16 @@ lap. He's a goooooood boi, a very good boi.
 I've arranged for Ian to take me to the airport tomorrow so we discuss logistics
 before he drops me off for my last night on Tico Time. If anybody makes a trip to
 the west coast of Costa Rica <a href="https://crlimocompany.business.site">
-hit up Ian and Patsy</a>, they are great people. Plus they have a 4WD Ford \
-Excursion limo, which I respect the hell out of for the audacity of it alone.
+hit up Ian and Patsy</a>, they are great people. Plus they have a 4WD Ford
+Excursion limo, which I respect the hell out of for the sheer audacity of it alone.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_09-costa_rica/cr_limo.png" alt="Limo">
   <figcaption class="figure-caption">I mean just look at that thing</figcaption>
 </figure>
 
-This is when the international version of the Sunday Scaries hit me hard. What
-a downright adventure from start to finish. I'm not ready to leave but I have
+This is when the international version of the Sunday Scaries hit me hard. It's
+been a downright adventure from start to finish. I'm not ready to leave but I have
 obligations that require my attention elsewhere (no I don't I'm unemployed, what
 the hell do I have to do). As much as I want to bail on my flight tomorrow I
 think better of it and pack up all my stuff before hitting the sack.
