@@ -32,87 +32,99 @@
       </div>
       <div class="col-12 col-lg-10 pt-4 px-5">
         <div class="row mb-3">
-          <h2 class="blog-post-title">Liiiiiitle Help</h2>
-          <div class="col-12 col-lg-8">
-            <figure class="figure px-1 px-md-4" style="float: right;">
-              <img class="float-right" style="width:40vw; max-width: 300px;" src="/theme/images/homepage/running.jpg" alt="Running">
-              <figcaption class="figure-caption">Not havin' a good time</figcaption>
-            </figure>
-            <p>I've made a horrendous decision...</p>
-            <br>
-            <p>
-              I signed up for the NYC Marathon.
-            </p>
-            <p>
-              Yikes... What the hell was I thinking...
-            </p>
-            <p>
-              You'd think that doing something so foolish wouldn't come with
-              stipulations, but in order to make myself miserable on a perfectly
-              good Sunday in November I'm required to raise money for charity.
-              I reckon that ain't the worst thing so I've
-              decided to raise a few shekels for
-              breast cancer research. My lovely Auntie Ann and marvelous cousin
-              Michelle are right in the middle of whooping cancer's ass so I'd
-              like to dedicate
-              my run to them and the myriad friends, family, and loved
-              ones who have battled this horrible disease. I'm hoping the
-              modicum of cash I raise can help continue the mission that the
-              incredible folks at Memorial Sloan Kettering Cancer Center are
-              working towards.
-              Click below for a link to donate, it'd be real swell if you did.
-            </p>
-            <div class="col-12 text-center">
-              <a class="btn btn-secondary fs-5 px-3" href="https://secure2.convio.net/mskcc/site/TR/FredsTeamEvents/Freds_Team?pg=personal&fr_id=3542&px=4829653">Donate!</a>
+          <div class="row">
+            <h2 class="f-blue-grey">Latest</h2>
+            <div class="col-12 col-lg-8">
+
+              {% set latest_dict = {} %}
+
+              {% for article in articles %}
+                {% if latest_dict[article.activity] %}
+                  {% if latest_dict[article.activity]['min_date'] > article.date %}
+                    {% set _temp = latest_dict[article.activity].update({'min_date': article.date }) %}
+                    {% set _temp = latest_dict[article.activity].update({'slug': article.slug }) %}
+                    {% set _temp = latest_dict[article.activity].update({'summary': article.summary }) %}
+                  {% endif %}
+                {% else %}
+                  {% set _temp = latest_dict.update(
+                    {article.activity: 
+                      {'min_date': article.date,
+                        'slug': article.slug,
+                        'summary': article.summary}
+                    })
+                  %}
+                {% endif %}
+              {% endfor %}
+
+              {% set latest_dict_ordered = latest_dict.items()|sort(attribute = '1.min_date', reverse=True) %}
+
+              {% for post in latest_dict_ordered[:4] %}
+                {% if loop.index % 2 != 0 %}
+                  <div class="row pt-3">
+                {% endif %}
+                  <div class='col-md-6'>
+                    <h4>
+                      <a class="text-semimuted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[0] }}</a>
+                    </h4>
+                    <p>
+                      <a class="text-muted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[1]['min_date'].strftime('%B %d, %Y') }}</a>
+                    </p>
+                    <p>
+                      <a class="text-muted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[1]['summary'][:220] + '...' }}</a>
+                    </p>
+                  </div>
+                {% if loop.index % 2 == 0 %}
+                  </div>
+                {% endif %}
+              {% endfor %}
+
             </div>
           </div>
+          <hr class="mt-4">
           <div class="row">
             <div class="pt-4">
-              <h2 class="blog-post-title">Latest</h2>
-              <div class="col-12 col-lg-8">
-
-                {% set latest_dict = {} %}
-
-                {% for article in articles %}
-                  {% if latest_dict[article.activity] %}
-                    {% if latest_dict[article.activity]['min_date'] > article.date %}
-                      {% set _temp = latest_dict[article.activity].update({'min_date': article.date }) %}
-                      {% set _temp = latest_dict[article.activity].update({'slug': article.slug }) %}
-                      {% set _temp = latest_dict[article.activity].update({'summary': article.summary }) %}
-                    {% endif %}
-                  {% else %}
-                    {% set _temp = latest_dict.update(
-                      {article.activity: 
-                        {'min_date': article.date,
-                         'slug': article.slug,
-                         'summary': article.summary}
-                      })
-                    %}
-                  {% endif %}
-                {% endfor %}
-
-                {% set latest_dict_ordered = latest_dict.items()|sort(attribute = '1.min_date', reverse=True) %}
-
-                {% for post in latest_dict_ordered[:4] %}
-                  {% if loop.index % 2 != 0 %}
-                    <div class="row pt-3">
-                  {% endif %}
-                    <div class='col-md-6'>
-                      <h4>
-                        <a class="text-semimuted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[0] }}</a>
-                      </h4>
-                      <p>
-                        <a class="text-muted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[1]['min_date'].strftime('%B %d, %Y') }}</a>
-                      </p>
-                      <p>
-                        <a class="text-muted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[1]['summary'][:220] + '...' }}</a>
-                      </p>
-                    </div>
-                  {% if loop.index % 2 == 0 %}
-                    </div>
-                  {% endif %}
-                {% endfor %}
-
+              <h3 class="f-blue-grey">What I'm Reading</h3>
+              <div class="row g-0 rounded flex-md-row mb-5 h-md-250 position-relative">
+                <div class="col-auto d-block p-3">
+                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780812976847.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
+                </div>
+                <div class="col px-4 pt-1 d-flex flex-column position-static">
+                  <h4 class="mb-0">Plain, Honest Men</h4>
+                  <p class="fst-italic text-semimuted fs-5 mb-0">Richard Beeman</p>
+                  <p>History</p>
+                  <p class="card-text mb-0">
+                    A fascinating look at the Constitutional Convention of 1787
+                    that led to our nation's founding document. While the
+                    Constitution today is often viewed with a reverence
+                    typically reserved for divinely inspired texts, the gritty
+                    details shed a light on the divides between delegates from
+                    large states vs small states, Northern states vs
+                    Southern states and the compromises reached in the effort to
+                    form a more perfect union.
+                  </p>
+                  <a href="https://bookshop.org/books/plain-honest-men-the-making-of-the-american-constitution/9780812976847" class="stretched-link fs-5">Buy now!</a>
+                </div>
+              </div>
+              <div class="row g-0 rounded flex-md-row mb-5 h-md-250 position-relative">
+                <div class="col-auto d-block p-3">
+                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780374175337.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
+                </div>
+                <div class="col px-4 pt-1 d-flex flex-column position-static">
+                  <h4 class="mb-0">Impossible Owls</h4>
+                  <p class="fst-italic text-semimuted fs-5 mb-0">Brian Phillips</p>
+                  <p>Essays</p>
+                  <p class="card-text mb-0">
+                    A globetrotting collection of essays from fellow Okie and 
+                    master storyteller Brian Phillips, formerly of Grantland
+                    & MTV News. Each essay takes the reader on an adventure to a
+                    part of the globe that's overlooked, undervalued, or
+                    completely unknown to the rest of the world. Talking about
+                    the book with a friend, I said that his writing is
+                    "mesmerizing and ordinary at the same time," a perfect
+                    companion on the NYC subway.
+                  </p>
+                  <a href="https://bookshop.org/books/impossible-owls-essays/9780374175337" class="stretched-link fs-5">Buy now!</a>
+                </div>
               </div>
             </div>
           </div>
