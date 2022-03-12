@@ -6,7 +6,9 @@ date: 2021-10-05
 post_date: 2021-10-01
 category: career
 
-<h3>Solar Energy Generation Potential of Tompkins County</h3>
+<h3 class="f-blue-grey">Solar Energy Generation Potential of Tompkins County</h3>
+**Note:** Appendices A & B are contained within the main document. Appendices
+C-F are separate files located below the main document.
 <center>
   <div style="width:100%; min-height:100vh;">
     <object

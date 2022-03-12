@@ -45,9 +45,9 @@ Danger averted, I find myself a few hundred feet past the point where I can join
 
 Once again at the bottom of Headwall we decide to hit the Red Dog chair and check out the Resort at Squaw Creek, Randy’s former employer. The resort is as far right as you can get on the mountain and we ski over to it after hopping off the Dog. The run was great, although a bit patchy in places, and we didn’t see a single person the entire way. We end up at the resort and Randy gives me a quick tour of the grounds. The swimming pool is open and people are enjoying the beautiful April weather, 63 degrees and not a cloud in the sky. After a quick break it’s back to the lift.
 
-<h4 class="article-subheader">KT-22</h4>
+<h4 class="article-subheader" id="kt22">KT-22</h4>
 
-Randy suggests we head back to KT-22 and try the front side that we didn't hit yesterday. This is the peak that Shane McConkey and his ski gang knew like the back of their hand. They would launch off cliffs, shimmy down chutes, and ski every inch of it all day long. They were testosterone junkies and Squaw Valley was the place to be if you were a daredevil. Watching some of the shit these guys pulled leaves my jaw on the floor every time.
+Randy suggests we head back to KT-22 and try the front side that we didn't hit yesterday. This is the peak that Shane McConkey and his ski gang knew like the back of their hand. They would launch off cliffs, shimmy down chutes, and ski every inch of it all day long. They were adrenaline junkies and Squaw Valley was the place to be if you were a daredevil. Watching some of the shit these guys pulled leaves my jaw on the floor every time.
 
 <iframe class="col-12 mb-3 video-div" src="https://www.youtube.com/embed/LWb7X3V_YVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

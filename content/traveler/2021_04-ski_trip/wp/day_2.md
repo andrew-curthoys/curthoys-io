@@ -52,7 +52,7 @@ Randy and I rip the Alpine chair a few times then find a nice section of soft sn
 
 We make the drive around the mountain and as we pull into the parking lot I realize this place is something different. The mountain, if you could call it that because it’s really 3-4 mountains, towered over us like a West Texas stepfather after a JV football loss. Suffice to say it was intimidating.
 
-<h4 class="article-subheader">Squaw</h4>
+<h4 class="article-subheader" id="sv">Squaw</h4>
 
 I didn’t have much time to survey the scene before Randy & I snagged our gear out of the car and started hoofin it towards the rocky prominence. As we approach the main base a fella shouts to us inquiring if we already have our lift tickets. We respond in the affirmative so he asks if we’d like to take the Aerial Tram. There’s no line so Randy suggests we take it because it offers some of the best views on the mountain. We walk into the tram terminal and find ourselves in a large, bare-bones concrete building with about 5 people in front of us. While we wait I do a little research on my phone about this Squaw Valley place.
 

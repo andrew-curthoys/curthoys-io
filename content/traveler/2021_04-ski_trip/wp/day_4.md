@@ -25,7 +25,7 @@ Are we flying directly over Crater Lake!!?
 
 Sure as shit we *are* flying directly over Crater Lake! Fuckin A. As a kid growing up in Tulsa this is something you learn about on volcano day in elementary school but you never actually expect to see it in person. What a sight.
 
-<figure class="figure">
+<figure class="figure" id="crater">
   <img class="figure-img img-fluid rounded" src="/theme/images/crater_lake.jpg" alt="Crater Lake">
   <figcaption class="figure-caption">Oh look what we have here</figcaption>
 </figure>

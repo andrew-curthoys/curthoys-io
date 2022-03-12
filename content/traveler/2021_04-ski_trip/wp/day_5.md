@@ -115,7 +115,7 @@ I’ve seen some dispensaries here and there during my Oregon travels but hadn�
 
 Back to the car and I’m off to my old friend Mt. Hood, about 2 hours of easy driving through the High Desert. As I get closer the ‘cano comes into view and what a view it is. Just gorgeous. It’s a short drive through the forest and up a mountain road to the Timberline Lodge. The main reason I chose to stay here is that it was the setting for the outdoor shots in The Shining. When I read that I booked a room faster than Jack Torrance turning into a psychopathic maniac. I love that film and it scares the crap out of me every time I watch it. Can’t wait to stay here.
 
-<h4 class="article-subheader">Timberline</h4>
+<h4 class="article-subheader" id="timberline">Timberline</h4>
 
 I grab my bags and walk up the main entrance. The front door is plastered with signs informing folks that there is no access to the lodge unless you are a hotel guest, ya know Covid and everything. I am in the club so I saunter right up to the door and give it a tug. Locked. What the hell? I stand there a few seconds looking confused and then hear a disembodied tinny voice 
 
