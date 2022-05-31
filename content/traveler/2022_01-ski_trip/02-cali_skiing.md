@@ -279,7 +279,7 @@ enough for me.
 We thank him for his advice and pull out of town, just over an hour left to
 Palisades Tahoe, formerly known, and still commonly referred to by locals, as
 Squaw Valley. It's the largest ski area in the Lake Tahoe area and the most well
-known due to <a href="/traveler/2021_04-ski_trip/wp/day_2.html#sv">hosting the
+known due to <a href="/traveler/2021_04-ski_trip/wp/day_2.html?id=sv">hosting the
 1960 Winter Olympics</a>. It's been the home mountain of innumerable world class
 skiers and daredevils, who affectionately refer to it as "Squallywood." I had a
 blast skiing here last April & this time we'll have much more snow so you could
@@ -321,7 +321,7 @@ at 5 AM for the 9 AM lift to get first tracks down the mountain.
 We choose to eschew the most extreme terrain, riding down Red Dog ridge to the
 Womens Downhill run, so called because it was the site of that competition during
 the 1960 Olympics. It's a familiar run to me - Randy and I 
-<a href="/traveler/2021_04-ski_trip/wp/day_3.html#kt22">skied it</a> quite a few
+<a href="/traveler/2021_04-ski_trip/wp/day_3.html?id=kt22">skied it</a> quite a few
 times last April. It's challenging but manageable and we decide to give it
 another whirl. The next time down James, Casey, &
 Nick decide to call it a day and I make one more easy run down the Saddle with
@@ -497,7 +497,7 @@ Cornice II ridge to Horse Trails, which has so much good snow we end up doing it
 again. From here we take a few rides down the Saddle off KT-22 before I call it
 a day. Randy decides to hit a few more runs & will meet us later.
 
-<h4 class="article-subheader">Lake Tahoe Friday Nights</h4>
+<h4 class="article-subheader" id="tahoe-friday">Lake Tahoe Friday Nights</h4>
 
 Just the same as yesterday, I grab a Numb Numb Juice and kick back on the deck.
 The beer goes down smooth and we unanimously decide to head back to our old friend

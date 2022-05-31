@@ -68,7 +68,7 @@ I park on the main drag and walk around a few blocks. It’s a nice, buzzy downt
 
 Luckily Double Mountain Brewing is across the street and I find an outdoor table in the shade. I order a Hop Lava Northwest IPA and some pretzel bites to tide me over until I get to Joanne’s. The pretzels make me thirsty and I slurp down the draft beer in good order. I remember the $10 Kevin gave me for the beer but the pretzels put my tab over that threshold. I charge the tab to my card and give the waitress the Kevin’s $10 as a tip. I hope she spends it on something ridiculous.
 
-<p class="article-subheader">Emerald City Bound</p>
+<p class="article-subheader" id="emerald">Emerald City Bound</p>
 
 I’m back on the road and doubly glad Bruce told me this route because this section of I-84 it hugs the Columbia River and the views are incredible. The river is an absolute unit, flowing through a valley flanked by high cliffs on either side. I later learn some fun facts about the waterway: it’s the 4th largest river in the US by volume, it has the greatest flow of any North American river entering the Pacific, and it’s drainage basin is the size of France. I honestly don’t know if France is a good size for a drainage basin but it sounds big.
 

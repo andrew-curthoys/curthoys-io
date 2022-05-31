@@ -247,7 +247,7 @@ on the bridge.
 
 13.1 miles. 1:52:43. 4 hours is within reach.
 
-<h4 class="article-subheader">Logistics</h4>
+<h4 class="article-subheader" id="logistics">Logistics</h4>
 The majority of my energy the day before the race was spent thinking about
 logistics. I wasn't worried about the actual run, I did my training and felt
 good about it. The logistics, on the other hand, were

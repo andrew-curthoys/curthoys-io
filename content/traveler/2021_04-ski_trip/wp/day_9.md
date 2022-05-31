@@ -11,6 +11,7 @@ activity: April 2021 Ski Trip
 
 I wake up and to my delight Seattle has not let me down, it’s raining. Not a downpour but a slight drizzle. The kind of rain that just hangs there and will crush your soul if it’s all you see for a week straight. Luckily I am merely a transient to the region and can enjoy the stereotypical weather with glee. I make my daily walk down to the town square and grab a coffee at Caffe Ladro. When I get back to the house we ponder options for the day. Joanne has scheduled a couple wine tastings that afternoon but other than that we’re wide open.
 
+<div id="falls"></div>
 The weather isn’t bad enough to rule out a hike so Joanne suggests either Rattlesnake Ledge, a popular 5 mile hike through mountains and valleys, or Snoqualmie Falls, a 1.5 mile round trip with about 300 feet of elevation. Given the weather, I opt for the falls so we can get in & out without getting completely drenched. It’s about 45 minutes east and a bit south of their place and the rain lets up a bit as we get closer.
 
 We arrive & throw on our rain jackets and head out towards the trail. Along the way there are displays detailing the history of the hydroelectric power plant on site. Ok, this is right up my alley. There are currently two hydro plants, the first one completed in 1899 by a 23 year old engineering visionary and presumable madman, Charles Hinckley Baker. A graduate of the esteeed Civil Engineering school at Cornell University, this maniac decided that the damp Seattle weather was not conducive to power plant equipment so he made the obvious decision to tunnel 270 feet straight through solid granite and carve out a room big enough for a hydroelectric plant. It was the world’s first completely underground power plant, a ridiculously specific distinction, and one he gained likely because everyone else who had built a power plant figured above ground was just fine.
@@ -45,6 +46,8 @@ I read all there is to read about the falls and the plant and we walk out onto a
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/top_of_falls.jpg" alt="Top of falls">
   <figcaption class="figure-caption">Great day for a hike</figcaption>
 </figure>
+
+<div id="holy-mountain"></div>
 
 We loiter for a bit then make our way back down. We get back to the car and are only marginally wet, I'd chalk that up as a win. We start heading back towards Seattle and I mention a spot my friend had recommended called Holy Mountain brewery. It’s on the north side of downtown right off Elliott Bay and we decide we have time for a quick brewski before the wine tastings.
 

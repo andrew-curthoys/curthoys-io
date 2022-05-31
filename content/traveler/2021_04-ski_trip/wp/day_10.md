@@ -52,6 +52,7 @@ I gingerly make my way down to the bottom and by this point the snow has turned 
 
 I drop off my skis at Glacier and about 30 minutes later stop off at the North Fork Brewery for an après beer and a snack to tide me over till dinner. I order a Washing Machine Hazy IPA and a chicken margherita pizza and hunker down into a wooden booth. The pie arrives shortly after my delicious ale and I eat a couple slices and box up the rest. It should make for some pretty good breakfast tomorrow.
 
+<div id="raclette"></div>
 I hit the road and about an hour and a half later I’m back at the homestead. I hop in the shower and by the time I make it back downstairs they have the raclette table heated up and ready to go. I’ve never heard of a raclette table & they explain to me that it’s a Swiss culinary tool consisting of a granite cooktop with a heating coil and trays below the coil for melting cheese, heating sauces, or cooking anything you feel like chucking in the tray. They start off tossing some chunks of marinated steak on the granite along with some broccoli and asparagus. They have an assortment of cheeses and potatoes that they put in the trays and I follow suit. It’s super fun and super delicious, it’s like everyone is their own miniature hibachi chef. I may need to get myself one of these contraptions.
 
 <figure class="figure">

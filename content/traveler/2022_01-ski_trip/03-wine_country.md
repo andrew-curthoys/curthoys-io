@@ -202,7 +202,7 @@ schedule, a feat that seems
 almost unimaginable today. It was the longest and tallest suspension bridge in
 the world from its opening in 1937 until the
 Verrazano-Narrows Bridge
-(<a href="/traveler/2021_11-nyc_marathon.html#run">yes that Verrazano-Narrows Bridge</a>)
+(<a href="/traveler/2021_11-nyc_marathon.html?id=run">yes that Verrazano-Narrows Bridge</a>)
 surpassed it in length in 1964, and the Mezcala Bridge in Mexico surpassed it in
 height in 1993. To bring it full circle, the suspension cables were
 installed by none other than John A. Roebling's Sons Company. Remember that guy?
@@ -378,6 +378,8 @@ wine-producing regions, each with a distinct microclimate & terrain.
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/sf_grapes.jpeg" alt="Grapes">
   <figcaption class="figure-caption">Grapes on grapes on grapes</figcaption>
 </figure>
+
+<div id="tank"></div>
 
 We pull up to Tank just after noon. Heather made a reservation for us so they
 have a table all set up in the back with a little nametag to denote our VIP
@@ -626,7 +628,7 @@ As always seems to be the case, said alarms squawk much, much too soon and we're
 on the road chasing that red compass needle. Our final destination is Bend,
 home base for the next few days of skiing, however I have scheduled a
 detour to Crater Lake, which I have
-<a href="/traveler/2021_04-ski_trip/wp/day_4.html#crater">seen from a plane</a>
+<a href="/traveler/2021_04-ski_trip/wp/day_4.html?id=crater">seen from a plane</a>
 and need to see in person.
 
 It doesn't take long for us to enter the Sacramento Valley, the northern half of

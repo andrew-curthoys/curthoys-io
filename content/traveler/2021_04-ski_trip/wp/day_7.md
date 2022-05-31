@@ -82,4 +82,4 @@ Greg & Joanne take care of the bill and I feel a bit guilty about all the wine a
 <figure class="figure">
   <img class="figure-img img-fluid rounded" src="/theme/images/great_wheel.jpg" alt="Seattle Great Wheel">
   <figcaption class="figure-caption">The spool for the space needle</figcaption>
-</figure
+</figure>
