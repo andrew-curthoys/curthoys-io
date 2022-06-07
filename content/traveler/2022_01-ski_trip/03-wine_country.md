@@ -95,7 +95,7 @@ cruise around, take in the sights, and feel the the Bay breeze on my face.
 Now, if there's anything that gets my juices flowing more than wine and Josh
 Allen's meaty thighs it's bridges. Hold onto your butts.
 
-<h4 class="article-subheader">Bridge Class is in Session</h4>
+<h4 class="article-subheader" id="gg-bridge">Bridge Class is in Session</h4>
 
 Starting in 1820, a ferry served the San Francisco peninsula from Marin County.
 The idea of a bridge across the Golden Gate was certainly not radical - any
@@ -105,8 +105,8 @@ winds left the idea of a bridge as just that, an idea.
 
 The original proposal to span the Golden Gate was made in 1869 by a fella by the
 name of Joshua Norton. After losing all his money, and presumably his marbles,
-in an attempt to corner the rice market, he declared himself Norton I, Emperor
-of the United States & Protector of Mexico. Emperor Norton spared no time
+in an attempt to corner the rice market, he declared himself *Norton I, Emperor
+of the United States & Protector of Mexico*. Emperor Norton spared no time
 flexing his self-appointed imperial muscle, issuing decrees that were sometimes
 fanciful, often audacious, and always entertaining. A selection of some, but not
 all of Emperor Norton's royal decrees: on 16-July 1860, he dissolved the United
