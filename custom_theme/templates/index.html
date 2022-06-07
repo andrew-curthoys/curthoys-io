@@ -39,20 +39,22 @@
               {% set latest_dict = {} %}
 
               {% for article in articles %}
-                {% if latest_dict[article.activity] %}
-                  {% if latest_dict[article.activity]['min_date'] > article.date %}
-                    {% set _temp = latest_dict[article.activity].update({'min_date': article.date }) %}
-                    {% set _temp = latest_dict[article.activity].update({'slug': article.slug }) %}
-                    {% set _temp = latest_dict[article.activity].update({'summary': article.summary }) %}
+                {% if article.category != 'misc' %}
+                  {% if latest_dict[article.activity] %}
+                    {% if latest_dict[article.activity]['min_date'] > article.date %}
+                      {% set _temp = latest_dict[article.activity].update({'min_date': article.date }) %}
+                      {% set _temp = latest_dict[article.activity].update({'slug': article.slug }) %}
+                      {% set _temp = latest_dict[article.activity].update({'summary': article.summary }) %}
+                    {% endif %}
+                  {% else %}
+                    {% set _temp = latest_dict.update(
+                      {article.activity: 
+                        {'min_date': article.date,
+                          'slug': article.slug,
+                          'summary': article.summary}
+                      })
+                    %}
                   {% endif %}
-                {% else %}
-                  {% set _temp = latest_dict.update(
-                    {article.activity: 
-                      {'min_date': article.date,
-                        'slug': article.slug,
-                        'summary': article.summary}
-                    })
-                  %}
                 {% endif %}
               {% endfor %}
 
