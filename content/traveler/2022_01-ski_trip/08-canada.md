@@ -3,12 +3,12 @@ slug: traveler/2022_01-ski_trip/08-canada
 slug_base: traveler/2022_01-ski_trip
 day_alias: O Canada
 prev_day: 07-redwood
-next_day: 09-rockies*
+next_day: 09-rockies_pt1*
 date: 2022-02-14
 post_date: 2022-05-12
 category: Traveler
 activity: 2022 Ski Trip Adventure
-summary:
+summary: "Do you have any food in the car?" "Yes sir, I uhhhh have some bananas, apples, a bag of oranges, trail mix, a few cans of soup, pretzels, jerky... y'know just some food for the road" "Ok I'm going to need you to pull up into that stall to the left and step inside the facility." Goddammit. And that's how I ended up sitting in the atrium of the Peace Arch Canadian Border Patrol office for over an hour watching the China-Canada curling match.
 
 <h4 class="article-subheader">"Do you have any food in the car?"</h4>
 "Yes sir, I uhhhh have some bananas, apples, a bag of oranges, trail mix, a few cans
