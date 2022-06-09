@@ -603,37 +603,37 @@ from another time.</i>
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active carousel-centered" style="text-align: center;">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3029.JPEG" alt="Tree">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3029.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
     <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3023.JPEG" alt="Tree">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3023.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
     <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3037.JPEG" alt="Tree">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3037.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
     <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3044.JPEG" alt="Tree">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3044.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
     <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3045.JPEG" alt="Tree">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3045.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
     <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3066.JPEG" alt="Tree">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3066.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
     <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3086.JPEG" alt="Tree">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3086.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
     <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3098.JPEG" alt="Tree">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3098.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
     <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3184.JPEG" alt="Tree">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3184.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
     <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3192.JPEG" alt="Tree">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3192.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
     <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3195.JPEG" alt="Tree">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3195.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#redwoodCarousel" data-bs-slide="prev">
