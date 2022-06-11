@@ -468,5 +468,106 @@ think I've had enough of the park. The walk back to the car is *frigid*,
 straight into the teeth of an unrelenting wind. By the time we make it back my
 body is shivering like a wobbly washing machine on spin cycle.
 
+We head back to the homestead for my last night in Spokane. *Last Night in
+Spokane* totally sounds like a country song.
+
+<p class="mx-4 fst-italic">
+	Watchin' our breath in the cold mountain night<br>
+	Sayin' without knowin' it's gonna be all right<br>
+	Layin' in the arms of my sweetheart Luanne<br>
+	Tonight is all we got, it's my last night in Spokane
+</p>
+
+Or somethin' like that.
+
+Just gotta find a nice young lady named Luanne
+
+We have supper at the house & play a couple games of Dominion. It's my first
+time playing so I certainly don't win but it's a lot of fun. It's easy to set
+up, the games are quick, and the permutations are nearly infinite so you can't
+just hone in on a certain strategy. This is a game I will definitely be
+purchasing. After getting demolished one final time I hit the sack to rest up
+for my drive tomorrow.
+
+Cousin Randy is flying into Bozeman tomorrow for a few days of skiing Big Sky
+with me. His flight is scheduled for 12 noon and the drive is 6 hours, which
+means I'll have to leave at 5 AM to beat him there, accounting for the timezone
+change, of course. We'll see about that.
+
+<h4 class="article-subheader">Big Sky Bound</h4>
+My alarm squawks bright & early the next morning and I lethargically peel myself
+out of bed after a few hearty snoozes. My torpor continues as I languidly load
+the car and shove off right at 6:30. Sorry Rand, at least the views from the
+BZN airport are amazing.
+
+The directions from Google Maps are pretty straightforward.
+
+1. Get on I-90 E.
+2. Follow I-90 for 375 miles to exit 299.
+3. Follow Airway Blvd to Gallatin Field Rd.
+
+I think I can figure that out.
+
+About 20 miles east of town I pass by the beautiful vistas of Lake Couer d'Alene,
+which was completely obscured by snow the other day when I rolled through here
+on the way to Lookout Pass. Which, speak of the devil, I pass right by about
+60 more miles down the road.
+
+As I'm winding through the Rattlesnake Mountains of the Lolo National Forest I
+glance down at my car's thermometer.
+
+***-17&deg;F***.
+
+Holy smokes.
+
+Speaking of smoke, it's so cold outside that the frigid waters of the St. Regis
+River are smoking like a hot tub. It's so cold outside the heat from my body has
+created a thin layer of ice on the inside of my window. It's not
+just cold, it's *fucking cold*.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock1_bs_window.jpeg" alt="Window ice">
+  <figcaption class="figure-caption">First time I've ever seent that</figcaption>
+</figure>
+
+About 15 minutes from the airport I get a text from Randy that they just landed.
+Looks like I'm not the only one running late today. I pull up to the terminal
+to wait for Rand to emerge. And wait. And wait. It's nearly 45 minutes before he
+steps out into the brisk Montana air. We'll just blame their laggardly baggage
+handling system on supply chain issues. Or wait, is it that nobody wants to work
+anymore? One of those excuses seem to assuage nearly all episodes of
+disproportionate indignation these days.
+
+I give Randy a big bear hug & load his gear into the car. We set our course for
+the Mountainview Lodge a few miles north of downtown Bozeman, one of the few
+reasonably priced accommodation options. The most modestly priced room in
+downtown Bozeman is over $600/night and if we want to get near the ski hill it
+would set us back over a grand. This is my fourth time coming to Big Sky and I
+have never seen prices even approach this level of lunacy. Each time before this
+we stayed right by the mountain for a reasonable rate. Where we're staying this
+time we'll have to drive nearly an hour each way to ski. Dadgum.
+
+We drop our bags and head towards downtown Bozeman, a delightful little
+mountain town with stone buildings, ski shops, saloons, and boutique stores
+where you can spend a small fortune trying to look like a cowboy caricature from
+Yellowstone. Speaking of which, as we near downtown Randy asks how far it is to
+Yellowstone. I know the north entrance is just south of here and after consulting
+Google Maps it appears to be an hour and a half. Since we have nothing better to
+do we decide to bomb down there to check it out.
+
+We head east for 25 miles to the Yellowstone River Valley, just to the east of
+the Gallatin Canyon, home of Big Sky. We are treated to stunning views of two
+dramatic ridges of mountain peaks flanking a wide valley dotted with farms. As
+we're driving we begin to notice the road conditions deteriorating. Before we
+know it the entire road is covered in a layer of snow & ice. The sun is starting
+to sink low in the sky & we find out that it will set just after we get to the
+park. So it will be cold, we won't be able to see much, and the entire drive
+back to Bozeman will be in the dark. After a quick discussion we make the
+reasonable decision to cut our losses & turn back now.
+
+We probably could have thought of that before setting off on this foolish
+endeavor, but sometimes you just gotta give into your impulses. And we got some
+great views anyhow.
+
 Big Sky rocks German word Weltschmerz
 https://www.bustle.com/p/18-words-for-sadness-depression-that-dont-exist-in-english-7260841
