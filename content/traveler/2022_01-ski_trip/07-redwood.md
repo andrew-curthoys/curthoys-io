@@ -71,7 +71,7 @@ Adventure, Sir Isaac Newton, Graywacke, Thunderbolt, Paradox, Harriet Weaver, an
 Bamboozle.
 
 During my southerly drive to the park, I am delighted to find a new episode of
-<a href="https://www.wnycstudios.org/podcasts/radiolab/articles/forests-forests">
+<a href="https://www.wnycstudios.org/podcasts/radiolab/articles/forests-forests" target="_blank" rel="noopener noreferrer">
 Radiolab</a>
 pop into my podcast feed. Hell yes. Nothing makes the time go by smoother than
 a fascinating
@@ -134,7 +134,7 @@ After studying the map for what seems like ages, I wander into the bookstore,
 looking for a title that might detail the life
 and experience of the indigenous\* peoples of the area, before the arrival of
 Europeans. I find a book entitled
-<a href="https://bookshop.org/books/1491-second-edition-new-revelations-of-the-americas-before-columbus/9781400032051">1491: New Revelations of the Americas Before Columbus</a>
+<a href="https://bookshop.org/books/1491-second-edition-new-revelations-of-the-americas-before-columbus/9781400032051" target="_blank" rel="noopener noreferrer">1491: New Revelations of the Americas Before Columbus</a>
 by Charles C Mann, that's a little more broad than just the tribes of the
 California coast/PNW, but it looks like an enlightening read nonetheless.
 
@@ -148,13 +148,13 @@ living on this continent millennia before "America" was even a concept.
 
 Mann's overall thesis attempts to debunk what William Denevan, professor of
 Geography at Wisconsin-Madison, called the
-"<a href="https://www.jstor.org/stable/2563351">pristine myth</a>" in 1992. This
+"<a href="https://www.jstor.org/stable/2563351" target="_blank" rel="noopener noreferrer">pristine myth</a>" in 1992. This
 belief, contrived by nineteenth-century romanticist writers and artists,
 stated that the continents of the Western Hemisphere at the time of Columbus were an
 edenic wilderness, untrammeled by the hands of man. Mann presents scholarship
 that builds on Denevan's work & flies in the face of this viewpoint in clear,
 and sometimes
-excruciating, detail. (The book arose from an <a href="https://www.theatlantic.com/magazine/archive/2002/03/1491/302445/">article
+excruciating, detail. (The book arose from an <a href="https://www.theatlantic.com/magazine/archive/2002/03/1491/302445/" target="_blank" rel="noopener noreferrer">article
 </a> that Mann published in The
 Atlantic, which does a fine job at hitting the high points
 of many of the points he delves into in the book, 10/10 would recommend)
@@ -211,7 +211,7 @@ The past century's single-minded focus on
 <a href="https://www.yesmagazine.org/environment/2019/10/22/fire-climate-change-indigenous-colonization">fire suppression</a>
 (it even worked its way indelibly into the public consciousness via
 Smokey the Bear) has counterintuitively
-<a href="https://www.npr.org/2020/08/24/899422710/to-manage-wildfire-california-looks-to-what-tribes-have-known-all-along">laid
+<a href="https://www.npr.org/2020/08/24/899422710/to-manage-wildfire-california-looks-to-what-tribes-have-known-all-along" target="_blank" rel="noopener noreferrer">laid
 the groundwork</a> for the massive wildfires we
 have seen the past few years. Uncommonly warm weather & oppressive droughts have
 certainly exacerbated the
@@ -334,28 +334,28 @@ very much depends on who you ask.
 Stegner nailed it on the head that the National Parks are "absolutely American."
 
 ***Absolutely American*** means the 
-<a href="https://abcnews.go.com/Travel/photos/glory-spring-americas-national-parks-30006656/image-41804486">jaw-dropping natural beauty of the country</a>
+<a href="https://abcnews.go.com/Travel/photos/glory-spring-americas-national-parks-30006656/image-41804486" target="_blank" rel="noopener noreferrer">jaw-dropping natural beauty of the country</a>
 is open to
-<a href="https://www.cnn.com/travel/article/national-park-visitors-surge/index.html">
+<a href="https://www.cnn.com/travel/article/national-park-visitors-surge/index.html" target="_blank" rel="noopener noreferrer">
 all who wish to pursue it</a>
 
 ***Absolutely American*** means
-<a href="https://www.iuniverse.com/en/bookstore/bookdetails/432486-Indian-Country-God-s-Country">indigenous peoples were forcibly removed</a>
+<a href="https://www.iuniverse.com/en/bookstore/bookdetails/432486-Indian-Country-God-s-Country" target="_blank" rel="noopener noreferrer">indigenous peoples were forcibly removed</a>
 from
-<a href="https://indiancountrytoday.com/archive/native-history-yellowstone-national-park-created-on-sacred-land">their sacred
+<a href="https://indiancountrytoday.com/archive/native-history-yellowstone-national-park-created-on-sacred-land" target="_blank" rel="noopener noreferrer">their sacred
 homelands</a>
 
 ***Absolutely American*** means that
-<a href="https://mrs.sog.unc.edu/the-national-parks-and-democracy/">democracy
+<a href="https://mrs.sog.unc.edu/the-national-parks-and-democracy/" target="_blank" rel="noopener noreferrer">democracy
 prevails</a>
 in our
-<a href="https://time.com/4389075/our-backyard-is-85-million-acres/">nation's
+<a href="https://time.com/4389075/our-backyard-is-85-million-acres/" target="_blank" rel="noopener noreferrer">nation's
 backyard</a> 
 
 ***Absolutely American*** means
-<a href="https://www.audubon.org/news/the-national-parks-have-diversity-problem-couple-has-been-working-20-years-fix">
+<a href="https://www.audubon.org/news/the-national-parks-have-diversity-problem-couple-has-been-working-20-years-fix" target="_blank" rel="noopener noreferrer">
 minorities are mostly excluded</a>, subject to
-<a href="https://www.audubon.org/news/do-communities-color-really-feel-disconnected-nature">
+<a href="https://www.audubon.org/news/do-communities-color-really-feel-disconnected-nature" target="_blank" rel="noopener noreferrer">
 unfounded stereotypes</a>
 
 *Absolutely American* isn't straightforward. It's complicated. It's messy.
@@ -372,18 +372,18 @@ descendants of European colonists he is absolutely right. When *we* are the
 descendants of Native tribes, he is woefully misguided.
 
 Grand Canyon National Park was created from
-<a href="https://www.grandcanyontrust.org/blog/havasupai-grand-canyon">
+<a href="https://www.grandcanyontrust.org/blog/havasupai-grand-canyon" target="_blank" rel="noopener noreferrer">
 Havasupai homelands</a>.
 Glacier National Park was carved out of
-<a href="https://www.tripsavvy.com/national-park-system-and-indigenous-americans-5185200">
+<a href="https://www.tripsavvy.com/national-park-system-and-indigenous-americans-5185200" target="_blank" rel="noopener noreferrer">
 lands</a> belonging to the Blackfeet Nation,
 after being
-<a href="https://www.worldfootprints.com/glacier-national-park-a-beautiful-place-with-an-ugly-history/">
+<a href="https://www.worldfootprints.com/glacier-national-park-a-beautiful-place-with-an-ugly-history/" target="_blank" rel="noopener noreferrer">
 pressured into a treaty</a>, which the US government
-<a href="https://www.umt.edu/this-is-montana/columns/stories/blackfeet.php">
+<a href="https://www.umt.edu/this-is-montana/columns/stories/blackfeet.php" target="_blank" rel="noopener noreferrer">
 summarily broke</a>. Yosemite National Park was formed on land where a
 California sponsored expedition
-<a href="https://www.nytimes.com/2017/09/02/opinion/sunday/goodbye-yosemite-hello-what.html">destroyed villages, burned crops, and killed
+<a href="https://www.nytimes.com/2017/09/02/opinion/sunday/goodbye-yosemite-hello-what.html" target="_blank" rel="noopener noreferrer">destroyed villages, burned crops, and killed
 members of the Miwok tribe</a>.
 
 By the time Redwood National Park was established in 1968, the tribes of the
@@ -401,20 +401,20 @@ Ojibwe historian and author, says of the founding of the National Parks:
 the humans who have drawn life from them for centuries.”
 
 But that's not to say we aren't getting better. The National Park Service has
-<a href="https://www.theatlantic.com/podcasts/archive/2022/04/us-national-parks-native-american-tribes/629552/">begun including more
+<a href="https://www.theatlantic.com/podcasts/archive/2022/04/us-national-parks-native-american-tribes/629552/" target="_blank" rel="noopener noreferrer">begun including more
 indigenous voices</a> in its programming & staffing. The 
-<a href="https://www.nbcnews.com/politics/congress/haaland-confirmed-interior-secretary-first-native-american-cabinet-head-n1261158">
+<a href="https://www.nbcnews.com/politics/congress/haaland-confirmed-interior-secretary-first-native-american-cabinet-head-n1261158" target="_blank" rel="noopener noreferrer">
 Department of the Interior</a> and
-<a href="https://www.pbs.org/newshour/nation/first-indigenous-american-confirmed-to-lead-national-park-service">National
+<a href="https://www.pbs.org/newshour/nation/first-indigenous-american-confirmed-to-lead-national-park-service" target="_blank" rel="noopener noreferrer">National
 Park Service</a> are now led by Native representatives for the first time.
 California is beginning to allow indigenous tribes to 
-<a href="https://www.cnn.com/2022/04/03/us/california-native-american-fire-practitioners-wildfires-climate/index.html">
+<a href="https://www.cnn.com/2022/04/03/us/california-native-american-fire-practitioners-wildfires-climate/index.html" target="_blank" rel="noopener noreferrer">
 practice</a>
-<a href="https://www.sciencefriday.com/segments/indigenous-fire-prevention/">
+<a href="https://www.sciencefriday.com/segments/indigenous-fire-prevention/" target="_blank" rel="noopener noreferrer">
 controlled</a>
-<a href="https://www.nature.org/en-us/magazine/magazine-articles/indigenous-controlled-burns-california/">
+<a href="https://www.nature.org/en-us/magazine/magazine-articles/indigenous-controlled-burns-california/" target="_blank" rel="noopener noreferrer">
 burns</a>. A portion of redwood forest has been
-<a href="https://www.savetheredwoods.org/press-releases/523-acres-of-forestland-donated-to-intertribal-sinkyone-wilderness-council/">
+<a href="https://www.savetheredwoods.org/press-releases/523-acres-of-forestland-donated-to-intertribal-sinkyone-wilderness-council/" target="_blank" rel="noopener noreferrer">
 given back to a group of indigenous tribes</a>.
 
 The first step to achieving meaningful growth, both personally and as a nation,
@@ -841,7 +841,7 @@ a beautiful, sleek
 wooden building with a high gabled roof and enormous windows that open to an
 elevated patio overlooking the vines. I am shown to a table on the patio with a
 breathtaking view of the Willamette Valley,
-<a href="/traveler/2021_04-ski_trip/wp/day_6.html">my old friend</a> Mt. Hood
+<a href="/traveler/2021_04-ski_trip/wp/day_6.html" target="_blank" rel="noopener noreferrer">my old friend</a> Mt. Hood
 standing guard over the horizon.
 
 <figure class="figure">

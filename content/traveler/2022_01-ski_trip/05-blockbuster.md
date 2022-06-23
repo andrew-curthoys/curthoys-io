@@ -16,11 +16,11 @@ the car for the heady journey to the local Blockbuster, eager to peruse the
 shelves for a physical copy of
 the night's entertainment. You remember when your local store began the
 transition from VHS to DVD. No more need to
-<a href="https://bendblockbuster.com/product/blockbuster-be-kind-t-shirt-v2-blue/">
+<a href="https://bendblockbuster.com/product/blockbuster-be-kind-t-shirt-v2-blue/" target="_blank" rel="noopener noreferrer">
 *be kind, rewind*</a>.
 Blockbuster was the lynchpin for countless sleepovers, first
 dates, and
-<a href="https://bendblockbuster.com/product/blockbuster-and-chill-t-shirt/">
+<a href="https://bendblockbuster.com/product/blockbuster-and-chill-t-shirt/" target="_blank" rel="noopener noreferrer">
 *Netflix & chill*</a>
 at a time when just the idea of Netflix would seem
 ludicrous. To even access the internet you had to pay the 3-step AOL troll toll
@@ -134,7 +134,7 @@ next 375 competitors combined. At its peak in 2004, Blockbuster boasted over
 9,000 locations, with nearly 85,000 employees in 15 countries worldwide.
 
 In 1994, Blockbuster trialed a concept known as the 
-<a href="https://apnews.com/article/b3e752b1fb5cd382dfbea94475490126">
+<a href="https://apnews.com/article/b3e752b1fb5cd382dfbea94475490126" target="_blank" rel="noopener noreferrer">
 Blockbuster Block Party</a>,
 an indoor entertainment complex aimed at adults, consisting of restaurants, arcade
 games, laser tag, motion simulator rides, and a "high-tech maze", whatever the

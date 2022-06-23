@@ -510,7 +510,7 @@ I guess they just expect me to captain this ship by myself.
 
 My ensigns sporadically rouse themselves as we approach the Mt Hood National
 Forest. I ask if they'd like to check out 
-<a href="/traveler/2021_04-ski_trip/wp/day_5.html?id=timberline">Timberline</a>,
+<a href="/traveler/2021_04-ski_trip/wp/day_5.html?id=timberline" target="_blank" rel="noopener noreferrer">Timberline</a>,
 which should only be a 20 minute detour. They are interested so we make the turn
 off the highway up a few miles of switchbacks to the lodge.
 

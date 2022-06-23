@@ -3,7 +3,7 @@ slug: traveler/2022_01-ski_trip/08-canada
 slug_base: traveler/2022_01-ski_trip
 day_alias: O Canada
 prev_day: 07-redwood
-next_day: 09-rockies_pt1*
+next_day: 09-rockies_pt1
 date: 2022-02-14
 post_date: 2022-05-12
 category: Traveler
@@ -432,7 +432,7 @@ Suffice to say, Larry is well known 'round these parts. It turns out he's one of
 the founding members of
 The Old Goats, an informal fraternal order-cum-drinking club. The Goats
 are such a part of the Dubh Linn Gate family they have their own
-<a href="https://whistler.dubhlinngate.com/story/the-old-goats.php">page</a>
+<a href="https://whistler.dubhlinngate.com/story/the-old-goats.php" target="_blank" rel="noopener noreferrer">page</a>
 on the bar's website. The Goat's most hallowed responsibility is to update the
 "Days Until St. Paddy's Day" sign every day. That and tell jokes.
 
@@ -700,7 +700,7 @@ hour later I pull into town just as a light dusting of snow begins to fall. I
 find my way to the Grizz Hotel, a no-frills accommodation with a great location
 and reasonable rate. I check in and head out on foot to explore. Revy, as it's
 commonly known, sits on the banks of the headwaters of the
-<a href="/traveler/2021_04-ski_trip/wp/day_6.html">Columbia River</a>, just
+<a href="/traveler/2021_04-ski_trip/wp/day_6.html" target="_blank" rel="noopener noreferrer">Columbia River</a>, just
 after the mighty confluence makes a U-turn at Kinbasket Lake & begins its long,
 southwesterly push to the Pacific. The town was founded in the 1880s
 as a mining outpost as the tracks of the Canadian Pacific Railway were laid. It
@@ -847,7 +847,7 @@ single tavern that's open and belly up to the bar for an ice cold Labatt.
 
 I overhear a couple blue collar fellas at the end of the bar complaining about
 the
-<a href="https://www.cnn.com/2022/02/07/americas/canada-covid-protest-explainer/index.html">trucker strike</a> going on at the border.
+<a href="https://www.cnn.com/2022/02/07/americas/canada-covid-protest-explainer/index.html" target="_blank" rel="noopener noreferrer">trucker strike</a> going on at the border.
 
 "Nobody wants to work these days, they come up with all these bullshit excuses
 and now I gotta deal with these assholes blocking the border."
@@ -939,7 +939,7 @@ As the grumpy old man stated at the bar last night, what they are protesting I'm
 sure they don't know. 
 
 Even if they did have a sound reason to assert their rights to assembly,
-<a href="https://www.cnn.com/2022/02/10/opinions/canadian-trucker-protest-absurdity-everyday-life-el-sayed/index.html">which
+<a href="https://www.cnn.com/2022/02/10/opinions/canadian-trucker-protest-absurdity-everyday-life-el-sayed/index.html" target="_blank" rel="noopener noreferrer">which
 they don't</a>, inconsequential wouldn't even begin to describe the effect of
 blocking the 400 daily vehicles that pass through the Eastport-Kingsgate border
 crossing. There are more cars parked on the side of the road than that. You can

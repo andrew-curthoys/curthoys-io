@@ -254,7 +254,7 @@ drive back to Greg & Joanne's does not feature any scantily clad women, for
 better or worse. I worked up a hell of an appetite today, which is fortunate
 seeing that today is Raclette Day. Michael, for all his world travels, has never
 dined at a
-<a href="/traveler/2021_04-ski_trip/wp/day_10.html?id=raclette">Raclette table</a>,
+<a href="/traveler/2021_04-ski_trip/wp/day_10.html?id=raclette" target="_blank" rel="noopener noreferrer">Raclette table</a>,
 a fact that we plan to remedy tonight.
 
 But not before a plop in Greg & Joanne's hot tub to soothe my sore muscles.
@@ -377,7 +377,7 @@ currently working through
 designs to build 62 miles of new light rail in Seattle, the fastest growing
 transit market in the US. The proposed depth of the downtown stations? 140 feet.
 As of writing,
-<a href="https://www.seattletimes.com/seattle-news/transportation/rolling-in-the-deep-sound-transit-riders-would-descend-nine-levels-downtown">an
+<a href="https://www.seattletimes.com/seattle-news/transportation/rolling-in-the-deep-sound-transit-riders-would-descend-nine-levels-downtown" target="_blank" rel="noopener noreferrer">an
 article</a>
 on The Seattle Times website detailing the plans has 228 comments. People are
 worked up about their subterranean labyrinthine future.
@@ -416,7 +416,7 @@ Argentinian mementos, soccer memorabilia, and of course a shrine to Maradona,
 Messi, and Jesus Christ above the bar.
 
 While we were in
-<a href="/traveler/2022_01-ski_trip/02-cali.html#tahoe-friday">Tahoe</a>
+<a href="/traveler/2022_01-ski_trip/02-cali.html#tahoe-friday" target="_blank" rel="noopener noreferrer">Tahoe</a>
 I discovered that in addition to crazy fact that San Francisco accounts for 25%
 of fernet's domestic market share, Argentina accounts for a mind boggling 75%
 international market share. It's so ubiquitous in Argentina that the fernet &
@@ -594,13 +594,13 @@ I'm just now seeing that he has a tasting room in Bend. A real Bend blunder.
 Jesus, I can't stay on track. Ok we're at Guardian Cellars. These wines are
 much more playful & funky. Their insouciant approach to winemaking pleases me;
 it's more in line with
-<a href="/traveler/2022_01-ski_trip/03-wine.html?id=tank">Tank Garage Winery</a>
+<a href="/traveler/2022_01-ski_trip/03-wine.html?id=tank" target="_blank" rel="noopener noreferrer">Tank Garage Winery</a>
 than the snobs over at J. Bookwalter.
 
 Joanne & Greg make it evident that they are actually interested in the
 Bengals-Chiefs game so I pull it up on my phone. We tune in just in time to
 watch Joey Burrah work his 4th quarter & OT magic to vanquish the
-<a href="https://www.youtube.com/watch?v=Nmgice3ieZ4">Chefs</a> and punch their
+<a href="https://www.youtube.com/watch?v=Nmgice3ieZ4" target="_blank" rel="noopener noreferrer">Chefs</a> and punch their
 ticket to their first Super Bowl since another Joey led the '9ers to victory
 with the help of a 11 grab 215 yard day from MVP Jerry Lee Rice. Great
 googly moogly!
@@ -614,7 +614,7 @@ Sunday of good wine & great company. But I'm ready to hit the slopes again.
 <h4 class="article-subheader">Baker Beckons</h4>
 When I made my PNW trek last spring, the only mountain still open that late in
 the season in all of Washington state was
-<a href="/traveler/2021_04-ski_trip/wp/day_10.html">Mt. Baker</a>.
+<a href="/traveler/2021_04-ski_trip/wp/day_10.html" target="_blank" rel="noopener noreferrer">Mt. Baker</a>.
 Which makes perfect sense, given that its 641 average annual
 inches of snowfall is one of the highest in the world. It also holds the
 distinction of snowiest season ever recorded anywhere on Earth at 1,140 inches -
@@ -704,7 +704,7 @@ neither can my brothers.
 My cousin Laura is on her way from Buffalo to hang with us in the great Pacific
 Northwest. Laura and I are pretty close, she 5 days older than me after all. She
 was my
-<a href="/traveler/2021_11-nyc_marathon.html?id=logistics">marathon sherpa</a>
+<a href="/traveler/2021_11-nyc_marathon.html?id=logistics" target="_blank" rel="noopener noreferrer">marathon sherpa</a>
 last November in the Big Apple. She brought my Australian bush hat all the way
 back to the States after the dumb brain that ostensibly should have been under
 said hat left it at a hotel in Perth. Laura is a treasure.
@@ -885,7 +885,7 @@ I love this place.
 </figure>
 
 I order a Black Beer from
-<a href="/traveler/2021_04-ski_trip/wp/day_9.html?id=holy-mountain">Holy Mountain Brewing Company</a>, a brewery I patronized last year with
+<a href="/traveler/2021_04-ski_trip/wp/day_9.html?id=holy-mountain" target="_blank" rel="noopener noreferrer">Holy Mountain Brewing Company</a>, a brewery I patronized last year with
 Greg & Joanne. As expected from my experience with Holy Mountain the suds are
 excellent. Laura and I enjoy our cold cruisers and meander around to further
 bask in the glorious milieu of the Comet. On one wall hangs an enormous red
@@ -1103,7 +1103,7 @@ We enjoy another round of drinks before hiking back up the hill to the house and
 a little shuteye.
 
 The next morning we arise with plans to hike
-<a href="/traveler/2021_04-ski_trip/wp/day_9.html?id=falls">Snoqualmie Falls</a>,
+<a href="/traveler/2021_04-ski_trip/wp/day_9.html?id=falls" target="_blank" rel="noopener noreferrer">Snoqualmie Falls</a>,
 a 270-foot high waterfall (~100 feet higher than Niagara Falls) about 45
 minutes away. We strap on our hikin' boots and load into the Jeep. The weather
 is gorgeous, a perfect Sunday morning without a cloud in the sky.

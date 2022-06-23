@@ -156,7 +156,7 @@ Just as we're finishing our drinks my cousin Randy pulls into town. He drove up
 from Vegas to so we head back up to the condo to
 meet him. This is Randy's 6th trip up to Mammoth this season, taking his first
 trip after a big snow dump in October. I skied Lake Tahoe with cousin Randy
-<a href="/traveler/2021_04-ski_trip/wp/day_1.html">last April</a> and I'm excited
+<a href="/traveler/2021_04-ski_trip/wp/day_1.html" target="_blank" rel="noopener noreferrer">last April</a> and I'm excited
 to tear it up again with him. We chat for a while before hitting the sack,
 ready for another day on the hill.
 
@@ -279,7 +279,7 @@ enough for me.
 We thank him for his advice and pull out of town, just over an hour left to
 Palisades Tahoe, formerly known, and still commonly referred to by locals, as
 Squaw Valley. It's the largest ski area in the Lake Tahoe area and the most well
-known due to <a href="/traveler/2021_04-ski_trip/wp/day_2.html?id=sv">hosting the
+known due to <a href="/traveler/2021_04-ski_trip/wp/day_2.html?id=sv" target="_blank" rel="noopener noreferrer">hosting the
 1960 Winter Olympics</a>. It's been the home mountain of innumerable world class
 skiers and daredevils, who affectionately refer to it as "Squallywood." I had a
 blast skiing here last April & this time we'll have much more snow so you could
@@ -321,7 +321,7 @@ at 5 AM for the 9 AM lift to get first tracks down the mountain.
 We choose to eschew the most extreme terrain, riding down Red Dog ridge to the
 Womens Downhill run, so called because it was the site of that competition during
 the 1960 Olympics. It's a familiar run to me - Randy and I 
-<a href="/traveler/2021_04-ski_trip/wp/day_3.html?id=kt22">skied it</a> quite a few
+<a href="/traveler/2021_04-ski_trip/wp/day_3.html?id=kt22" target="_blank" rel="noopener noreferrer">skied it</a> quite a few
 times last April. It's challenging but manageable and we decide to give it
 another whirl. The next time down James, Casey, &
 Nick decide to call it a day and I make one more easy run down the Saddle with

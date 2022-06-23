@@ -70,7 +70,7 @@ Chateau Montelena '73 Chardonnay, respectively.
 The event wasn't much hyped outside of wine snob circles, with only a single
 journalist assigned to cover it. George Taber's article in Time
 Magazine
-<a href="http://content.time.com/time/subscriber/article/0,33009,947719,00.html">
+<a href="http://content.time.com/time/subscriber/article/0,33009,947719,00.html" target="_blank" rel="noopener noreferrer">
 *Judgment of Paris*</a> chronicled the tasting, leaving us with such gems as
 "ah, back to France" after a judge tasted a Chardonnay from Napa, and "that is
 definitely California. It has no nose" after another tippled an offering from
@@ -202,7 +202,7 @@ schedule, a feat that seems
 almost unimaginable today. It was the longest and tallest suspension bridge in
 the world from its opening in 1937 until the
 Verrazano-Narrows Bridge
-(<a href="/traveler/2021_11-nyc_marathon.html?id=run">yes that Verrazano-Narrows Bridge</a>)
+(<a href="/traveler/2021_11-nyc_marathon.html?id=run" target="_blank" rel="noopener noreferrer">yes that Verrazano-Narrows Bridge</a>)
 surpassed it in length in 1964, and the Mezcala Bridge in Mexico surpassed it in
 height in 1993. To bring it full circle, the suspension cables were
 installed by none other than John A. Roebling's Sons Company. Remember that guy?
@@ -462,7 +462,7 @@ For whatever reason she just wasn't havin' it today. Maybe she's a Cowboys fan?
 
 The next two stops are more successful, the audience is receptive and excited to
 check out his collection when he gets his
-<a href="https://www.robertemersoncouture.com">website</a>
+<a href="https://www.robertemersoncouture.com" target="_blank" rel="noopener noreferrer">website</a>
 up & running. By this point
 I could eat a horse so we hop over to Mama Ji's in the Castro for lunch. I let
 Michael do all the ordering since he's been to China dozens of times for
@@ -628,7 +628,7 @@ As always seems to be the case, said alarms squawk much, much too soon and we're
 on the road chasing that red compass needle. Our final destination is Bend,
 home base for the next few days of skiing, however I have scheduled a
 detour to Crater Lake, which I have
-<a href="/traveler/2021_04-ski_trip/wp/day_4.html?id=crater">seen from a plane</a>
+<a href="/traveler/2021_04-ski_trip/wp/day_4.html?id=crater" target="_blank" rel="noopener noreferrer">seen from a plane</a>
 and need to see in person.
 
 It doesn't take long for us to enter the Sacramento Valley, the northern half of
