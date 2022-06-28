@@ -569,5 +569,155 @@ We probably could have thought of that before setting off on this foolish
 endeavor, but sometimes you just gotta give into your impulses. And we got some
 great views anyhow.
 
+We make it back to the hotel and decide to have supper at the 19th Hole Bar &
+Grill right next door. I order myself a Haze Trip Hazy IPA from Bozeman
+Brewing and a jerk mango chicken sandwich that's surprisingly good for a little
+pub-grub watering hole on the outskirts of town. After supper we hit the sack,
+ready for some Big Sky skiing.
+
+<p class="section-divider my-4">&#11044;&emsp;&ensp;&#11044;&emsp;&ensp;&#11044;</p>
+"Well the crazy bastard actually did it"
+
+"Huh?"
+
+"Putin. He invaded Ukraine this morning"
+
+"Well shit, that's not good"
+
+We lethargically pull on our ski gear while watching the news and doomscrolling
+Twitter. We head down to the lobby for some coffee & brekky before venturing
+south to the heart of the Gallatin Range. As we emerge from the sliding doors of
+the hotel the needle of a thermometer catches my attention. 0&deg;F. It's gonna
+be a cold one out there.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock1_thermometer.jpeg" alt="Cold">
+  <figcaption class="figure-caption">Is it? Is it gonna be a cold one out there,
+  Wally!!???</figcaption>
+</figure>
+
+Randy and I hit the road south, winding through the scenic ravines of the
+Gallatin River canyon. Fortunately the roads have cleared off from the snow.
+Unfortunately there's a semi truck in front of us that refuses to use the
+roadside pullout areas so we make trudge along at 30 mph the entire way.
+
+After an intolerably slow drive with a car train stretching as far as the eye
+can see we finally make the left turn into Big Sky, the place where the ski
+bug bit me right in the ass back in 2018. As I mentioned, this is my fourth
+journey to The Biggest Skiing in America. The second was the first weekend in
+2020, right before everything shut the fuck down, and the third was February
+2021 after I caught the plague & my immaculate immune system was fully
+bolstered.
+
+I absolutely love Big Sky. I would probably consider this my home mountain.
+After that first trip the fellas were talking about how great it was and the
+gals encouraged buying a vacation home there. We kicked the tires on it but
+didn't get too far down the road on it but boy do I wish we had. That sucker
+would probably at least doubled in value. Y'know hindsight and all that.
+
+We park the rig and get all geared up. Geared up and layered up. Layers are
+essential today with these bone chilling temps. The shuttle swings around and we
+hop on for the short ride to the hill. This is when my enthusiasm for Big Sky
+begins to wane. When we first came here in 2018 it was nice, sure, but it was
+mostly about the skiing. There were some fancy amenities but you still felt a
+bit grimy walking into Scissorbill's Saloon. Scissorbill's is still there
+thankfully, however around it has sprung up bistros, gastropubs, caf&eacute;s,
+boutiques, lounges, and ristorantes. It's sickening.
+
+When Covid hit, one of the pyrrhic beneficiaries of the disgorging of the
+roiling masses of jagoffs from Northern California was Bozeman, MT. Its housing
+supply is bulging at the seams, causing skyrocketing prices that are displacing
+locals and making it nearly impossible for service sector workers to find a
+place to live. A Bozeman local even took to "<a href="https://www.kbzk.com/news/local-news/man-using-cardboard-sign-begging-people-to-sell-him-a-home-settling-into-new-house"
+target="_blank" rel="noopener noreferrer">begging</a>"
+for a home, having been outbid for dozens of others.
+
+As we slide up to the Swift Current chair we see the temperature is still
+hovering around 0 &deg;F at the base, -5 &deg;F at the summit. Frigid. The
+Swift Current used to be a high-speed quad, has been
+upgraded this year to a high-speed 6-pack with heated seats and a bubble visor.
+The seating capacity of the chair has increased by 50% yet the line is *fucking
+long*. It's the longest line I've seen anywhere at Big Sky. What in the hell is
+happening to my home mountain?? I came here for the skiing not for the heated
+seats. The "Don't Vail Big Sky" sticker I saw the first time I came is starting
+to make sense. I'm a flatlander from Oklahoma but this place holds a special
+place in my cold, dark heart. As one of the gentrifying outsiders I hate to see
+all these gentrifying outsiders ruin my home of one-week-a-year.
+
+As Randy and I make our way to the top of the lift I've probably ridden more in
+my life excluding all the lifts of New Mexico, we hear some Boston accents. For
+fucks sake, we're getting gentrified by *Massholes*. Californians are bad enough
+but *Massholes*?? If it weren't for this bubble I might just peel out of this
+contraption and leave these suckers behind.
+
+We finally reach the top and peel off to the right for the Powder Seeker lift.
+This lift accesses a wide bowl of great terrain & one of my favorite places to
+run laps. The top of this lift also accesses the Lone Peak
+Tram, a cableway strung from the top of Lone Peak to the base of the crag that
+shuttles two glorified buckets to and fro up a sheer vertical face to an
+elevation of 11,150'. On a clear day you can see three states and two national
+parks. Most of the best skiing at Big Sky spreads out from the top of the tram.
+Unfortunately that makes it a popular destination and wait times have been
+known to eclipse two hours.
+
+This year the corporate bigwigs running the mountain have decided to begin
+charging for access to the tram. Today it's $80. Yikes. When we
+reach the top I peek over to the tram and see that the line at least an hour
+long. $80 and an hour wait for each ride. Double yikes. I'd love to show Randy
+the outstanding views and killer lines from the top but it's hard to justify.
+If it were $80 and no wait or an hour wait and no charge I think we'd give it a
+look. But not both. Ain't nobody got time for that.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock1_lone_peak1.JPG" alt="Lone Peak">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock1_lone_peak2.jpg" alt="Lone Peak">
+  <figcaption class="figure-caption">A couple views from the top of Lone Peak
+  from a former trip</figcaption>
+</figure>
+
+So we take a few laps on Powder Seeker before heading over to the Moonlight
+Basin area of the mountain. This isn't my favorite area, the skiing is just ok
+and a ton of runs funnel down to a single lift, which can
+create some pretty long lines for the Six Shooter chair. But I figure I should
+show Randy the whole mountain while he's up here. As we're cruising down
+some groomies towards Six Shooter I hear a horrific scrape and a tug on my
+right ski. What the fuck? Did I just hit a rock? On a *groomer*?
+
+I can't describe the feeling deep, deep down in the pit of your soul when you
+gash the very first pair of skis you've ever owned. In fact, I don't think the
+English language can adequately describe it. *Weltschmerz* is an untranslatable
+German word that has been described to mean "the weariness that comes with
+knowing that the world is going to let you down no matter what and there's
+nothing you can do to stop it." That might come close.
+
+But as they say in the skiing community, "they're tools not jewels." I was bound
+to rough em up at some point but it's still painful. We make it down to Six
+Shooter and thankfully the line ain't too bad. Unfortunately, though, the
+mercury has continued to sit at 0 &deg;F and my feet are starting to turn into
+popsicles. We ski back down to the main area and pop in the lodge for a bit so
+I can warm my tootsies back up. I buy a set of toe warmers, the first time I've
+needed them since buying these Rossignol ski boots in 2018.
+
+After about 15 minutes we gear up and head back out there. I decide to take
+Randy around the backside to show him the Shedhorn & Dakota areas. We make our
+way around yonder and don't find much better snow back here. Dakota has some of
+my favorite glade skiing but almost the entirety of the glades are exposed
+stumps and boulders. It's a pretty sad sight. We end up grabbing a quick bite at
+the Shedhorn Lodge, a yurt on the backside that specializes in chili and cold
+beers. While at the yurt we see a nice looking line that looks like it could be
+accessible from the Dakota chair. Figure we should give it a shot.
+
+We head down to Dakota then traverse hard right when we get to the top. It's a
+workout to get there, through a small ribbon of snow that cuts across a
+rockfield. Finally we reach the ridge and peer over the side to find a nice
+steep bowl of snow that actually looks pretty good. We drop in and it skis like
+a dream. Steep & open with great snow to link turns all the way down in one go.
+Well that was fun as hell, let's do that again. So we do.
+
+
+Actually now
+that I'm looking at it these runs don't actually seem to be groomed. What
+the hell is going on out here?
+
 Big Sky rocks German word Weltschmerz
 https://www.bustle.com/p/18-words-for-sadness-depression-that-dont-exist-in-english-7260841
