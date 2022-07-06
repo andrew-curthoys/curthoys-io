@@ -181,6 +181,8 @@ Eric is a bit quieter, content to let Jeff do all the talking. They both work
 for Boeing & are able to take a few mid-week mornings off per month to embrace
 the send. Sounds like a hell of a gig to me.
 
+<div id="thermos"></div>
+
 Before we hop on the gondola, the liftie tells us the first 25 people to make
 a purchase at the Summit House Restaurant at the top of the gondola will receive a
 free Stanley thermos. Well you would have thought Jeff won the lottery with that
