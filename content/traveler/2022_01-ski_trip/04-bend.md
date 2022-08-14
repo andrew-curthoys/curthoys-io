@@ -39,7 +39,7 @@ As lunchtime approaches we head back around the frontside to see if
 conditions have improved. If anything it's gotten worse. At this point in the
 day we're so wet it looks like we've walked through a car wash.
 
-<figure class="figure">
+<figure class="figure" id="rain">
   <div class="row">
     <div class="col-6">
       <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/bend_rain1.JPEG" alt="Rain">
