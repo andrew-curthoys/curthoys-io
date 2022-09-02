@@ -3,7 +3,7 @@ slug: traveler/2022_01-ski_trip/09-rockies_pt1
 slug_base: traveler/2022_01-ski_trip
 day_alias: Northern Rockies
 prev_day: 08-canada
-next_day: 10-cowboy_state*
+next_day: 10-cowboy_state
 date: 2022-02-20
 post_date: 2022-06-12
 category: Traveler
