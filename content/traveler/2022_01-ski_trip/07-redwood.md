@@ -324,7 +324,7 @@ tracks, staring, dumbfounded, mouth agape.
   </div>
 </figure>
 
-<h4 class="article-subheader">The Best Idea We Ever Had</h4>
+<h4 class="article-subheader" id="parks">The Best Idea We Ever Had</h4>
 In 1983, Pulitzer Prize award winning novelist and environmentalist Wallace
 Stegner declared that the US National Parks are “the best idea we ever had.
 Absolutely American, absolutely democratic, they reflect us at our best rather
