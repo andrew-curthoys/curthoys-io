@@ -4,8 +4,8 @@ slug_base: traveler/2022_01-ski_trip
 day_alias: Cowboy State
 prev_day: 09-rockies_pt1
 next_day: 11-rockies_pt2*
-date: 2022-02-20
-post_date: 2022-06-12
+date: 2022-02-26
+post_date: 2022-09-01
 category: Traveler
 activity: 2022 Ski Trip Adventure
 summary: As Randy jets off back to Vegas I hit the road due East on I-90, bound for Powell, a cozy Wyoming town just outside Cody. Awaiting me is another former coworker and current friend named Dusty, who has foolishly invited me to stay with him and his lovely family. The drive is a pleasant 3 hour cruise through light snow flurries skirting the Northeastern rim of the Yellowstone Plateau.
@@ -696,6 +696,8 @@ order another beer just so I can chat with him longer. I don't catch his name
 as I leave the Moose but I'm going to guess it's Stanislaus. Damn fine name
 Stanislaus.
 
+<div id="mdc"></div>
+
 I saddle up and head into town, hoping that the Million Dollar Cowboy is open
 to the public today. I pull into the town square and find that I'm in luck. I
 push open the swangin' doors to reveal the most obscenely garish cacophony
@@ -763,7 +765,10 @@ short journey to the cabin where I call it an early night in my comfy abode.
 
 I wake up bright and early and hit the road South
 with a full tank of gas and a fresh cup of coffee. I follow the Snake River for
-about an hour until the town of Alpine, home of Melvin Brewing, right on the
+about an hour, past a sign that reads "Adopt a Highway: Satanic Temple of Idaho."
+I've heard many stories of paving the road to hell so I reckon these folks know
+their way around a road grader. Before I know it I'm passing through Alpine,
+home of Melvin Brewing, right on the
 shores of the Palisades Reservoir. Unfortunately the brewery isn't open this
 early in the morn' so I continue tramping south as the Snake veers eastward,
 towards its headwaters in the Tetons & Yellowstone.
