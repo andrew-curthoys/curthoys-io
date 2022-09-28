@@ -3,7 +3,7 @@ slug: traveler/2022_01-ski_trip/10-cowboy_state
 slug_base: traveler/2022_01-ski_trip
 day_alias: Cowboy State
 prev_day: 09-rockies_pt1
-next_day: 11-rockies_pt2*
+next_day: 11-utah
 date: 2022-02-26
 post_date: 2022-09-01
 category: Traveler
