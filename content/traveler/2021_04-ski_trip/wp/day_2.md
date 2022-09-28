@@ -85,6 +85,8 @@ At the top we arrive at an installation called High Camp. This has a massive dec
   <figcaption class="figure-caption">Hangin at High Camp</figcaption>
 </figure>
 
+<div id="mcconkey"></div>
+
 A skiing legend and certified crazy person named Shane McConkey blew everyone’s mind once when he backed up 40 feet from the edge of the cliff, got a head of steam, and executed a massive backflip off the escarpment. He was a different animal. He developed some of the technology that make up the skis that I’m cruising today. He tragically died in 2009 during a in a ski-basing accident, a combination of skiing and base-jumping - the pinnacle of daredeviltry. This relaxing, family-friendly activity involves a lunatic skiing off a cliff, unclipping his skis mid-air, flying for a bit with a wingsuit, before ultimately deploying a parachute. This time McConkey’s ski release device malfunctioned and by the time he finally got the binding released it was too late. He was maniac and a pioneer and the skiing community lost a real one with him.
 
 Randy has another story of the Palisades he shares with me about a time he was riding up the chair lift and saw a guy fly off the cliff and stick the landing. Right after the landing there is a ridge and you need to turn quickly to avoid launching into a stand of trees. Well our hero that day either didn’t know to turn or wasn’t able to turn and Randy saw him disappear over the edge of the ridge and a half second later heard a thud and saw the top of a tree sway back & forth like a cartoon. Rand gets to the top of the lift and swings down to see if the dude is alright.
