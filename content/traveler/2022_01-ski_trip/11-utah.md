@@ -10,6 +10,58 @@ category: Traveler
 activity: 2022 Ski Trip Adventure
 summary: 
 
+**Genetic defect in snowboarders**
+
+<h4 class="article-subheader">Hey Matis!</h4>
+"I fell into a bowl uh powdah chowdah!!"
+
+I look over to see Branch chest deep in fluffy Utah powder.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_branch_powder.jpeg" alt="Branch">
+  <figcaption class="figure-caption">The Treemeister</figcaption>
+</figure>
+
+Eric (Lee?) Branch is a born-and-bred Masshole who moved out to Utah a few years
+ago and apparently couldn't afford a flight for his accent. He still *pahks*
+his *cah* in the lot before shredding the *powdah* at *Pahk City*. I know Branch
+through my best good buddy Patrick, who met him while roaming the mean streets
+of Boston.
+
+Branch calls me "Matis" because he thinks I look like Mathisyahu (Although
+*Stepfather John Misty* is my musical sobriquet of preference). He spells it
+"mattis yahoo."
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_matis1.jpg" alt="Matis">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_matis2.jpeg" alt="Andy">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Resemblance? Perhaps</figcaption>
+</figure>
+
+Branch doesn't drink *beers* he enjoys *bowls of loudmouth soup.*
+
+Branch doesn't ______ he _________
+
+Branch is one of the most unique characters I've ever met on god's green earth.
+
+Branch is fantastic.
+
+In a spate of *what a small world-ism* I actually met Branch before Patrick did.
+One summer in college I trekked up to Boston for a concert, where I met Branch
+through a friend of a friend of a friend. We enjoyed bowl after bowl of
+loudmouth soup all weekend long. A few years later
+after Patrick graduated college & began his life as a young professional in
+Boston he became friends with Branch, completely unbeknownst of our previous
+bouts of hooliganry.
+
+Small world indeed.
+
 <h4 class="article-subheader">The Crossroads of the West</h4>
 I ring the doorbell and I'm greeted with open arms by Bob & LaGayle & their
 roving gang of canine hooligans, Geno, Crosby, ?fifi?, and ?other?. I unload
@@ -81,6 +133,11 @@ snowstorm. To add a straw to the back of the camel who has long ago collapsed
 and is gasping for air, Covid has exacerbated and accelerated the aforementioned
 demographic trends.
 
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_canyons_snowfall.jpg" alt="Snowfall">
+  <figcaption class="figure-caption">More pink = more snow</figcaption>
+</figure>
+
 All of that is to say that I'd be *jazzed* to ski tomorrow but it sounds like
 I'd be sitting in traffic and lift lines longer than actually sliding down
 a mountain. Katie texts me that they will be day drinking in Park City if I
@@ -107,27 +164,6 @@ code for the house in case I arrive at an unreasonable hour. I would never.
 
 I wander around town for a bit before ducking into ___ for a beer to wait
 for Katie & crew to finish up at the volleyball.
-
-I guess this is the part of the story that I should introduce Branch. Branch is
-a friend of Easley's from Boston who moved out to Utah a couple years ago but
-couldn't afford a flight for his accent. He still *pahks* his *cah* in the lot
-before shredding the *powdah* at *Snowbuhd*.
-
-Branch doesn't drink beers he has *bowls of loudmouth soup*
-
-Branch doesn't ______ he _________.
-
-Branch calls me "Matis" because he thinks I look like Mathisyahu. He spells it
-"mattis yahoo"
-
-Branch is fantastic.
-
-In a another example of serendipity I actually met Branch before Easley did,
-when I went to Boston for a concert in college. He was a friend of a friend and
-we enjoyed a bowl after bowl of loudmouth soup that weekend. A few years later
-after Easley graduated college & began his life as a young professional in
-Boston he became friends with Branch, completely unbeknownst of our previous
-bouts of hooliganry. Serendipity indeed.
 
 While enjoying a Powder Buoy pilsner at Collie's Sports Bar & Grill I get a text
 from Branch
@@ -394,10 +430,10 @@ nap in the car.
 speak and share their stories with fellow alphas. You'd fit right in"
 
 <div class="mx-3 mb-3"><i>
-  *Translation: a group of insecure misogynistic conmen have built up a "Brand"
-  convincing other insecure misogynists they too could *have* *girls* and *be*
-  *rich* all while willingly handing over money to scam artists. At least that's
-  what I assume it is, I didn't look it up.*
+Translation: a group of insecure misogynistic conmen have built up a "Brand"
+convincing other insecure misogynists they too could *have* *girls* and *be*
+*rich* all while willingly handing over money to scam artists. At least that's
+what I assume it is, I didn't look it up.*
 </i></div>
 
 "Nah man I don't know anything about that"
@@ -658,11 +694,39 @@ the hour-long standing room only ride to the hill. It would have been longer but
 the bus was allowed to cut in front of a long line of cars waiting to get into
 the canyon so that was nice.
 
+After Sun Valley in Idaho, Alta was the second ski resort in the western United
+States to commission a chairlift, with a single seater beginning operation in
+1939. The majority of the materials for the chairlift were rummaged from a
+decommissioned aerial tramway for transporting silver ore out of the canyon. The
+roots of modern human development in this area trace back to mineral extraction
+after silver was discovered in the Wasatch range in 1864. The vein was quickly
+depleted, however, after a boom and bust in the late 1800s. The area saw another
+short boom & bust in the early 20th century but following the Great Depression
+the 1930 census recorded six registered voters in Alta, down from the thousands
+of prospectors hoping to strike it rich just a few decades before.
+
+When the mining town went bust for the final time, the owner deeded the land to
+the US Forest Service in lieu of back taxes. The timing could not have been
+better, as the Forest Service was invigorated with New Deal funds. In 1935 a
+study was commissioned by Norwegian ski jumper Alf Engen to study the suitability
+of the area for a ski resort. Anybody who has skied the fluffy flakes of Alta
+would not be surprised to discover that Uncle Alf's report was glowingly
+positive. as part of the New Deal, the US Forest Service commissioned a 
+
 I arrive at the Goldminer's Daughter at the base of Alta with a little under an
 hour till the first chair. I order myself a coffee and muffin and take the load
 off for a while to rest my feet after that bus ride. People start queuing up for
 the first chairs of the day and with a half hour to go I gear up and brave the
 elements for a spot in line for some fresh pow.
+
+Alta has a mystique in the skiing community. It is one of only three ski resorts
+in the US that still don't allow snowboarders - the other two being Deer Valley,
+where I skied earlier this week and a place in Vermont. It's consistently ranked
+near the top of best ski resorts in the US, with a reputation for challenging
+terrain and massive dumps of light, powdery snow. It almost has a cult following
+among expert skiers who appreciate the terrain and its no-nonsense approach to
+skiing - there are a few basic cafeteria-style dining options and virtually no
+nightlife. It's all about the skiing here.
 
 9 AM comes and goes. The avalanche teams are still clearing terrain and
 won't open the lifts until they deem the mountain safe. After standing in the
@@ -675,5 +739,321 @@ powdery goodness. At the top I dive into a run called Spruces, a steep chute
 with powder up to my waist in places. The vibe on the hill is pure ecstasy, you
 can just feel the energy from everyone living their best life. The entire ride
 down is like heaven, my skis floating through the fresh snow like a dream. The
-only drag is the lift lines, which take 20-30 minutes each time. But I'm in no
-position to complain.
+only drag is the lift lines, which take 20-30 minutes each time. But I really
+can't complain about anything right now.
+
+I take a couple more spins on this lift, ripping down the runs of the West
+Rustler ridge. To be fair, I don't really have a choice of lift at this point
+since it's the only one that's been opened by avalanche control. Once they open
+the Wildcat double I take a ride up and take a soft, fluffy tumble on my way
+down when I get lazy and catch a ski in the powder. Even falling on a powder
+day is fun.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_alta_knee_deep_pow.JPEG" alt="Knee deep pow">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_alta_pow.JPEG" alt="Flying flakes">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Powder paradise</figcaption>
+</figure>
+
+Lunchtime sneaks up on me and I duck into the Watson Shelter mid-mountain to
+warm up my frozen toes
+and scarf down a backpack PB&J. It's a quick pit stop and I'm back out there,
+this time over the other side of the ridge to the Sugarloaf lift. I find some
+great patches of snow off the Cecret Saddle & Devil's Elbow runs before I scoot
+over to the Supreme lift. This is where I find the most challenging skiing of
+the day in the Supreme Bowl.
+
+Challenging, yes. Fun, also yes. Exhausting, very much yes.
+
+There's a saying in the skiing community, "there are no friends on a powder day," i.e.
+everybody is on their own to find the bestest, freshest, fluffiest snow on the
+mountain. It worked out great for me since I didn't even have to pretend I had
+any friends, just me, my powder skis, and a 2,200 acre alpine playground.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_alta_snow_beard.JPEG" alt="Snowbeard">
+  <figcaption class="figure-caption">Hell of a day</figcaption>
+</figure>
+
+This is the kind of day that makes all the shit snow this season worth it. This
+is the type of day that will make you shell out hard earned cash for a second
+pair of skis. This is the kind of day that will keep you coming back.
+
+When last call rolls around I gather my gear and make for the bus stop. Luckily
+the cattle car is much less crowded this go-round and I actually get a seat.
+It's only about 30 minutes down compared to the hour-plus logjam on the way up.
+I load up my gear into the car and head back to the homestead for some well
+deserved supper.
+
+<p class="section-divider my-4">&#11044;&emsp;&ensp;&#11044;&emsp;&ensp;&#11044;</p>
+The next day we're headed right back to Little Cottonwood Canyon, only this time
+we're going right next door to Snowbird. This will be my first time skiing it
+and I'm very excited.
+
+The roads have been cleared off so I decide to scamper up the canyon atop my own
+steed. The road is backed up but the traffic moves at a decent clip. I arrive to
+Snowbird at what I thought was bright & early but apparently bright & early has
+a different meaning when there's fresh snow on the hill. I have a hell of a time
+finding a hitchin' post for the ol' gal but finally find a lot after looping
+around the base area a few times.
+
+I unpack my gear and head up to the tram, where I wait about 15 minutes until
+it opens then another 15 for the athletes who queued ahead of me to be ferried
+to the top of Hidden Peak 11,000' into the crisp Utah air. On the way up I
+spotted some lines on the Peruvian Cirque that looked awful tasty.
+
+After soaking in the stunning two-mile-high panoramic vistas I scoot over to the
+Cirque Traverse on the ridge above the wide bowl of the cirque. The top of the
+bowl is guarded by 10' cliff drop-ins, which I eschew for the more modest entry
+of the Middle Cirque. The run is somewhat tracked out but there are still
+sections of dynamite snow to be had.
+
+I reach the top of the Little Cloud chair to find hundreds of skiers lined up at
+the rope for Mineral Basin. This is the back bowl area that has yet to be
+cleared by avalanche control after the big snow dump a few days ago. Translation:
+500 acres and 1,300 feet of wide-open untouched powder. I stand up there for
+about 5 minutes, hoping to get lucky with the rope drop but decide that I'm here
+to ski not stand around like I'm waiting to board a Southwest flight so I head
+back down the front side of the mountain, towards the Gad 2 lift.
+
+Another couple runs and I make it back to the Little Cloud lift, whose line has
+ballooned with skiers hoping to get some of that fresh pow in Mineral Basin. When
+I reach the top of the lift I see the rope has been dropped & scoot over to take
+a peek.
+
+Now I've seen some sights on this trip, but the view that unfurls in front of me
+as I slide up to the lip of the basin is something to behold. Littering the
+wide expanse below me are hundreds of blotches weaving in & out of each other,
+dozens of stagnant blotches stomping through waist deep snow looking for skis
+they've been dispossessed of. I can only speculate but I doubt many of them are
+going to find their equipment. That should pose quite the adventure traversing
+to the bottom of the mountain on a single plank.
+
+Someone caught the mayhem at rope drop on their phone. Have a look.
+
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/tv/Ca-Y5aBIwg1/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/tv/Ca-Y5aBIwg1/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/tv/Ca-Y5aBIwg1/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by SnowBrains (@snowbrains)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+
+Instead of following the lemmings straight down the bowl of tracked out snow I
+follow a handful of athletes sensibly traversing to the right (i.e. the same
+line as the people going away from the camera in the video above). We scoot around
+an outcropping and in front of me sprawls an enormous bowl of untouched snow
+ready for shredding. I spot myself a line and let 'er rip. And boy does she
+rip.
+
+Without a doubt this is the best patch of snow I've encountered on my trip.
+It feels like skiing on a cloud, my powder skis working as
+advertized, floating above the fluff like I'm being pulled by an Evinrude. The
+forces of gravity and drag from the knee deep powder perfectly balance in a
+beautiful equilibrium, not too fast, not too slow. Each turn is effortless,
+linking them together to carve elegant arcs through the pristine duvet of snow.
+
+Unfortunately every blissful dream has to end, and the end of this fantasy
+coincides with another end. The end of a gargantuan lift line. I should have
+seen this comin'. All them powder seekers and only one way out. The hour-long
+wait for the chair is a drag but I'd do it again 10 times out of 10 just to
+experience that run again. By the time I reach the top the entirety of Mineral
+Basin is tracked out and that hour long wait ain't gonna be worth it this time.
+
+I head back over to the front side and find some decent snow to skier's
+left of the Cirque Traverse. I decide to take a quick video of the pillowy
+powder and while I'm able to get some turns on tape, I fail miserably at my
+original goal of taking a *good* video of the pillowy powder. As you can see the
+video is proper shit, shot with my phone in an un-gloved hand and the other hand
+holding both poles ski. All while diverting the lion's share of my
+attention to wrapping my frigid fingers as tightly as I possibly can around my
+phone, lest I drop it in the snow never to see it again.
+
+<div style="width:100%; height:0; padding-bottom:100%; position:relative; margin: 20px auto;">
+  <iframe src="/theme/images/traveler/2022_01-ski_trip/utah_powder.mp4" width="100%" height="100%" style="position:absolute" frameBorder="0"  allowFullScreen></iframe>
+</div>
+
+The lift lines all over the hill and that hour long wait at Mineral Basin has
+really decreased my skiing efficiency and the shadows are starting to get long.
+I only get in another run or two before last call. All told I only muster 10
+runs for a meager 15,584' of vertical. But that's the way it goes on a powder
+day.
+
+As I mosey back down the canyon road I remember a conversation with Bob &
+LaGayle from a few nights ago. They mentioned that at the mouth of the canyon
+lies a great watering hole called the Porcupine Pub & Grille that has wings so
+hot they'll burn your face off. If you know me you likely know that I happen to
+have a careless disregard for the happiness of my tastebuds so I naturally set
+my course for the Porc' and those fiery flappers.
+
+I plop down at a barstool and order a Porcupine Pilsner from Moab Brewery and a
+half dozen wings doused in hellfire sauce. The wings arrive about a half pint
+into my pils & I prepare for pain. I take the first bite & it's not that bad. I
+wait a bit, waiting for a delayed heat. But it never comes. That's all the bite
+these babies got. They are hot, sure, but I don't think they are deserving of a
+name like *hellfire*. I mention as much to the bartender & she agrees. Apparently
+sometime in the past few years they turned down the heat due to the numerous
+complaints they received about the wings. For christ's sake if you order wings
+that brandish a title such as **hellfire** you should know what you're in for
+and accept personal responsibility for your questionable life choices. People
+these days are so soft, my word.
+
+I polish off the beer & wings and make the short drive back to Bob & LaGayle's.
+They are just as disappointed as I to learn about the wussification of the
+Porcupine's hellfire wings. They don't get too reckless with their capsaicin
+consumption so they are not personally aggrieved by the development, but there's
+something comforting about knowing that the hellfire wings at the Porcupine
+are waiting for the next culinary daredevil to tackle.
+
+<div class="tenor-gif-embed mb-3" data-postid="14422396" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
+  <a href="https://tenor.com/view/letterkenny-leave-this-world-behind-canada-gooses-daryl-darry-gif-14422396"></a>
+</div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<h4 class="article-subheader">Take Me Back to Alta</h4>
+And now the story returns to our old friend Branch. He planned to pick me up in
+the morning but something came up and he'll be delayed. No matter, I just head
+to the bus station and ride the cattle car up to the hill. The snow gods haven't
+blessed us with fresh precipitation so the bus is much less crowded than the
+other day. I gear up and hop on the Collins lift for another day on the slopes
+at Alta.
+
+Last night Bob pulled up the trail map of Alta and showed me his favorite runs.
+The one run he says I can't miss is called Alf's High Rustler. It stands
+menacingly above the loading area for the Collins lift, a test of the best skier's
+mettle. Getting there is a bit of a trek, which give credence to Alta's nickname:
+Another Long Traverse Ahead. Off the Collins lift you take the high traverse all
+the way along the ridge until you think you can't go any more... and keep going.
+
+So I do just that, I ride the ridge towards High Rustler.. and ride.. and ride..
+and ride. I eventually reach a point where I'm completely stymied by trees in
+all directions. The only direction I can find my way out of this arboreal prison
+cell is *up*. I side shuffle uphill about 20 yards, where I find an opening
+over the other side of the ridge.
+
+I've actually found myself a nice little honey hole over here, a wide open bowl
+without another soul on it. The snow is pretty skied out but there's still some
+decent pockets of good snow. As I drop in I get a text from Branch that he just
+pulled in and I can meet him at the base of Collins. Seeing as I went up & over
+the ridge I'm going to need to swing all the way back around the face of the
+mountain towards High Rustler where I was hoping to be in the first place.
+
+I bear left & find a notch where I can get around to the face of the hill. I
+quickly realize this was a blunder when I find myself locked in quagmire of
+trees. Oh this ol' thing again. I should have just taken my medicine and taken
+the rope tow at the base back over to Collins. As it stands all I can do is to
+continue traversing across the hill, dodging trees, sidestepping rocks,
+avoiding cliffs. It's really not a fun spot to be in.
+
+After grinding it out
+through a dense thicket of hazards I finally find a clearing. I stop to catch
+my breath, relieved to finally find myself faced with what would actually be
+considered a ski run. I know I need to keep traversing to get to Collins but at
+this point I'm not passing up any skiable terrain. The run actually turns out
+to be a dandy - a steep and narrow leg burner. As I spill out from the bottom of
+the run I find myself at the midway point of the rope tow.
+
+All that work and I barely improved my situation. Shame.
+
+I later look at the circuitous route I took on SkiTracks & it appears I hit the
+shoulder of the Greeley Bowl to Greeley Hill around the ridge across High
+Nowhere (perfectly named if you ask me) and skied down North Rustler by the
+grace of god. So while I didn't make it to High Rustler I at least skied
+*North* Rustler. So there's that.
+
+I sheepishly grab the rope that pulls me towards Collins at an embarrassingly
+slow clip. Fortunately Branch had a bit of a hike from his parking spot and
+hasn't been waiting too long. We hop on Collins for the ride right back up from
+whence I came. This time we head over the ridge straightaway to Devil's Way
+followed by Amen, which is a beautifully poetic sequence of ski runs if you ask
+me.
+
+We hop on the Sugarloaf lift, the top of which we peel hard left and keep heading
+that way as far as we can because why not? The thing about Alta, and
+why I think skiers hold it in such high esteem, is that you *really* have to
+know your way around the mountain to experience the best she has to offer. When
+we skied it last year it was snowing so hard you could hardly see 10 feet in
+front of you and none of us had any idea where the hell we were. We frequently
+found ourselves slogging through flat spots, traversing to who knows where, and
+cursing its near complete lack of cell reception.
+
+Today is no different. I keep following Branch because I assume he knows what
+he's doing, y'know seeing as he lives here and everything, but I eventually find
+after an outrageously long traverse that he's just as lost as I. Along the way
+we found a group who fell off the traverse track and found themselves stuck in
+the waist deep powder, a group in front of us who keep stopping on the traverse,
+causing us to nearly crash into the back of their asses, and not a single person
+who seems to know where the hell they are. When you are at a local mountain and
+don't see a single local you're in the wrong spot. Or at the very least you're
+not in the right spot.
+
+As we're wandering the vast unknown parts of Alta I hear a Boston accented
+shout from behind me
+
+<br>
+
+**"Hey Matis!"**
+
+<br>
+
+"I fell into a bowl uh powdah chowdah"
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_branch_powder.jpeg" alt="Branch">
+  <figcaption class="figure-caption">Oh where were we?</figcaption>
+</figure>
+
+Or maybe you're in the *exact* spot you're supposed to be.
+
+I keel over laughing like a hyena on the Serengeti. I plop my bum in the snow
+and snap an amateur photo of my amateur skiing companion.
+
+After scooping himself out of the chowdah we continue down the fall line and
+eventually find ourselves at the bottom of the Supreme chair. This actually
+works out great because we have a chance to head to Catherine's.
+
+During my Alta film study with Bob he made sure to mention Catherine's. This
+isn't a run but an *area*. Named after Catherine Brighton, a Scottish immigrant
+who settled the area where Brighton lies alongside her husband William Stuart
+Brighton, Catherine's is a secluded section of the mountain that only the
+most dedicated skiers tackle. The reason for this is that you need to hike up
+to Catherine's Pass to reach all her alpine glory.
+
+At the top of Supreme we huck our skis over our shoulder and start up the
+bootpack to Catherine's. It's really not that bad of a hike per se, the
+difficulty lies in the joint inflexibility of ski boots, slippery footing of
+snow, awkward toting of skis, and high altitude. During the summer a decently
+fit individual could bound up this trail in a matter of minutes. In our
+disadvantaged situation it takes us north of 15 minutes to reach the entrance
+to Miss Kate's.
+
+I'm here to report that the slog was worth it, however, as the snow back here is
+in pristine shape. The hike has kept out all the yahoos and left the runs with
+oodles of fresh pow. We neglect to catch our breath after the hike and bomb down
+the run as soon as we reach the top of the ridge. Halfway down the first pitch
+we succumb to the lactic acid gods and pull off for a breather.
+
+We wind our way down the canyon and stop off at The Hog Wallow Pub, a place
+that's accurately described by Google Maps as an "energetic watering hole with
+live music". Unfortunately we're a bit early for the music but everything else
+is spot on. We get ourselves an order of wings & a pile of nachos. It's really
+somethin' that I went the first 57 days of this trip without having wings and
+have had them thrice in the past week. I warsh down the vittles with a Uinta
+Cutthroat Pale Ale. Branch isn't a man who is content with a single bowl of
+loudmouth soup so we have them ladle us another for good measure.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_hog_wallow.JPEG" alt="Hog Wallow">
+  <figcaption class="figure-caption">Down at the Waller</figcaption>
+</figure>
+
+As we finish slurping down the suds the aforementioned live music begins setting
+up. I think we both realize that if we don't get out of here now we're liable to
+shut the place down if they get a band going. We tab out and Branch shuttles me
+to the bus station, where he makes sure to use the facilities before the drive
+back home.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_branch_pee.JPEG" alt="Branch">
+  <figcaption class="figure-caption">What's you're name? He'll write it on the wall</figcaption>
+</figure>
