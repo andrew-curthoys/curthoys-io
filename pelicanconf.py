@@ -19,7 +19,7 @@ CAREERSITENAME = "Career"
 CAREERSUBHEADER = "Stuff I've done"
 
 PATH = 'content'
-STATIC_PATHS = ['traveler', 'eater']
+STATIC_PATHS = ['traveler', 'eater', 'misc']
 ARTICLE_PATHS = STATIC_PATHS
 ARTICLE_SAVE_AS = '{slug}.html'
 ARTICLE_URL = '{slug}.html'
@@ -27,7 +27,7 @@ PAGE_PATHS = ['career']
 PAGE_SAVE_AS = '{slug}.html'
 PAGE_URL = '{slug}.html'
 USE_FOLDER_AS_CATEGORY = True
-DIRECT_TEMPLATES = ['index', 'traveler/index', 'eater/index', 'career/index']
+DIRECT_TEMPLATES = ['index', 'traveler/index', 'eater/index', 'career/index', 'misc/index']
 DELETE_OUTPUT_DIRECTORY = True
 
 THEME = 'custom_theme'
