@@ -114,7 +114,8 @@ our final goodbyes. I can't wait until I can enjoy her cooking again.
   <figcaption class="figure-caption">Well I've been from Tucson to Tucumcari</figcaption>
 </figure>
 
-Next stop Phoenix to see our good friend Katie Easley. I'm about an hour from
+<div id="phoenix"></div>
+Next stop Phoenix to see our good friend Katie. I'm about an hour from
 town when she calls me and tells me her
 boyfriend Jesse has tested positive for Covid. Shit. I'd really like to see them
 but I can't in good faith take that risk at the very start of my trip. I pull
