@@ -134,9 +134,7 @@ output/
 *jpg
 *png
 .vscode/
-../__pycache__/
-__pycache__/pelicanconf.cpython-38.pyc
-__pycache__/pelicanconf.cpython-39.pyc
+*pyc
 locations.js
 locations.txt
 *ods
