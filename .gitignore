@@ -137,3 +137,6 @@ output/
 ../__pycache__/
 __pycache__/pelicanconf.cpython-38.pyc
 __pycache__/pelicanconf.cpython-39.pyc
+locations.js
+locations.txt
+*ods

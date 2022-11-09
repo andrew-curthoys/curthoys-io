@@ -1,7 +1,7 @@
 title: Part XI: The Beehive State
 slug: traveler/2022_01-ski_trip/11-utah
 slug_base: traveler/2022_01-ski_trip
-day_alias: Rockies Redux
+day_alias: The Beehive State
 prev_day: 10-cowboy_state
 next_day: 12-rockies_pt2
 date: 2022-03-04
