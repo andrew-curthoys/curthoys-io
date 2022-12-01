@@ -140,7 +140,7 @@ beholden to weekends for my recreation so I don't *have* to go on a Saturday.
 The main reason for the gridlock lies in the unique topology of the
 Wasatch Range, which we'll take a look at in today's geography lesson.
 
-<h4 class="article-subheader">The Canyons</h4>
+<h4 class="article-subheader" id="canyons">The Canyons</h4>
 The most iconic ski areas in the Salt Lake City area reside in *The Canyons*,
 more specifically *Big Cottonwood Canyon* and *Little Cottonwood Canyon*.
 The more

@@ -350,6 +350,7 @@ of that are phony. The real value is 33,783', still my personal record.
   <figcaption class="figure-caption">Great day on the hill</figcaption>
 </figure>
 
+<div id="longhorn"></div>
 Satisfied with a solid day's work I notice a place right next to the gondola
 decked out in old-timey Western kitsch called The Longhorn Saloon. Well dadgum!
 If I'm in luck it'll be customers there amenable to drawin' up in a circle
