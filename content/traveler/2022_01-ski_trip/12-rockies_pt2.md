@@ -141,18 +141,35 @@ Commandos.
   <figcaption class="figure-caption">DALE</figcaption>
 </figure>
 
-Now about that brewski...
+My geographical confusion is confounded, at least in part, by the layout of the
+resort. Not content with a single peak or even a couple, Steamboat Ski Resort
+comprises 6 separate named peaks in a layout that'll make your internal compass
+spin. All runs funnel down to a narrow runway leading to the base area, with
+two beginner lifts and the Steamboat Gondola. The 9 minute ride up the gondola
+drops you atop Thunderhead Peak, where the real fun begins. Behind Thunderhead
+lies a sea of peaks, valleys, and saddles that all seem to surround each other
+in a diabolical whirlpool of metamorphic schist. I have the utmost respect and
+admiration for legendary ski map trail painter
+<a href="https://jamesniehues.com/" target="_blank" rel="noopener noreferrer">James Niehues</a>,
+but even he couldn't accurately portray the labyrinthine layout of Steamboat.
+It's a ski resort fit for M.C. Escher.
 
-I study the trail map on the lift up like I've got the bar exam tomorrow. May it
-Please the Court, I plan to take Longhorn down to the Wapiti cutover, which
+So I'm on the Pony Express lift when I really want to be at the lodge drinking
+a beer. On my way up I devour the trail map like I'm studying for the bar exam.
+May it
+Please the Court: I plan to take Longhorn down to the Wapiti cutover, which
 should dump me right at the base of the Bar-UE chair. From there it's a quick
-ride up & easy scoot down to Four Points and a bowl of loudmouth soup with my
-name on it.
+ride up & easy scoot down to Four Points and an ice cold bowl of loudmouth soup.
 
 Off the chair I dump out to the right towards Longhorn. About halfway down I
 dive into the short piste of Wapiti aaaaaaaaand there's no chair. I look up to
 my left and the two seater is spinning about 200 yards up a side hill above a
 copse of trees. You've GOT to be kidding me!!
+
+My only option now is to ski the cat track all the way around the the side of
+the mountain to the main base area. I dawdle over there & hop on the gondola,
+which takes me to the Thunderhead Lodge and I am finally matched with my ever
+illusory pint of suds.
 
 I pack up my gear in the lot and head into town. It seems like a nice little
 Colorado mountain town, 
