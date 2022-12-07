@@ -169,13 +169,27 @@ copse of trees. You've GOT to be kidding me!!
 My only option now is to ski the cat track all the way around the the side of
 the mountain to the main base area. I dawdle over there & hop on the gondola,
 which takes me to the Thunderhead Lodge and I am finally matched with my ever
-illusory pint of suds.
+illusory pint of suds. I enjoy the beer on the patio with blue skies & warm sun.
+But with all my aimless wandering our noble star's rays have become rather
+oblique, signaling the end of the day is nigh. I take another couple laps on
+some runs off the Storm Peak Express chair then down back to the narrow
+landing chute to the base area.
 
 I pack up my gear in the lot and head into town. It seems like a nice little
-Colorado mountain town, 
+Colorado mountain town, replete with a bubbling stream running through the edge
+of town. But certainly nothing a steamboat could navigate, wait a second, what's
+all this Steamboat business about?
 
-I end up at the Barley Tap and Tavern and get myself a flight. It's a whole ordeal
-of writing the numbers I want and. It was a typical flight situation, where I
+I decide to investigate atop a barstool at the Barley Tap and Tavern right on
+the main drag. According to the tale, early 19th century trappers in the area,
+upon hearing a chugging sound, incorrectly presumed that a steamboat was
+rollicking down the river. However, when they correctly diagnosed the cause of
+the auditory emissions, they discovered that it was coming from a hot spring,
+which they named Steamboat Spring. Yawn.
+
+When the barkeep comes around I order myself a flight that will hopefully add
+some excitement to my day after that boring story. It was a typical flight
+situation, where I
 write down the barley sammiches I'd like to try out and the fella brings em
 to me. Well, partner, during the interim period between scribbling my selections
 and the barkeep fulfilling those selections this ol boy plops down in the stool
@@ -468,7 +482,64 @@ Texas Red's Steakhouse is the basis for dozens of my fondest childhood memories.
 Even when we weren't skiing in or staying in Red River we would make the trek
 around Wheeler Peak for supper at Texas Red's. Unlike some of the other
 <a href="/traveler/2022_01-ski_trip/08-canada.html?id=longhorn" target="_blank" rel="noopener noreferrer">saloons</a> and
-<a href="/traveler/2022_01-ski_trip/10-cowboy_state.html?id=mdc" target="_blank" rel="noopener noreferrer">taverns</a> I've encountered on this trip, this
-place is the real deal.
+<a href="/traveler/2022_01-ski_trip/10-cowboy_state.html?id=mdc" target="_blank" rel="noopener noreferrer">taverns</a>
+I've encountered on this trip, this place is the real deal.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_texas_reds.jpeg" alt="Texas Red's">
+  <figcaption class="figure-caption">I mean, just look at her. Gorgeous!</figcaption>
+</figure>
+
+During the quarter mile stroll over to Texas Red's my mind is reeling with an
+unhealthy carnal lust
+for a medium rare T-bone steak. As I stride up the steps to the front door
+I'm greeted with a horrifying sight that chills me to my bones.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_texas_reds_fishin.jpeg" alt="Gone fishin">
+  <figcaption class="figure-caption">Your pleasure can't interrupt my pleasure!!!</figcaption>
+</figure>
+
+I'm not old enough to remember the first two Bills Super Bowl losses, but I sure
+as shit remember the second two against the goddamn Cowboys. This might hurt
+worse.
+
+I sit on the stoop for a minute and ponder if it's worth it to stay in Red River,
+NM until May. I guess I'll mull it over with a beer.
+
+I slowly trudge with my head hung low back towards the ski resort and duck into
+the Red River Brewing Company. The place is jammed with people enjoying the
+final days of skiing and watching March Madness. And I'd say 1 in 5 people are
+wearing something from Oklahoma, which is pretty neat I reckon.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_rrbc.jpeg" alt="RRBC">
+  <figcaption class="figure-caption">You said it, brewer.</figcaption>
+</figure>
+
+I put my name in for a table and grab a Powder Day Stout and pop a squat outside
+on the patio around a gas firepit. Our old fabulous friend in the full leopard
+skiing onesie sashays over
+
+"Hey, I haven't seen you around, you must be new to town"
+
+"Yeah I just got here today, just in time to see the pond skiing"
+
+"Oh that's fun! It's our little crazy tradition for the close of ski season. I
+don't ski but I dress the part. Name's Tyler, but everyone calls me Sweet T.
+Don't ask me how long I've been here... It's been 7 years. By this point I know
+everybody and everybody knows me. Is this your first time?"
+
+"First time in probably 15 years, we came quite a few times when we were kids.
+Everything is so different and so the same, it feels... strange"
+
+"Well it's our own little slice of heaven, we're not like those asshole ski
+towns in Colorado"
+
+"I agree. I like it here"
+
+"Well that's fabulous, I hope you enjoy our little town"
+
+"I sure will Sweet T"
 
 Sweet T in Red River.
