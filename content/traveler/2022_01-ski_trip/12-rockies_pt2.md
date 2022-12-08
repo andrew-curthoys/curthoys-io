@@ -11,52 +11,58 @@ activity: 2022 Ski Trip Adventure
 summary: Summary placeholder
 
 <h4 class="article-subheader">Oh Shit</h4>
-I reach into my pocket to turn my music back on and.... Nothing. An empty
+I reach into my pocket to turn my music back on and....
+
+Nothing.
+
+A distressingly empty
 jacket pocket. Well to be more precise a jacket pocket filled with lint and
 air. But most certainly not filled with a phone.
+
+A phone that was playing some rockin' tunes.
 
 A phone that I'm relying on for my directions home.
 
 A phone that you take for granted until it's gone.
 
 Maybe I got crazy and put it in another pocket? I frantically pat myself down
-like I'm doing the Macarena at a minor league baseball game in 1997. I can do
-all the lame dance moves I want but it ain't gonna bring my phone back.
+like I'm doing the Macarena at a minor league baseball game in 1997. No matter
+what lame dance moves I do nothing seems to conjure a cellular device.
 
 And a sinking realization sets in that I probably lost it forever. Doomed to a
-snow covered grave.
+snow covered grave on the Montezuma Bowl at Arapahoe basin.
 
-Ok I should probably back up a second.
+I'm currently riding the Zuma Chair, the loading area of which initiated my
+current predicament no more than half an hour ago. I was waiting to
+board the lift when a tight three-part harmony surfing the rollicking waves of
+an Americana string band tickled my eardrum. I look to the liftie whose
+speakers are guilty of the auditive allurement,
 
-I'm currently riding the Zuma Chair at Arapahoe Basin in Colorado.
-The origin of the predicament within which I'm currently quartered began at the
-loading area for this chairlift less than a half hour ago. I was waiting to
-board when I noticed the sweet tunes coming from the liftie's speakers.
+"Damn, these guys kick ass, who are they?"
 
-"Damn, these guys kick ass, who is it?"
+"Yeah they are pretty great, it's a group called The Last Revel."
 
-"Yeah they are pretty great, it's a group called The Last Revel"
+"Hell yeah! I'm gonna turn em on right now. Thanks boss."
 
-"Awesome, thanks man, I'm gonna turn them on right now"
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/17bRvTnijKoadjX2ZGNibY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-And so I did. Or at least attempted to. The lower regions of the Montezuma
-Bowl are cellularly challenged so I'll have to wait till the last few pylons
-to jam out again.
-
-As I reach the top of the lift the tunes start crankin' again and I click out of
-my skis for one last hike up the ridge. It's not an especially grueling hike,
-between 5-10 minutes, but with the elevation and unsure footing it requires a
-deceptively high level of exertion.
+And so I do. Or at least attempt to. The lower regions of the Montezuma
+Bowl are cellularly challenged so the jam sesh is postponed till the upper
+reaches of the bowl. I dart left off the lift about for about a hundred yards with The
+Last Revel rocking in my ears. I click out of my skis for my third & final hike
+up to the Zuma Cornice. It's not an especially grueling hike, but with the
+12,000'+ elevation and unsure footing it requires a deceptively high level of
+exertion.
 
 It's totally worth it though, because the skiing is incredible. The terrain is
-challenging yet approachable, a
-wide-open bowl with adequately wide chutes perfect for sending. I have to
-imagine the hike and intimidating heft of the immense crag brooding over the
-ride up the chair deter most athletes because I have whole sections to myself.
+challenging yet approachable, a wide-open bowl above the treeline with a
+melange of chutes ideal for sending. I have to
+imagine the hike and intimidating heft of the massive crag brooding over the
+chair deter most athletes because I have whole sections of the bowl to myself.
 
 Having said that I've reached the point of the day where the marginal cost of
-lactic acid from the hike has begun to outweigh the marginal benefit of powder
-chutes. Last hike run of the day, let's let 'er rip whaddya say?
+rising lactic acid levels have begun to outweigh the marginal benefit of powder
+chutes. Last hike of the day, let's let 'er rip whaddya say?
 
 I, indeed, let 'er rip, swooping smooth arcs through the fresh Colorado snow.
 Unsurprisingly I've developed an admirable alpine acumen that can only come with
@@ -71,22 +77,23 @@ the hill with an unzipped pocket. Real dumbass move. If the liftie had been
 playing Nickelback I wouldn't be in this position.
 
 With the depth of the snow on the mountain my phone is almost surely buried
-under two feet of pillowy powder. But I do have a puncher's chance of finding
-it. First, I have a general idea of where the music cut out. Unfortunately,
-that also means I'll have to make the hike again. Second, I have my
+under two feet of pillowy powder. However, I have a couple cards up my sleeve
+that give me a puncher's chance of finding it. First, I have a general idea on
+the mountain where the music cut out. Second, I have my
 headphones that should connect to the phone once I'm within a certain distance.
+Unfortunately, due to point #1, I'll have to make the hike again. Woof.
 
-So that's my plan - retrace my steps and turn on my headphones every so often
-to see if they'll connect. Hell, it's worth a shot.
+So I have a battle plan - retrace my steps and fire up the headphones every so
+often to see if they'll connect. Hell, it's worth a shot.
 
 I slide off the lift and lethargically mope up the hiking trail once more,
-cursing myself for being so careless as to not zip up my damn pocket. Eventually
+cursing myself for being so careless with my pocket zipper. Eventually
 I find myself atop the Groswold chute and really throw a Hail Mary, turning
 on the headphones to see if it's right up here at the top. No luck.
 
 I make a few turns down from the top & try again. Nothing.
 
-A few more turns. Nothing.
+A few more turns. No sir.
 
 *swoosh swoosh swoosh*
 
@@ -123,12 +130,15 @@ deserve the ridiculous luck I've been afforded on my adventure but I'm not going
 to question it. I'm just going to trust the process.
 
 I slide right up to my phone, dust off the snow, and turn back on The Last
-Revel. Hell yeah. Plus now I won't get lost.
+Revel. Hell yeah.
+
+Plus now I won't get lost.
 
 <h4 class="article-subheader">Where the Hell Am I?</h4>
+Dramatic cut to Steamboat Springs one week prior.
 Whereas Arapahoe Basin was the last stop on my Colorado sojourn, Steamboat
-Springs is my first. So I'm at Steamboat but *where* at Steamboat? As someone
-who takes pride in his bearing keeping I've been lost all damn day.
+is my first. As someone
+who takes pride in my bearing-keeping I've been lost all damn day.
 I was completely sure that I was headed to the Four Points Lodge for some
 lunch & a mid-day brewski when I found myself at the bottom of the Pony
 Express lift. How I got here I don't know. What I do know is that I'm on chair
@@ -144,24 +154,26 @@ Commandos.
 My geographical confusion is confounded, at least in part, by the layout of the
 resort. Not content with a single peak or even a couple, Steamboat Ski Resort
 comprises 6 separate named peaks in a layout that'll make your internal compass
-spin. All runs funnel down to a narrow runway leading to the base area, with
-two beginner lifts and the Steamboat Gondola. The 9 minute ride up the gondola
+spin. All runs emanate from a narrow runway adjacent to the base area, with
+two beginner lifts and the Steamboat Gondola providing conveyance to all points
+beyond. The 9 minute ride up the gondola
 drops you atop Thunderhead Peak, where the real fun begins. Behind Thunderhead
 lies a sea of peaks, valleys, and saddles that all seem to surround each other
 in a diabolical whirlpool of metamorphic schist. I have the utmost respect and
 admiration for legendary ski map trail painter
 <a href="https://jamesniehues.com/" target="_blank" rel="noopener noreferrer">James Niehues</a>,
-but even he couldn't accurately portray the labyrinthine layout of Steamboat.
-It's a ski resort fit for M.C. Escher.
+but even his map is unable to accurately portray the labyrinthine layout of
+Steamboat. It's a ski resort fit for M.C. Escher.
 
-So I'm on the Pony Express lift when I really want to be at the lodge drinking
-a beer. On my way up I devour the trail map like I'm studying for the bar exam.
-May it
-Please the Court: I plan to take Longhorn down to the Wapiti cutover, which
+So I'm on the Pony Express lift, but I really want to be at the lodge drinking
+a beer. On my way up the cableway I devour Mr Niehues's trail map like I'm
+studying for the bar exam. *May it
+Please the Court:* I plan to take Longhorn down to the Wapiti cutover, which
 should dump me right at the base of the Bar-UE chair. From there it's a quick
 ride up & easy scoot down to Four Points and an ice cold bowl of loudmouth soup.
+Sounds easy enough.
 
-Off the chair I dump out to the right towards Longhorn. About halfway down I
+Off the chair I veer right, headed for Longhorn. About halfway down I
 dive into the short piste of Wapiti aaaaaaaaand there's no chair. I look up to
 my left and the two seater is spinning about 200 yards up a side hill above a
 copse of trees. You've GOT to be kidding me!!
@@ -231,11 +243,74 @@ sidewalks. I pull out my phone to
 check for lodging options seeing as the Uncle Andy Inn will be quite
 uncomfortable in this weather. It seems I'm the last person within 200 miles to
 get the weather report because every hotel, airbnb, campsite, & RV park in town
-is fully booked up for the night. The closest thing I can find is the _________
-in Yampa????, about 30 miles west of town.
+is fully booked up for the night. The closest thing I can find is the
+Travelodge in Yampa, about 30 miles south of town.
+
+I better scoot because the snow is really beginning to fly now. The only place
+the roads are a little squirrely es the pass around Thorpe Mountain, but even
+there it ain't terrible. Nothin' the ol' trusty Pathfinder can't handle.
+
+I arrive at the Travelodge under the cover of darkness. I bundle up and trundle
+over to the inn where I see a sign so preposterous I belt out a belly laugh that surprises even me.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_diner_registration.jpeg" alt="Registration">
+  <figcaption class="figure-caption">A sign after Nic Gorzynski's own heart.</figcaption>
+</figure>
+
+I have to say that registering at a diner is an altogether new experience for
+me. I've stayed in some shithole lodgings before but never one where you have to
+check in at a *diner*. It's like something out of a Taylor Sheridan movie.
+
+I'm fully expecting to see an old woman perched behind the counter, chewin' the
+fat over the sound of some unrecognizable
+animal tissue sizzling on the griddle, the stale smell of rancid grease, and the
+perplexing phenomenon that you can only find in a diner where every surface is
+equally sticky and slippery at the same time.
+
+I was not disappointed.
+
+An exciting experience to say the least. I wander over to Penny's Diner to
+see exactly what you'd expect to see at a small town diner at 9 PM on a
+Sunday.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_diner.jpeg" alt="Diner">
+  <figcaption class="figure-caption">What else could you expect from a small
+  town diner at 9 PM on a Sunday.</figcaption>
+</figure>
+
+Candy, after finishing her thought to the gentleman at the counter.. Then
+another.. And another... Exasperatedly shuffles my way.
+
+"Checkin' in?"
+
+"Uhh yeah"
+
+"Credit card & license"
+
+I hand over the required documents and Candy begins a charade where she has to
+say out loud every step of the process like it's her first time doing it
+without the manager standing over her shoulder. Mind you, the Travelodge is 3
+stories tall with what I'd guess are around 20 rooms per floor, she must have
+done this *dozens* of times today.
+
+Of course there's the obligatory, "These damn computers, I can never figure
+them out"
+
+Candy's sanctuary is the 3' alley between Penny's griddle and Penny's counter.
+There she feels at home. There she feels safe. There the world makes sense.
 
 
-Waffle house hotel check in
+One more half day of skiing Steamboat
+Breakfast at the diner
+Penny's is rated a 3.5 stars out of 5 on Tripadvisor, which slots them in as
+the \#2 restaurant in Yampa, Colorado. Out of 2. One particularly entertaining,
+although likely not helpful, review was simply entitled *Customer Service*. The
+opening line of this screed is a true literary gem: "Me and my family came here
+after putting our dog to sleep, we mainly just wanted milkshakes." Brilliance.
+
+
 
 <h4 class="article-subheader">Left at the Next Light!</h4>
 I holler in my duties as the de facto navigator of this roving band of walking
@@ -316,12 +391,6 @@ incorporated city in the US at 10,152'. Leadville, if you can imagine this, is
 an old mining town, one of the richest silver mining camps of the late 19th
 century.
 
-<h4 class="article-subheader">St Paddy's</h4>
-I arrive to the hostel on St Paddy's day, ready for some green beer. I check
-in and the cheery young woman behind the counter lets me know they'll be hosting
-a St. Paddys party at the hostel at 5 PM
-
-
 <h4 class="article-subheader">Arapahoe Basin</h4>
 My last day of Colorado Skiing I decide to hit up 
 
@@ -393,11 +462,69 @@ sloppy racetrack of mud and snow built for athletes by athletes in the lowest
 possible part of town. Every drop of beer spilt on main street, every drop of
 piss drizzled down upon a back alley bush matriculates to this spot.
 
-Right down the road from the Millennium Harvest I find a nice watering hole
-called Backcountry Pizza & Tap House. I sidle up to the bar and order myself an
+
+I'm meandering around the main drag taking in all the lunacy of FDGD when I hear
+Lowell George's mellifluous warble over the din of the crowd. You don't often
+hear it, but Ned's is playing Little Feat over the speakers. Well by god I
+gotta go in now.
+
+Ned's is at the end of the main drag, away from the throngs of revelers so it's
+slightly less mobbed than the rest of the dining and drinking establishments in
+town. I'm able to find a spot at the bar and order myself a Frozen Dead Guy
+Frigid Pale Ale. When in Rome.
+
+Upon the arrival of my ale an older fella with a shock of white hair in a
+disheveled ponytail leans over to discuss some inane topic or the other. Fred,
+as I soon learn, has lived in Nederland the past 30 years. He's seen the
+festival explode in popularity the past few years but doesn't besmirch the
+crowds that mob his little town every spring. It breaks up the monotony. I just
+think he likes having someone new to talk to at the bar.
+
+Then after about 10 minutes of discussing the weather or something else equally
+as boring, Fred leans over, completely unprovoked, and hits me with,
+
+"I'm
+pushing 60.. I'm 57.. Never been married and I don't know if I could marry a
+woman my age. Once they get to 50 they start to fall apart."
+
+*Awkward pause*
+
+"And they get fat"
+
+*Awkward pause redux*
+
+"And they get fat in the worst places"
+
+Well y'know Fred, I wasn't gonna say it but you look an awful lot older than 57.
+A classic kettle-pot situation. I don't linger much longer to hear any more of
+Cassanova Fred's opinions on the fairer sex.
+
+I bop over to Crosscut Pizzeria and Taphouse, where I find a spot against the
+rail on the back deck overlooking the bubbling waters of Middle Boulder Creek.
+I enjoy an Upslope Citra Pale Ale from a platic cup while chatting with my
+fellow patio patrons. I decide I better have one more before bidding Nederland
+adieu.
+
+Tonight I've booked lodging at a modestly priced accommodation called the
+Millennium Harvest House in Boulder, where I should be able to find a public
+house within walking distance to watch some March Madness. I deftly traverse the
+winding road to Boulder, beating the FDGD crowd and the sun is still hanging on
+when I arrive to the Millennium.
+
+The hotel looks like it was built in the 1960s and hasn't been updated since.
+Its so old that the architecture & decoration have swung so far past "old" that
+it's likely now considered retro chic. I check in and walk down the swooping
+hallway of the main building of the hotel to.. another building that's
+connected to it, that's somehow connected to a third building, that winds around
+to a fourth building? I think? It's a maze of hallways that would make perfect
+sense to a local at Steamboat Springs.
+
+I drop my bags in the only slightly dingy room and set off on foot. Right down
+the road I find a nice watering hole called Backcountry Pizza & Tap House that
+should work just fine. I sidle up to the bar and order myself an
 ice cold Scenario Porter from our good friends at Melvin Brewing in Alpine, WY.
 The dozen or so TVs in the joint
-are all tuned to March Madness. The game I'm really interested in doesn't start
+are all tuned to hoops. The game I'm really interested in doesn't start
 for another half hour, a hardwood showdown between the
 12 ranked New Mexico State Lobos and the 4 seed Arkansas
 Razorbacks. I'm all-in on Arkansas tonight, I have them in my
@@ -421,13 +548,13 @@ Backcountry Pizza & Tap House in Boulder
 Pigs win 53-48 over New Mexico State
 Millenium Harvest House
 
-<h4 class="article-subheader">Taos</h4>
+<h4 class="article-subheader">The Land of Enchantment</h4>
 The trip is starting to wind down, 32 days of skiing down and only 1 to go. I
 gather up my things in Boulder and say goodbye to the Millennium Harvest, the
 second spookiest hotel I've stayed at on a ski trip behind only the
 <a href="/traveler/2021_04-ski_trip/wp/day_5.html?id=timberline" target="_blank" rel="noopener noreferrer">Timberline</a>. Before I leave town I make my way to
-Chautauqua Park for a quick picnic in the shadow of the Rockies. The weather is perfect and the park is filled with dozens of
-Boulderites enjoying a nice lazy Sunday.
+Chautauqua Park for a quick picnic in the shadow of the Rockies. The weather is
+perfect and the park is filled with dozens of Boulderites enjoying a nice lazy Sunday.
 
 I don't linger too long because I have 300 miles of highway on my schedule today
 and they ain't gonna drive themselves. I load back into the Pathfinder and start
@@ -543,3 +670,21 @@ towns in Colorado"
 "I sure will Sweet T"
 
 Sweet T in Red River.
+
+<h4 class="article-subheader">This is it, Don't Get Scared Now</h4>
+I can't believe we've made it here. The end of the road. One more day of skiing
+then it's back to reality. I'm a little sad just thinking about it.
+
+I pack up my gear one last time and head to the slopes. It's about 45 minutes
+around the base of Wheeler Peak, the loftiest of peaks in the state, to Taos Ski
+Valley. A light flurry of snow is falling as I pull into the parking lot & load
+onto the tractor-pulled open-air cattle car.
+
+I must have been completely oblivious to most things as a child because none of
+this looks familiar. You would have thought that I would have stored away the
+
+
+
+
+23,000' of vert, bringing my total just over 600k. My total skiing distance
+is 560 miles.
