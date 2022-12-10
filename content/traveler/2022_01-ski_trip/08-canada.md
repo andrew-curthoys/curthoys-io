@@ -779,6 +779,8 @@ to the base for a quick bite. The fog seems to have let up a bit so I venture
 back to to the top. Feeling a bit sporting I decide to head straight down, top
 to bottom, all 5,620' of vert.
 
+<div id="burn"></div>
+
 I drop into Snow Rodeo and immediately feel the burn. The run is steep,
 bumpy, and chopped up with fresh powder. I make it a decent way down the top
 section before I need to stop & catch my breath. But as Revy sees it, we've
