@@ -15,9 +15,8 @@ I reach into my pocket to turn my music back on and....
 
 Nothing.
 
-A distressingly empty
-jacket pocket. Well to be more precise a jacket pocket filled with lint and
-air. But most certainly not filled with a phone.
+Nothing but an empty jacket pocket. Well to be more precise a jacket pocket
+filled with lint and air. But most certainly not filled with a phone.
 
 A phone that was playing some rockin' tunes.
 
@@ -26,30 +25,30 @@ A phone that I'm relying on for my directions home.
 A phone that you take for granted until it's gone.
 
 Maybe I got crazy and put it in another pocket? I frantically pat myself down
-like I'm doing the Macarena at a minor league baseball game in 1997. No matter
-what lame dance moves I do nothing seems to conjure a cellular device.
+like I'm doing the Macarena at a minor league baseball game in 1997.
 
 And a sinking realization sets in that I probably lost it forever. Doomed to a
 snow covered grave on the Montezuma Bowl at Arapahoe basin.
 
 I'm currently riding the Zuma Chair, the loading area of which initiated my
-current predicament no more than half an hour ago. I was waiting to
-board the lift when a tight three-part harmony surfing the rollicking waves of
+current predicament a half hour ago. I was waiting to
+board when a tight three-part harmony surfing atop the rollicking waves of
 an Americana string band tickled my eardrum. I look to the liftie whose
 speakers are guilty of the auditive allurement,
 
 "Damn, these guys kick ass, who are they?"
 
-"Yeah they are pretty great, it's a group called The Last Revel."
+"The Last Revel, my buddy just turned me on to them."
 
-"Hell yeah! I'm gonna turn em on right now. Thanks boss."
+"Hell yeah! I'm gonna turn 'em on right now. Thanks boss."
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/17bRvTnijKoadjX2ZGNibY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 And so I do. Or at least attempt to. The lower regions of the Montezuma
 Bowl are cellularly challenged so the jam sesh is postponed till the upper
-reaches of the bowl. I dart left off the lift about for about a hundred yards with The
-Last Revel rocking in my ears. I click out of my skis for my third & final hike
+reaches of the bowl. At the top of the lift I dart left for about a hundred
+yards with my new favorite band rocking in my ears. I click out of my skis for
+my third & final hike
 up to the Zuma Cornice. It's not an especially grueling hike, but with the
 12,000'+ elevation and unsure footing it requires a deceptively high level of
 exertion.
@@ -132,9 +131,14 @@ to question it. I'm just going to trust the process.
 I slide right up to my phone, dust off the snow, and turn back on The Last
 Revel. Hell yeah.
 
-Plus now I won't get lost.
+I'm blasting tunes, I'm ripping turns, I'm feeling vibes.
+
+But most importantly, now I won't get lost.
 
 <h4 class="article-subheader">Where the Hell Am I?</h4>
+I thought I was headed for the Four Points Lodge for some lunch and a mid-day
+brewski. So why in the world am I at the bottom of the Pony Express lift?
+
 Dramatic cut to Steamboat Springs one week prior.
 Whereas Arapahoe Basin was the last stop on my Colorado sojourn, Steamboat
 is my first. As someone
@@ -355,10 +359,46 @@ neighborhood on the south side of downtown Denver.
 
 I make my way towards Denver
 
-<h4 class="article-subheader">Copper Cruisin'</h4>
-Copper Mountain is _______
+<h4 class="article-subheader">You Go Left, I'll Go Right</h4>
+I didn't realize my mistake until Johnny comes sliding up
+sweating bullets and cursing my guts. Johnny is my youngest brother. Johnny
+hasn't skied in 10 years. Johnny is not happy.
 
-My good brother Johnny
+"What the fuck??"
+
+"Huh?"
+
+"Why the hell did you tell me to go left? That was the hardest run I've ever
+skied in my life!"
+
+*gulp*
+
+"Really? I thought that way was the easy way."
+
+"Y'know what? It wasn't fucking easy! It was steep and full of big ass moguls.
+I fell 4 times and didn't think I was ever gonna get down... Fuck you."
+
+"Damn, that's my bad I really did think that was the easy way down"
+
+"Well it wasn't... but I made it... let's go get on the lift... fuck you"
+
+I accepted the well-deserved grief and we hopped back on the Super Bee chair at
+Copper Mountain
+So we did. And I went the way that I mistakenly steered Johnny and it was,
+indeed, a real kick in the knackers. I was able to get down it *somewhat*
+smoothly but I was drenched in sweat by the time
+I reached the bottom. It reminded me of the frontside of
+<a href="/traveler/2022_01-ski_trip/08-canada.html?id=burn" target="_blank" rel="noopener noreferrer">Revelstoke</a>.
+I'm really amazed that Johnny was able to make it to the bottom, considering his
+alpine hiatus and I've racked up 30 days on this trip alone. The young man is
+tough as nails.
+
+This bout of alpine athletics is taking place at Copper Mountain, a Colorado
+ski resort just to the west of the North-South spine that forms the Tenmile
+Range, which is host to Breckenridge. Josh Allen could launch a pigskin from
+here to the
+<a href="http://www.summitconcierge.com/breckenridge-ski-resort/imperial-express-superchair-breckenridge-colorado-ski-resort_id-203.html" target="_blank" rel="noopener noreferrer">Imperial Express chair</a>.
+
 
 I pick up Johnny at his friend's apartment a little after 8 AM and head for I-70,
 probably the most maligned stretch of ski-resort-bound road in the country. The
@@ -658,7 +698,8 @@ Don't ask me how long I've been here... It's been 7 years. By this point I know
 everybody and everybody knows me. Is this your first time?"
 
 "First time in probably 15 years, we came quite a few times when we were kids.
-Everything is so different and so the same, it feels... strange"
+Everything seems so much smaller. It's all so different and so the same, it
+feels... strange"
 
 "Well it's our own little slice of heaven, we're not like those asshole ski
 towns in Colorado"
@@ -668,8 +709,6 @@ towns in Colorado"
 "Well that's fabulous, I hope you enjoy our little town"
 
 "I sure will Sweet T"
-
-Sweet T in Red River.
 
 <h4 class="article-subheader">This is it, Don't Get Scared Now</h4>
 I can't believe we've made it here. The end of the road. One more day of skiing
@@ -681,8 +720,18 @@ Valley. A light flurry of snow is falling as I pull into the parking lot & load
 onto the tractor-pulled open-air cattle car.
 
 I must have been completely oblivious to most things as a child because none of
-this looks familiar. You would have thought that I would have stored away the
+this looks familiar. You would have thought that I would retained at least a
+faint recollection of the six-story Swiss chalet-style hotel and Bavarian
+village at the base of the hill. I only learn later that most of this was built
+within the past decade, after the 2013 sale of the resort and the $330 million
+master development plan that came along with it. At least I haven't completely
+lost my marbles.
 
+I strap on the planks for one final time in the shadow of said six-story Swiss
+chalet-style hotel ready to shred. I hop on the unimaginatively named Lift 1
+up the face of the mountain, straight up Al's Run. One thing I notice as I ride
+up is that this mountain is *steep*. I must have ridden up slopes steeper than
+this on my previous 22 ski hills but I really can't remember when.
 
 
 
