@@ -137,7 +137,9 @@ I'm blasting tunes, I'm ripping turns, I'm feeling vibes.
 But most importantly, now I won't get lost.
 
 <h4 class="article-subheader">Where the Hell Am I?</h4>
-I thought I was headed for the Four Points Lodge for some lunch and a mid-day
+I'm lost.
+
+I thought I was headed for the Four Points Lodge for lunch and a mid-day
 brewski. So why in the world am I at the bottom of the Pony Express lift?
 
 Dramatic cut to Steamboat Springs one week prior.
@@ -187,7 +189,16 @@ My only option now is to ski the cat track all the way around the the side of
 the mountain to the main base area. I dawdle over there & hop on the gondola,
 which takes me to the Thunderhead Lodge and I am finally matched with my ever
 illusory pint of suds. I enjoy the beer on the patio with blue skies & warm sun.
-But with all my aimless wandering our noble star's rays have become rather
+
+I still have a few more hours of daylight left so I suck down the beer and get
+back out there. I head over to the backside for a couple runs on the Morningside?????
+area. The top of the bowl is nice but it flattens out pretty quick and isn't
+really worth it.
+
+talk about the chute
+
+
+By this point our noble star's rays have become rather
 oblique, signaling the end of the day is nigh. I take another couple laps on
 some runs off the Storm Peak Express chair then down back to the narrow
 landing chute to the base area.
@@ -304,18 +315,46 @@ Of course there's the obligatory, "These damn computers, I can never figure
 them out"
 
 Candy's sanctuary is the 3' alley between Penny's griddle and Penny's counter.
-There she feels at home. There she feels safe. There the world makes sense.
+There she feels at home. There she feels safe. There the world makes sense. Once
+she steps foot outside the comfortable confines of the griddle the demons return.
+The office a dungeon of Promethian misery. The computer a demonic gargoyle that
+slowly sucks her life force with every click of its tail and tap of its scales.
+The hotel a ____________ of pure evil that exists solely to strip Candy of her
+joy.
 
+"Here's your key, you're in room 312. Take a right outside
+these doors and your keycard will get you into the building. The elevator will
+be on your left, take it to the third floor and your room will be halfway down
+the hall on your right."
 
-One more half day of skiing Steamboat
-Breakfast at the diner
-Penny's is rated a 3.5 stars out of 5 on Tripadvisor, which slots them in as
-the \#2 restaurant in Yampa, Colorado. Out of 2. One particularly entertaining,
-although likely not helpful, review was simply entitled *Customer Service*. The
+"Thank you Candy."
+
+And Candy dies just a little more inside.
+
+<p class="section-divider my-4">&#11044;&emsp;&ensp;&#11044;&emsp;&ensp;&#11044;</p>
+
+Penny's Diner is rated a 3.5 stars out of 5 on Tripadvisor. This mediocre rating
+slots them in as the \#2 restaurant in Yampa, Colorado.
+
+Out of 2.
+
+One particularly entertaining review of Penny's Diner of dubious helpfulness is
+simply entitled *Customer Service*. The
 opening line of this screed is a true literary gem: "Me and my family came here
-after putting our dog to sleep, we mainly just wanted milkshakes." Brilliance.
+after putting our dog to sleep, we mainly just wanted milkshakes."
 
+Brilliance.
 
+I walk into Penny's the next morning 
+
+After brekky I head back to Steamboat for another half day on the hill before
+the drive to Denver. It's a lot more of the same, getting lost, checking the map,
+getting lost..er, asking someone for directions, going up so I can go down,
+going down so I can go up. The most famous aspect of Steamboat Springs is their
+"champagne powder," a snow so dry, light, and fluffy that powder hounds all over
+seek it out. As has become a common refrain on this trip their last refill of
+fresh snow is stale in the locals' memories. So I don't even have the benefit
+of the champagne pow while I'm aimlessly tracing a path of Brownian motion.
 
 <h4 class="article-subheader">Left at the Next Light!</h4>
 I holler in my duties as the de facto navigator of this roving band of walking
@@ -343,8 +382,12 @@ It is incredible to think the black heart of an evil dictator holds space for su
 
 Later on in her review she writes whimsically,
 <div class="mx-3 mb-3"><i>
-Nothing compared to the experience of shopping the red- roofed Christmas markets with scents of fresh baked goods, sausages and hot mulled wine wafting by your nose. Christmas carols playing gently in the squares and every front door home to a small Christmas tree adorned in oranges, lemons, cinnamon and bows.
+Nothing compared to the experience of shopping the red-roofed Christmas markets
+with scents of fresh baked goods, sausages and hot mulled wine wafting by your
+nose. Christmas carols playing gently in the squares and every front door home
+to a small Christmas tree adorned in oranges, lemons, cinnamon and bows.
 </i></div>
+
 Before I'm fully sucked into the delusionary scribblings of an unhinged and
 likely unmedicated Canadian woman I remember my delicious Guiness stout ale
 sitting before me and put my phone back in my pocket to enjoy the ramblings
@@ -358,7 +401,11 @@ common area of the hostel this evening. Beer pong, jello shots, flip cup, all
 the hits. I am DOWN.
 
 I mosey up to my room & situate my luggage and take a quick nap before the
-festivities begin. At a quarter after 5 I wander down to the common area to find
+festivities begin.
+
+**Photo of my bunk**
+
+At a quarter after 5 I wander down to the common area to find
 a dozen or so guests & staff mulling around with a couple cases of Modelo. I
 introduce myself and proceed to forget nearly everyone's name instantly. One of
 the staffers tells us they've hidden gold coins around the hostel and each lucky
@@ -386,17 +433,25 @@ Around 9 PM the group starts to get restless and begins making plans to take the
 party to the bar. The question is posed if there's an Irish pub nearby & I
 swoop in with the intel that there is, in fact, an Irish pub less than half a
 mile away. This is the point I'm elected group leader by a silent vote that's
-de facto agreed upon and acknowledged as binding by all parties.
+unanimously agreed upon and acknowledged as binding.
+
+Everyone finishes their beers and we set out for the Fainting Goat with a thirst
+for green beer & Guinness. Miraculously the crowded pub can accommodate our
+group of strangers a dozen deep. Once inside everyone fans out looking for the
+shortest queue for refreshments. I found a spot on the second floor bar where I
+snag a pitcher of green beer and 3 Guinnesses because that's all I can carry.
+
+I find most of the crew up on the rooftop balcony gathered around a rickety table
+near the bar. I offer my gifts and they are eagerly accepted by the council. The
+next two hours are spent on the roof with sporadic bursts of green beer,
+Guinness, and Jameson shots.
 
 
 
-
-
-
-I make my way towards Denver
 
 <h4 class="article-subheader">You Go Left, I'll Go Right</h4>
-I didn't realize my mistake until Johnny comes sliding up
+I didn't realize my mistake until Johnny sprays me with sno as he skids to a stop
+right in front of me
 sweating bullets and cursing my guts. Johnny is my youngest brother. Johnny
 hasn't skied in 10 years. Johnny is not happy.
 
@@ -418,8 +473,8 @@ I fell 4 times and didn't think I was ever gonna get down... Fuck you."
 
 "Well it wasn't... but I made it... let's go get on the lift... fuck you"
 
-I accepted the well-deserved grief and we hopped back on the Super Bee chair at
-Copper Mountain
+I sheepishly accept my well-deserved reprimand and we hop back on the Super Bee
+chair at Copper Mountain.
 So we did. And I went the way that I mistakenly steered Johnny and it was,
 indeed, a real kick in the knackers. I was able to get down it *somewhat*
 smoothly but I was drenched in sweat by the time
@@ -467,9 +522,6 @@ incorporated city in the US at 10,152'. Leadville, if you can imagine this, is
 an old mining town, one of the richest silver mining camps of the late 19th
 century.
 
-<h4 class="article-subheader">Arapahoe Basin</h4>
-My last day of Colorado Skiing I decide to hit up 
-
 
 <h4 class="article-subheader">Have You Heard of Frozen Dead Guy Days?</h4>
 A local named Jason asks me on the lift.
@@ -478,7 +530,43 @@ Frozen Dead Guy Days you might ask? Well it's a weekend of debaucherous
 nonsense in Nederland, CO, a town in the foothills of the Front Range outside
 Boulder.
 
-The origin of the story is .....
+The origin of the story involves a frozen Nor
+
+In 1989 a Norwegian fella by the name of Bredo Morst&#248;l took a heart attack
+and departed this mortal existence to spend the rest of his days in the
+resplendent halls of Valhalla with Odin and his valkyries. His grandson, Trygve
+Bauge, however, had other ideas. Trygve packed grandpa in a sarcophagus of dry
+ice and shipped him to the Trans Time cryonics facility in San Leandro, CA.
+I'm sure everyone has at least heard of cryonics, knowledge of the actual
+term notwithstanding (a dead rose by any other name would smell just as
+rotten). It's the whimsical thought that you can freeze someone who has departed
+their mortal coil for an indeterminate period of time in the hopes that a
+thawing and resurrection will follow. I think I'm going to have to defer to
+Wikipedia on this one, "It is generally viewed as a pseudoscience, and its
+practice has been characterized as quackery."
+
+But sometimes quackery can be fun. Especially when it doesn't hurt anyone.
+Grandpa Bredo is dead. Keeping him frozen isn't hurting anyone.
+
+While Popsicle grandpa chilled (sorry) at Trans Time for 3 years, Trygve was
+developing grand plans for his own cryonics facility. In 1992 he petitioned the
+Nederland government for permission to build such a facility. They resoundingly
+turned him down. So he began building the facility.
+
+Wait. What?
+
+Trygve, roughly translates to "Never to be Deterred" in Norwegian,
+used the money from the proceeds of the sale of his deceased grandfather's
+summer cabin to fund the construction of his state-of-the-art cryogenic palace. By
+the fall of 1993 Trygve was ready to bring grandpa to the palace. In what must
+be another matter of mis-translation the ice palace was a shed behind the house.
+
+\*probably
+
+
+After he was deported he said that "life extension and longevity go hand in
+hand with Jeffersonian liberty," and I have to 
+
 
 I find myself a parking space outside the stone building of the Nederland
 Mining Museum. The town, located about 15 miles up Boulder Canyon, traces its
@@ -541,8 +629,7 @@ piss drizzled down upon a back alley bush matriculates to this spot.
 
 I'm meandering around the main drag taking in all the lunacy of FDGD when I hear
 Lowell George's mellifluous warble over the din of the crowd. You don't often
-hear it, but Ned's is playing Little Feat over the speakers. Well by god I
-gotta go in now.
+hear bars playing Little Feat, but when you do you got to go in.
 
 Ned's is at the end of the main drag, away from the throngs of revelers so it's
 slightly less mobbed than the rest of the dining and drinking establishments in
@@ -619,10 +706,6 @@ The second half is uncomfortably close, with Arkansas seeming to score off sheer
 athleticism alone devoid of any resemblance of an offensive system. But in the end
 the Hogs win 53-48 and I celebrate with a 2x4 Double IPA from Melvin, leaving
 Backcountry happy, full, and more than slightly tipsy.
-
-Backcountry Pizza & Tap House in Boulder
-Pigs win 53-48 over New Mexico State
-Millenium Harvest House
 
 <h4 class="article-subheader">The Land of Enchantment</h4>
 The trip is starting to wind down, 32 days of skiing down and only 1 to go. I
