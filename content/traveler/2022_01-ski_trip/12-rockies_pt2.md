@@ -55,9 +55,10 @@ exertion.
 
 It's totally worth it though, because the skiing is incredible. The terrain is
 challenging yet approachable, a wide-open bowl above the treeline with a
-melange of chutes ideal for sending. I have to
+melange of chutes ideal for sending. Perplexingly, the bowl is nearly devoid of
+other alpine athletes - I have to
 imagine the hike and intimidating heft of the massive crag brooding over the
-chair deter most athletes because I have whole sections of the bowl to myself.
+chair deter most skiers.
 
 Having said that I've reached the point of the day where the marginal cost of
 rising lactic acid levels have begun to outweigh the marginal benefit of powder
@@ -350,7 +351,42 @@ sitting before me and put my phone back in my pocket to enjoy the ramblings
 of unhinged boomers in my own presence.
 
 Once my room is ready I wander over to the Ember Hostel in the Capitol Hill
-neighborhood on the south side of downtown Denver.
+neighborhood on the south side of downtown Denver. Tracy behind the desk checks
+me in and notifies me of all the rules and regulations of the hostel. Most
+importantly she lets me know about the St Paddys party they are throwing in the
+common area of the hostel this evening. Beer pong, jello shots, flip cup, all
+the hits. I am DOWN.
+
+I mosey up to my room & situate my luggage and take a quick nap before the
+festivities begin. At a quarter after 5 I wander down to the common area to find
+a dozen or so guests & staff mulling around with a couple cases of Modelo. I
+introduce myself and proceed to forget nearly everyone's name instantly. One of
+the staffers tells us they've hidden gold coins around the hostel and each lucky
+sleuth who finds one is entitled to a jello shot. I have a distinct altitude
+advantage with an elevated line of sight as compared to most of the guests. I
+parlay my lofty perch into a few jello shots before the beer pong begins.
+
+It's quickly evident that everyone's beer pong peak has long since passed. Grab
+any random two students from CU up in Boulder and they would easily dispatch
+each and every competitor present. But we're having fun despite the pitiful
+attempts at unsanctioned collegiate athletics. I actually manage to win a couple
+games before we all matriculate outside for the more inclusive beer sport of
+flip cup.
+
+Outside I start chatting with a fella by the name of Allen who says he's been
+living out of his van traveling around the country exploring nature and taking
+odd jobs here and there every time he needs a few bucks.
+
+The whole time we're out there Cody from Oklahoma is sitting around the fire pit
+rolling an assembly line of joints. He works for a weed distributor in Oklahoma
+and comes out to Colorado every few months for "research". I shouldn't have to
+tell you that Cody is a popular man at the Ember Hostel.
+
+Around 9 PM the group starts to get restless and begins making plans to take the
+party to the bar. The question is posed if there's an Irish pub nearby & I
+swoop in with the intel that there is, in fact, an Irish pub less than half a
+mile away. This is the point I'm elected group leader by a silent vote that's
+de facto agreed upon and acknowledged as binding by all parties.
 
 
 
@@ -733,7 +769,9 @@ up the face of the mountain, straight up Al's Run. One thing I notice as I ride
 up is that this mountain is *steep*. I must have ridden up slopes steeper than
 this on my previous 22 ski hills but I really can't remember when.
 
-
+Off the lift I loop around to the right and dive down Spencer's. Of the hundreds
+of runs I've taken this trip I'm confident in saying that this is in the top-5
+toughest. The substantial moguls that have 
 
 23,000' of vert, bringing my total just over 600k. My total skiing distance
 is 560 miles.
