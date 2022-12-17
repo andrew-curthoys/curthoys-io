@@ -10,8 +10,8 @@ category: Traveler
 activity: 2022 Ski Trip Adventure
 summary: Summary placeholder
 
-<h4 class="article-subheader">Oh Shit</h4>
-I reach into my pocket to turn my music back on and....
+<h4 class="article-subheader">Ohhhhh Shit</h4>
+I reach into my pocket and....
 
 Nothing.
 
@@ -27,14 +27,14 @@ A phone that you take for granted until it's gone.
 Maybe I got crazy and put it in another pocket? I frantically pat myself down
 like I'm doing the Macarena at a minor league baseball game in 1997.
 
-And a sinking realization sets in that I probably lost it forever. Doomed to a
-snow covered grave on the Montezuma Bowl at Arapahoe basin.
+And a sinking realization sets in that I've probably lost it forever. Doomed to
+a snow covered grave on the Montezuma Bowl at Arapahoe basin.
 
-I'm currently riding the Zuma Chair, the loading area of which initiated my
-current predicament a half hour ago. I was waiting to
-board when a tight three-part harmony surfing atop the rollicking waves of
-an Americana string band tickled my eardrum. I look to the liftie whose
-speakers are guilty of the auditive allurement,
+I'm currently riding the Zuma Chair, where my predicament began a half hour ago.
+I was waiting to board when the tight three-part harmonies of
+an Americana string band surfing atop the rollicking waves of a twangy groove
+tickled my eardrum. I look to the liftie whose
+speakers were guilty of the auditive allurement,
 
 "Damn, these guys kick ass, who are they?"
 
@@ -44,7 +44,9 @@ speakers are guilty of the auditive allurement,
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/17bRvTnijKoadjX2ZGNibY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-And so I do. Or at least attempt to. The lower regions of the Montezuma
+And so I do.
+
+Well at least I attempt to. The lower regions of the Montezuma
 Bowl are cellularly challenged so the jam sesh is postponed till the upper
 reaches of the bowl. At the top of the lift I dart left for about a hundred
 yards with my new favorite band rocking in my ears. I click out of my skis for
@@ -65,19 +67,20 @@ rising lactic acid levels have begun to outweigh the marginal benefit of powder
 chutes. Last hike of the day, let's let 'er rip whaddya say?
 
 I, indeed, let 'er rip, swooping smooth arcs through the fresh Colorado snow.
-Unsurprisingly I've developed an admirable alpine acumen that can only come with
-30 days of skiing in a season, more than thrice what I've done in any other season.
+I've developed an admirable alpine acumen after 30 days of skiing this season,
+more than thrice my previous PR.
 Somewhere in the middle of all those turns I hit the point of no cell reception
 and my headphones go dark.
 
 Or at least I thought I hit the point of no cell reception.
 
-I now realize that it was my phone flying out of my pocket as I was flying down
-the hill with an unzipped pocket. Real dumbass move. If the liftie had been
-playing Nickelback I wouldn't be in this position.
+I now realize it was actually my phone flying out of my pocket as
+I was flying down the hill. If the liftie had been
+playing Nickelback I wouldn't be in this position. I blame his good taste in
+music, not my boneheaded carelessness.
 
 With the depth of the snow on the mountain my phone is almost surely buried
-under two feet of pillowy powder. However, I have a couple cards up my sleeve
+under two feet of pillowy powder. However, I have a couple leads
 that give me a puncher's chance of finding it. First, I have a general idea on
 the mountain where the music cut out. Second, I have my
 headphones that should connect to the phone once I'm within a certain distance.
@@ -88,7 +91,7 @@ often to see if they'll connect. Hell, it's worth a shot.
 
 I slide off the lift and lethargically mope up the hiking trail once more,
 cursing myself for being so careless with my pocket zipper. Eventually
-I find myself atop the Groswold chute and really throw a Hail Mary, turning
+I find myself atop the Groswold chute and throw a Hail Mary, turning
 on the headphones to see if it's right up here at the top. No luck.
 
 I make a few turns down from the top & try again. Nothing.
@@ -123,8 +126,8 @@ the headphones I hear an angelic robotic voice
 
 Connected! That's a Bingo!!!!
 
-I get my head on a swivel and that's when I see it, about 20 yards down the
-hill from me, sitting on top of the snow flat as a pancake. Unbelievable.
+Head on a swivel. Searching. Scanning. And then I see it! About 20 yards down the
+hill, sitting on top of the snow flat as a pancake. Unbelievable.
 I've mentioned it multiple times on this trip but I have no idea what I did to
 deserve the ridiculous luck I've been afforded on my adventure but I'm not going
 to question it. I'm just going to trust the process.
@@ -142,13 +145,20 @@ I'm lost.
 I thought I was headed for the Four Points Lodge for lunch and a mid-day
 brewski. So why in the world am I at the bottom of the Pony Express lift?
 
-Dramatic cut to Steamboat Springs one week prior.
-Whereas Arapahoe Basin was the last stop on my Colorado sojourn, Steamboat
-is my first. As someone
-who takes pride in my bearing-keeping I've been lost all damn day.
-I was completely sure that I was headed to the Four Points Lodge for some
-lunch & a mid-day brewski when I found myself at the bottom of the Pony
-Express lift. How I got here I don't know. What I do know is that I'm on chair
+Whereas Arapahoe Basin was the last stop on my Colorado sojourn, my current
+confines of Steamboat Springs is the first. Over the years I've heard myriad
+tales of Steamboat's "champagne powder," a snow so dry, light, and fluffy that
+powder hounds come from far & wide to worship during their yearly pilgrimage.
+So while it's been on my radar the past few years, it's mostly been aspirational
+due to it's geographical isolation and distance from Denver - about twice as far
+as the well-trod path of Breckenridge/Vail/Keystone/etc. But it fits perfectly
+into my itinerary this trip - it's right on the way from SLC. So I left Bob &
+LaGayle's early in the morning & rolled into Steamboat around lunchtime.
+Beautiful country.
+
+As someone who takes pride in my bearing-keeping today has been a humbling
+experience. I've been lost all. damn. day. How I got to the Pony Express chair
+I have no idea. What I do know is that I'm on chair
 \#35 so I'm obligated to shoot my good friend Frank Dale a photo since everybody
 knows that was his number when he played boundary corner for the Cascia Hall
 Commandos.
@@ -191,33 +201,53 @@ which takes me to the Thunderhead Lodge and I am finally matched with my ever
 illusory pint of suds. I enjoy the beer on the patio with blue skies & warm sun.
 
 I still have a few more hours of daylight left so I suck down the beer and get
-back out there. I head over to the backside for a couple runs on the Morningside?????
-area. The top of the bowl is nice but it flattens out pretty quick and isn't
-really worth it.
+back out there. I head over to the backside for a couple runs on the Morningside
+area. The top of the bowl is nice but it flattens out pretty quick and the
+juice just ain't worth the squeeze. But I'll have a a chance to check out the
+Christmas Tree Bowl on my way back down the frontside, a run that was recommended
+by a local on the chair.
 
-talk about the chute
+At the top of Morningside I shoot over the ridge into Xmas Tree. I quickly find
+out that this run just ain't for me. A steep descent through a dense thicket of
+robust conifers and rutty snow piled high in crusty mounds. I'm not in the
+mood to Sonny Bono myself so I scoot out to skier's left of the bowl towards
+The Chutes. These are some of the steepest runs on the mountain but lack the
+trees that deterred me from the bowl.
 
+As I pull up to the chutes I find a group
+of high school/college aged kids gathering their nerves to take the plunge.
+After 5 minutes of will-they-won't-they most of the group chickens out & rides
+the ridge around to skier's left. Two brave souls muster the courage to petition
+the Gods of Send for safe passage before throwing themselves over the cornice.
+They both successfully navigate the chute and exchange enthusiastic high-5s
+at the bottom. I sidle up to the lip of the chute and drop in to skier's right.
+The top of the chute is the most challenging section, which I deftly navigate
+(arguable) with a few jump turns then send it through the bottom section. I
+let out a quick WOOOO to my chute buddies as I pass them headed for the more
+moderate slopes of Storm Peak.
 
-By this point our noble star's rays have become rather
-oblique, signaling the end of the day is nigh. I take another couple laps on
-some runs off the Storm Peak Express chair then down back to the narrow
-landing chute to the base area.
+By this point the rays of our noble star have become rather
+oblique, signaling the end of the day is nigh. I take another couple laps off
+Storm Peak Express before heading back down to the narrow
+landing chute at the base area.
 
-I pack up my gear in the lot and head into town. It seems like a nice little
-Colorado mountain town, replete with a bubbling stream running through the edge
-of town. But certainly nothing a steamboat could navigate, wait a second, what's
+I pack up my gear in the lot and head into Steamboat proper, a nice little
+Colorado mountain town straddling a bubbling stream. A bubbling stream, sure
+but certainly nothing a steamboat could navigate. Wait a second, what's
 all this Steamboat business about?
 
 I decide to investigate atop a barstool at the Barley Tap and Tavern right on
-the main drag. According to the tale, early 19th century trappers in the area,
-upon hearing a chugging sound, incorrectly presumed that a steamboat was
-rollicking down the river. However, when they correctly diagnosed the cause of
+the main drag. According to the tale, early 19th century trappers in the area
+heard a chugging sound and incorrectly presumed that a steamboat was rollicking
+down a nearby river. However, when they correctly diagnosed the cause of
 the auditory emissions, they discovered that it was coming from a hot spring,
-which they named Steamboat Spring. Yawn.
+which they named Steamboat Spring.
 
-When the barkeep comes around I order myself a flight that will hopefully add
-some excitement to my day after that boring story. It was a typical flight
-situation, where I
+Yawn.
+
+When the bartender comes 'round I order myself a flight that will hopefully add
+some excitement to my day after that boring story. It was a fairly typical
+flight situation - I
 write down the barley sammiches I'd like to try out and the fella brings em
 to me. Well, partner, during the interim period between scribbling my selections
 and the barkeep fulfilling those selections this ol boy plops down in the stool
@@ -262,12 +292,17 @@ get the weather report because every hotel, airbnb, campsite, & RV park in town
 is fully booked up for the night. The closest thing I can find is the
 Travelodge in Yampa, about 30 miles south of town.
 
-I better scoot because the snow is really beginning to fly now. The only place
-the roads are a little squirrely es the pass around Thorpe Mountain, but even
+I do my best to ignore the drunkard next to me and he mercifully (for me) begins
+to badger the bartender. As I sip my suds the snow really begins to fly. I
+better scoot. I throw back the last of the beers, wish my new friend the best of
+luck on... whatever the hell he's got going on... and point my rig due south.
+Luckily the only place
+the roads get a little squirrely is the pass around Thorpe Mountain, but even
 there it ain't terrible. Nothin' the ol' trusty Pathfinder can't handle.
 
 I arrive at the Travelodge under the cover of darkness. I bundle up and trundle
-over to the inn where I see a sign so preposterous I belt out a belly laugh that surprises even me.
+over to the inn where I see a sign so preposterous I belt out a belly laugh so
+loud and spontaneous that it surprises even me.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_diner_registration.jpeg" alt="Registration">
@@ -319,8 +354,8 @@ There she feels at home. There she feels safe. There the world makes sense. Once
 she steps foot outside the comfortable confines of the griddle the demons return.
 The office a dungeon of Promethian misery. The computer a demonic gargoyle that
 slowly sucks her life force with every click of its tail and tap of its scales.
-The hotel a ____________ of pure evil that exists solely to strip Candy of her
-joy.
+The hotel a bottomless chasm of pure evil that exists solely to strip Candy of
+her joy.
 
 "Here's your key, you're in room 312. Take a right outside
 these doors and your keycard will get you into the building. The elevator will
@@ -350,10 +385,7 @@ I walk into Penny's the next morning
 After brekky I head back to Steamboat for another half day on the hill before
 the drive to Denver. It's a lot more of the same, getting lost, checking the map,
 getting lost..er, asking someone for directions, going up so I can go down,
-going down so I can go up. The most famous aspect of Steamboat Springs is their
-"champagne powder," a snow so dry, light, and fluffy that powder hounds all over
-seek it out. As has become a common refrain on this trip their last refill of
-fresh snow is stale in the locals' memories. So I don't even have the benefit
+going down so I can go up. So I don't even have the benefit
 of the champagne pow while I'm aimlessly tracing a path of Brownian motion.
 
 <h4 class="article-subheader">Left at the Next Light!</h4>

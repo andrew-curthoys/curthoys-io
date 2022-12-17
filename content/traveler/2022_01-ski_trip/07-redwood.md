@@ -111,7 +111,7 @@ there.
 
 So the forest canopy, which was relatively unknown until the 1980s, has been
 estimated
-to hold **50%** of all terrestrial life on the planet. Yes, 5-0. And what's
+to hold **50%** of all terrestrial species on the planet. Yes, 5-0. And what's
 more, during periods when the forest floor is lacking nutrients, the
 trees have root systems that will pull nutrients from the canopy soils to
 sustain themselves. Trees: the original recursion.
@@ -147,8 +147,8 @@ to be the most appropriate. I'm choosing to avoid use of the term
 living on this continent millennia before "America" was even a concept.
 
 Mann's overall thesis attempts to debunk what William Denevan, professor of
-Geography at Wisconsin-Madison, called the
-"<a href="https://www.jstor.org/stable/2563351" target="_blank" rel="noopener noreferrer">pristine myth</a>" in 1992. This
+Geography at Wisconsin-Madison, termed the
+"<a href="https://www.jstor.org/stable/2563351" target="_blank" rel="noopener noreferrer">pristine myth</a>". This
 belief, contrived by nineteenth-century romanticist writers and artists,
 stated that the continents of the Western Hemisphere at the time of Columbus were an
 edenic wilderness, untrammeled by the hands of man. Mann presents scholarship
