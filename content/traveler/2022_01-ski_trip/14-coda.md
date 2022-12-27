@@ -1,11 +1,11 @@
-title: Part XIII: Coda
-slug: traveler/2022_01-ski_trip/13-coda
+title: Part XIV: Coda
+slug: traveler/2022_01-ski_trip/14-coda
 slug_base: traveler/2022_01-ski_trip
 day_alias: Coda
-prev_day: 12-rockies_pt2
+prev_day: 13-new_mexico
 next_day: /traveler
 date: 2022-03-22
-post_date: 2022-1-15
+post_date: 2022-12-27
 category: Traveler
 activity: 2022 Ski Trip Adventure
 summary: Summary placeholder
