@@ -10,8 +10,8 @@ category: Traveler
 activity: 2022 Ski Trip Adventure
 summary: Summary placeholder
 
-<h4 class="article-subheader">Ohhhhh Shit</h4>
-I reach into my pocket and....
+<h4 class="article-subheader">Ohhh Shit</h4>
+I reach into my pocket to grab my phone and....
 
 Nothing.
 
@@ -31,9 +31,8 @@ And a sinking realization sets in that I've probably lost it forever. Doomed to
 a snow covered grave on the Montezuma Bowl at Arapahoe basin.
 
 I'm currently riding the Zuma Chair, where my predicament began a half hour ago.
-I was waiting to board when the tight three-part harmonies of
-an Americana string band surfing atop the rollicking waves of a twangy groove
-tickled my eardrum. I look to the liftie whose
+I was waiting to board when the tight three-part harmonies and twangy groove of
+an Americana string band tickled my eardrum. I look to the liftie whose
 speakers were guilty of the auditive allurement,
 
 "Damn, these guys kick ass, who are they?"
@@ -44,33 +43,29 @@ speakers were guilty of the auditive allurement,
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/17bRvTnijKoadjX2ZGNibY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-And so I do.
+And so I did.
 
-Well at least I attempt to. The lower regions of the Montezuma
-Bowl are cellularly challenged so the jam sesh is postponed till the upper
-reaches of the bowl. At the top of the lift I dart left for about a hundred
-yards with my new favorite band rocking in my ears. I click out of my skis for
+Well at least I attempted to - the lower regions of the Montezuma
+Bowl are cellularly challenged so the jam sesh was postponed until higher
+elevations. At the top of the lift I swung left about a hundred
+yards with my new favorite band rocking in my ears. I clicked out of my skis for
 my third & final hike
 up to the Zuma Cornice. It's not an especially grueling hike, but with the
 12,000'+ elevation and unsure footing it requires a deceptively high level of
 exertion.
 
-It's totally worth it though, because the skiing is incredible. The terrain is
-challenging yet approachable, a wide-open bowl above the treeline with a
+The hike is totally worth it though, because the skiing is incredible. The
+terrain is challenging yet approachable, a steep, wide-open bowl with a
 melange of chutes ideal for sending. Perplexingly, the bowl is nearly devoid of
 other alpine athletes - I have to
 imagine the hike and intimidating heft of the massive crag brooding over the
 chair deter most skiers.
 
-Having said that I've reached the point of the day where the marginal cost of
-rising lactic acid levels have begun to outweigh the marginal benefit of powder
-chutes. Last hike of the day, let's let 'er rip whaddya say?
-
-I, indeed, let 'er rip, swooping smooth arcs through the fresh Colorado snow.
-I've developed an admirable alpine acumen after 30 days of skiing this season,
-more than thrice my previous PR.
+I drop into the Groswold Chute, swooping smooth arcs through the fresh Colorado
+snow. I'm on day 30 for the season - more than thrice my previous PR - and at
+the risk of immodesty I must say that I've developed an admirable alpine acumen.
 Somewhere in the middle of all those turns I hit the point of no cell reception
-and my headphones go dark.
+and my headphones went dark.
 
 Or at least I thought I hit the point of no cell reception.
 
@@ -86,15 +81,17 @@ the mountain where the music cut out. Second, I have my
 headphones that should connect to the phone once I'm within a certain distance.
 Unfortunately, due to point #1, I'll have to make the hike again. Woof.
 
-So I have a battle plan - retrace my steps and fire up the headphones every so
+So I create a battle plan - retrace my steps and fire up the headphones every so
 often to see if they'll connect. Hell, it's worth a shot.
 
 I slide off the lift and lethargically mope up the hiking trail once more,
-cursing myself for being so careless with my pocket zipper. Eventually
-I find myself atop the Groswold chute and throw a Hail Mary, turning
-on the headphones to see if it's right up here at the top. No luck.
+cursing myself for being so negligent with my pocket zipper. Eventually
+I find myself back atop Groswold and throw a Hail Mary. I turn the headphones on
+right here at the top to see if they'll connect.
 
-I make a few turns down from the top & try again. Nothing.
+No luck.
+
+So I make a few turns down from the top & try again. Nothing.
 
 A few more turns. No sir.
 
@@ -112,11 +109,15 @@ Nothin' doin'
 
 *swoosh swoosh swoosh*
 
-Noooooooope.
+Noooooooope
 
-Ok you get the picture. I do this most of the way down the top section of the
-mountain. That is until I reach the bottom of the chute, when after turning on
-the headphones I hear an angelic robotic voice
+*Swoosh swoosh swoosh*
+
+Silence
+
+Ok you get the picture. I do this most of the way down the chute.
+That is until I reach the bottom when, after turning on
+the headphones, I hear an angelic robotic voice,
 
 <code>--Boop-- <i>Connected to Tiny Andy Dufresne.</i></code>\*
 
@@ -126,7 +127,15 @@ the headphones I hear an angelic robotic voice
 
 Connected! That's a Bingo!!!!
 
-Head on a swivel. Searching. Scanning. And then I see it! About 20 yards down the
+Now I just gotta find it.
+
+Head on a swivel.
+
+Searching.
+
+Scanning.
+
+And then I see it! About 20 yards down the
 hill, sitting on top of the snow flat as a pancake. Unbelievable.
 I've mentioned it multiple times on this trip but I have no idea what I did to
 deserve the ridiculous luck I've been afforded on my adventure but I'm not going
@@ -135,7 +144,7 @@ to question it. I'm just going to trust the process.
 I slide right up to my phone, dust off the snow, and turn back on The Last
 Revel. Hell yeah.
 
-I'm blasting tunes, I'm ripping turns, I'm feeling vibes.
+I'm blasting tunes, I'm ripping lines, I'm feeling vibes.
 
 But most importantly, now I won't get lost.
 
@@ -145,16 +154,17 @@ I'm lost.
 I thought I was headed for the Four Points Lodge for lunch and a mid-day
 brewski. So why in the world am I at the bottom of the Pony Express lift?
 
-Whereas Arapahoe Basin was the last stop on my Colorado sojourn, my current
-confines of Steamboat Springs is the first. Over the years I've heard myriad
-tales of Steamboat's "champagne powder," a snow so dry, light, and fluffy that
-powder hounds come from far & wide to worship during their yearly pilgrimage.
-So while it's been on my radar the past few years, it's mostly been aspirational
-due to it's geographical isolation and distance from Denver - about twice as far
+Let's rewind about a week. My first stop after forging East from Utah was
+Steamboat Springs, where I'm currently situationally bamboozled. Over the years
+I've heard myriad tales of Steamboat's "champagne powder," a snow so dry, light,
+and fluffy that powder hounds come from far & wide for yearly pilgrimages to
+worship at the altar of the snow gods.
+So while it's been on my radar, it's mostly been aspirational
+due to its geographical isolation - it's about twice as far from Denver
 as the well-trod path of Breckenridge/Vail/Keystone/etc. But it fits perfectly
 into my itinerary this trip - it's right on the way from SLC. So I left Bob &
 LaGayle's early in the morning & rolled into Steamboat around lunchtime.
-Beautiful country.
+How 'bout that lil deal?
 
 As someone who takes pride in my bearing-keeping today has been a humbling
 experience. I've been lost all. damn. day. How I got to the Pony Express chair
@@ -184,20 +194,29 @@ Steamboat. It's a ski resort fit for M.C. Escher.
 
 So I'm on the Pony Express lift, but I really want to be at the lodge drinking
 a beer. On my way up the cableway I devour Mr Niehues's trail map like I'm
-studying for the bar exam. *May it
-Please the Court:* I plan to take Longhorn down to the Wapiti cutover, which
-should dump me right at the base of the Bar-UE chair. From there it's a quick
-ride up & easy scoot down to Four Points and an ice cold bowl of loudmouth soup.
-Sounds easy enough.
+studying for the bar exam.
 
-Off the chair I veer right, headed for Longhorn. About halfway down I
-dive into the short piste of Wapiti aaaaaaaaand there's no chair. I look up to
-my left and the two seater is spinning about 200 yards up a side hill above a
+*May it Please the Court:*
+
+<div class="mx-3 mb-3">
+  Off the chair I will hook a right to the Longhorn trail. I will ski
+  that about a third of the way down to a cove of trees, where the piste takes
+  a right turn. I will then veer to the left of the trees to another run
+  called Wapiti, which cuts across the trees and if all goes according to plan
+  that will dump me right at the base of the Bar-UE chair. From there it's a quick
+  ride up & easy scoot down to Four Points and an ice cold bowl of loudmouth soup.
+  Sounds easy enough.
+</div>
+
+Off the chair I swing right, headed for Longhorn. Just as it goes right I go
+left and ski Wapiti's short piste aaaaaaaaand there's no chair. I look up to
+my left and the two seater is spinning about 200 yards up a side hill behind a
 copse of trees. You've GOT to be kidding me!!
 
-My only option now is to ski the cat track all the way around the the side of
-the mountain to the main base area. I dawdle over there & hop on the gondola,
-which takes me to the Thunderhead Lodge and I am finally matched with my ever
+My only option now is to ski the cat track all the way around Thunderhead Peak
+to the main base area. I curse under my breath and begin matriculating my way
+'round the mountain to the gondola. I hop on and a few short minutes later I'm
+at the Thunderhead Lodge and finally matched with my ever
 illusory pint of suds. I enjoy the beer on the patio with blue skies & warm sun.
 
 I still have a few more hours of daylight left so I suck down the beer and get
@@ -386,11 +405,11 @@ After brekky I head back to Steamboat for another half day on the hill before
 the drive to Denver. It's a lot more of the same, getting lost, checking the map,
 getting lost..er, asking someone for directions, going up so I can go down,
 going down so I can go up. So I don't even have the benefit
-of the champagne pow while I'm aimlessly tracing a path of Brownian motion.
+of the champagne pow while I aimlessly wander with no sense of direction whatsoever.
 
 <h4 class="article-subheader">Left at the Next Light!</h4>
-I holler in my duties as the de facto navigator of this roving band of walking
-miscreants. It's St. Paddy's Day and I'm on my way to the Fainting Goat Irish
+I've been voted navigator for a roving band of miscreants in downtown Denver.
+It's St. Paddy's Day and I'm on my way to the Fainting Goat Irish
 Pub with a new group of friends I just met at today at my hostel in the Capitol
 Hill neighborhood of Denver. I've been appointed the group's leader since I
 bellied up to the same bar earlier this afternoon while my bed was readied at
@@ -432,10 +451,18 @@ importantly she lets me know about the St Paddys party they are throwing in the
 common area of the hostel this evening. Beer pong, jello shots, flip cup, all
 the hits. I am DOWN.
 
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_ember.jpeg" alt="Hostel">
+  <figcaption class="figure-caption">Not a bad spot</figcaption>
+</figure>
+
 I mosey up to my room & situate my luggage and take a quick nap before the
 festivities begin.
 
-**Photo of my bunk**
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_ember_bunk.jpeg" alt="Bunk">
+  <figcaption class="figure-caption">My kingdom for the next 2 days</figcaption>
+</figure>
 
 At a quarter after 5 I wander down to the common area to find
 a dozen or so guests & staff mulling around with a couple cases of Modelo. I
@@ -478,12 +505,12 @@ near the bar. I offer my gifts and they are eagerly accepted by the council. The
 next two hours are spent on the roof with sporadic bursts of green beer,
 Guinness, and Jameson shots.
 
-
-
+The night begins to get a little fuzzy and we all straggle out of the bar in
+waves back to the hostel for some much needed shuteye.
 
 <h4 class="article-subheader">You Go Left, I'll Go Right</h4>
-I didn't realize my mistake until Johnny sprays me with sno as he skids to a stop
-right in front of me
+I didn't realize my mistake until Johnny sprays me with snow as he skids to a
+stop
 sweating bullets and cursing my guts. Johnny is my youngest brother. Johnny
 hasn't skied in 10 years. Johnny is not happy.
 
@@ -516,14 +543,14 @@ I'm really amazed that Johnny was able to make it to the bottom, considering his
 alpine hiatus and I've racked up 30 days on this trip alone. The young man is
 tough as nails.
 
-This bout of alpine athletics is taking place at Copper Mountain, a Colorado
-ski resort just to the west of the North-South spine that forms the Tenmile
-Range, which is host to Breckenridge. Josh Allen could launch a pigskin from
+This is my first time to ski Copper Mountain,
+a resort just to the west of the North-South spine that forms the Tenmile
+Range, which is home to Breckenridge. Josh Allen could launch a pigskin from
 here to the
 <a href="http://www.summitconcierge.com/breckenridge-ski-resort/imperial-express-superchair-breckenridge-colorado-ski-resort_id-203.html" target="_blank" rel="noopener noreferrer">Imperial Express chair</a>.
 
-
-I pick up Johnny at his friend's apartment a little after 8 AM and head for I-70,
+The day started when I picked up Johnny at his friend's apartment in Denver just
+after 8 AM and made for I-70 West,
 probably the most maligned stretch of ski-resort-bound road in the country. The
 same demographic pressures that have overwhelmed Utah's
 <a href="/traveler/2022_01-ski_trip/11-utah.html?id=canyons" target="_blank" rel="noopener noreferrer">Canyon roads</a> have swamped I-70 West from Denver up
@@ -544,25 +571,101 @@ pass. He meets us at the bottom of the American Eagle lift after taking a few
 spins while waiting for us to drive up from Denver and get Johnny outfitted with
 some rental gear.
 
+We take a few spins off American Eagle and get a feel for the mountain while
+Johnny gets his ski legs under him. The layout of Copper is perfectly set up
+for first-timers, the easiest runs are to looker's right and progressively get
+tougher as you go left. Early on in the day we get stymied off the Timberline
+Express over to the right with an enormous line of families on spring break. We
+brave the crowd and make sure not to make that mistake again.
 
-We load up the gear and head to Silverheels Tavern in Frisco for a few cold
-ones and a big plate of nachos. I compliment Johnny's skiing acumen for such a
-protracted absence from the sport.
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_copper.jpeg" alt="Skiin' with Johnny">
+  <figcaption class="figure-caption">Happy as a hippo</figcaption>
+</figure>
+
+Johnny quickly gains confidence & we start to meander towards the left. By the
+end of the day he's bombing down the black groomers off the Super Bee lift. In
+the afternoon, Johnny, Cameron, and I start some adventures above the treeline.
+I peel off from Johnny & Cam and dive into the Spaulding Bowl for a few runs to
+get the blood pumping. These are my favorite runs of the day, outstanding
+wide-open steeps with great snow. The only downside is the slow fixed-grip lift
+that feels like it takes an eternity, probably because I'm so eagerly awaiting
+the skiing that awaits me.
+
+After we meet back up we work up the gumption for a run in the Copper Bowl, the
+location of the most challenging runs on the mountain. We ride the Three Bears
+chair to the peak of Tucker Mountain and split up again. They rode the ridge
+around to the Summit Stash, the only non double-black expert run in this bowl.
+I drop into a chute called The Taco, which is a steep saddle that's held the
+snow admirably. I'm able to navigate the chute in one continuous run, linking
+my turns all the way down.
+
+I meet up with Cam & Johnny at the bottom and they've had their fill of the
+Copper Bowl and we head back to the front side for some more runs off the
+Super Bee lift to close out the day. We load up the gear and head to Silverheels
+Tavern in Frisco for a few cold ones and a big plate of nachos. I compliment
+Johnny's admirable skiing acumen after such a protracted absence from the sport.
+He says it was a little squirrely to start but it's just like riding a bike.
+We talk about our favorite runs and I have say that Copper is one of my
+favorite mountains I've ever skied. It has expansive above-treeline terrain that's
+easily accessible and challenging but not daredevil level stuff.
 
 Post-apr&egrave;s we make the 30 mile drive south to Leadville, the highest
 incorporated city in the US at 10,152'. Leadville, if you can imagine this, is
 an old mining town, one of the richest silver mining camps of the late 19th
-century.
+century. Doc Holliday briefly called Leadville home in 1883 shortly after the
+gunfight at the OK Corral, when he moved to town to deal faro. We all know Doc
+says that poker's an honest trade. He stayed until an old enemy came to town
+and threatened his life over a $5 debt. So Doc shot him instead. And got away
+with it - a jury of his peers acquitted him of the shooting.
 
+We don't plan to get into as much trouble as Doc, but we'll see. Our accommodation
+for the evening, the Delaware Hotel, broke ground just about a year after Doc
+that man like a dog in the street. It was completed in 1886 just in time for the
+silver rush of 1887 that brought prospectors, gamblers, gunslingers, lawmen,
+bankers, con men, prostitutes, and tens of thousands of people trying to strike
+it rich or scratch out a living. A 3-story Victorian with 50 guest rooms, the
+Delaware Hotel is still known as the "Crown Jewel of Leadville."
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_leadville_hotel.jpeg" alt="Hotel">
+  <figcaption class="figure-caption">Nice digs</figcaption>
+</figure>
+
+Through all the years, the booms, the busts, and changes of ownership, the
+hotel has managed to maintain all of its Victorian charm. The current owners
+purchased the hotel in 2021 and are in the beginning stages of extensive
+renovations. As we navigate the high-ceilinged lobby we stroll past stacks of
+drywall, tools, tarps, and lumber prepared to give the hotel a face lift.
+high-ceilinged lobby to check in. Our room is up up the well-worn creaky stairs
+in a room that was once occupied by one Charles Boettcher. The hotel's most
+famous resident is Mary Coffey, a woman who was shot dead by her husband in 1889
+in a fit of jealous rage. Hotel legend has it that she still roams the halls,
+looking to avenge her untimely demise.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_leadville_sink.JPEG" alt="Hotel sink">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_leadville_door.JPEG" alt="Hotel door">
+    </div>
+  </div>
+  <div class="row">
+    <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_leadville_hall.JPEG" alt="Hallway">
+  </div>
+  <figcaption class="figure-caption">Kubrick-ian vibes</figcaption>
+</figure>
+
+The accommodation is unique and charming. I can only hope that the renovations
+keep some of that charm.
 
 <h4 class="article-subheader">Have You Heard of Frozen Dead Guy Days?</h4>
-A local named Jason asks me on the lift.
-While I'm on the lift Jason tells me about Frozen Dead Guy Days. The hell is
-Frozen Dead Guy Days you might ask? Well it's a weekend of debaucherous
+A local named Jason asks me on the lift. I'd never heard of it so Jason begins
+to explain the weekend of debaucherous
 nonsense in Nederland, CO, a town in the foothills of the Front Range outside
-Boulder.
-
-The origin of the story involves a frozen Nor
+Boulder. The tale of how it began is just as batty as the name.
 
 In 1989 a Norwegian fella by the name of Bredo Morst&#248;l took a heart attack
 and departed this mortal existence to spend the rest of his days in the
@@ -587,7 +690,7 @@ turned him down. So he began building the facility.
 
 Wait. What?
 
-Trygve, roughly translates to "Never to be Deterred" in Norwegian,
+Trygve, which roughly translates to "Never to be Deterred" in Norwegian\*,
 used the money from the proceeds of the sale of his deceased grandfather's
 summer cabin to fund the construction of his state-of-the-art cryogenic palace. By
 the fall of 1993 Trygve was ready to bring grandpa to the palace. In what must
@@ -595,17 +698,14 @@ be another matter of mis-translation the ice palace was a shed behind the house.
 
 \*probably
 
-
 After he was deported he said that "life extension and longevity go hand in
 hand with Jeffersonian liberty," and I have to 
 
-
+The drive to Nederland is about 15 miles up the Boulder Canyon, where
 I find myself a parking space outside the stone building of the Nederland
-Mining Museum. The town, located about 15 miles up Boulder Canyon, traces its
-roots, as do so many mountain towns, to mining. Located in locations where the
-enormous forces of plate tectonics have churned up the heavier minerals in the
-Earth's crust into veins of concentrated and highly valuable ores. The most
-notorious historical era for the town of Nederland occurred during WWI, a
+Mining Museum. The town traces its
+roots, as do so many mountain towns, to mining. The most
+notorious historical era for the town occurred during WWI, a
 period of wild speculation known locally as the "tungsten boom".
 
 Up till that point tungsten was considered an impurity, thrown upon slag heaps
@@ -628,36 +728,53 @@ harder and resistant to heat and stress. In a struggle between enormous forts of
 concrete and steel and immense artillery barrages designed to pummel these forts
 it's easy to see why tungsten would be in such high demand.
 
-And since tungsten is a trace element in the Earth's crust - clocking in at a
-miniscule 0.000125% - when  In other words, there is only a single pound of tungsten in every
-*800,000* pounds of crust (on average of course). That's 500 Arizona Cardinals
-offensive lines.
-
-
-
-Unfortunately for the British, the largest supplier of pre-war tungsten to
-Germany was... the British. The Germans owned mines in Devon and Cornwall where
-they 
-
-
-As I make my way towards town it feels like I'm walking towards the stadium of a
-college football game. People are just wandering, from where nobody knows, but
-towards a central location. If we were all zombies and the festival was a
-mountain of brains it would look just like this.
+As I make my way towards the festivities it feels like I'm walking towards a
+college football game. People are wandering about in a half-drunken daze, riding
+high on hopes that this weather signals the start of spring. From where they
+wander nobody knows, but everybody is wandering
+towards a central location.
 
 I eventually wind my corpse to the festivities, the main street of which
 is crowded with folks moseying about, bros hanging from bar porches, substantial
-food truck lines, and not a single beer purveyor in sight. I keep wandering
-through the festivities till I reach the end of the street and find myself in
+food truck lines, and not a single beer purveyor in sight. I watch a few
+FDGD-themed events, the brain freeze chugging contest, the polar plunge, and the
+frozen t-shirt contest where contestants race to don a white t-shirt that has
+been frozen solid into a ball.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_fdgd_brainfreeze.jpeg" alt="FDGD">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_fdgd_street.jpeg" alt="FDGD">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Let's have some fun, eh</figcaption>
+</figure>
+
+I cruise
+through the party till I reach the end of the street and find myself in
 the mud section of the event. Luckily I wore my good mud stompin' boots.
 
-This is where all the activities take place. As I splash through the muck and the
+It seems I've reached the Thunderdome. As I splash through the muck and the
 puddles towards the cacophonous noises of jeering crowds and a garbled PA
 announcer I see the battlefield sprawled out in front of me. The grand arena is a
 sloppy racetrack of mud and snow built for athletes by athletes in the lowest
 possible part of town. Every drop of beer spilt on main street, every drop of
 piss drizzled down upon a back alley bush matriculates to this spot.
 
+The racetrack is home to the Frozen Dead Guy Days main event: the Coffin Races.
+This contest pits teams of
+6 pallbearers who tote a coffin with the "corpse" of the
+7th teammate 'round a muddy loop between hay bales, over
+slippery hills, and through frigid puddles. Each team decorates their coffin and
+competes in the no-holds-barred event in homemade uniforms.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_fdgd_coffin.jpeg" alt="Coffin Races">
+  <figcaption class="figure-caption">Haulin' Cass</figcaption>
+</figure>
 
 I'm meandering around the main drag taking in all the lunacy of FDGD when I hear
 Lowell George's mellifluous warble over the din of the crowd. You don't often
@@ -678,21 +795,20 @@ think he likes having someone new to talk to at the bar.
 Then after about 10 minutes of discussing the weather or something else equally
 as boring, Fred leans over, completely unprovoked, and hits me with,
 
-"I'm
-pushing 60.. I'm 57.. Never been married and I don't know if I could marry a
+"I'm pushing 60.. I'm 57.. Never been married and I don't know if I could marry a
 woman my age. Once they get to 50 they start to fall apart."
 
 *Awkward pause*
 
 "And they get fat"
 
-*Awkward pause redux*
+*Awkward pause again*
 
 "And they get fat in the worst places"
 
 Well y'know Fred, I wasn't gonna say it but you look an awful lot older than 57.
-A classic kettle-pot situation. I don't linger much longer to hear any more of
-Cassanova Fred's opinions on the fairer sex.
+What we have here is a classic kettle-pot situation. I don't linger much longer
+to hear the rest of Cassanova Fred's opinions on the fairer sex.
 
 I bop over to Crosscut Pizzeria and Taphouse, where I find a spot against the
 rail on the back deck overlooking the bubbling waters of Middle Boulder Creek.
@@ -739,154 +855,4 @@ athleticism alone devoid of any resemblance of an offensive system. But in the e
 the Hogs win 53-48 and I celebrate with a 2x4 Double IPA from Melvin, leaving
 Backcountry happy, full, and more than slightly tipsy.
 
-<h4 class="article-subheader">The Land of Enchantment</h4>
-The trip is starting to wind down, 32 days of skiing down and only 1 to go. I
-gather up my things in Boulder and say goodbye to the Millennium Harvest, the
-second spookiest hotel I've stayed at on a ski trip behind only the
-<a href="/traveler/2021_04-ski_trip/wp/day_5.html?id=timberline" target="_blank" rel="noopener noreferrer">Timberline</a>. Before I leave town I make my way to
-Chautauqua Park for a quick picnic in the shadow of the Rockies. The weather is
-perfect and the park is filled with dozens of Boulderites enjoying a nice lazy Sunday.
-
-I don't linger too long because I have 300 miles of highway on my schedule today
-and they ain't gonna drive themselves. I load back into the Pathfinder and start
-findin' a path. The first few hours are uneventful interstate boredom, south on
-I-25 with the Colorado Front Range to my right. At the northern flank of the
-Sangre de Cristo Mountains I dive West and see the familiar sights of Northern
-New Mexico that I remember so fondly from my youth. It's probably been 20 years
-since I've been here and a strange sense of nostalgic familiarity and newness
-is running through my veins.
-
-I pull into Red River just as the ski day is wrapping up. Well, it *should* be
-wrapping up. As I pull into the parking lot for my accommodation I see hundreds
-of people gathered at the base of the hill with music blasting. I stroll into
-the lobby to check in & inquire what that's all about. The woman behind the
-counter informs me that it's the last day of the season here at Red River & this
-is the end of season party they do every year. Well that's a hell of a deal,
-unintentionally walking into a big party.
-
-I'm actually going to be skiing another mountain tomorrow, Taos, that is a few
-hundred feet higher in elevation and about 45 minutes from here. I decided to
-stay in Red River mostly for the nostalgia factor. This was where I came on my
-very first ski trip and a handful of trips in the following years. It's a little
-mountain town but it holds a large place in my heart.
-
-I get checked in and dump my bags and walk over to the festivities to see what's
-going on. I sidle my way up to a small pond built right at the bottom of "The
-Face" a run that I remember being about the size of Mt Everest when I was a kid
-that now looks so unimpressive that I have a minor existential crisis on what is
-even real. Why might we all be gathered around a small pond at the bottom of a
-ski run you might ask... Well this is why:
-
-
-Closing day is quite the party. I stand down by the pond for a few skiers, some
-successful, some not, and a handful of snowboarders, all unsuccessful, before
-sauntering over to the lodge with a bustling second story balcony overlooking
-the festivities. While waiting in line for a beer I see a fella decked out in a
-fabulous head-to-toe shiny leopard print ski suit. Someone in the crowd asks
-how Red River Liberace is doing to which he replies,
-
-"Honey, if I were any peachier I'd be a cobbler!"
-
-Outstanding.
-
-I sidle through the crowd to the bar for a plastic cup full of Happy Camper IPA,
-which I tote back out to the patio. The sun is shining, the senders are sending,
-and the music is blasting. It's a glorious day to be in Red River. I hang out on
-the patio until the festivities wrap up and I throw back my beer. By this point
-I've worked up a hell of an appetite and I know the exact place to scratch that
-itch.
-
-Texas Red's Steakhouse is the basis for dozens of my fondest childhood memories.
-Even when we weren't skiing in or staying in Red River we would make the trek
-around Wheeler Peak for supper at Texas Red's. Unlike some of the other
-<a href="/traveler/2022_01-ski_trip/08-canada.html?id=longhorn" target="_blank" rel="noopener noreferrer">saloons</a> and
-<a href="/traveler/2022_01-ski_trip/10-cowboy_state.html?id=mdc" target="_blank" rel="noopener noreferrer">taverns</a>
-I've encountered on this trip, this place is the real deal.
-
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_texas_reds.jpeg" alt="Texas Red's">
-  <figcaption class="figure-caption">I mean, just look at her. Gorgeous!</figcaption>
-</figure>
-
-During the quarter mile stroll over to Texas Red's my mind is reeling with an
-unhealthy carnal lust
-for a medium rare T-bone steak. As I stride up the steps to the front door
-I'm greeted with a horrifying sight that chills me to my bones.
-
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_texas_reds_fishin.jpeg" alt="Gone fishin">
-  <figcaption class="figure-caption">Your pleasure can't interrupt my pleasure!!!</figcaption>
-</figure>
-
-I'm not old enough to remember the first two Bills Super Bowl losses, but I sure
-as shit remember the second two against the goddamn Cowboys. This might hurt
-worse.
-
-I sit on the stoop for a minute and ponder if it's worth it to stay in Red River,
-NM until May. I guess I'll mull it over with a beer.
-
-I slowly trudge with my head hung low back towards the ski resort and duck into
-the Red River Brewing Company. The place is jammed with people enjoying the
-final days of skiing and watching March Madness. And I'd say 1 in 5 people are
-wearing something from Oklahoma, which is pretty neat I reckon.
-
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_rrbc.jpeg" alt="RRBC">
-  <figcaption class="figure-caption">You said it, brewer.</figcaption>
-</figure>
-
-I put my name in for a table and grab a Powder Day Stout and pop a squat outside
-on the patio around a gas firepit. Our old fabulous friend in the full leopard
-skiing onesie sashays over
-
-"Hey, I haven't seen you around, you must be new to town"
-
-"Yeah I just got here today, just in time to see the pond skiing"
-
-"Oh that's fun! It's our little crazy tradition for the close of ski season. I
-don't ski but I dress the part. Name's Tyler, but everyone calls me Sweet T.
-Don't ask me how long I've been here... It's been 7 years. By this point I know
-everybody and everybody knows me. Is this your first time?"
-
-"First time in probably 15 years, we came quite a few times when we were kids.
-Everything seems so much smaller. It's all so different and so the same, it
-feels... strange"
-
-"Well it's our own little slice of heaven, we're not like those asshole ski
-towns in Colorado"
-
-"I agree. I like it here"
-
-"Well that's fabulous, I hope you enjoy our little town"
-
-"I sure will Sweet T"
-
-<h4 class="article-subheader">This is it, Don't Get Scared Now</h4>
-I can't believe we've made it here. The end of the road. One more day of skiing
-then it's back to reality. I'm a little sad just thinking about it.
-
-I pack up my gear one last time and head to the slopes. It's about 45 minutes
-around the base of Wheeler Peak, the loftiest of peaks in the state, to Taos Ski
-Valley. A light flurry of snow is falling as I pull into the parking lot & load
-onto the tractor-pulled open-air cattle car.
-
-I must have been completely oblivious to most things as a child because none of
-this looks familiar. You would have thought that I would retained at least a
-faint recollection of the six-story Swiss chalet-style hotel and Bavarian
-village at the base of the hill. I only learn later that most of this was built
-within the past decade, after the 2013 sale of the resort and the $330 million
-master development plan that came along with it. At least I haven't completely
-lost my marbles.
-
-I strap on the planks for one final time in the shadow of said six-story Swiss
-chalet-style hotel ready to shred. I hop on the unimaginatively named Lift 1
-up the face of the mountain, straight up Al's Run. One thing I notice as I ride
-up is that this mountain is *steep*. I must have ridden up slopes steeper than
-this on my previous 22 ski hills but I really can't remember when.
-
-Off the lift I loop around to the right and dive down Spencer's. Of the hundreds
-of runs I've taken this trip I'm confident in saying that this is in the top-5
-toughest. The substantial moguls that have 
-
-23,000' of vert, bringing my total just over 600k. My total skiing distance
-is 560 miles.
+Only one more day of skiing left. I can't believe it's already here.
