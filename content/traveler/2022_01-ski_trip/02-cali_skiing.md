@@ -7,6 +7,7 @@ next_day: 03-wine
 date: 2022-01-10
 post_date: 2022-01-18
 category: Traveler
+subcat: Skiing
 activity: 2022 Ski Trip Adventure
 summary: Victory Monday never gets old. AFC East Champion Buffalo Bills has a nice ring to it doesn't it? James & I gather our things and head down the road a piece to a juicery to give our bodies some nutrients they've surely been missing.
 

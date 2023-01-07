@@ -7,6 +7,7 @@ next_day: 03-highlands
 date: 2021-09-02
 post_date: 2021-09-04
 category: traveler
+subcat: Gallivanting
 activity: September 2021 Costa Rica
 summary: It's an easy 15 minute taxi ride to the bus terminal. We hop on the bus and it's hot, sticky, and devoid of leg room. I ask the woman next to me how long the ride is and she pulls out a map and estimates 4 hours. Yikes.
 

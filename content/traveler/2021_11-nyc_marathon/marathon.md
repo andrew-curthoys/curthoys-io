@@ -7,6 +7,7 @@ next_day: /traveler
 date: 2021-11-07
 post_date: 2021-11-24
 category: traveler_lite
+subcat: Athletics
 activity: 2021 NYC Marathon
 summary: "Welcome to the Bronx" shouts a bombastic gentleman on the Willis Avenue Bridge as we enter his home borough. I wish I could match his energy but all I can muster is a meek smile and a muffled "thanks." I have nothing but respect for The Bronx.
 

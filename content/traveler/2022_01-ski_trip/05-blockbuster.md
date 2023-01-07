@@ -7,6 +7,7 @@ next_day: 06-seattle
 date: 2022-01-20
 post_date: 2022-03-04
 category: Traveler
+subcat: Skiing
 activity: 2022 Ski Trip Adventure
 summary: It's like we never left. Anyone reading this of a certain age remembers the ritual. The family loads into the car for the heady journey to the local Blockbuster, eager to peruse the shelves for a physical copy of the night's entertainment. You remember when your local store began the transition from VHS to DVD. No more need to be kind, rewind.
 

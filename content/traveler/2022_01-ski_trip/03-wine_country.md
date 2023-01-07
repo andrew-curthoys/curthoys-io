@@ -7,6 +7,7 @@ next_day: 04-bend
 date: 2022-01-16
 post_date: 2022-02-10
 category: Traveler
+subcat: Skiing
 activity: 2022 Ski Trip Adventure
 summary: Vitis vinifera. A muse. A passion. An indulgence. Some see it as a common table grape. Some see it as a feedstock for Franzia. Others see it as a canvas, an expression of the earth at a distinct time and place.
 

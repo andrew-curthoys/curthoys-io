@@ -1,0 +1,15 @@
+
+
+{{ "test" }}
+  <div class="row">
+    <div class="col-md-10 mx-auto">
+      {% for article in articles %}
+			{% if article.activity == "2022 Ski Trip Adventure" %}
+        {{ article.subcat }}
+        <h2><a href="/{{ article.slug }}.html">{{ article.title }}</a></h2>
+        <label>Posted on <strong>{{ article.date }}</strong></label>
+        {{ article.content|truncate(110) }}
+			{% endif %}
+      {% endfor %}
+    </div>
+  </div>

@@ -7,8 +7,9 @@ next_day: /traveler
 date: 2021-09-23
 post_date: 2021-10-13
 category: traveler
+subcat: Gallivanting
 activity: September 2021 Costa Rica
-summary: 
+summary: And here we are. What a long strange trip it's been. Ian comes to pick me up and we head to Daniel Oduber Quiros International. Before I can pass through security I need to stop at the Covid testing tent for a rapid test. I fill out the paperwork and get the swab up my nose and head into the terminal to wait for my result. They say it will take an hour or less so it's just a waiting game at this point.
 
 And here we are.
 

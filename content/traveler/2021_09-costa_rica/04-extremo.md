@@ -7,6 +7,7 @@ next_day: 05-playa_del_pacifico
 date: 2021-09-09
 post_date: 2021-09-08
 category: traveler
+subcat: Gallivanting
 activity: September 2021 Costa Rica
 summary: We rise in the morning and pack our stuff before ambling to our shuttle to Monteverde. We hop on for a short ride to Lake Arenal, where we offload and get ready to jump on a boat for a ride across the lake.
 

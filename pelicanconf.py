@@ -27,7 +27,7 @@ PAGE_PATHS = ['career']
 PAGE_SAVE_AS = '{slug}.html'
 PAGE_URL = '{slug}.html'
 USE_FOLDER_AS_CATEGORY = True
-DIRECT_TEMPLATES = ['index', 'traveler/index', 'eater/index', 'career/index', 'misc/index']
+DIRECT_TEMPLATES = ['index', 'traveler/index', 'traveler/2022_01-ski_trip', 'eater/index', 'career/index', 'misc/index']
 DELETE_OUTPUT_DIRECTORY = True
 
 THEME = 'custom_theme'

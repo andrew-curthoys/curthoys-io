@@ -7,6 +7,7 @@ next_day: 11-utah
 date: 2022-02-26
 post_date: 2022-09-01
 category: Traveler
+subcat: Skiing
 activity: 2022 Ski Trip Adventure
 summary: As Randy jets off back to Vegas I hit the road due East on I-90, bound for Powell, a cozy Wyoming town just outside Cody. Awaiting me is another former coworker and current friend named Dusty, who has foolishly invited me to stay with him and his lovely family. The drive is a pleasant 3 hour cruise through light snow flurries skirting the Northeastern rim of the Yellowstone Plateau.
 

@@ -7,6 +7,7 @@ next_day: 10-cowboy_state
 date: 2022-02-20
 post_date: 2022-06-12
 category: Traveler
+subcat: Skiing
 activity: 2022 Ski Trip Adventure
 summary: I roll over in my sleeping bag to check the temperature. This is when I realize that 20 degrees is about the coldest I'd be willing to tolerate in the spartan confines of the Uncle Andy Inn. I'll splurge on a hotel if & when the mercury drops into the teens. I pull the bag up over my head for extra warmth as I doze off for a couple more hours.
 

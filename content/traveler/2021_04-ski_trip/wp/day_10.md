@@ -7,6 +7,7 @@ next_day: day_11
 date: 2021-04-25
 post_date: 2021-05-19
 category: Traveler
+subcat: Skiing
 activity: April 2021 Ski Trip
 
 My alarm squawks at 5:37 AM and I lethargically peel open my eyes and roll out of the sack. Why didn’t I go to bed at 10 like I had planned. I wish *morning me* could reach back in time and slap some sense into *night me*. I slowly get myself ready and head downstairs to some lovely fruit art that Joanne has put together and a ziploc of two peanut butter & jellies. Thanks Jo.

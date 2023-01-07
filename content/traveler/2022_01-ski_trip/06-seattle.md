@@ -7,6 +7,7 @@ next_day: 07-redwood
 date: 2022-01-23
 post_date: 2022-03-24
 category: Traveler
+subcat: Skiing
 activity: 2022 Ski Trip Adventure
 summary: 13 Seconds. 13. Fucking. Seconds. Pardon my French, but I'm a grown man and don't need some silly little code word to say *are you fucking kidding me???* Josh Allen put the team, nay the entirety of Western New York, on his back at Arrowhead Stadium in a performance that would make a Marvel superhero look like Barney Fife. It was one of the most remarkable individual performances under the brightest of lights.
 

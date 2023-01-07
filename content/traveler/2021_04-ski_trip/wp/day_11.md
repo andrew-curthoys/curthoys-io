@@ -7,6 +7,7 @@ next_day: /traveler
 date: 2021-04-26
 post_date: 2021-05-19
 category: Traveler
+subcat: Skiing
 activity: April 2021 Ski Trip
 
 I wake up in a fit of dread, realizing that I have to work today. Lame, lame, lame, super lame. I hop in the shower and do a bit more packing before firing up my machine and reluctantly checking my emails. I learn that I have a code of business conduct training course due today, which should be a pretty good airplane activity since United informed me that my bird will have wifi access.

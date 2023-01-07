@@ -7,6 +7,7 @@ next_day: 12-rockies_pt2
 date: 2022-03-04
 post_date: 2022-09-12
 category: Traveler
+subcat: Skiing
 activity: 2022 Ski Trip Adventure
 summary: Hey Matis! "I fell into a bowl ah powdah chowdah!!" I look over to see Branch chest deep in fluffy Utah powder. Eric (Lee?) Branch is a born-and-bred Masshole who moved out to Utah a few years ago and apparently couldn't afford a flight for his accent. He still *pahks* his *cah* before shredding the *powdah* at *Pahk City*.
 

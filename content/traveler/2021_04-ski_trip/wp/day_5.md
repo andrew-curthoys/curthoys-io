@@ -7,6 +7,7 @@ next_day: day_6
 date: 2021-04-20
 post_date: 2021-05-14
 category: Traveler
+subcat: Skiing
 activity: April 2021 Ski Trip
 
 My alarm was set for 5:33 AM - what’s up Larry Legend - but I beat it to the punch and wake up at 5:28. I take a quick shower and gather my gear and head down to the lobby. Jim greets me and darts downstairs to grab my coffee. He returns shortly with two small cups and lids that don’t quite fit. I wouldn’t be surprised if it was a Starbucks Pike Place Keurig cup but no matter, it’s time to head to the mountain.

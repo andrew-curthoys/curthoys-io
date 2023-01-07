@@ -7,6 +7,7 @@ next_day: day_5
 date: 2021-04-19
 post_date: 2021-05-14
 category: Traveler
+subcat: Skiing
 activity: April 2021 Ski Trip
 
 After that day of skiing I slept like a damn baby. I wake up before Randy and go grab a couple coffees. When I return he’s milling about, getting everything ready to hit the road back to Vegas. I pack up my stuff & after a quick shower we say our goodbyes to the Pepper Tree and set our bearings to Reno-Tahoe International Airport. This time we take the non-scenic route down Interstate-80, which to be fair is still pretty scenic. Randy tells me about a mixup during his initial Greyhound trip out here - he arrived in Tahoe, his bike arrived elsewhere. He had to hitchhike to fetch his steed then ended up riding down the shoulder of I-80 to get back to town. Definitely not legal but he was a 22 year old kid with no job, no place to stay, and $69 to his name. What were they gonna do.

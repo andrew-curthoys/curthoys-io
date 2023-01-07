@@ -7,6 +7,7 @@ next_day: 08-canada
 date: 2022-02-08
 post_date: 2022-04-12
 category: Traveler
+subcat: Skiing
 activity: 2022 Ski Trip Adventure
 summary: The peak of the Mayan Empire. The creation of the Anno Domini dating system. The birth of Mohammed. The invention of chess. The invention of backgammon. The invention of the horseshoe. The first use of zero. Just a few of the things that were going on in the world when Big Tree first began it's slow, steady climb to the sky.
 

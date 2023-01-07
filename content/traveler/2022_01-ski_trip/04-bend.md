@@ -7,6 +7,7 @@ next_day: 05-blockbuster
 date: 2022-01-19
 post_date: 2022-02-20
 category: Traveler
+subcat: Skiing
 activity: 2022 Ski Trip Adventure
 summary:"I can't see shit"<br>"Yeah, this is terrible, let's pop in the lodge at the top & check the forecast." And so went our third ride up the lift. The first two weren't great. But this time the winds picked up and the rain got heavier. That's right. *Rain.*
 

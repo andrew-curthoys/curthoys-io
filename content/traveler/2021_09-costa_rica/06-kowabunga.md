@@ -7,6 +7,7 @@ next_day: 07-westin
 date: 2021-09-13
 post_date: 2021-09-27
 category: traveler
+subcat: Gallivanting
 activity: September 2021 Costa Rica
 summary: 
 
