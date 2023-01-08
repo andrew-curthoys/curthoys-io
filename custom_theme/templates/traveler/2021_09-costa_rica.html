@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}{{ "2022 Ski Tripalooza" }}{% endblock %}
+{% block title %}{{ "April 2021 Ski Trip Adventure" }}{% endblock %}
 
 {% block content %}
 
@@ -10,27 +10,17 @@ TODO
   * Fix link on cards that only go to ski trip page
 -->
 {% set photo_list = [
-"cow_tetons.JPEG",
-"can_whistler_day1_summit.JPEG",
-"rock2_copper.jpeg",
-"can_seton_waterfront.jpeg",
-"can_p2p_2.JPEG",
-"rock1_lone_peak1.JPG",
-"bend_mountain_beers.JPEG",
-"tahoe_high_camp_2022.JPEG",
-"rock1_spokane.jpeg",
-"utah_alta_alfs.png",
-"mammoth_1.JPG",
-"rock1_montucky.jpeg",
-"can_whistler_day2_glacier.jpeg",
-"sf_tank_winery.jpeg",
-"mammoth_tub_car.JPG",
-"mammoth_tub_guys.JPG",
-"sf_painted_ladies.jpeg",
-"rock1_shoshone_canyon.jpeg",
-"rock1_ps_bowl.JPG",
-"sf_weed.jpeg",
-"red_gold_beach_sunset.jpeg",
+"arenal_hike_mtn.jpg",
+"rafting3.JPG",
+"arenal_lake.jpeg",
+"chato_hike3.jpg",
+"spokane_house3.JPEG",
+"rafting4.JPG",
+"bungee1.JPG",
+"arenal_hot_springs3.jpg",
+"castle_view.JPEG",
+"olas_jungle.jpeg",
+"arenal_hike_lake.jpg",
 ]|shuffle
 %}
 
@@ -48,7 +38,7 @@ TODO
           {% else %}
             <div class="carousel-item">
           {% endif %}
-              <img src="/theme/images/traveler/2022_01-ski_trip/{{ photo }}">
+              <img src="/theme/images/traveler/2021_09-costa_rica/{{ photo }}">
             </div>
         {% endfor %}
       </div>
@@ -66,7 +56,7 @@ TODO
 <div class="container">
   <div class="row mb-2">
   {% for article in articles|reverse %}
-    {% if article.activity == '2022 Ski Trip Adventure' %}
+    {% if article.activity == 'September 2021 Costa Rica' %}
     <div class="col-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static" style="background-color: white">
@@ -76,7 +66,7 @@ TODO
           <a href=/{{ article.slug }}.html class="stretched-link"></a>
         </div>
         <div class="col-auto d-none d-lg-block">
-          <img class="bd-placeholder-img"  width="200" height="250" src="/theme/images/traveler/2022_01-ski_trip/{{ article.photo }}" alt="Ski Trip" preserveAspectRatio="xMidYMid slice" focusable="false">
+          <img class="bd-placeholder-img"  width="200" height="250" src="/theme/images/traveler/2021_09-costa_rica/{{ article.photo }}" alt="Ski Trip" preserveAspectRatio="xMidYMid slice" focusable="false">
         </div>
       </div>
     </div>
