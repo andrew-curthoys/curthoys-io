@@ -9,6 +9,7 @@ post_date: 2021-10-07
 category: traveler
 subcat: Gallivanting
 activity: September 2021 Costa Rica
+short_sum: Mezcal & waterfalls. Got everything we need here.
 summary: 
 
 Well that was... *something*.

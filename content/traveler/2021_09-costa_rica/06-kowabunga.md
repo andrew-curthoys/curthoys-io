@@ -4,11 +4,12 @@ slug_base: traveler/2020_09-costa_rica
 day_alias: Kowabunga
 prev_day: 05-playa_del_pacifico
 next_day: 07-westin
-date: 2021-09-13
+date: 2021-09-12
 post_date: 2021-09-27
 category: traveler
 subcat: Gallivanting
 activity: September 2021 Costa Rica
+short_sum: Let's go surfin' now, everybody's learnin' how.
 summary: 
 
 I arise in a much cheerier mood than expected given my Busch Light nightcap

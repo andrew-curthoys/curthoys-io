@@ -9,6 +9,7 @@ post_date: 2021-09-08
 category: traveler
 subcat: Gallivanting
 activity: September 2021 Costa Rica
+short_sum: Bungee jumping sounds great until you step to the edge. Did I jump? Did I chicken out? You'll have to find out.
 summary: We rise in the morning and pack our stuff before ambling to our shuttle to Monteverde. We hop on for a short ride to Lake Arenal, where we offload and get ready to jump on a boat for a ride across the lake.
 
 We rise in the morning and pack our stuff before ambling to our 

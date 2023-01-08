@@ -9,6 +9,7 @@ post_date: 2021-05-16
 category: Traveler
 subcat: Skiing
 activity: April 2021 Ski Trip
+short_sum: Timberline Lodge is almost certainly my favorite hotel I've ever inhabited.
 
 I wake up with the disappointing feeling of a restful, apparition-free nights sleep. *Maybe next time, ghosts, maybe next time.* I rustle out of bed and stroll the grounds to check out the views by daylight. Right at 8 o’clock I venture into the ski shop and rent some Atomic Vantage 97s. There’s still an hour until the lifts open so I head back to the lodge for a bowl of yogurt & granola and a coffee. Checkout time is 11 AM and I inquire about a late checkout - they tell me they can do 2 o’clock and I mull it over. I devise a plan to ski till noon with a little après at the pool & hot tub. 2 o’clock will work just fine.
 

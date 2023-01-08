@@ -9,6 +9,7 @@ post_date: 2021-09-08
 category: traveler
 subcat: Gallivanting
 activity: September 2021 Costa Rica
+short_sum: Hiked a volcano. So metal.
 summary: After a full day of activities I hit the sack and I'm out like a light. The only disturbance was a 2x6 wooden slat falling from the underside of my bed and slamming against the floor at 3 AM. That certainly woke up everyone in the room. Lo siento. Even though it wasn't my fault. 
 
 After a full day of activities I hit the sack and I'm out like a light. The only

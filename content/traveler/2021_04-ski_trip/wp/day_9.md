@@ -9,6 +9,7 @@ post_date: 2021-05-18
 category: Traveler
 subcat: Skiing
 activity: April 2021 Ski Trip
+short_sum: Day 3 in Seattle and it finally rains. Hallelujah!
 
 I wake up and to my delight Seattle has not let me down, it’s raining. Not a downpour but a slight drizzle. The kind of rain that just hangs there and will crush your soul if it’s all you see for a week straight. Luckily I am merely a transient to the region and can enjoy the stereotypical weather with glee. I make my daily walk down to the town square and grab a coffee at Caffe Ladro. When I get back to the house we ponder options for the day. Joanne has scheduled a couple wine tastings that afternoon but other than that we’re wide open.
 

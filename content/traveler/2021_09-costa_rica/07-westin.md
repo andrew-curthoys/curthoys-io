@@ -9,6 +9,7 @@ post_date: 2021-09-29
 category: traveler
 subcat: Gallivanting
 activity: September 2021 Costa Rica
+short_sum: All inclusive resorts are an abomination. There I said it.
 summary: I flag down a collectivo and talk him down to $20 for a trip to the Westin. We spend most of the 30 minute drive speaking broken Spanish, mostly about Costa Rica and soccer and Costa Rican soccer.
 
 I flag down a collectivo and talk him down to $20 for a trip to the Westin. We

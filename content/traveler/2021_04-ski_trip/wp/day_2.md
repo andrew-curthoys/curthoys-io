@@ -9,6 +9,7 @@ post_date: 2021-05-04
 category: Traveler
 subcat: Skiing
 activity: April 2021 Ski Trip
+short_sum: Squaw Valley is an incredible mountain. That is all.
 
 We set our alarms for 7 AM, but due to the excitement and two hour time difference, I arise at 6:15. I pop in the shower and get ready for the day. Randy is right behind me and we are ready for some breakfast to prime us for the big day ahead.
 

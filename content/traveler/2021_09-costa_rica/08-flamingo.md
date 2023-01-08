@@ -9,6 +9,7 @@ post_date: 2021-10-01
 category: traveler
 subcat: Gallivanting
 activity: September 2021 Costa Rica
+short_sum: I've found my castle. Then met some lunatics from Spokane and crashed their boat party. Come shotgun beers with us!
 summary: My Airbnb in Playa Flamingo is called the "Castle Tower," which sounds pretty kickass if you ask me. It's already dark by the time I arrive so I can't really get a feel for the place. I make my way up the stairs and plop down on the bed and I'm out like a light
 
 My Airbnb in Playa Flamingo is called the "Castle Tower," which sounds pretty
