@@ -8,7 +8,9 @@ date: 2022-01-20
 post_date: 2022-03-04
 category: Traveler
 subcat: Skiing
+photo: bb_ext2.jpeg
 activity: 2022 Ski Trip Adventure
+short_sum: We got real stoned & went to Blockbuster. What could go wrong?
 summary: It's like we never left. Anyone reading this of a certain age remembers the ritual. The family loads into the car for the heady journey to the local Blockbuster, eager to peruse the shelves for a physical copy of the night's entertainment. You remember when your local store began the transition from VHS to DVD. No more need to be kind, rewind.
 
 <h4 class="article-subheader">It's like we never left</h4>

@@ -7,8 +7,39 @@ next_day: /traveler
 date: 2022-03-20
 post_date: 2022-12-27
 category: Traveler
+subcat: Skiing
+photo: red_tree_3.jpeg
 activity: 2022 Ski Trip Adventure
 summary: Summary placeholder
+
+<h4 class="article-subheader">Memory Lane</h4>
+Do you have a memory that's so strongly held it's become part of your identity?
+A memory that's so fondly held that it's less of a memory and more of a
+*feeling*? A childhood 
+
+That place for me is Red River, New Mexico. The nickname for the state of New
+Mexico is The Land of Enchantment and in this case the state has enchanted me.
+
+The very first ski trip we took was 
+We stayed in a cabin down the road from the main drag with a wood fired stove
+for heat. I could be grievously misremembering but it was relatively rustic
+in any case. Which is what was neat about it.
+
+I know 100% for certain that it had a TV because we watched Nascar on Sunday.
+My dad's not a particularly big Nascar fan but we were sure as shit watching
+Nascar. Which means we're in at least February, because if it was any earlier
+we'd be watching football. And now we're all so used to the Super Bowl being in
+February it it never used to be. I can almost say with complete certainty this trip was during
+President's Day weekend,
+
+Log cabin. Wood fired stove.
+
+Some things you are so completely certain of
+
+
+
+
+
 
 <h4 class="article-subheader">Southbound & Down</h4>
 The trip is starting to wind down, 32 days of skiing down and only 1 to go. I
@@ -161,3 +192,10 @@ toughest. The substantial moguls that have
 
 23,000' of vert, bringing my total just over 600k. My total skiing distance
 is 560 miles.
+
+<h4 class="article-subheader">A Memory Revisited</h4>
+
+
+If I were able to ask him he'd probably say "oh, well, maybe? I dunno". Because
+that would have been the hundredth ski trip of his life. It was my first. I
+don't remember my second ski trip. Hell we probably went to Angel Fire.

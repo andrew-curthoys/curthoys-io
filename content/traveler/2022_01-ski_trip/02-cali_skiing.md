@@ -8,7 +8,9 @@ date: 2022-01-10
 post_date: 2022-01-18
 category: Traveler
 subcat: Skiing
+photo: tahoe_alpine_rip.JPG
 activity: 2022 Ski Trip Adventure
+short_sum: A ragtag group of ski bums hitches from LA to NorCal. Skiing, fernet, hot springs, skinny dips. Oh! And bridges!
 summary: Victory Monday never gets old. AFC East Champion Buffalo Bills has a nice ring to it doesn't it? James & I gather our things and head down the road a piece to a juicery to give our bodies some nutrients they've surely been missing.
 
 Victory Monday never gets old. AFC East Champion Buffalo Bills has a nice ring

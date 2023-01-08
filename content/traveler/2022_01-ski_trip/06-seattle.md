@@ -8,7 +8,9 @@ date: 2022-01-23
 post_date: 2022-03-24
 category: Traveler
 subcat: Skiing
+photo: sea_comet_cuz.JPEG
 activity: 2022 Ski Trip Adventure
+short_sum: My cousin told me to come back when I could stay longer. So I stayed for a month.
 summary: 13 Seconds. 13. Fucking. Seconds. Pardon my French, but I'm a grown man and don't need some silly little code word to say *are you fucking kidding me???* Josh Allen put the team, nay the entirety of Western New York, on his back at Arrowhead Stadium in a performance that would make a Marvel superhero look like Barney Fife. It was one of the most remarkable individual performances under the brightest of lights.
 
 <h4 class="article-subheader" id="13-seconds">13 Seconds</h4>

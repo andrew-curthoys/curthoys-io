@@ -21,5 +21,10 @@ __ resorts
 600,000 ft of vertical
 2 countries
 5 cousins
+5 friends
 ___ times crossing the Continental Divide
 1 yard sale
+
+I remember where I was when I hatched this ludicrous plan. I was sitting at the
+counter of my aunt & uncle's house in Victor, NY when I thought about the best
+way to maximize my ski pass
