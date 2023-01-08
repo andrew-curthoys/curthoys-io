@@ -36,7 +36,7 @@ of Lake Tahoe’s greatness but just the first glimpse of the terrain shattered
 even my lofty expectations.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_01-ski_trip/tahoe_plane.jpg" alt="Tahoe from the air">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/tahoe_plane.jpg" alt="Tahoe from the air">
   <figcaption class="figure-caption">This photo absolutely does not do it justice.
   Trust me it was awesome.</figcaption>
 </figure>
