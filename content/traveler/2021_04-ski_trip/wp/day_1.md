@@ -18,7 +18,7 @@ My flight from Denver to Reno was a little fuller, and I exchanged my aisle seat
 The sight of a barren desert landscape severed by majestic snow capped mountains is indescribable. It truly needs to be seen to be fully appreciated. I had heard of Lake Tahoe’s greatness but just the first glimpse of the terrain shattered even my lofty expectations.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/tahoe_plane.jpg" alt="Tahoe from the air">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_01-ski_trip/tahoe_plane.jpg" alt="Tahoe from the air">
   <figcaption class="figure-caption">This photo absolutely does not do it justice. Trust me it was awesome.</figcaption>
 </figure>
 
@@ -69,8 +69,10 @@ Yeah…… Yeah……… Yeah………. Randy you were there. That’s on me.
 
 After scooping up what was left of my self respect off the barroom floor, we walk out on the deck overlooking the lake. I can see the lights of South Lake Tahoe and a couple of boats still floating at the marina that haven’t been extricated from the lake for winter. I finish my ale and Randy and I walk down the shore a bit. We find a pier that’s not locked and walk out to take in the moment. I discover what the fresh mountain lake air can do for a man’s health. We stand on the pier a few minutes in silence, taking in the dazzling quilt of stars overhead. Tahoe is a special place.
 
+:%s/\/theme\/images\//\/theme\/images\/traveler\/2021_04-ski_trip\/
+
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/marina.jpg" alt="Tahoe marina">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/marina.jpg" alt="Tahoe marina">
   <figcaption class="figure-caption">I see a perfect spot for my tooner</figcaption>
 </figure>
 

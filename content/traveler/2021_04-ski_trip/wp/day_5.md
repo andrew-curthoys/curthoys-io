@@ -35,7 +35,7 @@ I don’t see it, it must be farther East. I keep heading right and drop below t
 After 15 minutes of full body cross country exertion I finally get to a run with a bit of downhill slope. I strip off my gloves and remove my jacket for a few minutes to cool down. That was a damn workout. I take a few swigs of water and head down the run. Very quickly I get to the bottom of a lift. The Cloudchaser lift. Damn, I did overshoot it. I look at my SkiTracks app and I overshot it by A LOT. It’s pretty hilarious looking at the map how far east I went. I went so far *east* I actually started going *south*. Oh well, I’m back on a lift and ready to get back to some **gravity assisted** plank sliding.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/bachelor_tracks.jpg" alt="Bachelor Tracks">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/bachelor_tracks.jpg" alt="Bachelor Tracks">
   <figcaption class="figure-caption">Took a little detour there</figcaption>
 </figure>
 
@@ -52,14 +52,14 @@ Oh well. It’s 1:30 and the sun is irradiating the West side of the mountain, l
 A few minutes later and I’m back at the top of the West side. I follow some Australian themed runs, Outback-Downunder-Kangaroo-Boomerang, because crikey why the hell not! I get to the bottom of the Northwest chair and have a decision to make. I want to hit the Summit one more time and come around the front side, which is an enormous wide-open bowl that looks spectacular. I also want to ride this West side again. The dilemma is that the Summit chair closes at 3 and it’s 2:15 now. Will I be able to ride the rest of this lift, make it down, up again, then across to the Summit lift in 45 minutes? I probably could, but I didn’t want to miss out on that Summit run so I decide to play it safe and head back to the top.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/aussie.jpg" alt="Aussie runs">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/aussie.jpg" alt="Aussie runs">
   <figcaption class="figure-caption">Oi mate! How ya goin?</figcaption>
 </figure>
 
 I make it to the Summit chair at 2:35 and up I go. I come around the front side of the peak, towards the west and the shining sun. I make my way over to a spur running down from the top and it’s a bit too rocky to drop in. I slide down a bit and find a nice spot to enter the bowl. The drop in point was nice but the snow is not. Or should I say ice. It is a reptilian layer of ice scales. It feels like I'm skiing down a slate roof, my pistons firing full force. I have to make a few stops to catch my breath, which makes sense because the views are breathtaking (sorry). I've got the entire side of the mountain to myself and it's spectacular. I snap a few photos and check the time. It’s ten to 3. If I can get down to Summit in 10 minutes I can take one more ride to the top.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/bachelor_front_bowl.jpg" alt="Bachelor front bowl">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/bachelor_front_bowl.jpg" alt="Bachelor front bowl">
   <figcaption class="figure-caption">A lovely wide open bowl, just for me</figcaption>
 </figure>
 
@@ -74,8 +74,8 @@ As I get off the lift the song I was listening to ends and fades into Ripple.
 Alright, I’m gonna need a minute. I veer off to the left and find myself at the base of the main cone of the volcano, just above the treeline without another person in sight. I stop and take it all in.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/bachelor_cone.jpg" alt="Top of Mt Bachelor">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/three_sisters.jpg" alt="Three Sisters">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/bachelor_cone.jpg" alt="Top of Mt Bachelor">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/three_sisters.jpg" alt="Three Sisters">
   <figcaption class="figure-caption">Top of Bachelor & the Three Sisters</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ The song ends and I wipe away a few tears, take a swig of water, pour a little o
 I make it to the bottom and check my SkiTracks. 30,715’. Hell yes. Mt Bachelor is the 6th largest ski resort in the US and I skied damn near all of it. Feels good. And I feel sore.
 
 <figure class="figure image-vert">
-    <img class="figure-img img-fluid rounded" src="/theme/images/bachelor_stats.jpg" alt="Bachelor Stats">
+    <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/bachelor_stats.jpg" alt="Bachelor Stats">
   <figcaption class="figure-caption">What a day on the hill</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ It sounded like the click of the pantry door when Jack is mysteriously freed fro
 I walk into the hexagonal main atrium and see the absolutely massive stone chimney in the center. I later learn that it weighs 800,000 pounds. I couldn't find a Wikipedia article on heaviest chimneys so I'll just go ahead and assume it's up there. It has enormous fireplaces on three of the sides and I can’t imagine what kind of rip-roarin fires they get going during the winter. I look around and it seems the entire place is made of wood, stone, and wrought iron. It’s marvelous.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/timberline_atrium.jpg" alt="Timberline Atrium">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/timberline_atrium.jpg" alt="Timberline Atrium">
   <figcaption class="figure-caption">That's 400 tons of chimney right there. And a bit of a glare.</figcaption>
 </figure>
 
@@ -140,8 +140,8 @@ I make my way to the check-in desk and Sharon behind the counter informs me that
 I make my way up to my room and drop off my bags. I study the Emergency Escape Plan on the back of the door harder than I ever have at a hotel. Because, ya know, ghosts. Also it’s probably 90% wood and could go up like a tinderbox. Speaking of which, on the Emergency Escape Plan they let you know if you have to leave your room in the case of a fire TAKE YOUR ROOM KEY. For the love of god don’t forget your room key.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/room_key.jpg" alt="Enormous room key">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/escape.jpg" alt="Escape plan">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/room_key.jpg" alt="Enormous room key">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/escape.jpg" alt="Escape plan">
   <figcaption class="figure-caption">FOR THE LOVE OF EVERYTHING HOLY TAKE YOUR ROOM KEY</figcaption>
 </figure>
 
@@ -184,13 +184,13 @@ They have some model rooms decorated with luggage, gear, and clothing that you w
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid float-left rounded" src="/theme/images/old_timey_skis.jpg" alt="Old timey skis">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2021_04-ski_trip/old_timey_skis.jpg" alt="Old timey skis">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid float-right rounded" src="/theme/images/timberline_plaque.jpg" alt="Timberline plaque">
+      <img class="figure-img img-fluid float-right rounded" src="/theme/images/traveler/2021_04-ski_trip/timberline_plaque.jpg" alt="Timberline plaque">
     </div>
   </div>
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/woody_pong.jpg" alt="Wooden ping pong table">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/woody_pong.jpg" alt="Wooden ping pong table">
   <figcaption class="figure-caption">Old-timey skis and the coolest ping pong table I ever seent</figcaption>
 </figure>
 

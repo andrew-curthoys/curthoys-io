@@ -27,7 +27,7 @@ Are we flying directly over Crater Lake!!?
 Sure as shit we *are* flying directly over Crater Lake! Fuckin A. As a kid growing up in Tulsa this is something you learn about on volcano day in elementary school but you never actually expect to see it in person. What a sight.
 
 <figure class="figure" id="crater">
-  <img class="figure-img img-fluid rounded" src="/theme/images/crater_lake.jpg" alt="Crater Lake">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/crater_lake.jpg" alt="Crater Lake">
   <figcaption class="figure-caption">Oh look what we have here</figcaption>
 </figure>
 
@@ -50,13 +50,13 @@ Anyways, I pull into Portland and really dig the bridges. I like bridges for wha
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid float-left rounded" src="/theme/images/truss_bridge.jpg" alt="Truss Bridge">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2021_04-ski_trip/truss_bridge.jpg" alt="Truss Bridge">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid float-right rounded" src="/theme/images/vertical_lift_bridge.jpg" alt="Vertical Lift Bridge">
+      <img class="figure-img img-fluid float-right rounded" src="/theme/images/traveler/2021_04-ski_trip/vertical_lift_bridge.jpg" alt="Vertical Lift Bridge">
     </div>
   </div>
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/arch_bridge.jpg" alt="Arch Bridge">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/arch_bridge.jpg" alt="Arch Bridge">
   <figcaption class="figure-caption">Bridges of Portland</figcaption>
 </figure>
 
@@ -65,13 +65,13 @@ I park outside the Hotel Lucia and get checked in. According to their website, i
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid rounded float-left" src="/theme/images/hef.jpg" alt="Hef">
+      <img class="figure-img img-fluid rounded float-left" src="/theme/images/traveler/2021_04-ski_trip/hef.jpg" alt="Hef">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid rounded float-right" src="/theme/images/seinfeld.jpg" alt="Seinfeld at work">
+      <img class="figure-img img-fluid rounded float-right" src="/theme/images/traveler/2021_04-ski_trip/seinfeld.jpg" alt="Seinfeld at work">
     </div>
   </div>
-  <img class="figure-img img-fluid rounded mt-2" src="/theme/images/prezis.jpg" alt="Presidents">
+  <img class="figure-img img-fluid rounded mt-2" src="/theme/images/traveler/2021_04-ski_trip/prezis.jpg" alt="Presidents">
   <figcaption class="figure-caption">A collection of photos from my hallway: Hef & his harem, Seinfeld at work, and some Commanders in Chief</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ My first stop is Powell’s books and holy hell what a place. I spend about 30 m
 The few blocks getting to the river were a piece of cake, but as I get closer to the bridge, the road starts to rise and my legs start to burn. Maybe this wasn’t the best idea. I grit my teeth and keep pumping my gams. Up Gunta up! I make it to the crest of the bridge and snap a few photos and catch my breath. It’s at this point that I notice that my phone battery is disconcertingly low. I had been tracking my path on the bike & the battery did not seem to like that. So I’m on the middle of a bridge over the Willamette River with a dwindling battery and only a general idea of where I want to go.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/bridge_from_a_bridge.jpg" alt="Bridge from a bridge">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/bridge_from_a_bridge.jpg" alt="Bridge from a bridge">
   <figcaption class="figure-caption">Bridge from a bridge, so meta</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ I take a right on 9th and the street isn’t very busy and turns into a resident
 At this point I get a feeling that I’m not in the right place. Hmmm.. I look up and the sun is to my left. Fuck. I should be going south & I’m definitely going north. I check to see if my phone has any juice left and I have 1%. I pop open Google Maps and confirm my suspicion. I’m 5 miles north of where I should be. Dammit. I search for breweries nearby so I can at least sit down and charge my phone. Luckily Old Town Brewing is just a couple blocks away.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/portland_bike_route.jpg" alt="Portland Bike Route">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/portland_bike_route.jpg" alt="Portland Bike Route">
   <figcaption class="figure-caption">A biiiiiiit of a detour</figcaption>
 </figure>
 
@@ -112,10 +112,10 @@ Now I realize I’m in a bit of a pickle. I need a mask to enter the brewery and
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid float-left rounded" src="/theme/images/bike_chain.jpg" alt="Broken Bike">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2021_04-ski_trip/bike_chain.jpg" alt="Broken Bike">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid float-right rounded" src="/theme/images/rogue_bike.jpg" alt="Vertical Lift Bridge">
+      <img class="figure-img img-fluid float-right rounded" src="/theme/images/traveler/2021_04-ski_trip/rogue_bike.jpg" alt="Vertical Lift Bridge">
     </div>
   </div>
   <figcaption class="figure-caption">Take her to the glue factory</figcaption>
@@ -130,13 +130,13 @@ The area I’m in is pretty industrial, a lot of old warehouses and a big trainy
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid float-left rounded" src="/theme/images/under_bridge_2.jpg" alt="What happens under the bridge">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2021_04-ski_trip/under_bridge_2.jpg" alt="What happens under the bridge">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid float-right rounded" src="/theme/images/under_bridge_1.jpg" alt="Stays under the bridge">
+      <img class="figure-img img-fluid float-right rounded" src="/theme/images/traveler/2021_04-ski_trip/under_bridge_1.jpg" alt="Stays under the bridge">
     </div>
   </div>
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/trains.jpg" alt="Trains">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/trains.jpg" alt="Trains">
   <figcaption class="figure-caption">Portland stuff</figcaption>
 </figure>
 

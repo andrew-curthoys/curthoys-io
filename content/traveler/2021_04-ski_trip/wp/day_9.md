@@ -19,7 +19,7 @@ We arrive & throw on our rain jackets and head out towards the trail. Along the 
 
 <div class="container">
   <figure class="figure">
-      <img class="figure-img img-fluid rounded" src="/theme/images/underground_powerplant.jpg" alt="underground powerplant">
+      <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/underground_powerplant.jpg" alt="underground powerplant">
     <figcaption class="figure-caption">Where do we want to build the plant, boss?</figcaption>
   </figure>
 </div>
@@ -27,14 +27,14 @@ We arrive & throw on our rain jackets and head out towards the trail. Along the 
 Plant 2 was built in 1910 and is sensibly located above ground, right next to the path that we find ourselves on. The highlight of this stretch of the path is the enormous penstocks (huge water pipes to bring water from above the falls to the power plant) that hug the cliffs and go right below the deck we’re standing on.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/penstocks.jpg" alt="Penstocks">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/penstocks.jpg" alt="Penstocks">
   <figcaption class="figure-caption">That would be a pretty fun waterslide... Unless you like breathing and not getting chopped up in a turbine.</figcaption>
 </figure>
 
 This is quickly surpassed when we walk around the bend and the valley opens up before us to reveal the falls. It’s a magnificent sight, a torrent of water crashing over the falls flanked by thickly forested sheer cliffs of volcanic rock. We take it in for a few minutes and I snap a few photos that will certainly fail to capture the full experience then start off towards the path towards the top of the falls.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/falls_bottom.jpg" alt="Bottom of the falls">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/falls_bottom.jpg" alt="Bottom of the falls">
   <figcaption class="figure-caption">Pretty amazing scenery</figcaption>
 </figure>
 
@@ -43,8 +43,8 @@ It’s a really nice hike through expanses of towering Douglas fir and red alder
 I read all there is to read about the falls and the plant and we walk out onto a deck for a better view. And what a view it is. It’s mesmerizing to put your eye on a bit of water and watch it tumble to the bottom. It looks like it’s in slow motion, I wish I had the pot.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/falls_with_jo.jpg" alt="Falls with Joanne">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/top_of_falls.jpg" alt="Top of falls">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/falls_with_jo.jpg" alt="Falls with Joanne">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/top_of_falls.jpg" alt="Top of falls">
   <figcaption class="figure-caption">Great day for a hike</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ The tasting menu is a 6 glass sampling, starting with a light Pinot Gris working
 We head up the road about a mile to Matthews Winery, where they have a table set up out front to check in and pour us a small glass of welcome rosé. Ok I’m liking this place better already. The tasting room is open and airy, with large windows letting in the bit of light scattering through the clouds. They put us in a spot outdoors on their covered patio and we get our pick of 4 wines for our tasting. I choose the Claret and Reserve Claret from Matthews and the Cabernet and Syrah from Tenor, a winery that shares the tasting room with Matthews. I wish I could tell you all the notes of boysenberry, oak, leather, and asparagus, but I'm not into all that nonsense; what I can tell you is that I really liked these wines. They are significantly better to my amateur palate and Greg & Joanne agree and buy two bottles of the wines they tasted.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/matthews.jpg" alt="Wine tasing at Matthews">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/matthews.jpg" alt="Wine tasing at Matthews">
   <figcaption class="figure-caption">Those were all glasses of water before I showed up</figcaption>
 </figure>
 

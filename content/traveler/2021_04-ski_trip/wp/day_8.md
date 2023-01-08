@@ -23,13 +23,13 @@ Chihuly Garden and Glass is a collection of work from Dale Chihuly, a world reno
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid float-left rounded" src="/theme/images/chihuly_1.jpg" alt="Sealife Tower">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2021_04-ski_trip/chihuly_1.jpg" alt="Sealife Tower">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid float-right rounded" src="/theme/images/chihuly_2.jpg" alt="Pond">
+      <img class="figure-img img-fluid float-right rounded" src="/theme/images/traveler/2021_04-ski_trip/chihuly_2.jpg" alt="Pond">
     </div>
   </div>
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/chihuly_3.jpg" alt="Boats">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/chihuly_3.jpg" alt="Boats">
   <figcaption class="figure-caption">Some of the most arresting works of art I've ever seen</figcaption>
 </figure>
 
@@ -40,10 +40,10 @@ Greg and I continue through the museum into room after room of captivating, uniq
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid float-left rounded" src="/theme/images/chihuly_4.jpg" alt="Flowers under the needle">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2021_04-ski_trip/chihuly_4.jpg" alt="Flowers under the needle">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid float-right rounded" src="/theme/images/chihuly_5.jpg" alt="Tall bush">
+      <img class="figure-img img-fluid float-right rounded" src="/theme/images/traveler/2021_04-ski_trip/chihuly_5.jpg" alt="Tall bush">
     </div>
   </div>
   <figcaption class="figure-caption">But wait! There's more!</figcaption>
@@ -60,14 +60,14 @@ After about 20 minutes of waiting we finally make it onto an elevator. We take t
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid float-left rounded" src="/theme/images/needle.jpg" alt="The Needle">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2021_04-ski_trip/needle.jpg" alt="The Needle">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid float-right rounded" src="/theme/images/glass_bottom.jpg" alt="Glass bottom">
+      <img class="figure-img img-fluid float-right rounded" src="/theme/images/traveler/2021_04-ski_trip/glass_bottom.jpg" alt="Glass bottom">
     </div>
   </div>
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/seattle_dt.jpg" alt="Downtown Seattle">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/sound_pano.jpg" alt="The Sound">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/seattle_dt.jpg" alt="Downtown Seattle">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/sound_pano.jpg" alt="The Sound">
   <figcaption class="figure-caption">Needle stuff</figcaption>
 </figure>
 
@@ -78,8 +78,8 @@ We make our way back to Kirkland, scoop Joanne, and continue on to the marina. T
 Each time Greg & Joanne take a boat out they switch captaincy (they are actually pilots not captains, they have a lot of seafaring to do till they get their captain’s stripes) and today Jo is at the helm. She guides the boat out of the slip and we putter out of the marina and into Seattle Sound where we make a right to head north towards Hat Island. Not long after we get out onto the open water the wind starts to whip up, and cap’n Joanne slows er down a bit because the waves are knocking us around. It’s about an hour of choppy cruising to the island, where we keep our eyes peeled for some oceanic mammal friends.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/boat.jpg" alt="On the water">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/boat_beer.jpg" alt="Boat beer">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/boat.jpg" alt="On the water">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/boat_beer.jpg" alt="Boat beer">
   <figcaption class="figure-caption">Out on the water</figcaption>
 </figure>
 

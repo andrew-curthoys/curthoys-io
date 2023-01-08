@@ -25,7 +25,7 @@ I walk through the trails a bit more and find a bench that looks like it’d be 
 The herb really enhances the experience, it’s like nature’s spice. After strolling about a few more minutes I find myself back out at the bike path. I know there is a train station on the other side of the lake at the University of Washington that could take me into Seattle. I finally cave and pull out my phone to see how far it is across the bridge. 4 miles to the train station and I’ve already walked 6. If I hadn’t stayed up till 3 in the morning the night before or had some better shoes strapped to my stupid feet (a big blunder but I didn’t plan on walking 10 miles when I left the house that morning) I would probably keep hoofing it to the train. As it is I capitulate and order a Lyft to the Pike Place market.
 
 <figure class="figure image-vert">
-  <img class="figure-img img-fluid rounded" src="/theme/images/seattle_walk.jpg" alt="Seattle walkabout">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/seattle_walk.jpg" alt="Seattle walkabout">
   <figcaption class="figure-caption">Nice lil cruise along the water</figcaption>
 </figure>
 
@@ -34,14 +34,14 @@ I don’t know too much about Seattle but during sporting events they always mak
 About 20 minutes later my driver drops me off at the market and good lord what a tourist hellscape this place is. I assumed it was going to be a big open air fish market but it’s a multi-leveled bazaar of small fish markets, tchotchke shops, and an outrageously large number of people selling tulips. I walk around a bit to see if I can see any airborne aquatic vertebrates but no luck. I pop open my phone to see if there are any restaurants in this place that are actually worth a damn and it leads me to a place called Matt’s in the Market. It’s kind of confusing to find but I finally stroll into the 3rd floor eatery around 2:15.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/pike_place.jpg" alt="Pike Place">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/pike_place.jpg" alt="Pike Place">
   <figcaption class="figure-caption">This is my nightmare</figcaption>
 </figure>
 
 I order a pFriem IPA (which Matt misspelled as fPriem on the menu) but the waiter tells me that their keg system is on the fritz so no beers at the moment. I audible to a Bensonhurst, a riff on the Manhattan made with rye whiskey, dry vermouth, Cynar, and Luxardo Maraschino. I add to that cup of tomato soup and an albacore tuna sandwich. The cocktail comes out in short order and it is exactly what I needed to wet my whistle after a 6 mile ramble. The soup and sandwich are excellent as well and I am pleased with my phone's recommendation. I settle up and Joanne informs me that she snagged a 6:45 reservation at Elliott’s Oyster House, about a 5 minute walk away. I had been planning to wander around some other areas and maybe up to the Space Needle but that timetable’s too tight to do much more exploring. Maybe there are some Pike Place *adjacent* joints that aren’t in the full on melee.
 
 <figure class="figure image-vert">
-  <img class="figure-img img-fluid rounded" src="/theme/images/bensonhurst.jpg" alt="Bensonhurst">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/bensonhurst.jpg" alt="Bensonhurst">
   <figcaption class="figure-caption">Just a delightful little cocktail</figcaption>
 </figure>
 
@@ -74,13 +74,13 @@ I find out via Shazam that the song is “You Don’t Understand Me” by the Ra
 I tell them about my day of ramblin around and we order a bottle of wine. I peruse the menu and see they have an extensive oyster selection. Makes sense that Elliott Oyster House would have some oysters. I tell our waitress I’d like to start with 6 oysters, chef’s choice, then the halibut for my main course. The oysters come out and I am salivating. I work my way through the selection, savoring the gooey flesh and brine of these west coast jewels. Two of the bivalves are bit too big and beefy for my taste but the other 4 are phenomenal. The Eagle Rock from Totten Island is especially notable. The halibut arrives, rested atop a bed of polenta and blistered balsamic tomatoes. I dig in and by god is it delicious. If I was at a more laid back place like the Timberline I might have licked my plate clean.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/oysters.jpg" alt="Oysters">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/oysters.jpg" alt="Oysters">
   <figcaption class="figure-caption">A mouthwatering mélange of mollusks</figcaption>
 </figure>
 
 Greg & Joanne take care of the bill and I feel a bit guilty about all the wine and oysters I devoured. We walk out onto the boardwalk right in front of the Seattle Great Wheel and enjoy the weather. We soak in the scene for a few minutes then head back to the car. It’s about 20 minutes back to Kirkland and Joanne opens up a nice bottle of white. We chat for about an hour, wherein she brings up another program at work and I exclaim now THAT’S corporate bullshit! She agrees that this particular instance is, in fact, corporate bullshit and I fess up to my obstinance from the night before. We finish our glasses and head to bed. More Seattle exploration awaits tomorrow.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/great_wheel.jpg" alt="Seattle Great Wheel">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/great_wheel.jpg" alt="Seattle Great Wheel">
   <figcaption class="figure-caption">The spool for the space needle</figcaption>
 </figure>
