@@ -8,6 +8,7 @@ date: 2021-04-24
 post_date: 2021-05-18
 category: Traveler
 subcat: Skiing
+photo: matthews.jpg
 activity: April 2021 Ski Trip
 short_sum: Day 3 in Seattle and it finally rains. Hallelujah!
 

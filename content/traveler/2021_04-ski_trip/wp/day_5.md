@@ -8,6 +8,7 @@ date: 2021-04-20
 post_date: 2021-05-14
 category: Traveler
 subcat: Skiing
+photo: three_sisters.jpg
 activity: April 2021 Ski Trip
 short_sum: I decided to come here based on a Youtube video of a chairlift being built. Didn't disappoint.
 

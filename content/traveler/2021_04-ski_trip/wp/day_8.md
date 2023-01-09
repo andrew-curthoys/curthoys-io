@@ -8,6 +8,7 @@ date: 2021-04-23
 post_date: 2021-05-18
 category: Traveler
 subcat: Skiing
+photo: needle.jpg
 activity: April 2021 Ski Trip
 short_sum: A magical day in the Emerald City begins with a mind-blowing glass museum, continues with a trip to the top of the Space Needle, and ends with a boat cruise around the Sound.
 

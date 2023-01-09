@@ -8,6 +8,7 @@ date: 2021-04-26
 post_date: 2021-05-19
 category: Traveler
 subcat: Skiing
+photo: tahoe_pils.jpg
 activity: April 2021 Ski Trip
 short_sum: Back to the grind. Oof.
 

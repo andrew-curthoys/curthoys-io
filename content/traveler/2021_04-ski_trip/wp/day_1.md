@@ -8,6 +8,7 @@ date: 2021-04-16
 post_date: 2021-05-04
 category: Traveler
 subcat: Skiing
+photo: tahoe_plane_cropped.jpg
 activity: April 2021 Ski Trip
 short_sum: Lake Tahoe. Love at first sight.
 summary: I had planned to turn in early the night before but an unexpected text from an old friend had me throwing darts until after my bedtime. I won 5 games to 2 so at least I had that going for me. I still woke up in time for work and after taking care of some business & a bit of final packing I head to the airport. 

@@ -8,6 +8,7 @@ date: 2021-04-19
 post_date: 2021-05-14
 category: Traveler
 subcat: Skiing
+photo: vertical_lift_bridge.jpg
 activity: April 2021 Ski Trip
 short_sum: Amazing bookstores, delicious beers, rusty bridges, and a broken down bike. Portland is, indeed, weird.
 

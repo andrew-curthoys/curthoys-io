@@ -8,6 +8,7 @@ date: 2021-04-25
 post_date: 2021-05-19
 category: Traveler
 subcat: Skiing
+photo: shuksan.jpg
 activity: April 2021 Ski Trip
 short_sum: Mt Baker is for skiers by skiers. And it's excellent.
 

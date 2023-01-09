@@ -8,6 +8,7 @@ date: 2021-04-18
 post_date: 2021-05-11
 category: Traveler
 subcat: Skiing
+photo: top_of_emigrant.jpg
 activity: April 2021 Ski Trip
 short_sum: Laps on KT-22. IYKYK.
 

@@ -8,6 +8,7 @@ date: 2021-04-22
 post_date: 2021-05-18
 category: Traveler
 subcat: Skiing
+photo: great_wheel.jpg
 activity: April 2021 Ski Trip
 short_sum: My first visit to Seattle. The gum wall is gross.
 

@@ -8,6 +8,7 @@ date: 2021-04-21
 post_date: 2021-05-16
 category: Traveler
 subcat: Skiing
+photo: timberline_outside.jpg
 activity: April 2021 Ski Trip
 short_sum: Timberline Lodge is almost certainly my favorite hotel I've ever inhabited.
 

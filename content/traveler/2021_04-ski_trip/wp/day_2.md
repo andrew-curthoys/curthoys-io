@@ -8,6 +8,7 @@ date: 2021-04-17
 post_date: 2021-05-04
 category: Traveler
 subcat: Skiing
+photo: hangin_at_high_camp.jpg
 activity: April 2021 Ski Trip
 short_sum: Squaw Valley is an incredible mountain. That is all.
 
