@@ -28,3 +28,12 @@ ___ times crossing the Continental Divide
 I remember where I was when I hatched this ludicrous plan. I was sitting at the
 counter of my aunt & uncle's house in Victor, NY when I thought about the best
 way to maximize my ski pass
+
+
+As my cousin Joanne said when I was overstaying my welcome in Seattle, "said you
+have health, time, & money and rarely do you have all three."
+
+My distant cousin Ralph Waldo Emerson once wrote, “do not go where the path may
+lead, go instead where there is no path and leave a trail.”
+
+Well, Ralph, I think I made myself a nice little trail.

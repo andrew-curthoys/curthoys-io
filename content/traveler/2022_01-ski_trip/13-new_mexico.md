@@ -14,69 +14,89 @@ summary: Summary placeholder
 
 <h4 class="article-subheader">Memory Lane</h4>
 Do you have a memory that's so strongly held it's become part of your identity?
-A memory that's so fondly held that it's less of a memory and more of a
-*feeling*? A childhood 
+A memory that has become less of a memory and more of a
+*feeling*? A childhood experience that defines who you are?
 
-That place for me is Red River, New Mexico. The nickname for the state of New
-Mexico is The Land of Enchantment and in this case the state has enchanted me.
+As I pull into Red River, New Mexico I feel *that feeling* percolate to the
+surface of my emotional reservoir. It hits me all at once like a ton of bricks.
+The river bubbling to my right as I make the big swinging turn onto the main
+drag. The symmetrical bluffs brooding over the entrance to town like Beefeaters
+stoically safeguarding the Tower of London. The orange and blue clapboard
+fa&ccedil;ade of the Terrace Towers Lodge. 
 
-The very first ski trip we took was 
-We stayed in a cabin down the road from the main drag with a wood fired stove
-for heat. I could be grievously misremembering but it was relatively rustic
-in any case. Which is what was neat about it.
+The rustic log cabins on the outskirts of town.
 
-I know 100% for certain that it had a TV because we watched Nascar on Sunday.
-My dad's not a particularly big Nascar fan but we were sure as shit watching
-Nascar. Which means we're in at least February, because if it was any earlier
-we'd be watching football. And now we're all so used to the Super Bowl being in
-February it it never used to be. I can almost say with complete certainty this trip was during
-President's Day weekend,
+The cabins where it all began. If I had to guess I'd say I was about 8 years
+old. My first ski trip. The first time this flatlander had ever experienced the
+mountains.
 
-Log cabin. Wood fired stove.
+They call New Mexico the Land of Enchantment and, brother, this young lad was
+*enchanted*.
 
-Some things you are so completely certain of
+The excitement of cresting the top of the Cimarron
+Canyon Pass was euphoric. The final culmination of 500 miles of steady climbing
+from the lowly 700' elevation of Tulsa to our 8,000' perch above Eagle Nest Lake.
 
+Our cabin was spartan. No frills. A minor step up from camping. Which is exactly
+what you want as an 8 year old on your first mountain adventure. Watching your
+old man stoke a wood burning potbelly stove for heat leaves an indelible
+impression on a youngster.
 
+The cabin did at least have a TV, which I can say with 100% certainty because
+we watched Nascar on Sunday as we geared up to ski. My dad's not a particularly
+big Nascar fan but he was that day. Perhaps it was a case of that long ago
+stone-age habit of watching something "because it's on TV." Kids these days will
+never know what that's like. The fact that we're watching Nascar means we're in
+at least February, because if it was any earlier we'd be watching football.
+Another thing these kids will never understand is a Super Bowl in January.
 
+Memory is a peculiar, shapeless entity that rattles around in our minds in a
+constant state amoebic fluidity. We like to think of our memory is like a book
+that we can pull off the shelf any time we please. But in reality it's more of a
+game of internal telephone. The cerebral scribe assigned to record your
+memories is an indolent boob who refuses to write anything down, which is
+quite literally in the job description of a scribe. So when you ask him to pull
+the memory book off the dusty shelf deep in the crevasses of your mind he instead
+just repeats what you told him. You then use this information how you please
+then re-tell him the newly interpreted story and the process repeats again.
 
+What I really like about this analogy, other than the outright preposterousness
+of it, is that the logical conclusion is we have an infinite recursion of
+cerebral scribes completely incompetent or unwilling to do their job. Sounds an
+awful lot like corporate America.
 
+In this particular case, my cerebral scribe reports that The Face, the piste
+that fronts the Red River Ski Area, was as tall and steep as any peak you could
+visit in the Himalayas. As I pull into town the downright diminutiveness of The
+Face is incomprehensible and altogether unsettling. How.... how can it be
+so.... *small*? It's fascinating that the same hunk of rock can form such a
+divergent opinion in the brain of an 8 year old boy compared to a 33 year old
+man (child?). Either I
+grievously misremember the size of The Faaaaaace or the process of erosion
+occurs in Red River, New Mexico at a pace some millions of times faster than
+anywhere else on the planet. I can't say for sure.
 
-<h4 class="article-subheader">Southbound & Down</h4>
-The trip is starting to wind down, 32 days of skiing down and only 1 to go. I
-gather up my things in Boulder and say goodbye to the Millennium Harvest, the
-second spookiest hotel I've stayed at on a ski trip behind only the
-<a href="/traveler/2021_04-ski_trip/wp/day_5.html?id=timberline" target="_blank" rel="noopener noreferrer">Timberline</a>. Before I leave town I make my way to
-Chautauqua Park for a quick picnic in the shadow of the Rockies. The weather is
-perfect and the park is filled with dozens of Boulderites enjoying a nice lazy Sunday.
+What I can say for sure is that I've unwittingly stumbled upon a party.
 
-I don't linger too long because I have 300 miles of highway on my schedule today
-and they ain't gonna drive themselves. I load back into the Pathfinder and start
-findin' a path. The first few hours are uneventful interstate boredom, south on
-I-25 with the Colorado Front Range to my right. At the northern flank of the
-Sangre de Cristo Mountains I dive West and see the familiar sights of Northern
-New Mexico that I remember so fondly from my youth. It's probably been 20 years
-since I've been here and a strange sense of nostalgic familiarity and newness
-is running through my veins.
+<h4 class="article-subheader">Closing Day</h4>
+I find myself pulling into Red River just as the ski day is wrapping up. Well,
+just as it *should* be wrapping up. As I get closer to the hill I notice
+hundreds of people gathered at the base of The Face decked out in all manner of
+outrageous outfits and music blasting for all the town to hear. My accommodation
+for the evening sits directly abreast of the party so when I stroll into
+the lobby inquire what all the revelin's about. The woman behind the
+counter informs me that it's my lucky day, I'm just in time for the end of the
+season party. Well I'll be damned.
 
-I pull into Red River just as the ski day is wrapping up. Well, it *should* be
-wrapping up. As I pull into the parking lot for my accommodation I see hundreds
-of people gathered at the base of the hill with music blasting. I stroll into
-the lobby to check in & inquire what that's all about. The woman behind the
-counter informs me that it's the last day of the season here at Red River & this
-is the end of season party they do every year. Well that's a hell of a deal,
-unintentionally walking into a big party.
+Thankfully I'm not planning to ski here tomorrow, I'll be shredding the famous
+trails of Taos Ski Valley, a resort that's a couple thousand higher in elevation
+so their season runs longer. I decided to stay in Red River mostly for the
+nostalgia factor. It's just a sleepy little
+mountain town but it holds a big place in my heart.
 
-I'm actually going to be skiing another mountain tomorrow, Taos, that is a few
-hundred feet higher in elevation and about 45 minutes from here. I decided to
-stay in Red River mostly for the nostalgia factor. This was where I came on my
-very first ski trip and a handful of trips in the following years. It's a little
-mountain town but it holds a large place in my heart.
-
-I get checked in and dump my bags and walk over to the festivities to see what's
-going on. I sidle my way up to a small pond built right at the bottom of "The
-Face" a run that I remember being about the size of Mt Everest when I was a kid
-that now looks so unimpressive that I have a minor existential crisis on what is
-even real. Why might we all be gathered around a small pond at the bottom of a
+I check myself in and dump my bags before walking over to check out the
+festivities. I sidle my way up to a small pond built right at the bottom of The
+Face. Why might we all be gathered around a small pond at the bottom of a
 ski run you might ask... Well this is why:
 
 
@@ -188,7 +208,34 @@ this on my previous 22 ski hills but I really can't remember when.
 
 Off the lift I loop around to the right and dive down Spencer's. Of the hundreds
 of runs I've taken this trip I'm confident in saying that this is in the top-5
-toughest. The substantial moguls that have 
+toughest. Colossal hillocks of hard snow frozen solid dot the run from start to
+finish. substantial moguls that have 
+
+At the top of the lift on my second run I slide over to the oversized trail map
+to set up a game plan. As I'm digesting the terrain a gentleman in his mid-40s
+asks if I want to go for a hike up the ridge. Hell I have no better plans, let's
+do it. I unclip my skis and follow my new friend Dave from Colorado up a spine
+that divides the West Basin Ridge to our right and the Highline Ridge to our
+left. Dave opines that he'd prefer the Highline side, which provides runs with
+comparable pitch to the West Basin Ridge but wider pistes than the gunbarrel
+chutes of West Basin. ___________
+ridge for some of the best Taos has to offer.
+
+
+Ski about 5 more runs with Dave.
+
+After I part ways with Dave I matriculate myself to the bottom of Lift 4,
+where I see a big Bavarian-style lodge that looks like an excellent place to
+grab a Bratwurst & liter of Warsteiner. I ditch my skis and walk up to the
+aptly named Bavarian Restaurant with a watering mouth. I join a couple groups of
+folks milling about the small foyer at the entrance to the joint. $18 for a
+bratwurst. Head to German restaurant & wait for 10 minutes before anybody even acknowledges
+I'm there.
+
+No Kachina peak lift running
+
+
+
 
 23,000' of vert, bringing my total just over 600k. My total skiing distance
 is 560 miles.
@@ -199,3 +246,110 @@ is 560 miles.
 If I were able to ask him he'd probably say "oh, well, maybe? I dunno". Because
 that would have been the hundredth ski trip of his life. It was my first. I
 don't remember my second ski trip. Hell we probably went to Angel Fire.
+
+
+
+<h4 class="article-subheader">Santa Fe</h4>
+I pull into Santa Fe after dark and check in to El Sendero Inn, a
+run-of-the-mill motor hotel that would come standard in your Post-War Americana
+starter kit. To my delight the rooms appear to have been renovated in the past
+few years, with little to no wear-and-tear, shockingly clean carpet, actually
+comfortable beds, and sleek, modern appliances. Google is besmirching the good
+name of the Sendero by calling it a "1-star hotel."
+
+* Were there any Olympic events on today? I thought I watched some snowboarding or women's skiing
+
+My short stay in Santa Fe did not start off on the right foot. As I open my Dopp
+kit I notice everything is perplexingly coated with an an oily film. I pull
+everything out and stack it on the sink when I find the culprit. My tincture of
+beard oil has opened in transit and deposited its contents upon everything in
+the toiletry bag with a slippery residue.
+
+After cleaning up my amenities then myself I make the short walk to Hotel La
+Fonda on the Plaza for what I hope is a dynamite serving of New Mexican
+enchiladas. My first night of this trip I enjoyed enchiladas in Las Cruces, New
+Mexico, it feels poetic to bookend the trip with New Mexican enchiladas.
+
+New Mexican enchiladas possess two main qualities that differentiate them from
+other families of of enchilada. The first is a general proclivity of New Mexican
+cuisine, which is their use of green chiles. Most places when you order salsa
+it's red. Because that's the color of salsa right? Not in New Mexico. It's such
+a point of pride that residents of the great state of New Mexico have the option
+of brandishing a license plate upon their vehicle with green chiles. My favorite
+variant on the green chile/red chile dichotomy is "Christmas style" - half
+green/half red. Because that just seems like more fun.
+
+The second emphasis of New Mexican enchiladas is explicitly related to
+enchiladas, and based on the strong feelings a disconcertingly large proportion
+of the population hold about tropical fruits on pizza, likely to be controversial.
+Instead of rolling the enchiladas in a tortilla sleeping bag, enchiladas in New
+Mexico are laid flat and stacked like an order of flapjacks with the filling
+in between the tortilla scaffolding.
+
+About half way through my libation the enchiladas arrive and I immediately
+notice something is wrong. I look up to the unsuspecting waitress,
+
+"They're not flat."
+
+"Oh I'm sorry, did you want them flat?"
+
+"I thought that's how y'all did it in New Mexico?"
+
+"Well typically it is, but we get so many tourists that come in here and throw
+a fit that we started rolling them. Do you want me to have them
+re-do it?"
+
+"Oh no, this is totally fine, I just had my heart set on some authentic New
+Mexican enchiladas"
+
+"Are you sure you don't want me to send them back?""
+
+"No these look great. Thank you so much."
+
+So I ate some lame ass rolled up enchiladas.
+
+Seinfeld enchilada rollers?
+
+Thinking back over this interaction I think I might have to start working
+"That won't be necessary" into my lexicon.
+
+"They're not flat"
+
+"Oh I'm sorry, did you want them flat?"
+
+*Don Draper glare-squint* "That won't be necessary."
+
+
+
+My last stop as I leave town is Ohori's Coffee, which is one of my favorite
+coffee shops I've ever patronized. Did it used to be something else????
+The large windows allow the first rays of the morning to caress the adobe walls
+and glint off the
+stainless steel apparati of the espresso machine. The high ceilings give the
+feel of a space that's much larger than a coffee shop should be. The Southwestern
+vibe is accentuated by Talin Market right next door, specializing in world
+cuisines and native staples.
+
+
+
+As I leave Santa Fe I take a peek at the trip odometer. 10,450.9 miles.
+
+
+
+
+<h4 class="article-subheader">Southbound & Down</h4>
+The trip is starting to wind down, 32 days of skiing down and only 1 to go. I
+gather up my things in Boulder and say goodbye to the Millennium Harvest, the
+second spookiest hotel I've stayed at on a ski trip behind only the
+<a href="/traveler/2021_04-ski_trip/wp/day_5.html?id=timberline" target="_blank" rel="noopener noreferrer">Timberline</a>. Before I leave town I make my way to
+Chautauqua Park for a quick picnic in the shadow of the Rockies. The weather is
+perfect and the park is filled with dozens of Boulderites enjoying a nice lazy Sunday.
+
+I don't linger too long because I have 300 miles of highway on my schedule today
+and they ain't gonna drive themselves. I load back into the Pathfinder and start
+findin' a path. The first few hours are uneventful interstate boredom, south on
+I-25 with the Colorado Front Range to my right. At the northern flank of the
+Sangre de Cristo Mountains I dive West and see the familiar sights of Northern
+New Mexico that I remember so fondly from my youth. It's probably been 20 years
+since I've been here and a strange sense of nostalgic familiarity and newness
+is running through my veins.
