@@ -43,7 +43,7 @@
                   {% if latest_dict[article.activity] %}
                     {% if latest_dict[article.activity]['min_date'] > article.date %}
                       {% set _temp = latest_dict[article.activity].update({'min_date': article.date }) %}
-                      {% set _temp = latest_dict[article.activity].update({'slug': article.slug }) %}
+                      {% set _temp = latest_dict[article.activity].update({'slug': article.slug_base }) %}
                       {% set _temp = latest_dict[article.activity].update({'summary': article.summary }) %}
                     {% endif %}
                   {% else %}
