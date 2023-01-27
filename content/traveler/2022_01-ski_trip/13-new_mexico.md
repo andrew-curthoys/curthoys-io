@@ -35,7 +35,12 @@ They call New Mexico the Land of Enchantment and, brother, this young lad was
 
 The excitement of cresting the top of the Cimarron
 Canyon Pass was euphoric. The final culmination of 500 miles of steady climbing
-from the lowly 700' elevation of Tulsa to our 8,000' perch above Eagle Nest Lake.
+from the lowly 700' elevation of Tulsa to our 9,700' perch above Eagle Nest Lake.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_elevation.png" alt="Elevation profile">
+  <figcaption class="figure-caption">Up & to the left</figcaption>
+</figure>
 
 Our cabin was spartan. No frills. A minor step up from camping. Which is exactly
 what you want as an 8 year old on your first mountain adventure. Watching your
@@ -95,15 +100,36 @@ nostalgia factor. It's just a sleepy little
 mountain town but it holds a big place in my heart.
 
 I check myself in and dump my bags before walking over to check out the
-festivities. I sidle my way up to a small pond built right at the bottom of The
+merrymaking. I sidle my way up to a small pond built right at the bottom of The
 Face. Why might we all be gathered around a small pond at the bottom of a
 ski run you might ask... Well this is why:
 
+<iframe class="col-12 video-div mb-3" height="400" src="https://www.youtube.com/embed/UzlSPlzPW3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Closing day is quite the party. I stand down by the pond for a few skiers, some
-successful, some not, and a handful of snowboarders, all unsuccessful, before
-sauntering over to the lodge with a bustling second story balcony overlooking
-the festivities. While waiting in line for a beer I see a fella decked out in a
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond1.JPEG" alt="Ski pond">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond2.JPEG" alt="Ski pond">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond3.JPEG" alt="Ski pond">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond4.JPEG" alt="Ski pond">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Nice stadium seating in the bottom right photo</figcaption>
+</figure>
+
+Closing day is quite the party. I stand down by the pond for a few skiers - some
+successful, some not - and a handful of snowboarders - all unsuccessful - before
+sauntering over to the lodge to play a little catchup. While waiting in
+line for a beer I see a fella decked out in a
 fabulous head-to-toe shiny leopard print ski suit. Someone in the crowd asks
 how Red River Liberace is doing to which he replies,
 
@@ -112,15 +138,20 @@ how Red River Liberace is doing to which he replies,
 Outstanding.
 
 I sidle through the crowd to the bar for a plastic cup full of Happy Camper IPA,
-which I tote back out to the patio. The sun is shining, the senders are sending,
-and the music is blasting. It's a glorious day to be in Red River. I hang out on
-the patio until the festivities wrap up and I throw back my beer. By this point
-I've worked up a hell of an appetite and I know the exact place to scratch that
-itch.
+which I tote back out to the second floor deck overlooking the festivities. The
+sun is shining, the senders are sending, and the vibers are vibing. It's a
+glorious day to be in Red River. I hang out on the patio until the party winds
+down and I throw back my beer. By this point I've worked up a hell of an
+appetite and I know the exact place to scratch that itch.
 
-Texas Red's Steakhouse is the basis for dozens of my fondest childhood memories.
+This leg of the trip is all about memories and Texas Red's Steakhouse is the
+basis for some of my fondest childhood memories. Most of them involve playing
+arcade games with my brothers while the adults got blasted on brown liquor. In
+fact, I think all of them involve that. That's the state of an adolescent
+brain - you most vividly remember bashing little plastic buttons while the
+transcendent hunks of beef you ate are just an afterthought.
 Even when we weren't skiing in or staying in Red River we would make the trek
-around Wheeler Peak for supper at Texas Red's. Unlike some of the other
+around Wheeler Peak to sup at Texas Red's. Unlike some of the other
 <a href="/traveler/2022_01-ski_trip/08-canada.html?id=longhorn" target="_blank" rel="noopener noreferrer">saloons</a> and
 <a href="/traveler/2022_01-ski_trip/10-cowboy_state.html?id=mdc" target="_blank" rel="noopener noreferrer">taverns</a>
 I've encountered on this trip, this place is the real deal.
@@ -131,7 +162,7 @@ I've encountered on this trip, this place is the real deal.
 </figure>
 
 During the quarter mile stroll over to Texas Red's my mind is reeling with an
-unhealthy carnal lust
+unhealthy carnivorous lust
 for a medium rare T-bone steak. As I stride up the steps to the front door
 I'm greeted with a horrifying sight that chills me to my bones.
 
@@ -141,7 +172,7 @@ I'm greeted with a horrifying sight that chills me to my bones.
 </figure>
 
 I'm not old enough to remember the first two Bills Super Bowl losses, but I sure
-as shit remember the second two against the goddamn Cowboys. This might hurt
+as shit remember the second two against the cotdamn Cowboys. This might hurt
 worse.
 
 I sit on the stoop for a minute and ponder if it's worth it to stay in Red River,
@@ -158,21 +189,21 @@ wearing something from Oklahoma, which is pretty neat I reckon.
 </figure>
 
 I put my name in for a table and grab a Powder Day Stout and pop a squat outside
-on the patio around a gas firepit. Our old fabulous friend in the full leopard
+around a gas firepit. Our old fabulous friend in the full leopard
 skiing onesie sashays over
 
 "Hey, I haven't seen you around, you must be new to town"
 
 "Yeah I just got here today, just in time to see the pond skiing"
 
-"Oh that's fun! It's our little crazy tradition for the close of ski season. I
+"Oh that's fun! It's our little crazy tradition for the close of the season. I
 don't ski but I dress the part. Name's Tyler, but everyone calls me Sweet T.
 Don't ask me how long I've been here... It's been 7 years. By this point I know
 everybody and everybody knows me. Is this your first time?"
 
-"First time in probably 15 years, we came quite a few times when we were kids.
-Everything seems so much smaller. It's all so different and so the same, it
-feels... strange"
+"First time in probably 20 years, we came a lot when we were kids.
+Everything seems so much... smaller. It's all so different and so the same, it's
+a very strange feeling"
 
 "Well it's our own little slice of heaven, we're not like those asshole ski
 towns in Colorado"
@@ -192,37 +223,107 @@ around the base of Wheeler Peak, the loftiest of peaks in the state, to Taos Ski
 Valley. A light flurry of snow is falling as I pull into the parking lot & load
 onto the tractor-pulled open-air cattle car.
 
-I must have been completely oblivious to most things as a child because none of
-this looks familiar. You would have thought that I would retained at least a
+As I near the base of the mountain the file clerk inside my brain can't even
+find the scribe. He must be completely checked out because none of what I'm
+seeing looks familiar. You would have thought that I would retained at least a
 faint recollection of the six-story Swiss chalet-style hotel and Bavarian
 village at the base of the hill. I only learn later that most of this was built
 within the past decade, after the 2013 sale of the resort and the $330 million
-master development plan that came along with it. At least I haven't completely
-lost my marbles.
+master development plan that came along with it. It's at least somewhat
+relieving to find that I haven't completely lost my marbles.
 
 I strap on the planks for one final time in the shadow of said six-story Swiss
 chalet-style hotel ready to shred. I hop on the unimaginatively named Lift 1
 up the face of the mountain, straight up Al's Run. One thing I notice as I ride
-up is that this mountain is *steep*. I must have ridden up slopes steeper than
-this on my previous 22 ski hills but I really can't remember when.
+up is that this mountain is *steep*. I must have ridden up a steeper glen but I
+really can't remember when.
 
 Off the lift I loop around to the right and dive down Spencer's. Of the hundreds
 of runs I've taken this trip I'm confident in saying that this is in the top-5
-toughest. Colossal hillocks of hard snow frozen solid dot the run from start to
-finish. substantial moguls that have 
+toughest. Colossal hillocks of hard, crusty snow have piled upon the steep pitch
+from start to
+finish. By the time I reach the bottom I'm panting like an Arkansas bird dog in
+July. Dadgum!
 
-At the top of the lift on my second run I slide over to the oversized trail map
-to set up a game plan. As I'm digesting the terrain a gentleman in his mid-40s
-asks if I want to go for a hike up the ridge. Hell I have no better plans, let's
+Nothing to do now but continue the send. At the top of the lift on my second run
+I slide down to the oversized trail map for bearing-setting and gameplanning. As
+I'm digesting the terrain a gentleman in his mid-40s asks if I want to go for a
+hike up the ridge. Hell I ain't got a better plan, let's
 do it. I unclip my skis and follow my new friend Dave from Colorado up a spine
 that divides the West Basin Ridge to our right and the Highline Ridge to our
 left. Dave opines that he'd prefer the Highline side, which provides runs with
 comparable pitch to the West Basin Ridge but wider pistes than the gunbarrel
-chutes of West Basin. ___________
-ridge for some of the best Taos has to offer.
+chutes of West Basin. We hike for about 10 minutes when we reach a nice looking
+drop-in point and clip back in.
 
+Dave heads down first and after 3 turns that sound like he's scraping the ice
+off a windshield he looks up with an expression that resembles your dog when
+you get him the cheap dog food. Oh no. All that hiking for *this*? I can't leave
+Dave out there to cinatiT* by himself so I shove myself over the cornice and
+grind out a few knee chattering turns to meet him. We lament our inadvisable
+decision to hike the ridge, take a hard swaller, & point our planks down the
+fall line.
 
-Ski about 5 more runs with Dave.
+\*Avoid icebergs. It's Titanic backwards. Get it? Get it?
+
+We manage to scrape our way down to the bottom of the run but then reach a point
+of complete bamboozlement. We stop, take a look at each other, then peer over a
+10 foot cliff that cuts across the entire run. The hell is this all about??
+Flummoxed, we scoot to the right through the trees in search of safer passage.
+I wind through the pines to the next run over and slide down to the cat-track
+green traverse below. I look back to see Dave ungracefully rappelling his way
+down a wall of rocks and ice about 25 yards into the copse of trees. Some
+people just have no patience.
+
+My new friend and now un-hired mountain guide Dave slides up to me in one piece
+and we shoot each other glances that essentially say "thank god that's over." We
+dust ourselves off and shoot down to the bottom of Lift 7. I feel this is a good
+time to discuss the nonsensicalness of the nomenclature of the chairlift names
+at Taos Ski Valley. My first chair was called Lift 1. If you veer right from the
+top of Lift 1 you'll find yourself at Lift 2. Makes sense. Continue on past
+Lift 2 and you'll find yourself at Lift 8. Peculiar, but surely there are lifts
+3-7 elsewhere on the mountain right? Well as I mentioned we're at the bottom of
+Lift 7. To our left is Lift 4. So we have Lifts 1-2-4-7-8 accounted for.
+
+Lifts 3-5-6 are AWOL. And nobody seems to care. Are we not concerned about the
+wellbeing of lifts 3-5-6?? Did we just go from Lift 2 to Lift 4? Did Lifts
+3-5-6 all get demolished at some point? Why don't we just come up with more
+creative names for the lifts? I'm sure there are answers to all these questions
+but I don't want to look it up because I prefer being ingenuously incensed. It's
+fun. I do know that the most recent lift was installed in 2015 because I was
+hoping to rip some lines off it.
+
+The name of that lift? Kachina Peak Lift. C'mon Taos what are we doing here??
+
+I ride a few runs with Dave off Lift 7 then we split up when he takes Lift 7A(!!)
+back to the main lodge to meet up with some folks. I meander over to Lift 4,
+which takes me over a ridge where I can slide down to the bottom of the Kachina
+Peak Lift.
+
+Kachina Peak is the muse of Taos. The purest expression of aggressive alpine
+skiing. The reason the resort maintains an exalted status in the minds of skiers
+the world over. She stands just under 12,500', towering over the rest of the
+pistes like a 1950s Catholic school nun teaching cursive.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_kachina.png" alt="Kachina">
+  <figcaption class="figure-caption">Tell me I'm wrong</figcaption>
+</figure>
+
+Perhaps the biggest reason for the romanticism surrounding Kachina Peak has been
+taken away with the construction of this lift. Before the lift, KP only availed
+herself to the most dedicated of rippers, those willing to sacrifice 45 minutes
+of hard exertion for their prize. To reach the holy powder cache for the
+majority of the ski resort's existence required a hike from Lift 2 (where Dave
+and I set out) to the top of the Taos valley basin, across Highline Ridge, and
+finally a 700' climb up to the peak herself.
+From a quick check of google maps with a piece of twine I'd say it's around a
+mile & a quarter of make-you-work-for-it alpine hiking.
+
+When the original owners of the ski resort, the Blake family, sold
+
+As I disembark Lift 4 I gaze to my left to find the Kachina Peak Lift sitting
+idly to my chagrin.
 
 After I part ways with Dave I matriculate myself to the bottom of Lift 4,
 where I see a big Bavarian-style lodge that looks like an excellent place to
@@ -239,15 +340,6 @@ No Kachina peak lift running
 
 23,000' of vert, bringing my total just over 600k. My total skiing distance
 is 560 miles.
-
-<h4 class="article-subheader">A Memory Revisited</h4>
-
-
-If I were able to ask him he'd probably say "oh, well, maybe? I dunno". Because
-that would have been the hundredth ski trip of his life. It was my first. I
-don't remember my second ski trip. Hell we probably went to Angel Fire.
-
-
 
 <h4 class="article-subheader">Santa Fe</h4>
 I pull into Santa Fe after dark and check in to El Sendero Inn, a
@@ -332,24 +424,5 @@ cuisines and native staples.
 
 
 
-As I leave Santa Fe I take a peek at the trip odometer. 10,450.9 miles.
-
-
-
-
-<h4 class="article-subheader">Southbound & Down</h4>
-The trip is starting to wind down, 32 days of skiing down and only 1 to go. I
-gather up my things in Boulder and say goodbye to the Millennium Harvest, the
-second spookiest hotel I've stayed at on a ski trip behind only the
-<a href="/traveler/2021_04-ski_trip/wp/day_5.html?id=timberline" target="_blank" rel="noopener noreferrer">Timberline</a>. Before I leave town I make my way to
-Chautauqua Park for a quick picnic in the shadow of the Rockies. The weather is
-perfect and the park is filled with dozens of Boulderites enjoying a nice lazy Sunday.
-
-I don't linger too long because I have 300 miles of highway on my schedule today
-and they ain't gonna drive themselves. I load back into the Pathfinder and start
-findin' a path. The first few hours are uneventful interstate boredom, south on
-I-25 with the Colorado Front Range to my right. At the northern flank of the
-Sangre de Cristo Mountains I dive West and see the familiar sights of Northern
-New Mexico that I remember so fondly from my youth. It's probably been 20 years
-since I've been here and a strange sense of nostalgic familiarity and newness
-is running through my veins.
+As I leave Santa Fe I take a peek at the trip odometer. 10,450.9 miles. What a
+long strange trip it's been.

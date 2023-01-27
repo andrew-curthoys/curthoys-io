@@ -22,7 +22,8 @@ __ resorts
 2 countries
 5 cousins
 5 friends
-___ times crossing the Continental Divide
+___ crossings of the Continental Divide
+1 brother
 1 yard sale
 
 I remember where I was when I hatched this ludicrous plan. I was sitting at the
