@@ -48,13 +48,15 @@ old man stoke a wood burning potbelly stove for heat leaves an indelible
 impression on a youngster.
 
 The cabin did at least have a TV, which I can say with 100% certainty because
-we watched Nascar on Sunday as we geared up to ski. My dad's not a particularly
+we watched Nascar on Sunday while gearing up to ski. My dad's not a particularly
 big Nascar fan but he was that day. Perhaps it was a case of that long ago
 stone-age habit of watching something "because it's on TV." Kids these days will
 never know what that's like. The fact that we're watching Nascar means we're in
 at least February, because if it was any earlier we'd be watching football.
 Another thing these kids will never understand is a Super Bowl in January.
 
+As I pull into town on this lovely day in late March I'm confronted by the
+fallibility of the human brain.
 Memory is a peculiar, shapeless entity that rattles around in our minds in a
 constant state amoebic fluidity. We like to think of our memory is like a book
 that we can pull off the shelf any time we please. But in reality it's more of a
@@ -71,7 +73,7 @@ cerebral scribes completely incompetent or unwilling to do their job. Sounds an
 awful lot like corporate America.
 
 In this particular case, my cerebral scribe reports that The Face, the piste
-that fronts the Red River Ski Area, was as tall and steep as any peak you could
+fronting the Red River Ski Area, was as tall and steep as any peak you could
 visit in the Himalayas. As I pull into town the downright diminutiveness of The
 Face is incomprehensible and altogether unsettling. How.... how can it be
 so.... *small*? It's fascinating that the same hunk of rock can form such a
@@ -123,7 +125,7 @@ ski run you might ask... Well this is why:
       <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond4.JPEG" alt="Ski pond">
     </div>
   </div>
-  <figcaption class="figure-caption">Nice stadium seating in the bottom right photo</figcaption>
+  <figcaption class="figure-caption">Wipeout!</figcaption>
 </figure>
 
 Closing day is quite the party. I stand down by the pond for a few skiers - some
@@ -137,12 +139,14 @@ how Red River Liberace is doing to which he replies,
 
 Outstanding.
 
-I sidle through the crowd to the bar for a plastic cup full of Happy Camper IPA,
-which I tote back out to the second floor deck overlooking the festivities. The
+I sidle through the crowd to the bar for a plastic cup full of Happy Camper IPA.
+The second it touches my lips I'm greeted by warm memories of our kickball
+league in Tulsa, a 6-pack of Happy Camper by my side. I tote my ale out to the
+second floor deck overlooking the festivities (see picture #4 above). The
 sun is shining, the senders are sending, and the vibers are vibing. It's a
-glorious day to be in Red River. I hang out on the patio until the party winds
-down and I throw back my beer. By this point I've worked up a hell of an
-appetite and I know the exact place to scratch that itch.
+glorious day to be in Red River. I loiter on the patio until the party winds
+down and my beerinacup morphs into a cup. By this point I've worked up a hell of
+an appetite and I know the exact place to scratch that itch.
 
 This leg of the trip is all about memories and Texas Red's Steakhouse is the
 basis for some of my fondest childhood memories. Most of them involve playing
@@ -162,9 +166,9 @@ I've encountered on this trip, this place is the real deal.
 </figure>
 
 During the quarter mile stroll over to Texas Red's my mind is reeling with an
-unhealthy carnivorous lust
-for a medium rare T-bone steak. As I stride up the steps to the front door
-I'm greeted with a horrifying sight that chills me to my bones.
+unhealthy carnivorous lust for a medium rare T-bone steak. I gleefully bound up
+the steps to the front door where I'm greeted by a horrifying sight that chills
+me to my bones.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_texas_reds_fishin.jpeg" alt="Gone fishin">
@@ -175,8 +179,8 @@ I'm not old enough to remember the first two Bills Super Bowl losses, but I sure
 as shit remember the second two against the cotdamn Cowboys. This might hurt
 worse.
 
-I sit on the stoop for a minute and ponder if it's worth it to stay in Red River,
-NM until May. I guess I'll mull it over with a beer.
+I sit on the stoop for a minute and ponder the logistics of staying in Red River
+until May. I guess I'll mull it over with a beer.
 
 I slowly trudge with my head hung low back towards the ski resort and duck into
 the Red River Brewing Company. The place is jammed with people enjoying the
@@ -189,8 +193,8 @@ wearing something from Oklahoma, which is pretty neat I reckon.
 </figure>
 
 I put my name in for a table and grab a Powder Day Stout and pop a squat outside
-around a gas firepit. Our old fabulous friend in the full leopard
-skiing onesie sashays over
+'round a gas firepit. Our old fabulous friend in the full leopard
+onesie sashays over
 
 "Hey, I haven't seen you around, you must be new to town"
 
@@ -215,17 +219,18 @@ towns in Colorado"
 "I sure will Sweet T"
 
 <h4 class="article-subheader">This is it, Don't Get Scared Now</h4>
-I can't believe we've made it here. The end of the road. One more day of skiing
+I can't believe it's finally here. The end of the road. The last hurrah. The
+final countdown. One more day of skiing
 then it's back to reality. I'm a little sad just thinking about it.
 
 I pack up my gear one last time and head to the slopes. It's about 45 minutes
-around the base of Wheeler Peak, the loftiest of peaks in the state, to Taos Ski
+around the base of Wheeler Peak, the loftiest of all peaks in the state, to Taos Ski
 Valley. A light flurry of snow is falling as I pull into the parking lot & load
 onto the tractor-pulled open-air cattle car.
 
 As I near the base of the mountain the file clerk inside my brain can't even
-find the scribe. He must be completely checked out because none of what I'm
-seeing looks familiar. You would have thought that I would retained at least a
+find the scribe. He's fully clocked out because I don't remember *any* of this.
+Memory is an imperfect record but you'd think I would have retained at least a
 faint recollection of the six-story Swiss chalet-style hotel and Bavarian
 village at the base of the hill. I only learn later that most of this was built
 within the past decade, after the 2013 sale of the resort and the $330 million
@@ -235,18 +240,19 @@ relieving to find that I haven't completely lost my marbles.
 I strap on the planks for one final time in the shadow of said six-story Swiss
 chalet-style hotel ready to shred. I hop on the unimaginatively named Lift 1
 up the face of the mountain, straight up Al's Run. One thing I notice as I ride
-up is that this mountain is *steep*. I must have ridden up a steeper glen but I
+up is that this mountain is *steep*. I must have ridden a steeper glen but I
 really can't remember when.
 
 Off the lift I loop around to the right and dive down Spencer's. Of the hundreds
 of runs I've taken this trip I'm confident in saying that this is in the top-5
-toughest. Colossal hillocks of hard, crusty snow have piled upon the steep pitch
-from start to
-finish. By the time I reach the bottom I'm panting like an Arkansas bird dog in
+toughest. The entire length of the steep pitch is blanketed by colossal hillocks
+of hard, crusty snow. Each a miniature mountain. Each a grueling challenge.
+By the time I reach the bottom I'm panting like an Arkansas bird dog in
 July. Dadgum!
 
-Nothing to do now but continue the send. At the top of the lift on my second run
-I slide down to the oversized trail map for bearing-setting and gameplanning. As
+Nothing to do now but continue the send. I can catch my breath when the sun goes
+down. I hop back on Lift 1 and slide down to the oversized trail map at the top
+for a quick bout of bearing-setting and gameplanning. As
 I'm digesting the terrain a gentleman in his mid-40s asks if I want to go for a
 hike up the ridge. Hell I ain't got a better plan, let's
 do it. I unclip my skis and follow my new friend Dave from Colorado up a spine
