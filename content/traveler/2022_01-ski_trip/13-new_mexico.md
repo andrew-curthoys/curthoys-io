@@ -3,9 +3,9 @@ slug: traveler/2022_01-ski_trip/13-new_mexico
 slug_base: traveler/2022_01-ski_trip
 day_alias: Land of Enchantment
 prev_day: 12-rockies_pt2
-next_day: /traveler
+next_day: 14-coda
 date: 2022-03-20
-post_date: 2022-12-27
+post_date: 2023-1-29
 category: Traveler
 subcat: Skiing
 photo: red_tree_3.jpeg
@@ -17,96 +17,108 @@ Do you have a memory that's so strongly held it's become part of your identity?
 A memory that has become less of a memory and more of a
 *feeling*? A childhood experience that defines who you are?
 
-As I pull into Red River, New Mexico I feel *that feeling* percolate to the
-surface of my emotional reservoir. It hits me all at once like a ton of bricks.
-The river bubbling to my right as I make the big swinging turn onto the main
-drag. The symmetrical bluffs brooding over the entrance to town like Beefeaters
-stoically safeguarding the Tower of London. The orange and blue clapboard
-fa&ccedil;ade of the Terrace Towers Lodge. 
+For me that memory is my very first ski trip to Red River, New Mexico. A memory
+that manifests itself as a series of vignettes that form an incomplete patchwork
+of Bob Ross paintings in my mind.
+
+The bubbling river on the edge of town. 
+
+The symmetrical bluffs brooding over the main drag.
+
+The orange and blue clapboard fa&ccedil;ade of the Terrace Towers Lodge.
 
 The rustic log cabins on the outskirts of town.
 
-The cabins where it all began. If I had to guess I'd say I was about 8 years
-old. My first ski trip. The first time this flatlander had ever experienced the
-mountains.
+The rustic log cabins where it all began. The rustic log cabins where you first
+experienced the mountains. The rustic log cabins where you
+fully understood why they call New Mexico the Land of Enchantment.
 
-They call New Mexico the Land of Enchantment and, brother, this young lad was
-*enchanted*.
+You're enthralled by the idea of the wilderness. You've read Jack London build
+a fire. You've watched Davy Crockett grin down a bear. You think you're fit to
+"rough it."
 
-The excitement of cresting the top of the Cimarron
-Canyon Pass was euphoric. The final culmination of 500 miles of steady climbing
-from the lowly 700' elevation of Tulsa to our 9,700' perch above Eagle Nest Lake.
+Gathering wood for your old man as he stokes the potbelly stove instills you
+with an outsized sense of responsibility. Watching him heat the cabin with
+with your cellulosic bounty leaves an indelible impression on your youthful soul.
 
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_elevation.png" alt="Elevation profile">
-  <figcaption class="figure-caption">Up & to the left</figcaption>
-</figure>
+You think you're fit to rough it.
 
-Our cabin was spartan. No frills. A minor step up from camping. Which is exactly
-what you want as an 8 year old on your first mountain adventure. Watching your
-old man stoke a wood burning potbelly stove for heat leaves an indelible
-impression on a youngster.
-
-The cabin did at least have a TV, which I can say with 100% certainty because
-we watched Nascar on Sunday while gearing up to ski. My dad's not a particularly
-big Nascar fan but he was that day. Perhaps it was a case of that long ago
-stone-age habit of watching something "because it's on TV." Kids these days will
-never know what that's like. The fact that we're watching Nascar means we're in
-at least February, because if it was any earlier we'd be watching football.
-Another thing these kids will never understand is a Super Bowl in January.
-
-As I pull into town on this lovely day in late March I'm confronted by the
-fallibility of the human brain.
-Memory is a peculiar, shapeless entity that rattles around in our minds in a
-constant state amoebic fluidity. We like to think of our memory is like a book
-that we can pull off the shelf any time we please. But in reality it's more of a
-game of internal telephone. The cerebral scribe assigned to record your
-memories is an indolent boob who refuses to write anything down, which is
-quite literally in the job description of a scribe. So when you ask him to pull
-the memory book off the dusty shelf deep in the crevasses of your mind he instead
-just repeats what you told him. You then use this information how you please
-then re-tell him the newly interpreted story and the process repeats again.
-
-What I really like about this analogy, other than the outright preposterousness
-of it, is that the logical conclusion is we have an infinite recursion of
-cerebral scribes completely incompetent or unwilling to do their job. Sounds an
-awful lot like corporate America.
-
-In this particular case, my cerebral scribe reports that The Face, the piste
-fronting the Red River Ski Area, was as tall and steep as any peak you could
-visit in the Himalayas. As I pull into town the downright diminutiveness of The
-Face is incomprehensible and altogether unsettling. How.... how can it be
-so.... *small*? It's fascinating that the same hunk of rock can form such a
-divergent opinion in the brain of an 8 year old boy compared to a 33 year old
-man (child?). Either I
-grievously misremember the size of The Faaaaaace or the process of erosion
-occurs in Red River, New Mexico at a pace some millions of times faster than
-anywhere else on the planet. I can't say for sure.
-
-What I can say for sure is that I've unwittingly stumbled upon a party.
+You *think* you're fit to rough it.
 
 <h4 class="article-subheader">Closing Day</h4>
-I find myself pulling into Red River just as the ski day is wrapping up. Well,
-just as it *should* be wrapping up. As I get closer to the hill I notice
+ A memory from the
+mid-90s that manifests itself as a *feeling* as I roll into Red River Anno
+Domini 2022. Every aspect of the experience triggers an unmistakable and
+undescribable sensation to percolate to the surface of my emotional reservoir.
+
+I roll into Red River just as the ski day is wrapping up. Well,
+just as it *should* be wrapping up. As I approach the hill I notice
 hundreds of people gathered at the base of The Face decked out in all manner of
-outrageous outfits and music blasting for all the town to hear. My accommodation
-for the evening sits directly abreast of the party so when I stroll into
-the lobby inquire what all the revelin's about. The woman behind the
+outrageous outfits. My accommodation for the evening sits directly abreast of
+the party so when I stroll into the lobby I naturally inquire what all the
+revelin's about. The woman behind the
 counter informs me that it's my lucky day, I'm just in time for the end of the
 season party. Well I'll be damned.
 
-Thankfully I'm not planning to ski here tomorrow, I'll be shredding the famous
-trails of Taos Ski Valley, a resort that's a couple thousand higher in elevation
-so their season runs longer. I decided to stay in Red River mostly for the
-nostalgia factor. It's just a sleepy little
+<figure class="figure">
+  <div class="row">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_motel1.JPEG" alt="Red River motel">
+  </div>
+  <div class="row">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_motel2.JPEG" alt="Red River motel">
+  </div>
+  <figcaption class="figure-caption">Nice digs</figcaption>
+</figure>
+
+Thankfully my plans did not involve skiing here tomorrow, because that would have
+been rather distressing news. Instead I'll be
+shredding the famous trails of Taos Ski Valley, a resort that sits a couple
+thousand feet higher in elevation availing it to a longer season. I decided to
+stay in Red River purely for nostalgia. It's a sleepy little
 mountain town but it holds a big place in my heart.
 
-I check myself in and dump my bags before walking over to check out the
-merrymaking. I sidle my way up to a small pond built right at the bottom of The
-Face. Why might we all be gathered around a small pond at the bottom of a
-ski run you might ask... Well this is why:
+One particular nonsensical reminiscence from a ski trip to New Mexico centers
+around a hairbrush. Someone (I can't remember who, thanks Mr. Scribe) brought a
+hairbrush made by Conair, a self proclaimed "brand
+generations of people all over the world trust and admire." I have to imagine
+that this trip coincided with the 1997 Nic Cage aviation action thriller
+*Con Air* because the adults thought that a hairbrush emblazoned with the words
+CONAIR was the funniest thing imaginable. And in 1997 it probably was. I had no
+earthly clue what was so funny, but I laughed along because
+I wanted to be cool like the adults. And my cerebral scribe trots this memory
+out at least once a fiscal quarter as if to say, "see, I AM good at my job,
+remember that hairbrush!" Thanks pal, you're doing great. You seem to be
+conspicuously absent when I'm standing in the middle of an airport parking
+garage at midnight with no idea what floor I parked on.
+
+Other instances from New Mexico trips where my scribe has proven to be
+maddeningly and unnecessarily good at his job:
+* Why in the world would I still need to know that our whitewater rafting
+guide's name was Seth all these years later?
+* Monti Joe & Vicky, the proprietors of the Black Mesa Bed and Breakfast who
+prayed for travel mercies before we set off to hike the Mesa. That one's
+actually useful because I still routinely ask for travel mercies to this day.
+
+Put ripping laps off the Gold Chair somewhere in the article
+
+I dump my bags at the Best Western Rivers Edge and stroll over to investigate
+the merrymaking. I immediately sidle right up to the edge of a small pond built
+at the bottom of The
+Face. Wait. Did you say *pond*?? Why on earth would there be a pond on a
+ski slope? Well this is why:
 
 <iframe class="col-12 video-div mb-3" height="400" src="https://www.youtube.com/embed/UzlSPlzPW3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Closing day is quite the party. I stand down by the pond for a few skiers - some
+successful, some not - and a handful of snowboarders - all unsuccessful - before
+sauntering over to the lodge to play a little catch up on all the partying.
+While waiting in line for a beer I see a fella decked out in a
+fabulous head-to-toe shiny leopard print ski suit. Someone in the crowd asks
+how Red River Liberace is doing to which he replies,
+
+"Honey, if I were any peachier I'd be a cobbler!"
+
+Outstanding.
 
 <figure class="figure">
   <div class="row">
@@ -128,33 +140,86 @@ ski run you might ask... Well this is why:
   <figcaption class="figure-caption">Wipeout!</figcaption>
 </figure>
 
-Closing day is quite the party. I stand down by the pond for a few skiers - some
-successful, some not - and a handful of snowboarders - all unsuccessful - before
-sauntering over to the lodge to play a little catchup. While waiting in
-line for a beer I see a fella decked out in a
-fabulous head-to-toe shiny leopard print ski suit. Someone in the crowd asks
-how Red River Liberace is doing to which he replies,
-
-"Honey, if I were any peachier I'd be a cobbler!"
-
-Outstanding.
-
 I sidle through the crowd to the bar for a plastic cup full of Happy Camper IPA.
 The second it touches my lips I'm greeted by warm memories of our kickball
 league in Tulsa, a 6-pack of Happy Camper by my side. I tote my ale out to the
 second floor deck overlooking the festivities (see picture #4 above). The
 sun is shining, the senders are sending, and the vibers are vibing. It's a
 glorious day to be in Red River. I loiter on the patio until the party winds
-down and my beerinacup morphs into a cup. By this point I've worked up a hell of
-an appetite and I know the exact place to scratch that itch.
+down and my beerinacup morphs into a... cup. By this point I've worked up a hell
+of an appetite and I know just the place to scratch that itch.
 
-This leg of the trip is all about memories and Texas Red's Steakhouse is the
+
+
+When our Mercury Villager finally crested the top of the Cimarron Canyon Pass,
+the final culmination of 10 hours and 500 miles of steady climbing, the
+adolescent population of the vehicle yelped with palpable glee. A youthful
+cabal of highland kings reigning from our 9,700' perch above Eagle Nest Lake.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_elevation.png" alt="Elevation profile">
+  <figcaption class="figure-caption">Up & to the left</figcaption>
+</figure>
+You think you are but you've never lived a day
+outside the comfortable confines of modern society.
+
+
+The cabin was spartan. No frills. A minor step up from camping. The exact
+experience you want as an 8 year old on your first mountain adventure.
+Rustic. Mountains. Adventure. Lumber. All good things.
+
+The cabin did at least have a TV, which I can say with 100% certainty because
+we watched Nascar on Sunday while gearing up to ski. My dad's not a particularly
+big Nascar fan but he was that day. Perhaps it was a case of that long ago
+stone-age habit of watching something "because it's on TV." Kids these days will
+never know what that's like. The fact that we're watching Nascar means we're in
+at least February, because if it was any earlier we'd be watching football.
+Another thing these kids will never understand is a Super Bowl in January.
+
+As I pull into town on this lovely day in late March I'm confronted by the
+fallibility of the human brain. We like to think of our memory as a book
+written in permanent ink that we can pull off the shelf any time we please.
+In reality, memory is a peculiar, shapeless entity rattling around a squishy
+organ exchanging minute electrical potential differences in a constant state of
+amoebic fluidity. It's like a game of internal telephone among a cadre of
+hapless buffoons.
+
+Atop the org chart of the memory department of your brain sits
+the *Cerebral Scribe*, an indolent boob who refuses to write anything down,
+which is quite literally in the job description of a scribe.
+So when you ask him to pull the memory book off the dusty shelf deep in the
+crevasses of your mind he instead just repeats what he thinks you told him. The 
+worst part is that you need to repeat the memory back to him again lest he
+completely disregard the recollection altogether. 
+
+What I really like about this analogy, other than the outright preposterousness
+of it, is the logical conclusion that we have an infinite recursion of
+cerebral scribes completely incompetent or unwilling to do their job. Sounds an
+awful lot like corporate America.
+
+In this particular case, my cerebral scribe reports that The Face, the piste
+fronting Red River Ski Area, is as tall and steep as any peak to be found
+in the Himalayas. The truth, however, is much less satisfying. The downright
+diminutiveness of The Face when compared to my adolescent remembrance is
+incomprehensible and altogether unsettling. How.... how can it be
+so.... *small*? It's fascinating that the same hunk of rock can form such a
+divergent opinion in the mind of an 8 year old boy compared to a 33 year old
+man (child?). Either I
+grievously misremember the size of The Faaaaaace or the process of erosion
+occurs in Red River, New Mexico at a pace some millions of times faster than
+anywhere else on the planet. I can't say for sure.
+
+What I can say for sure is that I've unwittingly stumbled upon a party.
+
+
+
+This trip to Red River is all about memories and Texas Red's Steakhouse is the
 basis for some of my fondest childhood memories. Most of them involve playing
-arcade games with my brothers while the adults got blasted on brown liquor. In
-fact, I think all of them involve that. That's the state of an adolescent
-brain - you most vividly remember bashing little plastic buttons while the
-transcendent hunks of beef you ate are just an afterthought.
-Even when we weren't skiing in or staying in Red River we would make the trek
+arcade games with my brothers while the adults got blasted in the bar. In
+fact, I think all of them involve that. It was a simpler time where the key to
+happiness was a simple as bashing little plastic buttons. Never mind the
+transcendent hunks of beef I had the pleasure of devouring.
+Even when we weren't skiing at Red River we would make the trek
 around Wheeler Peak to sup at Texas Red's. Unlike some of the other
 <a href="/traveler/2022_01-ski_trip/08-canada.html?id=longhorn" target="_blank" rel="noopener noreferrer">saloons</a> and
 <a href="/traveler/2022_01-ski_trip/10-cowboy_state.html?id=mdc" target="_blank" rel="noopener noreferrer">taverns</a>
@@ -168,7 +233,7 @@ I've encountered on this trip, this place is the real deal.
 During the quarter mile stroll over to Texas Red's my mind is reeling with an
 unhealthy carnivorous lust for a medium rare T-bone steak. I gleefully bound up
 the steps to the front door where I'm greeted by a horrifying sight that chills
-me to my bones.
+me to my soul.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_texas_reds_fishin.jpeg" alt="Gone fishin">
@@ -202,7 +267,7 @@ onesie sashays over
 
 "Oh that's fun! It's our little crazy tradition for the close of the season. I
 don't ski but I dress the part. Name's Tyler, but everyone calls me Sweet T.
-Don't ask me how long I've been here... It's been 7 years. By this point I know
+Don't ask me how long I've been here... It's been 5 years... By this point I know
 everybody and everybody knows me. Is this your first time?"
 
 "First time in probably 20 years, we came a lot when we were kids.
@@ -214,7 +279,7 @@ towns in Colorado"
 
 "I agree. I like it here"
 
-"Well that's fabulous, I hope you enjoy our little town"
+"Well that's tremendous, I hope you enjoy our little town"
 
 "I sure will Sweet T"
 
@@ -224,9 +289,9 @@ final countdown. One more day of skiing
 then it's back to reality. I'm a little sad just thinking about it.
 
 I pack up my gear one last time and head to the slopes. It's about 45 minutes
-around the base of Wheeler Peak, the loftiest of all peaks in the state, to Taos Ski
-Valley. A light flurry of snow is falling as I pull into the parking lot & load
-onto the tractor-pulled open-air cattle car.
+around the base of Wheeler Peak, the loftiest of all peaks in the state, to Taos
+Ski Valley. A light flurry of snow is falling as I pull into the parking lot &
+load onto the tractor-pulled open-air cattle car.
 
 As I near the base of the mountain the file clerk inside my brain can't even
 find the scribe. He's fully clocked out because I don't remember *any* of this.
@@ -243,15 +308,12 @@ up the face of the mountain, straight up Al's Run. One thing I notice as I ride
 up is that this mountain is *steep*. I must have ridden a steeper glen but I
 really can't remember when.
 
-Off the lift I loop around to the right and dive down Spencer's. Of the hundreds
-of runs I've taken this trip I'm confident in saying that this is in the top-5
-toughest. The entire length of the steep pitch is blanketed by colossal hillocks
-of hard, crusty snow. Each a miniature mountain. Each a grueling challenge.
-By the time I reach the bottom I'm panting like an Arkansas bird dog in
-July. Dadgum!
+Off the lift I loop around to the right and dive down Spencer's. It's steep and
+covered in moguls and causes me to work up one hell of a lather. There are warm
+up runs and then there are accidental leg burn runs. This was the latter. I make
+it down in one piece and jump back on Lift 1.
 
-Nothing to do now but continue the send. I can catch my breath when the sun goes
-down. I hop back on Lift 1 and slide down to the oversized trail map at the top
+Up top again I slide over to the jumbo trail map
 for a quick bout of bearing-setting and gameplanning. As
 I'm digesting the terrain a gentleman in his mid-40s asks if I want to go for a
 hike up the ridge. Hell I ain't got a better plan, let's
@@ -326,109 +388,158 @@ finally a 700' climb up to the peak herself.
 From a quick check of google maps with a piece of twine I'd say it's around a
 mile & a quarter of make-you-work-for-it alpine hiking.
 
-When the original owners of the ski resort, the Blake family, sold
+With the 2013 sale of the resort came a plan to put a lift to the top of KP. As
+you can imagine that energized droves of skiers eager to rip lines off Kachina
+without the arduous trek. Others
+<a href="https://snowbrains.com/rite-passage-ends-taos-build-kachina-peak-chairlift/" target="_blank" rel="noopener noreferrer">not so much</a>. I can understand the
+romanticism that comes with testing your mettle, braving the elements, and
+hiking your ass up the peak. It likely makes the way down all the more
+enjoyable. Plus no lift means fewer skiers & fresher lines for longer. However,
+today I am thankful for the lift because I just don't feel like hiking for a
+mile. Call me crazy.
 
-As I disembark Lift 4 I gaze to my left to find the Kachina Peak Lift sitting
-idly to my chagrin.
+When I disembark Lift 4 I am chagrined to gaze left upon the Kachina Peak Lift
+sitting idly like Pablo Escobar on a swingset. Well... that's just the way she
+goes sometimes. Guess that means I gotta come back ¯\_(ツ)_/¯.
 
-After I part ways with Dave I matriculate myself to the bottom of Lift 4,
-where I see a big Bavarian-style lodge that looks like an excellent place to
-grab a Bratwurst & liter of Warsteiner. I ditch my skis and walk up to the
-aptly named Bavarian Restaurant with a watering mouth. I join a couple groups of
-folks milling about the small foyer at the entrance to the joint. $18 for a
-bratwurst. Head to German restaurant & wait for 10 minutes before anybody even acknowledges
-I'm there.
+Seeing as Kachina is off the menu I might as well see what's on the menu at the
+big Bavarian lodge at the bottom of lift 4. I slalom my way back down with a
+hankerin' for a bratwurst & liter of Warsteiner. I
+shuffle into the lodge and quickly discover that I'm not the only one who has
+decided to break for lunch. I take a quick peek at the menu and an $18 brat is
+not what I was anticipating but that seems about as good as we're gonna do here.
+Plus it's my last day, let's splurge a little.
 
-No Kachina peak lift running
+I stand by the
+<a href="/traveler/2022_01-ski_trip/12-rockies_pt2.html?id=hostess">Please Wait
+to be Seated by Hostess</a> sign waiting to join one of the myriad German-style
+wooden beer hall tables. And stand. And stand. I wait for probably 10 minutes
+without even seeing an employee acknowledge the small crowd that has gathered
+'round the hostess stand. I reason that if it's taking this long just to sit
+down I'm going to be here a *while* if I wait for food and a stein of beer. I
+decide to cut my losses and head back out for extended alpine athletics.
 
+I work my way back over to the front side and stop off at the mid-mountain
+Whistlestop Cafe. I snag a bowl of chili and a Freestyle Pilsner from the fine
+folks at Santa Fe Brewing to wash it down. Hunger abated, I decide it's just
+about time to tackle Al's Run, the steep stretch of terrain underneath Lift 1
+I ogled at the start of the day. I scoot down to the bottom of Lift 1 and get
+one more look at Al's before I let 'er rip.
 
+I'll say I'm glad I'm doing this with 30 days of skiing under my belt because
+this run is no joke. Of the hundreds of runs I've taken this trip I'm confident
+in saying that this is in the top-5 toughest. The entire 1,600' length of the
+steep pitch is blanketed by colossal hillocks
+of hard, crusty snow. Each a miniature mountain. Each a grueling challenge.
+One first-timer to Taos, upon seeing Al's Run hovering ominously over the base
+area, claimed it looked like "a gigantic egg carton that someone has stood on
+edge." Travel and Leisure magazine once listed it among the "World's Scariest
+Ski Runs."
 
+It doesn't take long after dropping in to feel the burn. My legs, rhythmically
+bobbing up and down like Singer Turtleback sewing machine, scream
+in mild agony with each mogul
+vanquished. The middle section flattens out a touch, allowing me to catch my
+breath for a minute or two before diving into the homestretch. Halfway down the
+final third my legs are threatening armed rebellion. I'm able to quell the
+troops long enough to fend off the relentless pull of gravity and when I reach
+the bottom I'm panting like an Arkansas bird dog in July. Dadgum!
 
-23,000' of vert, bringing my total just over 600k. My total skiing distance
-is 560 miles.
+What a run. I plop down in the snow and crane my neck back up the hill. Looks
+even steeper from down here. I remain plopped for a few minutes to catch my
+breath & pull out my cellular encyclopedia to see if we can find any information
+on this Al feller. According to the Taos Ski Valley website, Al's Run is named
+for Al Rosen, a famous Taos surgeon who was instrumental in getting the ski
+resort off the ground. But that's not what makes Al memorable in the people who
+skied with him - for 20 years until his death in 1982 he skied with an oxygen
+mask and tank. I can't find any information on whether this was a medical
+requirement, an altitude consideration, or merely an eccentricity. Whatever the
+case I'm grateful for Al helping to bring this magical alpine wonderland to
+fruition for my enjoyment and all the others who have squeezed joy from the
+granite of Taos Ski Valley.
 
-<h4 class="article-subheader">Santa Fe</h4>
-I pull into Santa Fe after dark and check in to El Sendero Inn, a
-run-of-the-mill motor hotel that would come standard in your Post-War Americana
-starter kit. To my delight the rooms appear to have been renovated in the past
-few years, with little to no wear-and-tear, shockingly clean carpet, actually
-comfortable beds, and sleek, modern appliances. Google is besmirching the good
-name of the Sendero by calling it a "1-star hotel."
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ice_beard.jpeg" alt="Ice beard">
+  <figcaption class="figure-caption">Yer damn right</figcaption>
+</figure>
 
-* Were there any Olympic events on today? I thought I watched some snowboarding or women's skiing
+After catching my breath I put my phone away,
+making sure to
+<a href="/traveler/2022_01-ski_trip/12-rockies_pt2">zip up my pocket</a>
+and get back after it. I head over to Lift 2 and take a couple runs on the flank
+of the West Basin, first down Blitz then down Castor, the latter of which I
+chose mostly because it's the cognomen of a twin in the constellation Gemini,
+my birth sign. These
+runs are nearly as challenging as Al's but mercifully only about half the
+length. Plus they offer a nice view of the extreme terrain off the West Basin
+Ridge that I'm not adventurous enough to explore.
 
-My short stay in Santa Fe did not start off on the right foot. As I open my Dopp
-kit I notice everything is perplexingly coated with an an oily film. I pull
-everything out and stack it on the sink when I find the culprit. My tincture of
-beard oil has opened in transit and deposited its contents upon everything in
-the toiletry bag with a slippery residue.
+By this time my legs are starting to peter out. All the runs I want to do
+require full torque from my pistons so attempting them at this point is a
+recipe for disaster. It's getting late in the day anyways and I've got a rumblin'
+in my belly for some fish tacos from Orlando's New Mexican Cafe, a little
+cantina down in town that received a resounding recommendation from my best good
+buddy Phil, a noted gastronome.
 
-After cleaning up my amenities then myself I make the short walk to Hotel La
-Fonda on the Plaza for what I hope is a dynamite serving of New Mexican
-enchiladas. My first night of this trip I enjoyed enchiladas in Las Cruces, New
-Mexico, it feels poetic to bookend the trip with New Mexican enchiladas.
+I take some wide, sweeping turns down the hill on my last run, soaking up every
+last bit of skiing to be had. I swoop down White Feather, so called because
+English lads who declined to fight in service of the queen during the Great War
+were given white feathers by young women to
+highlight their cowardice. Shaming was definitely still a thing in the 20th
+Century. And apparently still a thing at Taos Ski Valley.
 
-New Mexican enchiladas possess two main qualities that differentiate them from
-other families of of enchilada. The first is a general proclivity of New Mexican
-cuisine, which is their use of green chiles. Most places when you order salsa
-it's red. Because that's the color of salsa right? Not in New Mexico. It's such
-a point of pride that residents of the great state of New Mexico have the option
-of brandishing a license plate upon their vehicle with green chiles. My favorite
-variant on the green chile/red chile dichotomy is "Christmas style" - half
-green/half red. Because that just seems like more fun.
+As I reach the lower stretches of White Feather, I take a shortcut towards the
+parking lot on the lower runout of Edelweiss. *Leontopodium nivale*, commonly
+known as edelweiss, is a mountain flower indigenous to the Alps that symbolizes
+the sprit of mountaineering due to it's high alpine habitat. You can't just go
+down to the meadow to grab an Edelweiss, you need trundle your ass up to ____
+feet to nab one. You gotta work for it.
+As such, it's traditionally been given to a loved ones as a symbol
+of dedication.
 
-The second emphasis of New Mexican enchiladas is explicitly related to
-enchiladas, and based on the strong feelings a disconcertingly large proportion
-of the population hold about tropical fruits on pizza, likely to be controversial.
-Instead of rolling the enchiladas in a tortilla sleeping bag, enchiladas in New
-Mexico are laid flat and stacked like an order of flapjacks with the filling
-in between the tortilla scaffolding.
+On this short stretch of piste Taos gives me her Edelweiss.
+Within eyesight of my car I get lazy with a pole plant, catch a ski and take
+a full-on yard sale. I mean I really eat it. Skis go flying, poles
+twirl in the air like batons during a Calvin Murphy halftime. As for me, I
+slide down the hill headfirst sunny-side up. Thankfully my trusty helmet saved
+me from a good bonk of my noggin on the snow. Wear your helmets, kids.
 
-About half way through my libation the enchiladas arrive and I immediately
-notice something is wrong. I look up to the unsuspecting waitress,
+I should note that on this grand adventure of mine I have yet to royally
+wipe out. I've
+skidded out a few times and taken some powder plops but this is the first time
+I've been completely ejected from my skis. On the last 100 yards of the last run
+of the last day of the trip I am humbled at last. The ski gods are patient. The
+ski gods are cruel. The ski gods demand your respect.
 
-"They're not flat."
+I skid down the hill staring up at the sky for what seems like a week.
+About 50 yards downhill from my point of egress from my ski bindings I come to
+a stop, nothing injured but my pride. A woman up above hollers,
 
-"Oh I'm sorry, did you want them flat?"
+"Hey! Are you ok?"
 
-"I thought that's how y'all did it in New Mexico?"
+"Yeeeeaah I'm good."
 
-"Well typically it is, but we get so many tourists that come in here and throw
-a fit that we started rolling them. Do you want me to have them
-re-do it?"
+"Ok I'll grab your skis for you."
 
-"Oh no, this is totally fine, I just had my heart set on some authentic New
-Mexican enchiladas"
+"'preciate it."
 
-"Are you sure you don't want me to send them back?""
+Then another fella across the run shouts,
 
-"No these look great. Thank you so much."
+"Damn! That was a helluva wipeout!! Nice work dude!!"
 
-So I ate some lame ass rolled up enchiladas.
+It sure was handsome stranger, it sure was. I dust myself off, gather my
+belongings from the Good Samaritan, and try to collect what's left of my
+shattered ego.
 
-Seinfeld enchilada rollers?
+I gaze up at the mountain.
 
-Thinking back over this interaction I think I might have to start working
-"That won't be necessary" into my lexicon.
+All she can do is shrug and shoot me an impish grin.
 
-"They're not flat"
+I smile back and clip myself in.
 
-"Oh I'm sorry, did you want them flat?"
+Before I point my skis downhill for the very last time I give her
+one final glance. as she she fastens an
+Edelweiss to the lapel of my jacket. Shooting me a wink she coyly whispers in
+my ear, "*see you next time.*"
 
-*Don Draper glare-squint* "That won't be necessary."
-
-
-
-My last stop as I leave town is Ohori's Coffee, which is one of my favorite
-coffee shops I've ever patronized. Did it used to be something else????
-The large windows allow the first rays of the morning to caress the adobe walls
-and glint off the
-stainless steel apparati of the espresso machine. The high ceilings give the
-feel of a space that's much larger than a coffee shop should be. The Southwestern
-vibe is accentuated by Talin Market right next door, specializing in world
-cuisines and native staples.
-
-
-
-As I leave Santa Fe I take a peek at the trip odometer. 10,450.9 miles. What a
-long strange trip it's been.
+See you next time, Taos. It's been real.

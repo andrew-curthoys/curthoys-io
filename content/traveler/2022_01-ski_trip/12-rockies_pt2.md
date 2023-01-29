@@ -3,7 +3,7 @@ slug: traveler/2022_01-ski_trip/12-rockies_pt2
 slug_base: traveler/2022_01-ski_trip
 day_alias: Rockies Redux
 prev_day: 11-utah
-next_day: 13-coda*
+next_day: 13-new_mexico
 date: 2022-03-13
 post_date: 2022-11-15
 category: Traveler
@@ -842,6 +842,7 @@ slightly less mobbed than most drinking establishments in town. I stroll up to a
 open barstool when the bartender lashes into me with the fury of a Tesla driver
 when you compliment them on their Prius.
 
+<div id="hostess"></div>
 "DID YOU CHECK IN WITH THE HOSTESS!??"
 
 "Hostess?" I say as I turn around to an abandoned podium at the front of the house.
