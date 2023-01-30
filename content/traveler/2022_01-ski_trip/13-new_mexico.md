@@ -17,43 +17,101 @@ Do you have a memory that's so strongly held it's become part of your identity?
 A memory that has become less of a memory and more of a
 *feeling*? A childhood experience that defines who you are?
 
-For me that memory is my very first ski trip to Red River, New Mexico. A memory
-that manifests itself as a series of vignettes that form an incomplete patchwork
-of Bob Ross paintings in my mind.
+For me that memory is Red River, New Mexico, circa 1996. My very first ski trip.
+A long weekend that manifests itself as a series of stale vignettes on a
+worn-out reel in the projector room of my mind.
 
-The bubbling river on the edge of town. 
+The babble of the eponymous river / The smell of musty ski boots / The
+unfathomable starry quilt of the night sky / The orange and blue clapboard
+fa&ccedil;ade of the Terrace Towers Lodge / The brooding peaks of the Sangre
+de Cristo Range / The rustic log cabins on the outskirts of town.
 
-The symmetrical bluffs brooding over the main drag.
+*The rustic log cabins on the outskirts of town.*
 
-The orange and blue clapboard fa&ccedil;ade of the Terrace Towers Lodge.
+The rustic log cabins where you first experienced the mountains. The rustic log
+cabins where you first felt the peaceful calm of a forest of snow covered pines.
+The rustic log cabins where you first understood why they
+call New Mexico the Land of Enchantment.
 
-The rustic log cabins on the outskirts of town.
+The land where you think you've got what it takes. The land where you have no
+idea.
 
-The rustic log cabins where it all began. The rustic log cabins where you first
-experienced the mountains. The rustic log cabins where you
-fully understood why they call New Mexico the Land of Enchantment.
+The land that doesn't care that you've watched Davy Crockett grin down a bear.
 
-You're enthralled by the idea of the wilderness. You've read Jack London build
-a fire. You've watched Davy Crockett grin down a bear. You think you're fit to
-"rough it."
+The land that doesn't care that you've read Jack London struggle
+to build a fire. You 
 
-Gathering wood for your old man as he stokes the potbelly stove instills you
-with an outsized sense of responsibility. Watching him heat the cabin with
-with your cellulosic bounty leaves an indelible impression on your youthful soul.
+The land where you spuriously think you're fit to "rough it.
+Gathering wood for your old man instills you with an outsized sense
+of responsibility. Watching him stoke the potbelly stove to heat the cabin
+leaves an indelible impression on your youthful soul. You've yet to strap on a
+pair of skis but you think you might enjoy it.
 
-You think you're fit to rough it.
-
-You *think* you're fit to rough it.
+You're wholly unaware of the addiction that a pair of skis are about to impart
+on you.
 
 <h4 class="article-subheader">Closing Day</h4>
- A memory from the
-mid-90s that manifests itself as a *feeling* as I roll into Red River Anno
-Domini 2022. Every aspect of the experience triggers an unmistakable and
-undescribable sensation to percolate to the surface of my emotional reservoir.
+On the 20th of March Anno Domini 2022 a 33 year-old man rolls into Red River,
+New Mexico with the recollections of an 8 year-old. He arrives just as
+the ski day is wrapping up. Well, just as it *should* be wrapping up. Because
+today is no ordinary day. Today is closing day.
 
-I roll into Red River just as the ski day is wrapping up. Well,
-just as it *should* be wrapping up. As I approach the hill I notice
-hundreds of people gathered at the base of The Face decked out in all manner of
+<iframe class="col-12 video-div mb-3" height="400" src="https://www.youtube.com/embed/cWn7SqhSfzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You don't mess with closing day. Closing day is quite the party. I stand down
+by the pond for a few skiers - some
+successful, some not - before
+sauntering over to the lodge to play a little catch up on all the partying.
+While waiting in line for a beer I see a fella decked out in a
+fabulous head-to-toe shiny leopard print ski suit. Someone in the crowd asks
+how Red River Liberace is doing to which he replies,
+
+"Honey, if I were any peachier I'd be a cobbler!"
+
+Outstanding.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond1.JPEG" alt="Ski pond">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond2.JPEG" alt="Ski pond">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond3.JPEG" alt="Ski pond">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond4.JPEG" alt="Ski pond">
+    </div>
+  </div>
+  <figcaption class="figure-caption">This is fun. We're having fun here.</figcaption>
+</figure>
+
+I sidle through the crowd to the bar for a plastic cup full of Happy Camper IPA.
+The second it touches my lips I'm greeted by warm memories of our kickball
+league in Tulsa, a 6-pack of Happy Camper by my side. I tote my ale out to the
+second floor deck overlooking the festivities (see picture #4 above). The
+sun is shining, the senders are sending, and the vibers are vibing. It's a
+glorious day to be in Red River. I loiter on the patio until the party winds
+down and my beerinacup morphs into a... cup. By this point I've worked up a hell
+of an appetite and I know just the place to scratch that itch.
+
+
+
+
+
+
+
+
+
+
+
+ As I
+approach the resort I notice hundreds of people gathered at the base of the
+mountain decked out in all manner of
 outrageous outfits. My accommodation for the evening sits directly abreast of
 the party so when I stroll into the lobby I naturally inquire what all the
 revelin's about. The woman behind the
@@ -107,49 +165,27 @@ at the bottom of The
 Face. Wait. Did you say *pond*?? Why on earth would there be a pond on a
 ski slope? Well this is why:
 
-<iframe class="col-12 video-div mb-3" height="400" src="https://www.youtube.com/embed/UzlSPlzPW3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Closing day is quite the party. I stand down by the pond for a few skiers - some
-successful, some not - and a handful of snowboarders - all unsuccessful - before
-sauntering over to the lodge to play a little catch up on all the partying.
-While waiting in line for a beer I see a fella decked out in a
-fabulous head-to-toe shiny leopard print ski suit. Someone in the crowd asks
-how Red River Liberace is doing to which he replies,
-
-"Honey, if I were any peachier I'd be a cobbler!"
-
-Outstanding.
-
-<figure class="figure">
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond1.JPEG" alt="Ski pond">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond2.JPEG" alt="Ski pond">
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond3.JPEG" alt="Ski pond">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ski_pond4.JPEG" alt="Ski pond">
-    </div>
-  </div>
-  <figcaption class="figure-caption">Wipeout!</figcaption>
-</figure>
-
-I sidle through the crowd to the bar for a plastic cup full of Happy Camper IPA.
-The second it touches my lips I'm greeted by warm memories of our kickball
-league in Tulsa, a 6-pack of Happy Camper by my side. I tote my ale out to the
-second floor deck overlooking the festivities (see picture #4 above). The
-sun is shining, the senders are sending, and the vibers are vibing. It's a
-glorious day to be in Red River. I loiter on the patio until the party winds
-down and my beerinacup morphs into a... cup. By this point I've worked up a hell
-of an appetite and I know just the place to scratch that itch.
 
 
+
+ An incomplete patchwork of Bob Ross paintings that
+will never form a cohesive narrative.
+The Land of Enchantment.
+
+The land of the Navajos.
+
+The land of the Utes.
+
+The land of the Apaches.
+
+The land of the Comanches.
+ A memory from the
+mid-90s that manifests itself as a *feeling* as I roll into Red River Anno
+Domini 2022. Every aspect of the experience triggers an unmistakable and
+undescribable sensation to percolate to the surface of my emotional reservoir.
+
+The smell of a roaring fire. The eerie calm enveloping a forest of snow covered
+pines. You like this. You could get used to this.
 
 When our Mercury Villager finally crested the top of the Cimarron Canyon Pass,
 the final culmination of 10 hours and 500 miles of steady climbing, the
