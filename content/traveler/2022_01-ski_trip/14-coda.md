@@ -18,26 +18,41 @@ is 560 miles.
 
 Try Orlando's New Mexican Cafe fish tacos rec from Phil, closed on Mondays
 
-<h4 class="article-subheader">Santa Fe</h4>
-I pull into Santa Fe after dark and check in to El Sendero Inn, a
+<h4 class="article-subheader">Well Now What</h4>
+I pull out of Taos and things immediately go awry. I pull up to Orlando's only to
+find they are closed on Mondays. "What rotten luck," exclaims the gentleman who
+just spent the past 2.5 months skiing. I scoot through town and make a quick
+stop to stroll around Taos Plaza. I'm pleased to see the Hotel La Fonda still
+welcoming travelers through her open doors. I'm less than pleased to find that
+Ogelvie's, a New Mexican grill & cantina that provided sustenance on many a ski
+trip, has shut its doors. I was kinda hankerin' for a margarita from Ogie's
+since this is the first time I've been to Taos of age. I reckon this town just
+ain't fer a city slicker like me.
+
+I hit the dusty trail and mosey into Santa Fe just after dark. I check me & the
+steed in to El Sendero Inn, a
 run-of-the-mill motor hotel that would come standard in your Post-War Americana
 starter kit. To my delight the rooms appear to have been renovated in the past
 few years, with little to no wear-and-tear, shockingly clean carpet, actually
 comfortable beds, and sleek, modern appliances. Google is besmirching the good
 name of the Sendero by calling it a "1-star hotel."
 
-* Were there any Olympic events on today? I thought I watched some snowboarding or women's skiing
+While preparing for supper I realize that Orlando's and Ogelvie's are just the
+opening salvos in an onslaught of ski-trip-denouement misfortunes. As I open my
+Dopp kit I notice everything is perplexingly coated with an an oily film. I
+retrieve my toiletries from the satchel to discover the culprit. My tincture of
+beard oil has opened in transit and deposited its slippery contents upon
+everything inside.
 
-My short stay in Santa Fe did not start off on the right foot. As I open my Dopp
-kit I notice everything is perplexingly coated with an an oily film. I pull
-everything out and stack it on the sink when I find the culprit. My tincture of
-beard oil has opened in transit and deposited its contents upon everything in
-the toiletry bag with a slippery residue.
-
-After cleaning up my amenities then myself I make the short walk to Hotel La
-Fonda on the Plaza for what I hope is a dynamite serving of New Mexican
+After cleansing oily residue off my washroom amenities then myself I make the
+short walk to Hotel La
+Fonda on the Plaza* for what I hope is a dynamite serving of New Mexican
 enchiladas. My first night of this trip I enjoyed enchiladas in Las Cruces, New
 Mexico, it feels poetic to bookend the trip with New Mexican enchiladas.
+
+*La Fonda translates to "the inn" in Spanish, this La Fonda has no relation to
+the La Fonda in Taos nor the likely myriad La Fondas scattered 'round the Land
+of Enchantment.
 
 New Mexican enchiladas possess two main qualities that differentiate them from
 other families of of enchilada. The first is a general proclivity of New Mexican
@@ -90,6 +105,47 @@ Thinking back over this interaction I've determined that I need to start working
 
 Way cooler.
 
+After supper I saunter over to the bar for end of trip celebratory nightcap. I
+plop myself down at a plush barstool with thoughts of a Rye Old Fashioned
+dancing through my head. Over the course of the next 5 minutes the bartender
+walks past me a half dozen times without so much as acknowledging my presence.
+Now I'm not one to offhandedly besmirch a keeper of the bar. They are busy
+people. They have a tough job. I appreciate bartenders with every corpuscle of
+my being.
+
+But this bar is not busy. There's a group of 3 people at one corner of the bar
+then me. I'm not necessarily in a hurry but it's kinda part of the job to at
+least toss down a napkin and say "hey boss what'll it be for ya?" I have
+enough time to pull out my phone and search other bars in the area that would
+more appropriately quench my thirst. This place is too snooty anyways.
+
+I drop my phone into my pocket, slide my barstool out behind me, and promptly
+bash my head into a rack of wine glasses overhanging the bar. I'm fine but there
+are a couple wine glasses who are worse for wear. Now I gotta say, brother if
+you want to get a bartender's attention bash your head into a rack of wine
+glasses because I HAD his attention.
+
+Which iss a double edged sword. I've gotten his attention but I had my heart
+set on another bar. After helping him & a colleague clean up the mess I made
+the barkeep throws down a napkin in front of me & says "hey boss what'll it be
+for ya?"
+
+"Rye Old Fashioned"
+
+"You got it"
+
+And before I finish checking for glass shards on my barstool he returns with an
+$18 Rye Old Fashioned. Wait. There's no possible way you whipped up an Old
+Fashioned that fast. Do you have these things pre-mixed? And you expect
+me to pay 18 USD for it?
+
+I take one sip and almost spit it back across the bar. It tastes like someone
+poured a dram of Jim Beam in a melted snow cone. I can only interpret today's
+travails as a sign that this ski trip shouldn't come to an end. I choke down
+the unholy concoction and make for the El Sendero, I think Santa Fe is trying to
+kick me the hell out and I ain't too bold to question her.
+
+<p class="section-divider my-4">&#11044;&emsp;&ensp;&#11044;&emsp;&ensp;&#11044;</p>
 
 My last stop as I leave town is Ohori's Coffee, which is one of my favorite
 coffee shops I've ever patronized. Did it used to be something else????
@@ -102,28 +158,50 @@ cuisines and native staples.
 
 
 
-As I leave Santa Fe I take a peek at the trip odometer. 10,450.9 miles. What a
-long strange trip it's been.
+I roll into Tulsa just after dark on the 22nd day of March, exactly 76 days
+after I departed.
+
 
 Stats
 
-11,000 miles driven
+600,000 vertical ft
 560 miles skied
-12 states?
-2 provinces
+11,000 miles driven
 33 days of skiing
-__ resorts
-600,000 ft of vertical
-2 countries
+23 resorts
+13 states
+12 crossings of the Continental Divide
 5 cousins
 5 friends
-___ crossings of the Continental Divide
+2 provinces
+2 countries
 1 brother
 1 yard sale
 
+1 outrageous adventure
+
 I remember where I was when I hatched this ludicrous plan. I was sitting at the
-counter of my aunt & uncle's house in Victor, NY when I thought about the best
-way to maximize my ski pass
+counter of my aunt & uncle's house in Victor, NY. There wasn't anything in
+particular that spurred it on, I think I just wanted to see how many ski resorts
+I could hit on my pass.
+
+Some kids backpack through Europe. Some kids take a gap year. I went to school,
+worked the 9-to-5, took my 3 weeks of vacation. I did it because it was what
+you were supposed to do. I hadn't red Kerouac. I have since. I hadn't read
+Ginsberg. I plan to. It wasn't some sort of wanderlust that hit me. It wasn't
+
+It was me becoming more comfortable in my own skin, confident to venture out
+into the unknown. To chart my own course. To ask why not. To catch a case of
+the fuckits.
+
+I know it's cliche. I know that library shelves sag heavy with stories of travel,
+with stories of self realization, with stories of privileged white dudes. I can
+write all I
+want about not "taking it for granted" that I was able to take this incredible
+trip but I do. There's no other way you would make such a ludicrous trip if you
+didn't take it for granted.
+
+This is all a bunch of cliches but to me
 
 
 As my cousin Joanne said when I was overstaying my welcome in Seattle, "said you
