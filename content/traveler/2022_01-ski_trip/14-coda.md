@@ -19,7 +19,14 @@ is 560 miles.
 Try Orlando's New Mexican Cafe fish tacos rec from Phil, closed on Mondays
 
 <h4 class="article-subheader">Well Now What</h4>
-I pull out of Taos and things immediately go awry. I pull up to Orlando's only to
+I check my SkiTracks and I finish my last day of the trip with a hard-earned
+23k vertical bringing my total for the season just over 600,000 vertical feet.
+That's probably more than I've skied in my entire life. The 580 miles I put
+under my Volkls could get me all the way back from Taos to Tulsa. If only it
+were that easy.
+
+I pull out of Taos and things immediately go awry. I pull up to Orlando's with
+a rumbling belly only to
 find they are closed on Mondays. "What rotten luck," exclaims the gentleman who
 just spent the past 2.5 months skiing. I scoot through town and make a quick
 stop to stroll around Taos Plaza. I'm pleased to see the Hotel La Fonda still
@@ -28,6 +35,16 @@ Ogelvie's, a New Mexican grill & cantina that provided sustenance on many a ski
 trip, has shut its doors. I was kinda hankerin' for a margarita from Ogie's
 since this is the first time I've been to Taos of age. I reckon this town just
 ain't fer a city slicker like me.
+
+<figure class="figure">
+	<div class="row">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_orlandos.JPEG" alt="Orlandos">
+	</div>
+	<div class="row">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_la_fonda.JPEG" alt="Enchiladas">
+	</div>
+  <figcaption class="figure-caption">Well at least the Fonda's still goin' strong</figcaption>
+</figure>
 
 I hit the dusty trail and mosey into Santa Fe just after dark. I check me & the
 steed in to El Sendero Inn, a
@@ -94,6 +111,11 @@ So I dig into some lame ass rolled up enchiladas. Hopefully Kramer's Dominicans
 aren't back there rolling them, ain't nobody got time to get scalded by
 enchiladas rolled too damn tight.
 
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_enchiladas.JPEG" alt="Enchiladas">
+  <figcaption class="figure-caption">But I wanted them flat!!</figcaption>
+</figure>
+
 Thinking back over this interaction I've determined that I need to start working
 "That won't be necessary" into my lexicon. Have a look:
 
@@ -147,38 +169,79 @@ kick me the hell out and I ain't too bold to question her.
 
 <p class="section-divider my-4">&#11044;&emsp;&ensp;&#11044;&emsp;&ensp;&#11044;</p>
 
-My last stop as I leave town is Ohori's Coffee, which is one of my favorite
-coffee shops I've ever patronized. Did it used to be something else????
-The large windows allow the first rays of the morning to caress the adobe walls
-and glint off the
-stainless steel apparati of the espresso machine. The high ceilings give the
+The next morning Santa Fe totally redeems herself with Ohori's Coffee, a truly
+fabulous coffee shop. The large windows allow the sun's early rays of the to
+caress the adobe walls of the cafe. The high ceilings give the
 feel of a space that's much larger than a coffee shop should be. The Southwestern
 vibe is accentuated by Talin Market right next door, specializing in world
 cuisines and native staples.
 
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_car_snow.JPEG" alt="Car Snow">
+  <figcaption class="figure-caption">Nice little dusting on the ol gal</figcaption>
+</figure>
 
+I order myself a jet black coffee as large as their legal representation is
+comfortable allowing and hit the road headed East. A journey of 640 miles of
+Interstate highway all that's separating me from a night in my own bed.
 
 I roll into Tulsa just after dark on the 22nd day of March, exactly 76 days
 after I departed.
 
+What a long strange trip it's been.
 
-Stats
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/selfie.JPEG" alt="Starting selfie">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_selfie.jpeg" alt="Ending selfie">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/la_the_peach.JPEG" alt="Starting car shot">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_car_end.JPEG" alt="Ending car shot">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Before & After</figcaption>
+</figure>
 
-600,000 vertical ft
-560 miles skied
-11,000 miles driven
-33 days of skiing
-23 resorts
-13 states
-12 crossings of the Continental Divide
-5 cousins
-5 friends
-2 provinces
-2 countries
-1 brother
-1 yard sale
+<h4 class="article-subheader">By the Numbers</h4>
 
-1 outrageous adventure
+600,000 vertical ft  
+11,000 miles of asphalt   
+560 miles of piste  
+33 days of send  
+23 resorts  
+13 states  
+12 crossings of the Continental Divide  
+11 breweries  
+7 wineries  
+6 powder days  
+5 cousins  
+5 friends  
+4 shots of Fernet  
+3 National Parks  
+3 time zones  
+2 provinces  
+2 countries  
+2 hostels  
+1 tiny cabin  
+1 Blockbuster  
+1 brother  
+1 yard sale  
+0 regrets  
+
+<p class="fs-5"><u>1 trip of a lifetime</u></p>
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_driving_route_map.png" alt="The route">
+  <figcaption class="figure-caption">Every gas station I stopped at colored by gas price. Ran out of letters, had to switch to numbers.</figcaption>
+</figure>
 
 I remember where I was when I hatched this ludicrous plan. I was sitting at the
 counter of my aunt & uncle's house in Victor, NY. There wasn't anything in
@@ -201,13 +264,10 @@ want about not "taking it for granted" that I was able to take this incredible
 trip but I do. There's no other way you would make such a ludicrous trip if you
 didn't take it for granted.
 
-This is all a bunch of cliches but to me
+It's cliche, but it's my cliche. And this is my website so lay off!!
+But seriously what are you still doing here? Have I not bored you yet?
 
-
-As my cousin Joanne said when I was overstaying my welcome in Seattle, "said you
-have health, time, & money and rarely do you have all three."
-
-I'll leave it to my distant cousin Ralph Waldo Emerson said it better than I
-ever could,
+Well... since you've made it this far, I'll let my distant cousin Ralph Waldo
+Emerson have the last word, since he said it better than I ever could:
 
 <div class="mx-3 fs-5 fst-italic text-muted">“Do not go where the path may lead, go instead where there is no path and leave a trail.”</div>
