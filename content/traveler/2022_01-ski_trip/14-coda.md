@@ -7,59 +7,63 @@ next_day: /traveler
 date: 2022-03-22
 post_date: 2022-12-27
 category: Traveler
+subcat: Skiing
+photo: coda_driving_route_map.png
 activity: 2022 Ski Trip Adventure
-summary: Summary placeholder
-
-
-
-23,000' of vert, bringing my total just over 600k. My total skiing distance
-is 560 miles.
-
-
-Try Orlando's New Mexican Cafe fish tacos rec from Phil, closed on Mondays
+short_sum: The end of the 11,000 mile road.
+summary: I check my SkiTracks and I finish my last day of the trip with a hard-earned 23k vertical bringing my total for the season just over 600,000 vertical feet.  That's probably more than I've skied in my entire life. The 580 miles I put under my Volkls could get me all the way back from Taos to Tulsa. If only it were that easy.
 
 <h4 class="article-subheader">Well Now What</h4>
-I check my SkiTracks and I finish my last day of the trip with a hard-earned
+I check my SkiTracks and I finish the last day of the trip with a hard-earned
 23k vertical bringing my total for the season just over 600,000 vertical feet.
 That's probably more than I've skied in my entire life. The 580 miles I put
 under my Volkls could get me all the way back from Taos to Tulsa. If only it
 were that easy.
 
-I pull out of Taos and things immediately go awry. I pull up to Orlando's with
-a rumbling belly only to
-find they are closed on Mondays. "What rotten luck," exclaims the gentleman who
-just spent the past 2.5 months skiing. I scoot through town and make a quick
-stop to stroll around Taos Plaza. I'm pleased to see the Hotel La Fonda still
-welcoming travelers through her open doors. I'm less than pleased to find that
-Ogelvie's, a New Mexican grill & cantina that provided sustenance on many a ski
-trip, has shut its doors. I was kinda hankerin' for a margarita from Ogie's
-since this is the first time I've been to Taos of age. I reckon this town just
-ain't fer a city slicker like me.
+I pull out of Taos and things immediately go awry. As I trot the ol' gal up to
+the swangin' doors of Orlando's with a rumbling belly I'm awful sore to
+find they are closed on Mondays. "What rotten luck," exclaims the feller who
+just spent the past 2.5 months skiing.
 
 <figure class="figure">
-	<div class="row">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_orlandos.JPEG" alt="Orlandos">
-	</div>
-	<div class="row">
+  <figcaption class="figure-caption">Damn the luck</figcaption>
+</figure>
+
+I continue the trot on down the trail to town for a quick saunterin'
+'round Taos Plaza. Overlooking the Plaza the Hotel La Fonda continues to welcome
+guests 'neath her adobe ______. Ain't that a daisy. But then I 'bout pitch a
+fit when I discover that Ogelvie's, a New Mexican grill & cantina that provided
+sustenance on many a ski
+trip, has shut its doors. I was kinda hankerin' for a margarita from Ogie's,
+seein' as this is the first time I've been to Taos of age. I reckon this town
+just ain't fer a city slicker like me.
+
+<figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_la_fonda.JPEG" alt="Enchiladas">
-	</div>
   <figcaption class="figure-caption">Well at least the Fonda's still goin' strong</figcaption>
 </figure>
 
-I hit the dusty trail and mosey into Santa Fe just after dark. I check me & the
-steed in to El Sendero Inn, a
-run-of-the-mill motor hotel that would come standard in your Post-War Americana
-starter kit. To my delight the rooms appear to have been renovated in the past
-few years, with little to no wear-and-tear, shockingly clean carpet, actually
-comfortable beds, and sleek, modern appliances. Google is besmirching the good
-name of the Sendero by calling it a "1-star hotel."
+I git back on the trail and mosey into Santa Fe just before dark. I check into
+the El Sendero Inn and tie the steed up at a waterin' trough. El Sendero is a
+run-of-the-mill motor hotel, the type that would come standard in your Post-War
+Americana starter kit. Seein's as I's is a city slicker, 
+I'm pleased to discover that the rooms appear to have been recently renovated,
+with little to no wear-and-tear, surprisingly clean carpet, shockingly
+comfortable beds, and sleek, modern appliances. Google classifies the Sendero as
+a "1-star hotel," which is outright slander and grounds for a duel.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_car_snow.JPEG" alt="Enchiladas">
+  <figcaption class="figure-caption">Easy there ol' girl</figcaption>
+</figure>
 
 While preparing for supper I realize that Orlando's and Ogelvie's are just the
-opening salvos in an onslaught of ski-trip-denouement misfortunes. As I open my
-Dopp kit I notice everything is perplexingly coated with an an oily film. I
-retrieve my toiletries from the satchel to discover the culprit. My tincture of
-beard oil has opened in transit and deposited its slippery contents upon
-everything inside.
+opening salvos in an onslaught of ski-trip-denouement misfortunes. I open my
+Dopp kit only to discover that the contents within are perplexingly coated with
+an oily film. I pull out the items one-by-one until I discover the culprit - my
+tincture of beard oil has opened in transit and deposited its slippery payload
+upon all its mates.
 
 After cleansing oily residue off my washroom amenities then myself I make the
 short walk to Hotel La
@@ -79,6 +83,11 @@ a point of pride that residents of the great state of New Mexico have the option
 of brandishing a license plate upon their vehicle with green chiles. My favorite
 variant on the green chile/red chile dichotomy is "Christmas style" - half
 green/half red. Because that just seems like more fun.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_nm_plate.jpg" alt="Enchiladas">
+  <figcaption class="figure-caption">One of the best plates in the Union</figcaption>
+</figure>
 
 The second emphasis of New Mexican enchiladas is explicitly related to
 enchiladas, and based on the strong feelings a disconcertingly large proportion
@@ -108,8 +117,7 @@ Mexican enchiladas"
 "No these look great. Thank you so much."
 
 So I dig into some lame ass rolled up enchiladas. Hopefully Kramer's Dominicans
-aren't back there rolling them, ain't nobody got time to get scalded by
-enchiladas rolled too damn tight.
+have the night off.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_enchiladas.JPEG" alt="Enchiladas">
@@ -127,30 +135,31 @@ Thinking back over this interaction I've determined that I need to start working
 
 Way cooler.
 
-After supper I saunter over to the bar for end of trip celebratory nightcap. I
-plop myself down at a plush barstool with thoughts of a Rye Old Fashioned
-dancing through my head. Over the course of the next 5 minutes the bartender
+After supper I mosey over to the bar for end of trip celebratory nightcap. I
+plop down at a plush barstool with a thirst for a Rye Old Fashioned to warsh'n
+the trail dust off me gullet. Over the course of the next 5 minutes the bartender
 walks past me a half dozen times without so much as acknowledging my presence.
 Now I'm not one to offhandedly besmirch a keeper of the bar. They are busy
 people. They have a tough job. I appreciate bartenders with every corpuscle of
 my being.
 
-But this bar is not busy. There's a group of 3 people at one corner of the bar
-then me. I'm not necessarily in a hurry but it's kinda part of the job to at
+But this bar is not busy. There's me and a group of 3 people at the other corner
+of the bar. I'm not necessarily in a hurry but it's kinda part of the job to at
 least toss down a napkin and say "hey boss what'll it be for ya?" I have
 enough time to pull out my phone and search other bars in the area that would
 more appropriately quench my thirst. This place is too snooty anyways.
 
-I drop my phone into my pocket, slide my barstool out behind me, and promptly
-bash my head into a rack of wine glasses overhanging the bar. I'm fine but there
-are a couple wine glasses who are worse for wear. Now I gotta say, brother if
-you want to get a bartender's attention bash your head into a rack of wine
-glasses because I HAD his attention.
+I drop my phone into my pocket, slide my barstool out behind me, and enthusiastically
+bash my head into a rack of wine glasses overhanging the bar. My thick skull
+endures the episode unscathed but it leaves a few
+wine glasses that are worse for wear. Now I gotta say brother, if
+you want to get a bartender's attention, just bash your head into a rack of wine
+glasses. Because I HAD his attention.
 
-Which iss a double edged sword. I've gotten his attention but I had my heart
-set on another bar. After helping him & a colleague clean up the mess I made
-the barkeep throws down a napkin in front of me & says "hey boss what'll it be
-for ya?"
+Which is a double edged sword. I've gotten his attention but I no longer wish
+to tipple at this establishment. A mighty awkward pickle I find myself in.
+After helping clean up my mess the barkeep throws down a napkin & says "hey boss
+what'll it be for ya?" Damn you Santa Fe.
 
 "Rye Old Fashioned"
 
@@ -159,34 +168,28 @@ for ya?"
 And before I finish checking for glass shards on my barstool he returns with an
 $18 Rye Old Fashioned. Wait. There's no possible way you whipped up an Old
 Fashioned that fast. Do you have these things pre-mixed? And you expect
-me to pay 18 USD for it?
+me to pay 18 USD for it? Damn you again Santa Fe.
 
 I take one sip and almost spit it back across the bar. It tastes like someone
 poured a dram of Jim Beam in a melted snow cone. I can only interpret today's
 travails as a sign that this ski trip shouldn't come to an end. I choke down
-the unholy concoction and make for the El Sendero, I think Santa Fe is trying to
-kick me the hell out and I ain't too bold to question her.
+the unholy concoction and swiftly make for the El Sendero, I think this town is
+trying to forcibly disgorge me and I ain't too bold to question her.
 
 <p class="section-divider my-4">&#11044;&emsp;&ensp;&#11044;&emsp;&ensp;&#11044;</p>
 
-The next morning Santa Fe totally redeems herself with Ohori's Coffee, a truly
-fabulous coffee shop. The large windows allow the sun's early rays of the to
-caress the adobe walls of the cafe. The high ceilings give the
+The next morning she totally redeems herself with Ohori's Coffee, a truly
+fabulous coffee shop. The large windows and high ceilings ___________ the
 feel of a space that's much larger than a coffee shop should be. The Southwestern
 vibe is accentuated by Talin Market right next door, specializing in world
 cuisines and native staples.
 
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_car_snow.JPEG" alt="Car Snow">
-  <figcaption class="figure-caption">Nice little dusting on the ol gal</figcaption>
-</figure>
-
-I order myself a jet black coffee as large as their legal representation is
-comfortable allowing and hit the road headed East. A journey of 640 miles of
+I order myself a jet black coffee as large as their legal representation will
+allow in good faith and hit the road headed East. A journey of 640 miles of
 Interstate highway all that's separating me from a night in my own bed.
 
-I roll into Tulsa just after dark on the 22nd day of March, exactly 76 days
-after I departed.
+10 hours later I roll into Tulsa just after dark on the 22nd day of March,
+exactly 76 days after I departed.
 
 What a long strange trip it's been.
 

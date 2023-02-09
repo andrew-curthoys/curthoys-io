@@ -8,7 +8,7 @@ date: 2022-03-20
 post_date: 2023-1-29
 category: Traveler
 subcat: Skiing
-photo: red_tree_3.jpeg
+photo: enchant_ice_beard.jpeg
 activity: 2022 Ski Trip Adventure
 short_sum: A story about memories.
 summary: Do you have a memory that's so strongly held it's become part of your identity? A memory that has become less of a memory and more of a *feeling*? A childhood experience that defines who you are?
