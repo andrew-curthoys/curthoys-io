@@ -67,7 +67,7 @@ TODO
   <div class="row mb-2">
   {% for article in articles|reverse %}
     {% if article.activity == '2022 Ski Trip Adventure' %}
-    <div class="col-md-6">
+    <div class="col-lg-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static" style="background-color: white">
           <p class="card-header-traveler mb-0 f-blue-grey">{{ article.title }}</p>
@@ -75,8 +75,14 @@ TODO
           <p class="card-text card-text-traveler">{{ article.short_sum }}</p>
           <a href=/{{ article.slug }}.html class="stretched-link"></a>
         </div>
-        <div class="col-auto d-none d-lg-block">
-          <img class="bd-placeholder-img"  width="200" height="250" src="/theme/images/traveler/2022_01-ski_trip/{{ article.photo }}" alt="Ski Trip" preserveAspectRatio="xMidYMid slice" focusable="false">
+        <div class="col-auto d-sm-none">
+          <img class="bd-placeholder-img" width="120" height="100%" src="/theme/images/traveler/2022_01-ski_trip/{{ article.photo }}" alt="Ski Trip" preserveAspectRatio="xMidYMid slice" focusable="false">
+        </div>
+        <div class="col-auto d-none d-sm-block d-md-none">
+          <img class="bd-placeholder-img" width="150" height="100%" src="/theme/images/traveler/2022_01-ski_trip/{{ article.photo }}" alt="Ski Trip" preserveAspectRatio="xMidYMid slice" focusable="false">
+        </div>
+        <div class="col-auto d-none d-md-block">
+          <img class="bd-placeholder-img" width="200" height="250" src="/theme/images/traveler/2022_01-ski_trip/{{ article.photo }}" alt="Ski Trip" preserveAspectRatio="xMidYMid slice" focusable="false">
         </div>
       </div>
     </div>

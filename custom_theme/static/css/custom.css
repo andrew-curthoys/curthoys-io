@@ -81,7 +81,7 @@
     height: 100%;
 }
 .card-header-traveler {
-    font-size: 1.2rem;
+    font-size: 0.9rem;
     font-family: "Playfair Display", Georgia, "Times New Roman", serif;
     font-weight: bold;
 }
@@ -116,18 +116,22 @@ No media query since this is the default in Bootstrap*/
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
+    .card-header-traveler {font-size: 1.1rem;}
+    .card-text-traveler {font-size: 0.85rem;}
     .carousel-traveler .carousel-item {height: 22rem;}
  }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+    .card-header-traveler {font-size: 1.25rem;}
+    .card-text-traveler {font-size: 1.15rem;}
     .carousel-traveler .carousel-item {height: 26rem;}
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     .carousel-traveler .carousel-item {height: 28rem;}
-    .card-header-traveler {font-size: 1.3rem;}
+    .card-header-traveler {font-size: 1rem;}
     /* .card-text-traveler {font-size: 1.1rem;} */
 }
 
