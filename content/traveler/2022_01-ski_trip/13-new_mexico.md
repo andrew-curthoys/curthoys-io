@@ -3,7 +3,7 @@ slug: traveler/2022_01-ski_trip/13-new_mexico
 slug_base: traveler/2022_01-ski_trip
 day_alias: Land of Enchantment
 prev_day: 12-rockies_pt2
-next_day: 14-coda*
+next_day: 14-coda
 date: 2022-03-20
 post_date: 2023-1-29
 category: Traveler
@@ -222,7 +222,7 @@ unhealthy carnivorous lust for a medium rare T-bone steak. I gleefully bound up
 the steps to the front door where I'm greeted by a horrifying sight that chills
 me to my soul.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_texas_reds_fishin.jpeg" alt="Gone fishin">
   <figcaption class="figure-caption">Your pleasure can't interrupt my pleasure!!!</figcaption>
 </figure>
@@ -239,7 +239,7 @@ the Red River Brewing Company. The place is jammed with people enjoying the
 final days of skiing and watching March Madness. And I'd say 1 in 5 people are
 wearing something from Oklahoma, which is pretty neat I reckon.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_rrbc.jpeg" alt="RRBC">
   <figcaption class="figure-caption">You said it, brewer.</figcaption>
 </figure>
@@ -409,7 +409,7 @@ here. I reason that if it's taking this long just to sit
 down I'm going to be here a *while* if I wait for food and a stein of beer. I
 decide to cut my losses and get back out there.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/enchant_ice_beard.jpeg" alt="Ice beard">
   <figcaption class="figure-caption">We came to ski</figcaption>
 </figure>

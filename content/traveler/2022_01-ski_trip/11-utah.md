@@ -18,7 +18,7 @@ summary: Hey Matis! "I fell into a bowl ah powdah chowdah!!" I look over to see 
 
 I look over to see Branch chest deep in fluffy Utah powder.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_branch_powder.jpeg" alt="Branch">
   <figcaption class="figure-caption">The Treemeister</figcaption>
 </figure>
@@ -125,7 +125,7 @@ Unfortunately that
 due to a Covid contretemps. Well in a surprising stroke of serendipity I
 received a text out of the blue from Katie last week:
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_katie_text.jpeg" alt="Katie">
   <figcaption class="figure-caption">Well I'll be damned</figcaption>
 </figure>
@@ -356,7 +356,7 @@ slightly far afield and most of the runs over here are more advanced so it keeps
 the riff-raff away. Which is fine by me because the Lady Morgan Bowl is
 easily the best skiing on the mountain.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_snow_face.jpeg" alt="Beard Blanket">
   <figcaption class="figure-caption">Beard blanket</figcaption>
 </figure>
@@ -910,7 +910,7 @@ everybody is on their own to find the bestest, freshest, fluffiest snow on the
 mountain. It worked out great for me since I didn't even have to pretend I had
 any friends, just me, my powder skis, and a 2,200 acre alpine playground.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_alta_snow_beard.JPEG" alt="Snowbeard">
   <figcaption class="figure-caption">Hell of a day</figcaption>
 </figure>
@@ -1147,7 +1147,7 @@ shout from behind me
 
 "I fell into a bowl uh powdah chowdah"
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_branch_powder.jpeg" alt="Branch">
   <figcaption class="figure-caption">Oh where were we?</figcaption>
 </figure>
@@ -1200,7 +1200,7 @@ have had them thrice in the past week. I warsh down the vittles with a Uinta
 Cutthroat Pale Ale. Branch isn't a man who is content with a single bowl of
 loudmouth soup so we have them ladle us another for good measure.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_hog_wallow.JPEG" alt="Hog Wallow">
   <figcaption class="figure-caption">Down at the Waller</figcaption>
 </figure>
@@ -1211,7 +1211,7 @@ liable to shut the place down if a band gets going. We tab out and Branch
 shuttles me to the bus station, where he makes sure to use the facilities before
 the drive back home.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_branch_pee.JPEG" alt="Branch">
   <figcaption class="figure-caption">What's you're name? He'll write it on the wall</figcaption>
 </figure>

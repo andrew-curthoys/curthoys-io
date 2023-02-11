@@ -11,7 +11,7 @@ subcat: Skiing
 photo: tucson_skyline.jpg
 activity: 2022 Ski Trip Adventure
 short_sum: This is it. Don't get scared now.
-summary: I release the parking brake and the wheels of my Nissan Pathfinder make the first of what will be north of 4 million revolutions by the end of this odyssey. It's still dark as I roll down the driveway and set my GPS for Las Cruces, New Mexico, a mere 780 miles and 12 hours away. I barrel down the remnants of Route 66, past the skeletons of towns that once catered to Westward travelers.
+summary: I release the parking brake and the wheels of my Nissan Pathfinder make the first of what will be north of 7 million revolutions by the end of this odyssey. It's still dark as I roll down the driveway and set my GPS for Las Cruces, New Mexico, a mere 780 miles and 12 hours away. I barrel down the remnants of Route 66, past the skeletons of towns that once catered to Westward travelers.
 
 I release the parking brake and the wheels of my Nissan Pathfinder make the first
 of what will be north of 4 million revolutions by the end of this odyssey. It's

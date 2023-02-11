@@ -180,7 +180,7 @@ I have no idea. What I do know is that I'm on chair
 knows that was his number when he played boundary corner for the Cascia Hall
 Commandos.
 
-<figure class="figure mx-5">
+<figure class="figure  container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_dale.jpeg" alt="Dale">
   <figcaption class="figure-caption">DALE</figcaption>
 </figure>
@@ -220,7 +220,7 @@ left and cruise down Wapiti's short piste aaaaaaaaand there's no chair. I look u
 my left and the two seater is spinning about 200 yards up a side hill behind a
 copse of trees. You've GOT to be kidding me!!
 
-<figure class="figure mx-5">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_oops.jpeg" alt="Oops">
   <figcaption class="figure-caption">Oops indeed</figcaption>
 </figure>
@@ -628,7 +628,7 @@ I meet up with Cam & Johnny at the bottom and we head back to the front side
 for some more Super Bee bombers to close out the day with a respectable 25k
 vert.
 
-<figure class="figure d-table mx-auto">
+<figure class="figure d-table mx-auto container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_copper_tracks.gif" alt="Copper">
     <figcaption class="figure-caption" style="display:table-caption;caption-side:bottom;">Great day at Copper</figcaption>
 </figure>
@@ -664,7 +664,7 @@ guest rooms, the Delaware Hotel is still known as the "Crown Jewel of Leadville.
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_leadville_hotel1.jpeg" alt="Hotel">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock2_leadville_hotel2.jpeg" alt="Hotel">
-  <figcaption class="figure-caption">Before & After</figcaption>
+  <figcaption class="figure-caption">Then & Now</figcaption>
 </figure>
 
 Through all the years, the booms, the busts, and changes of ownership, the

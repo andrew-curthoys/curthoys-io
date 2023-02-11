@@ -14,14 +14,15 @@ short_sum: The end of the 11,000 mile road.
 summary: I check my SkiTracks and I finish my last day of the trip with a hard-earned 23k vertical bringing my total for the season just over 600,000 vertical feet.  That's probably more than I've skied in my entire life. The 580 miles I put under my Volkls could get me all the way back from Taos to Tulsa. If only it were that easy.
 
 <h4 class="article-subheader">Well Now What</h4>
-I check my SkiTracks and I finish the last day of the trip with a hard-earned
-23k vertical bringing my total for the season just over 600,000 vertical feet.
+I check my SkiTracks and I finish the last day of the trip with 23,000
+hard-earned steep-as-hell Taos vertical feet, bringing my total for the season
+just a hair over 600,000.
 That's probably more than I've skied in my entire life. The 580 miles I put
 under my Volkls could get me all the way back from Taos to Tulsa. If only it
 were that easy.
 
-I pull out of Taos and things immediately go awry. As I trot the ol' gal up to
-the swangin' doors of Orlando's with a rumbling belly I'm awful sore to
+As I pull out of Taos Ski Valley things quickly go awry. I trot the ol' gal up
+to the swangin' doors of Orlando's with a rumbling belly I'm awful sore to
 find they are closed on Mondays. "What rotten luck," exclaims the feller who
 just spent the past 2.5 months skiing.
 
@@ -32,9 +33,9 @@ just spent the past 2.5 months skiing.
 
 I continue the trot on down the trail to town for a quick saunterin'
 'round Taos Plaza. Overlooking the Plaza the Hotel La Fonda continues to welcome
-guests 'neath her adobe ______. Ain't that a daisy. But then I 'bout pitch a
-fit when I discover that Ogelvie's, a New Mexican grill & cantina that provided
-sustenance on many a ski
+guests into the cozy confines of her adobe walls. Ain't that a daisy. But then I
+'bout pitch a fit when I discover that Ogelvie's, a New Mexican grill & cantina
+that provided sustenance on many a ski
 trip, has shut its doors. I was kinda hankerin' for a margarita from Ogie's,
 seein' as this is the first time I've been to Taos of age. I reckon this town
 just ain't fer a city slicker like me.
@@ -60,13 +61,13 @@ a "1-star hotel," which is outright slander and grounds for a duel.
 
 While preparing for supper I realize that Orlando's and Ogelvie's are just the
 opening salvos in an onslaught of ski-trip-denouement misfortunes. I open my
-Dopp kit only to discover that the contents within are perplexingly coated with
+Dopp kit to discover the contents within perplexingly coated with
 an oily film. I pull out the items one-by-one until I discover the culprit - my
 tincture of beard oil has opened in transit and deposited its slippery payload
 upon all its mates.
 
-After cleansing oily residue off my washroom amenities then myself I make the
-short walk to Hotel La
+After cleansing the greasy residue off my washroom amenities then myself I make
+the short walk to Hotel La
 Fonda on the Plaza* for what I hope is a dynamite serving of New Mexican
 enchiladas. My first night of this trip I enjoyed enchiladas in Las Cruces, New
 Mexico, it feels poetic to bookend the trip with New Mexican enchiladas.
@@ -90,8 +91,8 @@ green/half red. Because that just seems like more fun.
 </figure>
 
 The second emphasis of New Mexican enchiladas is explicitly related to
-enchiladas, and based on the strong feelings a disconcertingly large proportion
-of the population hold about tropical fruits on pizza, likely to be controversial.
+enchiladas and - based on the strong feelings a disconcertingly large proportion
+of the population hold about tropical fruits on pizza - likely to be controversial.
 Instead of rolling the enchiladas in a tortilla sleeping bag, enchiladas in New
 Mexico are laid flat and stacked like an order of flapjacks with the filling
 in between the tortilla scaffolding.
@@ -121,7 +122,7 @@ have the night off.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_enchiladas.JPEG" alt="Enchiladas">
-  <figcaption class="figure-caption">But I wanted them flat!!</figcaption>
+  <figcaption class="figure-caption">But I don't wanna rolled up enchilada!!</figcaption>
 </figure>
 
 Thinking back over this interaction I've determined that I need to start working
@@ -135,9 +136,9 @@ Thinking back over this interaction I've determined that I need to start working
 
 Way cooler.
 
-After supper I mosey over to the bar for end of trip celebratory nightcap. I
+After supper I mosey over to the bar for an end-of-trip celebratory nightcap. I
 plop down at a plush barstool with a thirst for a Rye Old Fashioned to warsh'n
-the trail dust off me gullet. Over the course of the next 5 minutes the bartender
+the trail dust off me gullet. Over the course of the next 10 minutes the bartender
 walks past me a half dozen times without so much as acknowledging my presence.
 Now I'm not one to offhandedly besmirch a keeper of the bar. They are busy
 people. They have a tough job. I appreciate bartenders with every corpuscle of
@@ -156,8 +157,8 @@ wine glasses that are worse for wear. Now I gotta say brother, if
 you want to get a bartender's attention, just bash your head into a rack of wine
 glasses. Because I HAD his attention.
 
-Which is a double edged sword. I've gotten his attention but I no longer wish
-to tipple at this establishment. A mighty awkward pickle I find myself in.
+Which is a double edged sword - I've gotten his attention but I no longer wish
+to drink at this establishment. A mighty awkward pickle I find myself in.
 After helping clean up my mess the barkeep throws down a napkin & says "hey boss
 what'll it be for ya?" Damn you Santa Fe.
 
@@ -179,19 +180,19 @@ trying to forcibly disgorge me and I ain't too bold to question her.
 <p class="section-divider my-4">&#11044;&emsp;&ensp;&#11044;&emsp;&ensp;&#11044;</p>
 
 The next morning she totally redeems herself with Ohori's Coffee, a truly
-fabulous coffee shop. The large windows and high ceilings ___________ the
+fabulous coffee shop. The large windows and high ceilings provide the
 feel of a space that's much larger than a coffee shop should be. The Southwestern
 vibe is accentuated by Talin Market right next door, specializing in world
 cuisines and native staples.
 
 I order myself a jet black coffee as large as their legal representation will
-allow in good faith and hit the road headed East. A journey of 640 miles of
+in good faith allow and hit the road headed East. A journey of 640 miles of
 Interstate highway all that's separating me from a night in my own bed.
 
-10 hours later I roll into Tulsa just after dark on the 22nd day of March,
-exactly 76 days after I departed.
+10 hours later I roll into Tulsa at 6:19 PM on the 22nd day of March, exactly 76
+days after I departed. 
 
-What a long strange trip it's been.
+Hair a little longer. Beard a little bushier. Soul a little fuller.
 
 <figure class="figure">
   <div class="row">
@@ -213,7 +214,11 @@ What a long strange trip it's been.
   <figcaption class="figure-caption">Before & After</figcaption>
 </figure>
 
-<h4 class="article-subheader">By the Numbers</h4>
+My odometer reads 11,096.1 miles, or just shy of half the circumference of the
+Earth. Or if you like weird measurements like me, 7.5 million revolutions of my
+Michelin tyres.
+
+<h4 class="article-subheader">Speaking of Numbers</h4>
 
 600,000 vertical ft  
 11,000 miles of asphalt   
@@ -237,9 +242,8 @@ What a long strange trip it's been.
 1 Blockbuster  
 1 brother  
 1 yard sale  
-0 regrets  
 
-<p class="fs-5"><u>1 trip of a lifetime</u></p>
+1 long strange trip
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/coda_driving_route_map.png" alt="The route">
@@ -249,26 +253,41 @@ What a long strange trip it's been.
 I remember where I was when I hatched this ludicrous plan. I was sitting at the
 counter of my aunt & uncle's house in Victor, NY. There wasn't anything in
 particular that spurred it on, I think I just wanted to see how many ski resorts
-I could hit on my pass.
+I could hit on my Ikon pass.
 
-Some kids backpack through Europe. Some kids take a gap year. I went to school,
-worked the 9-to-5, took my 3 weeks of vacation. I did it because it was what
+Some kids backpack through Europe. Some kids take a gap year. As for me, I
+played it by the book. I went to school, I worked the 9-to-5, I took my 3 weeks
+of vacation. I did it because it was what
 you were supposed to do. I hadn't red Kerouac. I have since. I hadn't read
-Ginsberg. I plan to. It wasn't some sort of wanderlust that hit me. It wasn't
+Ginsberg. I plan to.
 
-It was me becoming more comfortable in my own skin, confident to venture out
-into the unknown. To chart my own course. To ask why not. To catch a case of
-the fuckits.
+I wasn't ever struck by some sort of wanderlust. I never
+held any romantic notions about life on the road. I wasn't escaping anything.
+
+I just kinda wanted to ski.
+
+Covid definitely had something to do with it. It certainly caused me to stop and
+ponder the corporate rat race I was stuck in and ask myself
+*what the fuck am I doing?*
+
+But just as important was the winding journey of personal growth and acceptance
+I've navigated these past few years. As someone who grew up debilitatingly
+frightened at the smallest social interaction It's been liberating
+to become comfortable in my own skin. To methodically accumulate the confidence
+to venture out into the unknown. To chart my own course. To ask why not. To
+catch a case of the fuckits.
 
 I know it's cliche. I know that library shelves sag heavy with stories of travel,
-with stories of self realization, with stories of privileged white dudes. I can
-write all I
-want about not "taking it for granted" that I was able to take this incredible
-trip but I do. There's no other way you would make such a ludicrous trip if you
-didn't take it for granted.
+with stories of self realization, with stories of privileged white dudes. I want
+to say I didn't take it for granted but I probably did. Why else would you even
+set off on such a ridiculous trip if you didn't at least take it a little bit
+for granted?
 
-It's cliche, but it's my cliche. And this is my website so lay off!!
-But seriously what are you still doing here? Have I not bored you yet?
+It's cliche, but it's my cliche. And I'm fine with that. Plus this is my website
+so lay off!!
+
+But seriously what are you still doing here? Are you not bored by
+now? Don't you have something more productive to do?
 
 Well... since you've made it this far, I'll let my distant cousin Ralph Waldo
 Emerson have the last word, since he said it better than I ever could:

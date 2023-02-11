@@ -51,7 +51,7 @@ I finish up my lunch and head back out there. I find a nice section off Chair 4 
 
 I gingerly make my way down to the bottom and by this point the snow has turned to rain. I turn in my poles and head out to the car. I strip off my ski gear for the last time until it’s time to strap it back on in the winter. It served me well.
 
-<p class="article-subheader">Back to Jet City</p>
+<h4 class="article-subheader">Back to Jet City</h4>
 
 I drop off my skis at Glacier and about 30 minutes later stop off at the North Fork Brewery for an après beer and a snack to tide me over till dinner. I order a Washing Machine Hazy IPA and a chicken margherita pizza and hunker down into a wooden booth. The pie arrives shortly after my delicious ale and I eat a couple slices and box up the rest. It should make for some pretty good breakfast tomorrow.
 

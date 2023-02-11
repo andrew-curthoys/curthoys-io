@@ -35,7 +35,7 @@ I order a Mt Hood Ice Axe IPA in a plastic cup to comply with poolside regulatio
 
 I finish my beer and return to my room to shower and finish packing. I’m out of the hotel at 1:50 and set my course for the gorge road, which will take me around the mountain and dump me out at a town called Hood River. Then it’s a few hours of interstate driving to cousin Joanne’s place in Seattle.
 
-<p class="article-subheader">On the Road Again</p>
+<h4 class="article-subheader">On the Road Again</h4>
 
 As I’m leaving the parking lot I see a guy with a snowboard over his shoulder thumbing a ride. I don’t realize until after I’ve blown past him that I really missed an opportunity for a great story. Who knows where he was from or where he was going. I could have pulled up and said “where ya headed brother?” How cool is that? Damnit. Well there’s another ski resort on the way around the mountain, maybe there will be another hitchhiker and I can redeem myself.
 
@@ -71,7 +71,7 @@ I park on the main drag and walk around a few blocks. It’s a nice, buzzy downt
 
 Luckily Double Mountain Brewing is across the street and I find an outdoor table in the shade. I order a Hop Lava Northwest IPA and some pretzel bites to tide me over until I get to Joanne’s. The pretzels make me thirsty and I slurp down the draft beer in good order. I remember the $10 Kevin gave me for the beer but the pretzels put my tab over that threshold. I charge the tab to my card and give the waitress the Kevin’s $10 as a tip. I hope she spends it on something ridiculous.
 
-<p class="article-subheader" id="emerald">Emerald City Bound</p>
+<h4 class="article-subheader" id="emerald">Emerald City Bound</h4>
 
 I’m back on the road and doubly glad Bruce told me this route because this section of I-84 it hugs the Columbia River and the views are incredible. The river is an absolute unit, flowing through a valley flanked by high cliffs on either side. I later learn some fun facts about the waterway: it’s the 4th largest river in the US by volume, it has the greatest flow of any North American river entering the Pacific, and it’s drainage basin is the size of France. I honestly don’t know if France is a good size for a drainage basin but it sounds big.
 

@@ -295,7 +295,7 @@ I'm just contractually obligated to make jokes about his beefcakery. It is in no
 way a feeble attempt to deflect feelings of envious inadequacy related to his
 ceaseless accumulation of sculpted, lean mass. I would never.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock1_barley.jpeg" alt="Barley">
   <figcaption class="figure-caption">Don't act coy with me!</figcaption>
 </figure>
@@ -382,7 +382,7 @@ None of which is to say that the skiing is subpar. I would love to have this as
 my local mountain. And this is the best snow I've had the entire trip. I am
 happy as a hippo.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock1_lookout_map.jpeg" alt="Lookout Pass">
   <figcaption class="figure-caption">A real state-straddler</figcaption>
 </figure>
@@ -611,7 +611,7 @@ trip to the heart of the Madison Range. As we emerge from the sliding doors of
 the hotel the needle of a thermometer catches my attention. 0&deg;F. It's gonna
 be a cold one out there.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/rock1_thermometer.jpeg" alt="Cold">
   <figcaption class="figure-caption">Is it? Is it gonna be a cold one out there,
   Wally!!???</figcaption>
