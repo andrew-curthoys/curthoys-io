@@ -7,7 +7,10 @@ next_day: day_3
 date: 2021-04-17
 post_date: 2021-05-04
 category: Traveler
+subcat: Skiing
+photo: hangin_at_high_camp.jpg
 activity: April 2021 Ski Trip
+short_sum: Squaw Valley is an incredible mountain. That is all.
 
 We set our alarms for 7 AM, but due to the excitement and two hour time difference, I arise at 6:15. I pop in the shower and get ready for the day. Randy is right behind me and we are ready for some breakfast to prime us for the big day ahead.
 
@@ -44,7 +47,7 @@ About halfway up the Alpine Bowl chair we begin to understand why the Summit Exp
 I manage to get a decent photo & continue on the traverse to our drop in. The wind picks up even more and starts to pelt us in the face with small bits of ice. I didn’t think anything could ruin that view but an onslaught of ice pellets to the face quickly disavows me of that notion. I want to get down off this ridge as quickly as possible. I maneuver to shove myself over the edge but the wind is so strong it almost blows me backwards. Son of a bitch. I finally manage to get over the top and down I go. The top is still pretty crunchy, but at least I’m no longer standing in the firing line of an airsoft machine gun. We start off on the groomed section of the run then I head over to the side to some un-groomed snow. Bad idea. It’s all big chunks of ice that batter me around. I quickly head back to the groomie and stick there for the rest of the run.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/alpine_lakeview_pano.jpg" alt="Alpine Meadows">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/alpine_lakeview_pano.jpg" alt="Alpine Meadows">
   <figcaption class="figure-caption">Pretty pretty pretty good view</figcaption>
 </figure>
 
@@ -52,7 +55,7 @@ Randy and I rip the Alpine chair a few times then find a nice section of soft sn
 
 We make the drive around the mountain and as we pull into the parking lot I realize this place is something different. The mountain, if you could call it that because it’s really 3-4 mountains, towered over us like a West Texas stepfather after a JV football loss. Suffice to say it was intimidating.
 
-<h4 class="article-subheader">Squaw</h4>
+<h4 class="article-subheader" id="sv">Squaw</h4>
 
 I didn’t have much time to survey the scene before Randy & I snagged our gear out of the car and started hoofin it towards the rocky prominence. As we approach the main base a fella shouts to us inquiring if we already have our lift tickets. We respond in the affirmative so he asks if we’d like to take the Aerial Tram. There’s no line so Randy suggests we take it because it offers some of the best views on the mountain. We walk into the tram terminal and find ourselves in a large, bare-bones concrete building with about 5 people in front of us. While we wait I do a little research on my phone about this Squaw Valley place.
 
@@ -75,15 +78,17 @@ At the top we arrive at an installation called High Camp. This has a massive dec
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid float-left rounded" src="/theme/images/hangin_at_high_camp.jpg" alt="Randy & I at High Camp">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2021_04-ski_trip/hangin_at_high_camp.jpg" alt="Randy & I at High Camp">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid float-right rounded" src="/theme/images/tahoe_pils.jpg" alt="Tahoe Pils">
+      <img class="figure-img img-fluid float-right rounded" src="/theme/images/traveler/2021_04-ski_trip/tahoe_pils.jpg" alt="Tahoe Pils">
     </div>
   </div>
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/view_from_high_camp.jpg" alt="View from High Camp">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/view_from_high_camp.jpg" alt="View from High Camp">
   <figcaption class="figure-caption">Hangin at High Camp</figcaption>
 </figure>
+
+<div id="mcconkey"></div>
 
 A skiing legend and certified crazy person named Shane McConkey blew everyone’s mind once when he backed up 40 feet from the edge of the cliff, got a head of steam, and executed a massive backflip off the escarpment. He was a different animal. He developed some of the technology that make up the skis that I’m cruising today. He tragically died in 2009 during a in a ski-basing accident, a combination of skiing and base-jumping - the pinnacle of daredeviltry. This relaxing, family-friendly activity involves a lunatic skiing off a cliff, unclipping his skis mid-air, flying for a bit with a wingsuit, before ultimately deploying a parachute. This time McConkey’s ski release device malfunctioned and by the time he finally got the binding released it was too late. He was maniac and a pioneer and the skiing community lost a real one with him.
 
@@ -92,7 +97,7 @@ Randy has another story of the Palisades he shares with me about a time he was r
 Ski patrol is already there tending to him and Randy pulls up and notices that it’s Stu, one of his coworkers at the valet. He says Stu is in pretty rough shape, a few broken ribs, a punctured lung, and likely a concussion (nobody wore helmets back then). The ski patrol is asking him some questions while assessing the situation, what’s your name, where do you live, how many fingers am I holding up, etc. They aren't getting much out of him because the most Stu can manage at this point is gurgle. Puzzlingly, Randy begins cracking up telling the story, a strange reaction given what we know so far. The story continues that one of the ski patrol blokes asks Stu what he had for breakfast and somehow Stu musters up every ounce of energy in his shattered body and mutters “FRUUUUUUUUITY PEBBBBBBBBBLES.” Randy really got a kick out of that, especially since Stu wound up recovering from the incident.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/emigrant_pano.jpg" alt="Squaw Overlook from the Emigrant Chair">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/emigrant_pano.jpg" alt="Squaw Overlook from the Emigrant Chair">
   <figcaption class="figure-caption">For the ultimate "the picture doesn't do it justice" those are the Palisades on the far right.</figcaption>
 </figure>
 
@@ -117,7 +122,7 @@ Back to the top of the Chief then down to the base area and the KT-22 chair. As 
 We get to the top and decide to ride down the Saddle run, a relatively straightforward run that’s a bit challenging but nothing too bad. We ride this same run another time or two and before I know it it’s 4 o’clock and the day is done. A solid day by all means but there’s a lot of mountain out there to be explored and tomorrow’s supposed to be warmer. We plan to head straight to Squaw tomorrow morning since it should soften up sooner.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/kt22_backside.jpg" alt="Backside of the KT22 Peak">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/kt22_backside.jpg" alt="Backside of the KT22 Peak">
   <figcaption class="figure-caption">Backside off the top of the KT-22 chair.</figcaption>
 </figure>
 

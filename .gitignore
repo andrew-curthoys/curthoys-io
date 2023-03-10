@@ -133,3 +133,8 @@ custom_theme/static/images/
 output/
 *jpg
 *png
+.vscode/
+*pyc
+locations.js
+locations.txt
+*ods

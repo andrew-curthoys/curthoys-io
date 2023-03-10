@@ -7,12 +7,15 @@ next_day: day_7
 date: 2021-04-21
 post_date: 2021-05-16
 category: Traveler
+subcat: Skiing
+photo: timberline_outside.jpg
 activity: April 2021 Ski Trip
+short_sum: Timberline Lodge is almost certainly my favorite hotel I've ever inhabited.
 
 I wake up with the disappointing feeling of a restful, apparition-free nights sleep. *Maybe next time, ghosts, maybe next time.* I rustle out of bed and stroll the grounds to check out the views by daylight. Right at 8 o’clock I venture into the ski shop and rent some Atomic Vantage 97s. There’s still an hour until the lifts open so I head back to the lodge for a bowl of yogurt & granola and a coffee. Checkout time is 11 AM and I inquire about a late checkout - they tell me they can do 2 o’clock and I mull it over. I devise a plan to ski till noon with a little après at the pool & hot tub. 2 o’clock will work just fine.
 
 <figure class="figure">
-    <img class="figure-img img-fluid rounded" src="/theme/images/timberline_outside.jpg" alt="Timberline outside">
+    <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/timberline_outside.jpg" alt="Timberline outside">
   <figcaption class="figure-caption">Ol Mt Hood pokin out over the top there, just gorgeous</figcaption>
 </figure>
 
@@ -25,14 +28,14 @@ I’m off the hill by noon and after dropping off my twigs at the rental shop I 
 I order a Mt Hood Ice Axe IPA in a plastic cup to comply with poolside regulations and head to my room to throw on my trunks. In a few minutes I’m at the pool and I have the whole thing to myself. I dive right in and swim around for a few minutes; the pool is heated but still cool enough to be refreshing after a morning ski. I climb out and plop in the hot tub to enjoy my ale and the beautiful Mt. Hood sunshine. I pull up the weather report for Crystal Mountain in Washington, my next skiing destination, and to my dismay they have closed for the season. In fact every ski resort in Washington state is closed except for Mt. Baker. I look up the forecast for Baker and it calls for significant snow Saturday night. Fuckin right, let’s rip up Mt Baker.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/timber_pool.jpg" alt="Pool Time">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/timber_beer.jpg" alt="Beer Time">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/timber_pool.jpg" alt="Pool Time">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/timber_beer.jpg" alt="Beer Time">
   <figcaption class="figure-caption">Après les loisirs</figcaption>
 </figure>
 
 I finish my beer and return to my room to shower and finish packing. I’m out of the hotel at 1:50 and set my course for the gorge road, which will take me around the mountain and dump me out at a town called Hood River. Then it’s a few hours of interstate driving to cousin Joanne’s place in Seattle.
 
-<p class="article-subheader">On the Road Again</p>
+<h4 class="article-subheader">On the Road Again</h4>
 
 As I’m leaving the parking lot I see a guy with a snowboard over his shoulder thumbing a ride. I don’t realize until after I’ve blown past him that I really missed an opportunity for a great story. Who knows where he was from or where he was going. I could have pulled up and said “where ya headed brother?” How cool is that? Damnit. Well there’s another ski resort on the way around the mountain, maybe there will be another hitchhiker and I can redeem myself.
 
@@ -59,8 +62,8 @@ The rest of the conversation was not nearly as memorable. It’s about 10 minute
 As I pull out of the lot I get a brief moment of panic when I see my gas gauge sitting precariously close to E. I have 27 miles to Hood River and the car says I have a range of 33 miles. Let’s hope it’s accurate. I descend the mountain road and pull back out onto the highway. A few minutes later I see a clearing and pull off to get a photo of Mt. Hood. It really is stunning from this side - thanks for the tip Bruce. I can also see the route that Kevin took up the mountain, and it looks treacherous. Goodness gracious. I hop back in and about 20 minutes later I’m in Hood River, gas gauge showing a range of 27 miles. Glad that whole stretch was downhill.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/mt_hood.jpg" alt="Mt Hood">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/mt_hood_mirror.jpg" alt="Mt Hood Mirror">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/mt_hood.jpg" alt="Mt Hood">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/mt_hood_mirror.jpg" alt="Mt Hood Mirror">
   <figcaption class="figure-caption">Farewell old friend</figcaption>
 </figure>
 
@@ -68,7 +71,7 @@ I park on the main drag and walk around a few blocks. It’s a nice, buzzy downt
 
 Luckily Double Mountain Brewing is across the street and I find an outdoor table in the shade. I order a Hop Lava Northwest IPA and some pretzel bites to tide me over until I get to Joanne’s. The pretzels make me thirsty and I slurp down the draft beer in good order. I remember the $10 Kevin gave me for the beer but the pretzels put my tab over that threshold. I charge the tab to my card and give the waitress the Kevin’s $10 as a tip. I hope she spends it on something ridiculous.
 
-<p class="article-subheader">Emerald City Bound</p>
+<h4 class="article-subheader" id="emerald">Emerald City Bound</h4>
 
 I’m back on the road and doubly glad Bruce told me this route because this section of I-84 it hugs the Columbia River and the views are incredible. The river is an absolute unit, flowing through a valley flanked by high cliffs on either side. I later learn some fun facts about the waterway: it’s the 4th largest river in the US by volume, it has the greatest flow of any North American river entering the Pacific, and it’s drainage basin is the size of France. I honestly don’t know if France is a good size for a drainage basin but it sounds big.
 
@@ -81,7 +84,7 @@ We head into The Lodge Sports Grille and I order a Silver City Tropic Haze IPA a
 The house is an unassuming shingle and board & batten two story home with a nice yard, a porch, and small second story balcony. When we walk in the front door I can’t believe how spacious it is. The floorplan is wide open and the ceilings are quite high. I think the kitchen island is the size of my grad school apartment. Joanne lets the family dog, Charlie, out of her crate and I give her a full complement of pets and scratches for being a good girl. Greg and Joanne give me the grand tour of the house, including the apartment above the garage with the beer fridge. Greg loads up a cooler and we head back to the big house.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/jos_house.jpg" alt="Joanne & Greg's house">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/jos_house.jpg" alt="Joanne & Greg's house">
   <figcaption class="figure-caption">My fantastc accomodation</figcaption>
 </figure>
 

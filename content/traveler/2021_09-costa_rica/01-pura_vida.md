@@ -7,7 +7,9 @@ next_day: 02-travelers_of_the_caribbean
 date: 2021-09-01
 post_date: 2021-09-04
 category: traveler
+subcat: Gallivanting
 activity: September 2021 Costa Rica
+short_sum: I've booked a flight to Costa Rica with no plans whatsoever. Let's see what happens.
 summary: "We gotta turn around"<p>We were a mile from the house & realized I forgot my Spanish-English pocket dictionary. That might be useful with my rudimentary grasp of the Spanish language. Not sure if you know this but they have a different word for everything. Timmy whips the car around and a block or two later I find the book in a separate pocket of my backpack.
 
 "We gotta turn around"

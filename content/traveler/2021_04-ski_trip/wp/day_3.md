@@ -7,14 +7,17 @@ next_day: day_4
 date: 2021-04-18
 post_date: 2021-05-11
 category: Traveler
+subcat: Skiing
+photo: top_of_emigrant.jpg
 activity: April 2021 Ski Trip
+short_sum: Laps on KT-22. IYKYK.
 
 I wake up at quarter to 6 (I’m still on central time so I’m operating 2 hours ahead) and Randy is still snoozing. I check the map for an open coffee shop and it turns out the Coffee Connexion opens a 6. Brilliant. I grab my computer and hoof it the few blocks to the estaminet only to discover it ain’t open. Sign says they open at 6 and it’s ten after. Sign's wrong.
 
 They are probably on Tahoe time. No worry, I walk over to a bench overlooking the lake and bang out a few paragraphs on my machine. A few minutes later I see a Jeep pull up and a woman hops out to open up the Connexion. Good timing because my soft office-job hands were starting to get pretty chilly.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/coffee_sign.jpg" alt="Coffee shop sign">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/coffee_sign.jpg" alt="Coffee shop sign">
   <figcaption class="figure-caption">Indeed, Coffee Connexion, indeed</figcaption>
 </figure>
 
@@ -29,7 +32,7 @@ We hop on the funitel and the only other passenger is an older woman and based o
 Once at the top we make a short hike to the Emigrant chair and the lift attendant lets us know it won’t be open for another 15 minutes. No problem, we strap on our skis and pop down to the Gold Coast chair and do a couple runs there. Once Emigrant opens we ride 'er up and upon disembarkation we find ourselves confronted with a view that's even better than the others. Unreal. I snap a few photos then bomb down the hill with cuz. It’s a pretty smooth ride, nice snow, decently steep, and very shreddable. We do a few runs here then decide to head over to the Headwall chair. It looked like there was some great runs over there when I peeked at it yesterday & I’m excited to give it a shot.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/top_of_emigrant.jpg" alt="Top of Emigrant chair">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/top_of_emigrant.jpg" alt="Top of Emigrant chair">
   <figcaption class="figure-caption">Top of the Emigrant chair</figcaption>
 </figure>
 
@@ -45,23 +48,23 @@ Danger averted, I find myself a few hundred feet past the point where I can join
 
 Once again at the bottom of Headwall we decide to hit the Red Dog chair and check out the Resort at Squaw Creek, Randy’s former employer. The resort is as far right as you can get on the mountain and we ski over to it after hopping off the Dog. The run was great, although a bit patchy in places, and we didn’t see a single person the entire way. We end up at the resort and Randy gives me a quick tour of the grounds. The swimming pool is open and people are enjoying the beautiful April weather, 63 degrees and not a cloud in the sky. After a quick break it’s back to the lift.
 
-<h4 class="article-subheader">KT-22</h4>
+<h4 class="article-subheader" id="kt22">KT-22</h4>
 
-Randy suggests we head back to KT-22 and try the front side that we didn't hit yesterday. This is the peak that Shane McConkey and his ski gang knew like the back of their hand. They would launch off cliffs, shimmy down chutes, and ski every inch of it all day long. They were testosterone junkies and Squaw Valley was the place to be if you were a daredevil. Watching some of the shit these guys pulled leaves my jaw on the floor every time.
+Randy suggests we head back to KT-22 and try the front side that we didn't hit yesterday. This is the peak that Shane McConkey and his ski gang knew like the back of their hand. They would launch off cliffs, shimmy down chutes, and ski every inch of it all day long. They were adrenaline junkies and Squaw Valley was the place to be if you were a daredevil. Watching some of the shit these guys pulled leaves my jaw on the floor every time.
 
 <iframe class="col-12 mb-3 video-div" src="https://www.youtube.com/embed/LWb7X3V_YVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 From the resort we take the Squaw Creek chair then head down to the KT-22 Express. On our way up we look out to the left and map our line. The main bowl is wide open but steep and bumpy. Ain't no problem. We hop off the lift and on our way over to the bowl, we get a tremendous look over at Alpine Meadows. I snap a few photos and trace out the runs we did yesterday morning then head to our drop in. As anticipated it’s steep and bumpy but we carve through it like it’s our job. My legs are on fire but it’s worth it. Halfway down we get to a run that looks like the snow might be patchy. We start to head around the side until we see ski patrol bomb down it so we follow them. Great decision, the snow is perfect and isn’t too chopped up. A great smooth ride after a workout and a half.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/alpine_from_kt22.jpg" alt="View of Alpine Meadows from Squaw">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/alpine_from_kt22.jpg" alt="View of Alpine Meadows from Squaw">
   <figcaption class="figure-caption">View of Alpine Meadows from the top of KT-22. If you squint you can see the parking lot down there</figcaption>
 </figure>
 
 We jump back on to do it all over again. There’s about half an hour before the lifts close so we can probably get one more run in if we make it down in good measure. Back to the top and down the same line. Except one little hiccup… while working down the top section I'm right behind Randy when all of a sudden *\*whooop\** I see him fly right out of sight. I pull up and see that he went off a ledge and didn’t stick the landing. He’s in a heap and his hat and goggles are on the deck. He’s laughing and tells me he’s fine so I swing around the ledge and hand him his gear. I look back up and see a rock about 10 feet tall and the splash in the snow where Randy landed. He said by the time he saw the ledge it was too late to bail out so he just committed. And he almost stuck the landing. I think it’s funnier that he didn’t though.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/randys_fall.jpg" alt="Randy went down">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/randys_fall.jpg" alt="Randy went down">
   <figcaption class="figure-caption">Some say the Randy shaped splash in the snow is still there to this day</figcaption>
 </figure>
 
@@ -74,7 +77,7 @@ We hang out at the car for about 20 minutes, reminiscing on the day’s tracks a
 An Alibi Ale Works Pale Ale down the hatch, we head back to the Pepper Tree. We unload the car and I grab my skis to drop back off at Tahoe Dave’s. Skis returned and everything in order I have to make another quick pit stop. Remember how I left my phone on the lift? Well it seems my forgetfulness is not limited to my cellular device. After the thrill of watching a drug deal happen before our eyes last night at the Fat Cat, I neglected to grab my card from the booklet. I walk in and the bartender grabs the stack of lost cards (and it is a STACK, I ain’t the only one whose been had by the Fat Cat) and I’m right on top. He hands me my card and it’s back to the Tree.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/alibi_pale_ale.jpg" alt="Alibi Pale Ale">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/alibi_pale_ale.jpg" alt="Alibi Pale Ale">
   <figcaption class="figure-caption">Delicious end to an incredible day</figcaption>
 </figure>
 
@@ -95,7 +98,7 @@ Godzilla vs Kong.
 The single screen self-described "arthaus cinema" is screening Godzilla vs Kong. I can’t believe it. I was hoping to see something in Romanian by a French director about unrequited love during wartime. Godzilla vs Kong. Good lord.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/god_v_kong.jpg" alt="Godzilla vs Kong">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/god_v_kong.jpg" alt="Godzilla vs Kong">
   <figcaption class="figure-caption">A couple small little indie features you've probably never heard of</figcaption>
 </figure>
 

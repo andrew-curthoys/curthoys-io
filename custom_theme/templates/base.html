@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<meta charset="UTF-8">
 <head>
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
@@ -28,6 +28,9 @@
   <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
   <link href="/theme/css/blog.css" rel="stylesheet">
 
+  <!-- Font Awesome CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
   <!-- Custom CSS -->
   <link href="/theme/css/custom.css" rel="stylesheet">
   
@@ -36,6 +39,7 @@
 
   <!-- Custom JS -->
   <!-- <script src="/theme/js/img-row-height.js"></script> -->
+  <script type="text/javascript" src="/theme/js/links.js"></script>
 
   <!-- Updated styling for carousel -->
   <style>
@@ -64,35 +68,32 @@
 
   {% else %}
   <!-- HEADER NAVBAR -->
-  <div class="container">
-    <header>
-      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <div class="container-fluid">
-          <a class="navbar-brand fs-2" href="/">Curthoys.io</a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMenu" aria-controls="collapseMenu" aria-expanded="false" aria-label="Toggle Navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="collapseMenu">
-            <ul class="navbar-nav me-left mb-2 mb-md-0 fs-5">
-              <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="/traveler">Traveler</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="/eater">Eater</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#">Snowcast: Coming soon</a>
-              <!-- <li class="nav-item"> -->
-                <!-- <a class="nav-link" href="http://dickordon.com">DickOrDon</a> -->
-              <!-- </li> -->
-            </ul>
-          </div>
-        </div>
-      </nav>
-    </header>
-  </div>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand fs-2" href="/">Curthoys.io</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMenu" aria-controls="collapseMenu" aria-expanded="false" aria-label="Toggle Navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapseMenu">
+        <ul class="navbar-nav me-left mb-2 mb-md-0 fs-5">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/traveler">Traveler</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/eater">Eater</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="#">Snowcast: Coming soon</a>
+          <!-- <li class="nav-item"> -->
+            <!-- <a class="nav-link" href="http://dickordon.com">DickOrDon</a> -->
+          <!-- </li> -->
+        </ul>
+      </div>
+    </div>
+  </nav>
   {% endif %}
 
+  <h2 style="margin: 1rem 0;">.</h2>
   <main class="flex-container">
     {% block content %}{% endblock %}
   </main>
@@ -103,6 +104,14 @@
   <!-- FOOTER -->
   <footer class="blog-footer">
     <p>Built by Andrew Curthoys. Powered by Pelican and Bootstrap &middot; <a href="https://blog.getpelican.com/">Pelican</a> &middot; <a href="https://getbootstrap.com/">Bootstrap</a></p>
+ 
+    <!-- Contact icons -->
+    <p>
+      <a href="https://twitter.com/acurthoys" class="fa fa-twitter"></a>
+      <a href="https://www.instagram.com/acurthoys" class="fa fa-instagram"></a>
+      <a href="mailto: andrew@curthoys.io" class="fa fa-envelope"></a>
+    </p>
+
     <p>
       <a href="#">Back to top</a>
     </p>

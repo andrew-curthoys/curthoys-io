@@ -7,6 +7,7 @@ next_day: 06-kowabunga
 date: 2021-09-11
 post_date: 2021-09-27
 category: traveler
+subcat: Gallivanting
 activity: September 2021 Costa Rica
 summary: The shuttle arrives to whisk us away to Tamarindo & we hop on a nearly full van. I get the single seat right behind the sliding door so I have a decent amount of room to stretch my legs for the 3 hour journey to the sea.
 

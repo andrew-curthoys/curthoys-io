@@ -6,7 +6,7 @@
 
 <!-- HOMEPAGE TEMPLATE -->
   <!-- ARTICLE HEADER -->
-  <div class="container-fluid pt-5">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-12 col-lg-2">
         <div class="position-sticky" style="top: 6rem;">
@@ -39,20 +39,22 @@
               {% set latest_dict = {} %}
 
               {% for article in articles %}
-                {% if latest_dict[article.activity] %}
-                  {% if latest_dict[article.activity]['min_date'] > article.date %}
-                    {% set _temp = latest_dict[article.activity].update({'min_date': article.date }) %}
-                    {% set _temp = latest_dict[article.activity].update({'slug': article.slug }) %}
-                    {% set _temp = latest_dict[article.activity].update({'summary': article.summary }) %}
+                {% if article.category != 'misc' %}
+                  {% if latest_dict[article.activity] %}
+                    {% if latest_dict[article.activity]['min_date'] > article.date %}
+                      {% set _temp = latest_dict[article.activity].update({'min_date': article.date }) %}
+                      {% set _temp = latest_dict[article.activity].update({'slug': article.slug_base }) %}
+                      {% set _temp = latest_dict[article.activity].update({'summary': article.summary }) %}
+                    {% endif %}
+                  {% else %}
+                    {% set _temp = latest_dict.update(
+                      {article.activity: 
+                        {'min_date': article.date,
+                          'slug': article.slug,
+                          'summary': article.summary}
+                      })
+                    %}
                   {% endif %}
-                {% else %}
-                  {% set _temp = latest_dict.update(
-                    {article.activity: 
-                      {'min_date': article.date,
-                        'slug': article.slug,
-                        'summary': article.summary}
-                    })
-                  %}
                 {% endif %}
               {% endfor %}
 
@@ -67,7 +69,7 @@
                       <a class="text-semimuted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[0] }}</a>
                     </h4>
                     <p>
-                      <a class="text-muted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[1]['min_date'].strftime('%B %d, %Y') }}</a>
+                      <a class="text-muted no-dec fs-5 fst-italic" href="{{ post[1]['slug'] }}.html">{{ post[1]['min_date'].strftime('%B %d, %Y') }}</a>
                     </p>
                     <p>
                       <a class="text-muted no-dec" href="{{ post[1]['slug'] }}.html">{{ post[1]['summary'][:220] + '...' }}</a>
@@ -80,10 +82,198 @@
 
             </div>
           </div>
+
           <hr class="mt-4">
+
           <div class="row">
             <div class="pt-4">
               <h3 class="f-blue-grey">What I'm Reading</h3>
+              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
+                <div class="col-auto d-block p-3">
+                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9781984878106.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
+                </div>
+                <div class="col px-4 pt-1 d-flex flex-column position-static">
+                  <h4 class="mb-0">Think Again: The Power of Knowing What You Don't Know</h4>
+                  <p class="fst-italic text-semimuted fs-5 mb-0">Adam Grant</p>
+                  <p>Psychology; Personal Growth</p>
+                  <p class="card-text mb-0">
+                  Organizational psychologist Adam Grant of TED Talk fame dives
+                  into commonly held beliefs and urges the reader to *ahem*
+                  <i>think again</i>. The ideas are fresh, though I wouldn't
+                  imagine anybody under 40 would consider them revolutionary.
+                  There are a few good tidbits in there but I think an
+                  introspective personality would arrive at the same conclusions
+                  as Dr. Grant. But maybe that's what led him to compile the
+                  mounds of research to back up his points in the first place.
+                  In any case his writing style is light and informal, with a
+                  flippant sense of humor that I appreciate. I'd like to see
+                  what a more headstrong personality would think of it.
+                  </p>
+                  <a href="https://bookshop.org/p/books/think-again-the-power-of-knowing-what-you-don-t-know-adam-grant/15174400?ean=9781984878106" class="stretched-link fs-5">Find it here!</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <hr class="mt-4">
+
+          <div class="row">
+            <div class="pt-2">
+              <h3 class="f-blue-grey">Reading Archive</h3>
+              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
+                <div class="col-auto d-block p-3">
+                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780143108146.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
+                </div>
+                <div class="col px-4 pt-1 d-flex flex-column position-static">
+                  <h4 class="mb-0">Bourbon Empire: The Past & Future of America's Whiskey</h4>
+                  <p class="fst-italic text-semimuted fs-5 mb-0">Reid Mitenbuler</p>
+                  <p>History; Booze</p>
+                  <p class="card-text mb-0">
+                    That bottle of whiskey sitting on your bar cart with a photo
+                    of a bearded ol' settler and a story about how the recipe
+                    for this particular hooch has been passed down by pappys for
+                    generations? Well that's all bullshit. That's not to say it
+                    ain't good whiskey. It's just that nearly all whiskeys can
+                    only trace their origins to the 20th century, plus the vast
+                    majority are only made by a handful of mega-conglomerate
+                    distillers with technology that would make NASA mission
+                    control blush. Mitenbuler traces the earliest iterations of
+                    fermenting corn, the All-American grain, through to present
+                    day. Your Jim Beams, your Evan Williamses, your Makers Marks,
+                    they are all represented, as well as the burgeoning "craft"
+                    whiskey market, aiming to cater to traditional methods and
+                    local ingredients. This book earns a full 5 Old Fashioneds
+                    from me.
+                  </p>
+                  <a href="https://bookshop.org/p/books/bourbon-empire-the-past-and-future-of-america-s-whiskey-reid-mitenbuler/11706776?ean=9780143108146" class="stretched-link fs-5">Find it here!</a>
+                </div>
+              </div>
+              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
+                <div class="col-auto d-block p-3">
+                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9781476730400.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
+                </div>
+                <div class="col px-4 pt-1 d-flex flex-column position-static">
+                  <h4 class="mb-0">The Disaster Artist: My Life Inside <i>The Room</i>, the Greatest Bad Movie Ever Made</h4>
+                  <p class="fst-italic text-semimuted fs-5 mb-0">Reid Mitenbuler</p>
+                  <p>Biography; History; Film</p>
+                  <p class="card-text mb-0">
+                    <i>I did not hit her, it's not true! It's bullshit! I did
+                      not hit her, I did <b>nottt!</b> Oh hi Mark!
+                    </i>
+                    And so goes one of the most (in)famous lines of *The Room*,
+                    possibly the worst movie of all time with the grandest of
+                    aspirations. I was lucky enough to watch a live screening of
+                    *The Room* at the Carolina Theatre with commentary and Q&A
+                    from Greg Sestero, the author & portrayer of Mark. I'd been
+                    wanting to watch the movie for quite a few years because I'd
+                    heard how terrible it was and boy was I not disappointed.
+                    Greg even signed my book "Oh hi, Andrew," which was a nice
+                    touch that he's probably done thousands of times. The book
+                    is a fascinating look into the process of making a movie
+                    with one of the strangest specimens of *Homo Sapiens* to ever
+                    walk the planet, who legitimately might be a vampire.
+                  </p>
+                  <a href="https://bookshop.org/p/books/the-disaster-artist-my-life-inside-the-room-the-greatest-bad-movie-ever-made-tom-bissell/10348609?ean=9781476730400" class="stretched-link fs-5">Find it here!</a>
+                </div>
+              </div>
+              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
+                <div class="col-auto d-block p-3">
+                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780140042597.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
+                </div> 
+                <div class="col px-4 pt-1 d-flex flex-column position-static">
+                  <h4 class="mb-0">On the Road</h4>
+                  <p class="fst-italic text-semimuted fs-5 mb-0">Jack Kerouac</p>
+                  <p>Fiction; Roman &agrave; Clef; Beat</p>
+                  <p class="card-text mb-0">
+                    As unlikely as it may seem, I was largely unaware of this
+                    book before setting off on my 11,000 mile ski journey. I
+                    knew Jack Kerouac was a famous American writer & <i>On the
+                    Road</i> was perhaps his most well known work. Presumably
+                    about being on the road. But that's all I knew. As I read it
+                    I am delighted at some of the similarities between his
+                    journeys and my own. Mine, of course, involve much less
+                    hitchhiking. But while I was not <i>directly</i> influenced by this
+                    book, I was certainly <i>indirectly</i> influenced. I can almost
+                    guarantee that my travel writing spirit animal, Bill Bryson,
+                    drew inspiration from this novel, as well as the many others
+                    that undeniably did the same.
+                  </p>
+                  <a href="https://bookshop.org/books/on-the-road-9781470833848/9780140042597" class="stretched-link fs-5">Find it here!</a>
+                </div>
+              </div>             
+              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
+                <div class="col-auto d-block p-3">
+                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780440180296.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
+                </div>
+                <div class="col px-4 pt-1 d-flex flex-column position-static">
+                  <h4 class="mb-0">Slaughterhouse 5</h4>
+                  <p class="fst-italic text-semimuted fs-5 mb-0">Kurt Vonnegut</p>
+                  <p>Fiction; Dark Comedy; Satire; History</p>
+                  <p class="card-text mb-0">
+                    Time travel and alien encounters are not what you'd expect
+                    from an anti-war novel by an author who lived through the
+                    horrors of the fire bombing of Dresden. But that's exactly
+                    what we have here. A younger me would have taken it at face
+                    value & just said "well that's a weird book." However, when
+                    you realize what he's trying to tell you through these
+                    narrative devices (it's really not that thinly veiled) you
+                    begin to realize the absurdity of the human condition.
+                    His insouciant tone throughout somehow makes the senseless
+                    bloodshed even more heartbreaking. So it goes.
+                  </p>
+                  <p class="pt-3">
+                    <i>That's one thing earthlings might learn to do, if they
+                    tried hard enough: ignore the awful times, and concentrate
+                    on the good ones</i>
+                  </p>
+                  <a href="https://bookshop.org/books/slaughterhouse-five-or-the-children-s-crusade-a-duty-dance-with-death/9780440180296" class="stretched-link fs-5">Find it here!</a>
+                </div>
+              </div>
+              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
+                <div class="col-auto d-block p-3">
+                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780743273565.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
+                </div>
+                <div class="col px-4 pt-1 d-flex flex-column position-static">
+                  <h4 class="mb-0">The Great Gatsby</h4>
+                  <p class="fst-italic text-semimuted fs-5 mb-0">F. Scott Fitzgerald</p>
+                  <p>Fiction</p>
+                  <p class="card-text mb-0">
+                    The Great American Novel is, well, great. An captivating
+                    story about nostalgia and the insatiable quest for something
+                    that once was. Or perhaps never was. Set against the
+                    excesses of 1920s New York, there's a reason this book has
+                    stood the test of time.
+                  </p>
+                  <a href="https://bookshop.org/books/the-great-gatsby-9780008509491/9780743273565" class="stretched-link fs-5">Find it here!</a>
+                </div>
+              </div>
+              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
+                <div class="col-auto d-block p-3">
+                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9781400032051.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
+                </div>
+                <div class="col px-4 pt-1 d-flex flex-column position-static">
+                  <h4 class="mb-0">1491</h4>
+                  <p class="fst-italic text-semimuted fs-5 mb-0">Charles C. Mann</p>
+                  <p>History</p>
+                  <p class="card-text mb-0">
+                    I found this title in the visitor center at Redwood National
+                    Park. I was on the lookout for a book related to the
+                    way of life of the indigenous peoples of the Redwood forests,
+                    and while this is a more general overview of all
+                    civilizations of the American continents, I deemed it worthy
+                    of my interest. Mann's main thesis is centered on the
+                    historical underestimation of the level that indigenous
+                    societies molded the environment to suit their needs. The
+                    conception by many of a "pristine" pre-Columbian American
+                    continent is turned on its head. Mann goes a little too
+                    deep into the weeds on some stories that aren't as relevant
+                    to the overall theme of the book, but aside from that it's
+                    an illuminating read on the early history of the peoples
+                    of the Western Hemisphere.
+                  </p>
+                  <a href="https://bookshop.org/books/1491-second-edition-new-revelations-of-the-americas-before-columbus/9781400032051" class="stretched-link fs-5">Find it here!</a>
+                </div>
+              </div>
               <div class="row g-0 rounded flex-md-row mb-5 position-relative">
                 <div class="col-auto d-block p-3">
                   <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780062997456.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">

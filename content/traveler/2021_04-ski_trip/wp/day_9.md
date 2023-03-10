@@ -7,17 +7,21 @@ next_day: day_10
 date: 2021-04-24
 post_date: 2021-05-18
 category: Traveler
+subcat: Skiing
+photo: matthews.jpg
 activity: April 2021 Ski Trip
+short_sum: Day 3 in Seattle and it finally rains. Hallelujah!
 
 I wake up and to my delight Seattle has not let me down, it’s raining. Not a downpour but a slight drizzle. The kind of rain that just hangs there and will crush your soul if it’s all you see for a week straight. Luckily I am merely a transient to the region and can enjoy the stereotypical weather with glee. I make my daily walk down to the town square and grab a coffee at Caffe Ladro. When I get back to the house we ponder options for the day. Joanne has scheduled a couple wine tastings that afternoon but other than that we’re wide open.
 
+<div id="falls"></div>
 The weather isn’t bad enough to rule out a hike so Joanne suggests either Rattlesnake Ledge, a popular 5 mile hike through mountains and valleys, or Snoqualmie Falls, a 1.5 mile round trip with about 300 feet of elevation. Given the weather, I opt for the falls so we can get in & out without getting completely drenched. It’s about 45 minutes east and a bit south of their place and the rain lets up a bit as we get closer.
 
 We arrive & throw on our rain jackets and head out towards the trail. Along the way there are displays detailing the history of the hydroelectric power plant on site. Ok, this is right up my alley. There are currently two hydro plants, the first one completed in 1899 by a 23 year old engineering visionary and presumable madman, Charles Hinckley Baker. A graduate of the esteeed Civil Engineering school at Cornell University, this maniac decided that the damp Seattle weather was not conducive to power plant equipment so he made the obvious decision to tunnel 270 feet straight through solid granite and carve out a room big enough for a hydroelectric plant. It was the world’s first completely underground power plant, a ridiculously specific distinction, and one he gained likely because everyone else who had built a power plant figured above ground was just fine.
 
 <div class="container">
   <figure class="figure">
-      <img class="figure-img img-fluid rounded" src="/theme/images/underground_powerplant.jpg" alt="underground powerplant">
+      <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/underground_powerplant.jpg" alt="underground powerplant">
     <figcaption class="figure-caption">Where do we want to build the plant, boss?</figcaption>
   </figure>
 </div>
@@ -25,14 +29,14 @@ We arrive & throw on our rain jackets and head out towards the trail. Along the 
 Plant 2 was built in 1910 and is sensibly located above ground, right next to the path that we find ourselves on. The highlight of this stretch of the path is the enormous penstocks (huge water pipes to bring water from above the falls to the power plant) that hug the cliffs and go right below the deck we’re standing on.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/penstocks.jpg" alt="Penstocks">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/penstocks.jpg" alt="Penstocks">
   <figcaption class="figure-caption">That would be a pretty fun waterslide... Unless you like breathing and not getting chopped up in a turbine.</figcaption>
 </figure>
 
 This is quickly surpassed when we walk around the bend and the valley opens up before us to reveal the falls. It’s a magnificent sight, a torrent of water crashing over the falls flanked by thickly forested sheer cliffs of volcanic rock. We take it in for a few minutes and I snap a few photos that will certainly fail to capture the full experience then start off towards the path towards the top of the falls.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/falls_bottom.jpg" alt="Bottom of the falls">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/falls_bottom.jpg" alt="Bottom of the falls">
   <figcaption class="figure-caption">Pretty amazing scenery</figcaption>
 </figure>
 
@@ -41,10 +45,12 @@ It’s a really nice hike through expanses of towering Douglas fir and red alder
 I read all there is to read about the falls and the plant and we walk out onto a deck for a better view. And what a view it is. It’s mesmerizing to put your eye on a bit of water and watch it tumble to the bottom. It looks like it’s in slow motion, I wish I had the pot.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/falls_with_jo.jpg" alt="Falls with Joanne">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/top_of_falls.jpg" alt="Top of falls">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/falls_with_jo.jpg" alt="Falls with Joanne">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_04-ski_trip/top_of_falls.jpg" alt="Top of falls">
   <figcaption class="figure-caption">Great day for a hike</figcaption>
 </figure>
+
+<div id="holy-mountain"></div>
 
 We loiter for a bit then make our way back down. We get back to the car and are only marginally wet, I'd chalk that up as a win. We start heading back towards Seattle and I mention a spot my friend had recommended called Holy Mountain brewery. It’s on the north side of downtown right off Elliott Bay and we decide we have time for a quick brewski before the wine tastings.
 
@@ -57,7 +63,7 @@ The tasting menu is a 6 glass sampling, starting with a light Pinot Gris working
 We head up the road about a mile to Matthews Winery, where they have a table set up out front to check in and pour us a small glass of welcome rosé. Ok I’m liking this place better already. The tasting room is open and airy, with large windows letting in the bit of light scattering through the clouds. They put us in a spot outdoors on their covered patio and we get our pick of 4 wines for our tasting. I choose the Claret and Reserve Claret from Matthews and the Cabernet and Syrah from Tenor, a winery that shares the tasting room with Matthews. I wish I could tell you all the notes of boysenberry, oak, leather, and asparagus, but I'm not into all that nonsense; what I can tell you is that I really liked these wines. They are significantly better to my amateur palate and Greg & Joanne agree and buy two bottles of the wines they tasted.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/matthews.jpg" alt="Wine tasing at Matthews">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/matthews.jpg" alt="Wine tasing at Matthews">
   <figcaption class="figure-caption">Those were all glasses of water before I showed up</figcaption>
 </figure>
 

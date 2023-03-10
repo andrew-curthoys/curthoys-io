@@ -7,6 +7,7 @@ next_day: /traveler
 date: 2021-11-07
 post_date: 2021-11-24
 category: traveler_lite
+subcat: Athletics
 activity: 2021 NYC Marathon
 summary: "Welcome to the Bronx" shouts a bombastic gentleman on the Willis Avenue Bridge as we enter his home borough. I wish I could match his energy but all I can muster is a meek smile and a muffled "thanks." I have nothing but respect for The Bronx.
 
@@ -118,7 +119,7 @@ pack, or last. You can say <b>'I have finished.'</b> There is a lot of satisfact
 that"*
 <p style="text-align:right;">-Fred Lebow</p>
 
-<h4 class="article-subheader">Let's Run</h4>
+<h4 class="article-subheader" id="run">Let's Run</h4>
 A cannon blast denotes the start of the race and it's go time. The first mile is
 all uphill, over the steep incline of the Verazzano Narrows bridge.
 This is the
@@ -247,7 +248,7 @@ on the bridge.
 
 13.1 miles. 1:52:43. 4 hours is within reach.
 
-<h4 class="article-subheader">Logistics</h4>
+<h4 class="article-subheader" id="logistics">Logistics</h4>
 The majority of my energy the day before the race was spent thinking about
 logistics. I wasn't worried about the actual run, I did my training and felt
 good about it. The logistics, on the other hand, were

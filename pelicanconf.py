@@ -19,7 +19,7 @@ CAREERSITENAME = "Career"
 CAREERSUBHEADER = "Stuff I've done"
 
 PATH = 'content'
-STATIC_PATHS = ['traveler', 'eater']
+STATIC_PATHS = ['traveler', 'eater', 'misc']
 ARTICLE_PATHS = STATIC_PATHS
 ARTICLE_SAVE_AS = '{slug}.html'
 ARTICLE_URL = '{slug}.html'
@@ -27,7 +27,14 @@ PAGE_PATHS = ['career']
 PAGE_SAVE_AS = '{slug}.html'
 PAGE_URL = '{slug}.html'
 USE_FOLDER_AS_CATEGORY = True
-DIRECT_TEMPLATES = ['index', 'traveler/index', 'eater/index', 'career/index']
+DIRECT_TEMPLATES = ['index',
+                    'traveler/index',
+                    'eater/index',
+                    'career/index',
+                    'misc/index',
+                    'traveler/2021_04-ski_trip',
+                    'traveler/2021_09-costa_rica',
+                    'traveler/2022_01-ski_trip']
 DELETE_OUTPUT_DIRECTORY = True
 
 THEME = 'custom_theme'
@@ -58,3 +65,14 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+import random
+def filter_shuffle(seq):
+    try:
+        result = list(seq)
+        random.shuffle(result)
+        return result
+    except:
+        return seq
+
+JINJA_FILTERS = {'shuffle': filter_shuffle}

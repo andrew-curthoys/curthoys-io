@@ -7,12 +7,15 @@ next_day: day_11
 date: 2021-04-25
 post_date: 2021-05-19
 category: Traveler
+subcat: Skiing
+photo: shuksan.jpg
 activity: April 2021 Ski Trip
+short_sum: Mt Baker is for skiers by skiers. And it's excellent.
 
 My alarm squawks at 5:37 AM and I lethargically peel open my eyes and roll out of the sack. Why didn’t I go to bed at 10 like I had planned. I wish *morning me* could reach back in time and slap some sense into *night me*. I slowly get myself ready and head downstairs to some lovely fruit art that Joanne has put together and a ziploc of two peanut butter & jellies. Thanks Jo.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/mountain_lunch.jpg" alt="Lunch for the mountain">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/mountain_lunch.jpg" alt="Lunch for the mountain">
   <figcaption class="figure-caption">What amazing hospitality. 5 stars</figcaption>
 </figure>
 
@@ -31,7 +34,7 @@ The snow is a bit heavy and it takes a run or two to get my ski legs under me bu
 I take a few more trips up Chair 6 and the clouds and snow start to lift. I get some great shots of Mt Shuksan just to the east, a majestic craggy prominence that is as photogenic as they come. The bluffs below the main peak look like they would have some great skiing - fresh untouched snow as far as the eye can see. Later on in the day I see a couple snowboarders who hiked over there and had ridiculously awesome lines down the mountain. I may need to come back and see what that’s all about.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/shuksan.jpg" alt="Mt Shuksan">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/shuksan.jpg" alt="Mt Shuksan">
   <figcaption class="figure-caption">Mt Shuksan, you sexy beast</figcaption>
 </figure>
 
@@ -40,7 +43,7 @@ As I’m heading up chair 6 I look over to the other side and see some great fre
 I get back down to the bottom and it’s just about lunchtime so I head into the Raven Hut Lodge and order up a Kulshan Kitten Mittens winter ale and a cup of lobster chowder. I find a chair outside and kick my feet up and relax for a few. My phone has no reception, which is actually pretty nice because I’m forced to enjoy the scenery instead of reading reviews of skis trying to convince myself to buy a pair.
 
 <figure class="figure image-vert">
-  <img class="figure-img img-fluid rounded" src="/theme/images/baker_lunch.jpg" alt="Lunch at Mt Baker">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/baker_lunch.jpg" alt="Lunch at Mt Baker">
   <figcaption class="figure-caption">Is your cat constantly stomping around, driving you crazy?</figcaption>
 </figure>
 
@@ -48,14 +51,15 @@ I finish up my lunch and head back out there. I find a nice section off Chair 4 
 
 I gingerly make my way down to the bottom and by this point the snow has turned to rain. I turn in my poles and head out to the car. I strip off my ski gear for the last time until it’s time to strap it back on in the winter. It served me well.
 
-<p class="article-subheader">Back to Jet City</p>
+<h4 class="article-subheader">Back to Jet City</h4>
 
 I drop off my skis at Glacier and about 30 minutes later stop off at the North Fork Brewery for an après beer and a snack to tide me over till dinner. I order a Washing Machine Hazy IPA and a chicken margherita pizza and hunker down into a wooden booth. The pie arrives shortly after my delicious ale and I eat a couple slices and box up the rest. It should make for some pretty good breakfast tomorrow.
 
+<div id="raclette"></div>
 I hit the road and about an hour and a half later I’m back at the homestead. I hop in the shower and by the time I make it back downstairs they have the raclette table heated up and ready to go. I’ve never heard of a raclette table & they explain to me that it’s a Swiss culinary tool consisting of a granite cooktop with a heating coil and trays below the coil for melting cheese, heating sauces, or cooking anything you feel like chucking in the tray. They start off tossing some chunks of marinated steak on the granite along with some broccoli and asparagus. They have an assortment of cheeses and potatoes that they put in the trays and I follow suit. It’s super fun and super delicious, it’s like everyone is their own miniature hibachi chef. I may need to get myself one of these contraptions.
 
 <figure class="figure">
-  <img class="figure-img img-fluid rounded" src="/theme/images/raclette.jpg" alt="Raclette table">
+  <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/raclette.jpg" alt="Raclette table">
   <figcaption class="figure-caption">Raclette table. Wie viel Spaß</figcaption>
 </figure>
 

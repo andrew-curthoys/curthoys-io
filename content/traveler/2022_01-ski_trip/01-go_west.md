@@ -3,12 +3,15 @@ slug: traveler/2022_01-ski_trip/01-go_west
 slug_base: traveler/2022_01-ski_trip
 day_alias: Go West Young Man
 prev_day: /traveler
-next_day: 02-cali*
+next_day: 02-cali
 date: 2022-01-05
 post_date: 2022-01-09
 category: Traveler
+subcat: Skiing
+photo: tucson_skyline.jpg
 activity: 2022 Ski Trip Adventure
-summary: I release the parking brake and the wheels of my Nissan Pathfinder make the first of what will be north of 4 million revolutions by the end of this odyssey. It's still dark as I roll down the driveway and set my GPS for Las Cruces, New Mexico, a mere 780 miles and 12 hours away. I barrel down the remnants of Route 66, past the skeletons of towns that once catered to Westward travelers.
+short_sum: This is it. Don't get scared now.
+summary: I release the parking brake and the wheels of my Nissan Pathfinder make the first of what will be north of 7 million revolutions by the end of this odyssey. It's still dark as I roll down the driveway and set my GPS for Las Cruces, New Mexico, a mere 780 miles and 12 hours away. I barrel down the remnants of Route 66, past the skeletons of towns that once catered to Westward travelers.
 
 I release the parking brake and the wheels of my Nissan Pathfinder make the first
 of what will be north of 4 million revolutions by the end of this odyssey. It's
@@ -114,7 +117,8 @@ our final goodbyes. I can't wait until I can enjoy her cooking again.
   <figcaption class="figure-caption">Well I've been from Tucson to Tucumcari</figcaption>
 </figure>
 
-Next stop Phoenix to see our good friend Katie Easley. I'm about an hour from
+<div id="phoenix"></div>
+Next stop Phoenix to see our good friend Katie. I'm about an hour from
 town when she calls me and tells me her
 boyfriend Jesse has tested positive for Covid. Shit. I'd really like to see them
 but I can't in good faith take that risk at the very start of my trip. I pull
@@ -149,8 +153,31 @@ mentioning he's a habitual card-leaver. It's at this moment that I realize
 I left my card and sheepishly head back in to grab it. Guess it runs in the family.
 
 We exchange goodbyes as I pull out of Yuma headed for The Peach, my brother
-Timmy's old pad, where his
-friends still live. I roll up around 5 PM Saturday evening 1623 miles into my
+Timmy's old pad, where his friends still live. About 2 hours into the drive I
+pass right by the Salton Sea, where old-timey billboards welcome visitors to the
+lovely beaches of the Salton Sea. This was, of course, before farm runoff
+promoted the outbreak & spread of disease in the 80s, leading to massive
+die-offs of avian populations and enormous fish kills that would litter the
+beaches with piscine carcasses. By the late 90s farmers improved their irrigation
+practices, leading to less wastewater flowing to the lake. Good deal right? Well
+it wouldn't be considered California's biggest environmental disaster if it was
+now would it? As a result of the decrease in runoff, the water level began
+to decline, exposing portions of the lake bed that would kick up toxic dust
+clouds. Yeah I won't be stopping off for a dip.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/la_salton1.png" alt="Salton Sea">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/la_salton2.jpeg" alt="Salton Sea">
+  <figcaption class="figure-caption">I will not be visiting Bombay Beach, thank you very much</figcaption>
+</figure>
+
+Just past that nightmare I pass right by Joshua Tree and
+through the town of Coachella, which I had no idea was an actual town. Thank
+god that dumbass music festival isn't until April or I'd be wanting to blow my
+brains out stuck in traffic with wannabe flower children & Instagram influencers.
+
+
+I roll up to the Peach around 5 PM Saturday evening 1,623 miles into my
 journey. I plop on the couch and greet the cast of characters who frequent this
 abode. Cuchito invites us to a house party where he'll be DJ-ing and
 everyone halfheartedly tells him we'll be there knowing full well we won't.

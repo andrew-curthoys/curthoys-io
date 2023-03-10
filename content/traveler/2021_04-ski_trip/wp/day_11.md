@@ -7,7 +7,10 @@ next_day: /traveler
 date: 2021-04-26
 post_date: 2021-05-19
 category: Traveler
+subcat: Skiing
+photo: tahoe_pils.jpg
 activity: April 2021 Ski Trip
+short_sum: Back to the grind. Oof.
 
 I wake up in a fit of dread, realizing that I have to work today. Lame, lame, lame, super lame. I hop in the shower and do a bit more packing before firing up my machine and reluctantly checking my emails. I learn that I have a code of business conduct training course due today, which should be a pretty good airplane activity since United informed me that my bird will have wifi access.
 
@@ -21,7 +24,7 @@ Dang. This is it, the end of a trip for the record books. I roll down my windows
 
 After waiting on some morons who apparently can’t read and get into the wrong lane to leave the garage I’m back at the house in about 30 minutes. I carry my stuff in and unpack my bags. I put my boots away for the season and set my ski clothes aside to launder in the morning. I hang out with Nic for a bit on the couch, watching nonsense and boring him with stories from the trip. Soon enough it’s my bedtime and the trip has finally come to a close. I don’t want the ride to end but what a ride it’s been. Tomorrow the daydream ends and it’s back to the real world.
 
-<p class="article-subheader mt-5">By The Numbers:</p>
+<h4 class="article-subheader mt-5">By The Numbers:</h4>
 3,850 air miles  
 1,125 road miles  
 105,300 vertical feet skied  
