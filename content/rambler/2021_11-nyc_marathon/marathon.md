@@ -1,12 +1,12 @@
 title: 2021 NYC Marathon
-slug: traveler/2021_11-nyc_marathon
-slug_base: traveler/2021_11-nyc_marathon
+slug: rambler/2021_11-nyc_marathon
+slug_base: rambler/2021_11-nyc_marathon
 day_alias: NYC Marathon
-prev_day: /traveler
-next_day: /traveler
+prev_day: /rambler
+next_day: /rambler
 date: 2021-11-07
 post_date: 2021-11-24
-category: traveler_lite
+category: rambler
 subcat: Athletics
 activity: 2021 NYC Marathon
 summary: "Welcome to the Bronx" shouts a bombastic gentleman on the Willis Avenue Bridge as we enter his home borough. I wish I could match his energy but all I can muster is a meek smile and a muffled "thanks." I have nothing but respect for The Bronx.

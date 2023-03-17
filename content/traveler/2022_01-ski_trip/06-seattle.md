@@ -701,7 +701,7 @@ the road to Seattle.
   <figcaption class="figure-caption">Recovery fuel</figcaption>
 </figure>
 
-<h4 class="article-subheader">You Won't Believe This... But I Have Another
+<h4 class="article-subheader" id="laura">You Won't Believe This... But I Have Another
 Cousin Coming to Visit</h4>
 Yep. Cousins galore. If you can't keep it all straight, don't worry about it,
 neither can my brothers.
@@ -1026,7 +1026,7 @@ she was just appeasing me. In any case we saw one hell of a show. We hail an Ube
 for the ride back across Lake Washington to Greg & Joanne's & crash immediately
 when we get back. What a night.
 
-<h4 class="article-subheader">And Now for a Little Culture</h4>
+<h4 class="article-subheader" id="ballet">And Now for a Little Culture</h4>
 We have a nice little Saturday planned today. Laura has arranged for us to
 attend a performance at the Pacific Northwest Ballet - a little obscure show
 written by some English guy called *Romeo & Juliet*. Laura, a dancer and avid
