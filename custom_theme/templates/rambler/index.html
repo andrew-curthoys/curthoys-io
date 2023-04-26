@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %}{{ RAMBLERSITENAME }}{% endblock %}
+
+{% block content %}
+
+<!-- FEASTS -->
+<div class="container-fluid">
+  <div class="row mt-5">
+    <div class="col-md-auto mx-auto">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-primary">Running</strong>
+          <h3 class="mb-0">2021 NYC Marathon</h3>
+          <div class="text-muted">7-November 2021</div>
+          <div class="mb-3 text-muted">The 5 Boroughs</div>
+          <p class="card-text mb-0">26.2 miles is much too far to run at any one time.</p>
+          <a href="rambler/2021_11-nyc_marathon.html" class="stretched-link">Feel the burn!</a>
+        </div>
+        <div class="col-auto d-none d-md-block">
+          <img class="bd-placeholder-img"  width="200" height="250" src="/theme/images/rambler/2021_11-nyc_marathon/finish_line.jpg" alt="Finish Line" preserveAspectRatio="xMidYMid slice" focusable="false">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

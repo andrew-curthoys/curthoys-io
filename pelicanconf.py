@@ -6,20 +6,28 @@ SITENAME = "The Wide Weird World of Toy"
 SITESUBHEADER = "A playground for all my beep boopin"
 SITEURL = 'curthoys.io'
 
-# Traveler Info
-TRAVELERSITENAME = "Uncle Andy's Traveler"
-TRAVELERSUBHEADER = "A collection of stories from my jaunts, journeys, excursions, and walkabouts"
-
 # Eater Info
 EATERSITENAME = "Eater"
 EATERSUBHEADER = "I like to eat and I like to cook. Let's go on some culinary adventures."
 
+# Entroper Intro
+ENTROPERSITENAME = "Entroper"
+ENTROPERSUBHEADER = "An assortment of random things trending towards disorder."
+
+# Rambler Info
+RAMBLERSITENAME = "Rambler"
+RAMBLERSUBHEADER = "Athletic events, runs, bikes, and the sort."
+
+# Traveler Info
+TRAVELERSITENAME = "Uncle Andy's Traveler"
+TRAVELERSUBHEADER = "A collection of stories from my jaunts, journeys, excursions, and walkabouts."
+
 # Career Info
 CAREERSITENAME = "Career"
-CAREERSUBHEADER = "Stuff I've done"
+CAREERSUBHEADER = "Stuff I've done."
 
 PATH = 'content'
-STATIC_PATHS = ['traveler', 'eater', 'misc']
+STATIC_PATHS = ['eater', 'entroper', 'rambler', 'traveler', 'misc']
 ARTICLE_PATHS = STATIC_PATHS
 ARTICLE_SAVE_AS = '{slug}.html'
 ARTICLE_URL = '{slug}.html'
@@ -28,8 +36,10 @@ PAGE_SAVE_AS = '{slug}.html'
 PAGE_URL = '{slug}.html'
 USE_FOLDER_AS_CATEGORY = True
 DIRECT_TEMPLATES = ['index',
-                    'traveler/index',
                     'eater/index',
+                    'entroper/index',
+                    'rambler/index',
+                    'traveler/index',
                     'career/index',
                     'misc/index',
                     'traveler/2021_04-ski_trip',
