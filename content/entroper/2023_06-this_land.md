@@ -8,7 +8,7 @@ date: 2023-06-13
 post_date: 2023-06-20
 category: entroper
 subcat: Dancing
-activity: 2021 NYC Marathon
+activity: 2023 American Dance Festival
 summary: 
 
 <h4 class="article-subheader">"You should do this"</h4>
@@ -24,12 +24,15 @@ January 30th
 Deadline March 6th
 -I have over a month, plenty of time
 
-Requirements: headshot, 150 word biography, why you want to do this.
+Requirements: 
+* 150 word biography.
+* A short description why you want to partake in this performance.
+* Headshot.
 
 To most people this probably seems like a piece of cake. Knock it out between
-walkin' the dogs & fixin' supper. But for a habitual overthinker it wasn't so
-easy. I just finished writing 90,000 words about a ski trip,
-150 words on a bio is a lexigraphical(?) economy I can only aspire to. Then as
+walkin' the dogs & fixin' supper. But for a habitual overthinker it ain't so
+easy. I just finished writing 90,000 words about a ski trip, so a
+150 word bio is a linguistical economy I can only aspire to. Then as
 to why I want to participate in this process and perform this piece? Where do I
 even begin? And then the headshot makes me feel like Kevin McCallister when he
 has to pack his suitcase.
@@ -41,6 +44,30 @@ A HEADSHOT!?
 Woof.
 
 Well at least I have a month to think it all over.
+
+So I spend the month *thinking* and not a minute of *doing*.
+
+As the March 6 deadline looms ever more sinister with each passing day I realize
+my window to snag a headshot before I leave for my Utah ski trip on March 3rd is
+rapidly closing. While working from home before my evening flight I spend my
+entire lunch break struggling to snap an adequate headshot.
+
+It started with a simple "headshot examples" google image search. A panoply of
+aggressively beautiful people suddenly appear on my phone screen. Ok so all I
+have to do is look natural and find a nice set of high cheekbones and chiseled
+jaw in my size. I have a great exposed brick wall and a skylight so the lighting
+should be
+
+The most jarring thing of the entire experience was the amount of grease my
+forehead can generate in a single morning of staring at a computer screen.
+
+So the light is too bright. I need some sort of shade. So I take a quick
+inventory and find the perfect technological implement for my situation.
+
+A used pizza box.
+
+
+
 I spent a stupid amount of time getting a headshot. Pizza box.
 
 
@@ -56,6 +83,27 @@ unaware of? Suggests nudity - teases nudity - flashes
 nudity - contains nudity - features nudity - showcases nudity - celebrates nudity.
 
 
+The Oxford English Dictionary Second Edition Volume III Cham-Creeky published
+Clarendon Press, 1989, lists no
+fewer than 17 definitions for the word "contains." The most pertinent for our
+purposes are probably
+
+2.
+	a. To have as part (or the whole) of its contents or substance; to comprise,
+include.
+	b. Of a material body or substance: To have in it (as a constituent element or
+	in combination)
+3.
+	a. To include, comprise, extend over, measure.
+
+but then we also have definitions 
+
+11.
+	a. To restrain, hold in, keep in check; to hold back, keep back, hinder.
+	b. To restrain, put restraint on, repress
+12. To restrict, limit, confine.
+
+Which is it?
 
 "Once you have watched the video, respond to this email by **tomorrow, March 7**
 to confirm that you will be in attendance at the audition.
@@ -73,6 +121,19 @@ magic in them yet.
 
 Raining before original audition.
 
+I arrive at 5:40 and check in with Kelsey, who hands me number 170 to pin to my
+shirt. Which can only mean one thing: I'm going to be the dancing equivalent of
+Josh Allen at this audition, only 10 times better. They snap a quick picture,
+ostensibly to get a photo with my number, but most likely because my headshot was
+so amateurish.
+
+I drop my bag on a bench in the reception area and tentatively stroll into the
+studio. A dozen or so people are scattered around the studio in various states
+of stretching and mild calisthenics. I find a vacant patch of studio real estate
+and do as the Romans do. My stretches would be considered by even the most
+generous of observers as *half assed*. Have I mentioned I don't know what I'm
+doing?
+
 1-2-3-4-5-6-7-8 pivot
 1-2-3-4-5-6-7-8 pivot
 1-2-3-4-5-6-7-8 pivot
@@ -84,9 +145,9 @@ right-left-right-left-right-left-right-left pivot
 right-left-right-left-right-left-right-left pivot
 right-left-right-left-right-left-right-left pivot
 
-right foot odds, left foot evens
-right foot odds, left foot evens
-right foot odds, left foot evens
+right-foot odds, left foot evens
+right-foot odds, left foot evens
+right-foot odds, left foot evens
 
 By the third time around I start to kind of get the hang of it. A slight
 glimmer of *y'know what? maybe I **can** do this*
@@ -97,11 +158,41 @@ The gallop is an easy enough maneuver to execute on its own. A variation on the
 skip where you raise your front leg during the little hop instead of bringing
 your other leg through. I could gallop up & down the studio no problem. The
 thing about the gallop, though, is it switches your feet. Instead of right foot
-odds, left foot evens we've entered the unfamiliar and sinister world of left
-foot odds, right foot evens. I cringe just thinking about it.
+odds, left foot evens we've entered the unfamiliar and sinister world of
+left-foot odds, right-foot evens. I cringe just thinking about it.
+
+What's more, my cozy world of RFO-LFE is further upended by the fact that
+switching feet means we switch the direction of our pivot.
+
+**But** only on the laps with odd numbers of gallops.
+
+I stand no chance.
 
 We do a couple up & backs as a group then Mark lines us back up to do it in
-unison and my brain enters the infinite spinny wheel.
+unison. I take one step and my brain freezes. I hop, I lurch, I trundle. But I
+sure as hell don't gallop. The once steady count in my head viciously sublimates,
+forever lost to the steady, growing entropy of the universe. My grasp on the
+very concept of numbers has become unsettlingly tenuous.
+
+After a few rounds of gallops I glance over at the woman who is galloping with
+the ease of Secretariat, my eyes as wide as saucers,
+
+"I have NO idea what I'm doing."
+
+"You're doing pretty good!" Renay lies.
+
+"I've never auditioned for anything before so all this is completely new to me"
+
+"
+
+We work through a handful of other maneuvers(?): the Sally - a jaunty, carefree
+frolic of a strut that's so fun to do you can't help but smile. The Lewiston -
+a stiff, __________ gait that reminds me of a wrestling coach.
+
+Mark colors each character with a story of an interaction with that individual
+or an archetype of the character. With each story I know exactly the person he's
+describing.
+
 
 "Anybody want to go grab a beer?" I say to nobody and everybody all at once.
 
@@ -146,7 +237,9 @@ callback. The first rehearsal was to start tomorrow but Mark has decided to hold
 a callback instead of a rehearsal. I think that's good?
 
 
-First song Patsy Cline probably listened to the CD hundreds of times. I can still
+First song Patsy Cline probably listened to the CD hundreds of times. Listened
+to Patsy in the old Mercury sedan before Johnny boy came along and we became a
+minivan family. I can still
 belt out *I Fall To Pieces*, *Crazy*, and *Walkin' After Midnight* in my sleep.
 Woody Guthrie - God Bless Texas connection?
 
@@ -175,3 +268,10 @@ has never performed, let alone performed in the nude, I never fretted over
 potential harassment stemming from walking naked in a room full of strangers.
 Concerns over the vulnerability that comes with that? Sure. Concerns with the
 ambient temperature of the performing space? Absolutely.
+
+
+<h4 class="article-subheader">It's Like A Drug</h4>
+The performance
+
+I exist in the dielectic state of craving praise while simultaneously being
+wholly unable to accept it.
