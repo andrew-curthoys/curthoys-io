@@ -6,7 +6,7 @@ prev_day: /entroper
 next_day: /entroper
 date: 2023-06-13
 post_date: 2023-06-20
-category: entroper
+category: misc
 subcat: Dancing
 activity: 2023 American Dance Festival
 summary: 
