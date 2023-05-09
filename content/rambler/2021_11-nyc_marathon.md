@@ -26,7 +26,7 @@ personal record. Every step from
 here gets me closer to the finish line. Every step from here *aches*.
 
 <figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_11-nyc_marathon/welcome_to_the_bronx.jpg" alt="Welcome to the Bronx">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/rambler/2021_11-nyc_marathon/welcome_to_the_bronx.jpg" alt="Welcome to the Bronx">
   <figcaption class="figure-caption">Mile 20. Woof.</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ devoid of traffic...The entire city
 partying and cheering you on...The views...***The views!!***
 
 <figure class="figure d-block">
-  <img class="figure-img img-fluid mt-2 rounded d-block mx-auto" src="/theme/images/traveler/2021_11-nyc_marathon/course_map.png" alt="Marathon Route">
+  <img class="figure-img img-fluid mt-2 rounded d-block mx-auto" src="/theme/images/rambler/2021_11-nyc_marathon/course_map.png" alt="Marathon Route">
   <figcaption class="figure-caption">The course. 26.2 miles. 5 boroughs. 850 feet of elevation.</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ research live
 on.
 
 <figure class="figure d-block">
-  <img class="figure-img img-fluid mt-2 rounded d-block mx-auto" src="/theme/images/traveler/2021_11-nyc_marathon/marathon_fred.png" alt="Fred">
+  <img class="figure-img img-fluid mt-2 rounded d-block mx-auto" src="/theme/images/rambler/2021_11-nyc_marathon/marathon_fred.png" alt="Fred">
   <figcaption class="figure-caption"></figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ skyline of New York off to our left. Stunning views on a crisp, clear fall
 day.
 
 <figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/traveler/2021_11-nyc_marathon/elevation.png" alt="Elevation Profile">
+  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/rambler/2021_11-nyc_marathon/elevation.png" alt="Elevation Profile">
   <figcaption class="figure-caption">Yeah that's a big ol hill to start</figcaption>
 </figure>
 
@@ -160,10 +160,10 @@ Buffalo City Hall."
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_11-nyc_marathon/williamsburg_tower.jpg" alt="Williamsburg Tower">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/rambler/2021_11-nyc_marathon/williamsburg_tower.jpg" alt="Williamsburg Tower">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_11-nyc_marathon/buff_city_hall.jpg" alt="Buffalo City Hall">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/rambler/2021_11-nyc_marathon/buff_city_hall.jpg" alt="Buffalo City Hall">
     </div>
   </div>
   <figcaption class="figure-caption">There's a resemblance</figcaption>
@@ -186,7 +186,7 @@ uncles, and friends.
 Williamsville, IL - Fredonia, NY - Buffalo, NY - Victor, NY - Scranton, PA
 
 <figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/traveler/2021_11-nyc_marathon/map.png" alt="Road Trip Map">
+  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/rambler/2021_11-nyc_marathon/map.png" alt="Road Trip Map">
   <figcaption class="figure-caption">Followin' the long white line</figcaption>
 </figure>
 
@@ -230,10 +230,10 @@ good spirits but my dogs are starting to bark just a bit.
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_11-nyc_marathon/mile_10.jpg" alt="Mile 10">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/rambler/2021_11-nyc_marathon/mile_10.jpg" alt="Mile 10">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2021_11-nyc_marathon/bryce.jpg" alt="Bryce">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/rambler/2021_11-nyc_marathon/bryce.jpg" alt="Bryce">
     </div>
   </div>
   <figcaption class="figure-caption">This is fun. We're having fun here.</figcaption>
@@ -311,7 +311,7 @@ malaise returns. The crowd is thinner and the miles aren't going down as easy
 as they did in Brooklyn.
 
 <figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/traveler/2021_11-nyc_marathon/second_half.png" alt="Second Half">
+  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/rambler/2021_11-nyc_marathon/second_half.png" alt="Second Half">
   <figcaption class="figure-caption">This is where it gets real</figcaption>
 </figure>
 
@@ -368,7 +368,7 @@ that it'd be right about now. Nothing I can do now other than trust my training
 and push on.
 
 <figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/traveler/2021_11-nyc_marathon/mile_23.png" alt="Mile 23">
+  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/rambler/2021_11-nyc_marathon/mile_23.png" alt="Mile 23">
   <figcaption class="figure-caption">We're <b>really</b> not havin' a good time right now</figcaption>
 </figure>
 
@@ -452,7 +452,7 @@ sign and
 stop running for the first time in 4 hours. Well 3 hours 57 minutes & 26 seconds.
 
 <figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/traveler/2021_11-nyc_marathon/finish_line.jpg" alt="Finish Line">
+  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/rambler/2021_11-nyc_marathon/finish_line.jpg" alt="Finish Line">
   <figcaption class="figure-caption">I have finished</figcaption>
 </figure>
 
@@ -466,7 +466,7 @@ volunteers handing out medals. They drape a medal around my neck and I pose for 
 picture.
 
 <figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/traveler/2021_11-nyc_marathon/medal.jpg" alt="Medal">
+  <img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/rambler/2021_11-nyc_marathon/medal.jpg" alt="Medal">
   <figcaption class="figure-caption">What a ride the past 4 months have been</figcaption>
 </figure>
 
