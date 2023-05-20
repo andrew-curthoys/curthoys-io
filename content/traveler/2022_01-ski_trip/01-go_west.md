@@ -2,7 +2,7 @@ title: Part I: Go West Young Man
 slug: traveler/2022_01-ski_trip/01-go_west
 slug_base: traveler/2022_01-ski_trip
 day_alias: Go West Young Man
-prev_day: /traveler
+prev_day: /traveler/2022_01-ski_trip
 next_day: 02-cali
 date: 2022-01-05
 post_date: 2022-01-09

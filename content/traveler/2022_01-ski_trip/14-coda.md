@@ -3,7 +3,7 @@ slug: traveler/2022_01-ski_trip/14-coda
 slug_base: traveler/2022_01-ski_trip
 day_alias: Coda
 prev_day: 13-new_mexico
-next_day: /traveler
+next_day: /traveler/2022_01-ski_trip
 date: 2022-03-22
 post_date: 2022-12-27
 category: Traveler

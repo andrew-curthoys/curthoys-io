@@ -811,7 +811,7 @@ highway & make my way towards the fertile Willamette Valley.
 
 
 <h4 class="article-subheader" id="wine">Wine Down</h4>
-I roll into Dunde at half past one and shuffle into La Bastide.
+I roll into Dundee at half past one and shuffle into La Bastide.
 A woman named Elizabeth, who I assume to be the proprietor, gets me all settled
 into the Provence Room. I drop my bags and dart off to my 2 PM wine tasting
 reservation at Day Wines (fighter of the Night Wines), which is conveniently

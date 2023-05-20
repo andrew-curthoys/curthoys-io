@@ -31,10 +31,10 @@ of which must be an absolute joy at a party. While "variety"
 is technically incorrect nomenclature, the term has so strong a foothold in the
 wine world that the nerds over at the ICNCP begrudgingly make an exception.
 
-I was quite surprised to learn the most grown grape varietal is one I've never
+I was quite surprised to learn the most grown grape variety is one I've never
 heard of - the Kyoho, a large, sweet grape that rose from the ashes of
 post war Japan. As with just about anything "most" it's grown predominantly in
-China, accounting for 90% of its acreage. A more familiar varietal, Cabernet
+China, accounting for 90% of its acreage. A more familiar cultivar, Cabernet
 Sauvignon, comes in at number 2, growing around the world
 in nearly 30 countries. The only varieties that are grown more places than Cab
 Sav are Syrah, Merlot, & Chardonnay.
@@ -416,7 +416,7 @@ favorite, but my amateurish palate can't deduce exactly why it ain't.
 Our third wine, *Benefits of Solitude*, is our first red of the day, a blend of
 53% Cinsault, 38% Pinot Noir, 7% Grenache, and 2% Mourv&egrave;dre. Once again,
 I have not heard of most of these, but Aaron informs us of the versatility
-of Cinsault. It's a varietal that can change markedly based on how it's processed,
+of Cinsault. It's a variety that can change markedly based on how it's processed,
 in our case it has a nice blend of tart berry flavors with a soup&ccedil;on of
 pepper. A very nice fruit.
 
