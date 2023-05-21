@@ -1,9 +1,9 @@
-title: Del En: 60 Degrees North
-slug: traveler/2022_05-scandinavia/01-60_deg_north
+title: Del To: S&aelig;tre Serenity
+slug: traveler/2022_05-scandinavia/02-saetre
 slug_base: traveler/2022_05-scandinavia
 day_alias: 60 Degrees North
-prev_day: /traveler/2023_05-scandinavia
-next_day: 02-saetre
+prev_day: 01-60_deg_north
+next_day: 03-norway_day*
 date: 2023-05-12
 post_date: 
 category: Traveler
@@ -18,50 +18,44 @@ This is a travel story, sure.
 
 But this is about much, much more.
 
-This is a story about cuisine.
-
-This is a story about creativity.
-
-This is a story about culture.
+This is a story about cuisine. This is a story about creativity. This is a story
+about culture.
 
 This...
 
-This is a story about the deep, undying affection the Norwegian
-people have for hot dogs.
-
-Yes, the humble tubesteak holds a place of devoted adoration in the hearts of
-Norwegians from Stavanger to Svalbard. It's truly remarkable to see the extent
-to which a nation will unanimously rally around a grilled frankfurter.
+This is a story about the deep, undying love Norwegians hold for hot dogs.
 
 In the US we have the turn dog, we have the 4th of July frank, we have the
 ballpark dog. But the *waiting sausage* is a level of hot dog innovation that
 only the culinary minds of the Norseland could conjure.
+
+Yes, the humble tubesteak holds a place of loving affection in the hearts of
+Norwegians from Stavanger to Svalbard. It's truly remarkable to see the extent
+to which a nation will unanimously rally around a grilled frankfurter.
 
 If you ask any Norwegian if they've ever heard of "waiting sausages" they'll look
 at you like you've asked if they've ever heard of Santa Claus (who hails from
 the town of Dr&oslash;bek just outside of Oslo by the way).
 
 The waiting sausage is a proud Norwegian tradition that occurs any time an open
-flame licks the underside of a grill. While the main course is cooking,
+flame licks the underside of a grill grate. While the main course is cooking,
 the grillmaster will throw a couple dogs on the fire to serve as a Nordic
-hors d'&oelig;uvre. 
-
-The waiting sausage, a dog while you wait. Str&aring;lende!
+hors d'&oelig;uvre. A dog while you wait, behold the waiting sausage.
 
 Norwegians take the hot dog innovation one step further and dispense with the
 dry, protuberant hot dog bun and wrap their dogs in *lompe*, a traditional thin
-potato pancake resembling a tortilla. Atop the dog comes ketchup, mustard,
+potato pancake that resembles a tortilla. Atop the dog comes ketchup, mustard,
 and crispy onions. After my first *p&oslash;lse med lompe* I have to say that
-we are losing the hot dog innovation war in the States. As the progenitors of
-the modern dog, we've gotten complacent and allowed Norway to surpass us in
+we are doing hot dogs all wrong in the States. As the progenitors of the modern
+hot dog, we've gotten complacent and allowed Norway to surpass us in
 frankfurter technology.
 
-Throughout his reign Alexander the Great often adopted foreign customs into his
-own empire. I'm not one to claim I'm better than Alexander the Great so in my
-first decree as *Andrew the Alright* I will take a scrap of papyrus from
-Alexander's scroll and introduce the waiting sausage and *lompe* hot dog blanket
-to My Fellow Americans. I have a feeling I'm going to
-be pretty popular at my next BBQ.
+Throughout his reign Alexander the Great folded foreign customs into the society
+of his empire. I'm not one to claim I'm better than Alexander the Great so as
+Andrew the Alright I
+will follow his lead and take the waitings sausages and *lompe* hot dog blanket
+back to the States. I have a feeling I'm going to
+be the most popular person at my next BBQ.
 
 <h4 class="article-subheader">Oh Shit or: How I Learned to Stop Adulting and
 Lose My Phone</h4>
@@ -70,34 +64,35 @@ I'm halfway up the up escalator at RDU airport when I realize I've
 I've dispossessed myself of my phone out of pure stupidity. I quickly about face
 and sprint back down the up escalator in the hopes that Dani hasn't driven away yet.
 
-Dani agreed to chauffer me to the airport in exchange for the use of my car
-while I'm gone (but mostly because she's a good person). I see her just as I
-bound through one set of sliding doors & she through another, passing each
-other like the spinning bookcase scene from *Young Frankenstein*. She's halfway
-to the escalator before she hears my shouts echo through the terminal. She spins
-around and we exchange wide eyed looks of relief.
+Dani is a friend from my apartment who agreed to drive me to the airport in
+exchange for using my car while I'm gone. Dani is a friend from my apartment
+who is sprinting into the terminal with my phone.
+
+I see her just as I bound through one set of sliding doors & she through another,
+headed in opposite directions. She's halfway to the escalator before she hears
+my shouts echo through the terminal. She turns around and we exchange wide eyed
+looks of relief.
 
 "You went into the terminal and your music kept playing and I was like 'damn,
 your bluetooth range is great! Then looked down and saw your phone.'"
 
 "Thank you so much Dani. I am a moron."
 
-Catastrophe averted, my situation improves considerably when the American
-Airlines kiosk offers me a seat in first class for $45. That's a damn good deal,
-I'll take that deal. I am on holiday after all.
+Catastrophe averted, my situation improves considerably when the bag drop kiosk
+offers me a seat in
+first class for $45. That's a damn good deal, I'll take that deal.
 
 The flight to JFK is quick and easy, but not too quick to forego a few
 Goose Island IPAs.
 
-I drop my bags at cousin Michael's place in Crown Heights then hop on the 4
-express train to Brooklyn Heights to meet
-Michael and our other cousin Brett who is visiting for the weekend. I
+I drop my bags to take the 4 express train to Brooklyn Heights to meet
+cousin Michael and our other cousin Brett who is visiting for the weekend. I
 meet the gang on the Brooklyn Promenade overlooking lower Manhattan and my
 favorite stone tower hybrid cable stayed/suspension bridge.
 
 I meet Brett's girlfriend Cat and finally meet Michael's boyfriend Shane, who I
 have just missed on my last couple trips to the city. We stroll along the
-promenade then duck into The Binc for a round of cocktails. I order up a
+promenade then duck into ______ for a round of cocktails. I order up a
 Reykjavik 101, which seems like the most Viking of all the cocktails. The star
 of the cocktail is Aquavit, a Scandinavian neutral-grain or potato based liquor
 often flavored with caraway seeds.
@@ -106,7 +101,8 @@ After we finish our drinks an unspoken conversation occurs with a few weary
 looks between my compadres that says *are you tired as shit too? good.* Shane
 has work in the morning so he & Michael dip out while the three remaining
 engineers talk shop. We flag the bartender down to pay our tabs & he informs us
-that Shane payed for everybody. What a fuckin' guy. I knew I'd like Shane.
+that Shane payed for everybody. What a fuckin' guy. You're a good lad in my
+book.
 
 <h4 class="article-subheader">Manhattan Moseyin</h4>
 The next day I catch up on some much needed sleep before packing my rucksack and
