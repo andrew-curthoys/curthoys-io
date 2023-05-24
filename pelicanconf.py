@@ -44,7 +44,8 @@ DIRECT_TEMPLATES = ['index',
                     'misc/index',
                     'traveler/2021_04-ski_trip',
                     'traveler/2021_09-costa_rica',
-                    'traveler/2022_01-ski_trip']
+                    'traveler/2022_01-ski_trip',
+                    'traveler/2023_05-scandinavia']
 DELETE_OUTPUT_DIRECTORY = True
 
 THEME = 'custom_theme'

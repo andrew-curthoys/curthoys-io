@@ -284,7 +284,7 @@ Mike's cousin Heather's house in Hercules, CA. I don't take for granted that
 even my *cousin's cousin* opens her house to a distant non-blood relative. I'm
 pretty lucky to have such an amazing family.
 
-<h4 class="article-subheader">Ok One More Bridge</h4>
+<h4 class="article-subheader" id="bay-bridge">Ok One More Bridge</h4>
 
 On the way we drive over a bridge that I appreciate even more than the Golden
 Gate Bridge: the East Span

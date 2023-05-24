@@ -1,36 +1,20 @@
 {% extends "base.html" %}
 
-{% block title %}{{ "2023 Scandinavian Shenanigans" }}{% endblock %}
+{% block title %}{{ "2023 Scandinavian Sk&oslash;yestreker" }}{% endblock %}
 
 {% block content %}
 
 <!--
 TODO 
   * Fix trips section to show separate cards for each trip instead of one single row
-  * Fix link on cards that only go to ski trip page
+  * Fix link on cards that only go to Scandinavia page
 -->
 {% set photo_list = [
-"cow_tetons.JPEG",
-"can_whistler_day1_summit.JPEG",
-"rock2_copper.jpeg",
-"can_seton_waterfront.jpeg",
-"can_p2p_2.JPEG",
-"rock1_lone_peak1.JPG",
-"bend_mountain_beers.JPEG",
-"tahoe_high_camp_2022.JPEG",
-"rock1_spokane.jpeg",
-"utah_alta_alfs.png",
-"mammoth_1.JPG",
-"rock1_montucky.jpeg",
-"can_whistler_day2_glacier.jpeg",
-"sf_tank_winery.jpeg",
-"mammoth_tub_car.JPG",
-"mammoth_tub_guys.JPG",
-"sf_painted_ladies.jpeg",
-"rock1_shoshone_canyon.jpeg",
-"rock1_ps_bowl.JPG",
-"sf_weed.jpeg",
-"red_gold_beach_sunset.jpeg",
+"60_dog.jpeg",
+"60_norse_legroom.JPEG",
+"60_chippy1.JPEG",
+"60_jefferson1.JPEG",
+"60_oslo_by_air.jpeg",
 ]|shuffle
 %}
 
@@ -65,7 +49,7 @@ TODO
 <div class="container">
   <div class="row mb-2">
   {% for article in articles|reverse %}
-    {% if article.activity == '2022 Ski Trip Adventure' %}
+    {% if article.activity == '2023 Scandinavian Sk&oslash;yestreker' %}
     <div class="col-lg-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static" style="background-color: white">
@@ -75,13 +59,13 @@ TODO
           <a href=/{{ article.slug }}.html class="stretched-link"></a>
         </div>
         <div class="col-auto d-sm-none">
-          <img class="bd-placeholder-img" width="120" height="100%" src="/theme/images/traveler/2022_01-ski_trip/{{ article.photo }}" alt="Ski Trip" preserveAspectRatio="xMidYMid slice" focusable="false">
+          <img class="bd-placeholder-img" width="120" height="100%" src="/theme/images/traveler/2023_05-scandinavia/{{ article.photo }}" alt="Scandinavia" preserveAspectRatio="xMidYMid slice" focusable="false">
         </div>
         <div class="col-auto d-none d-sm-block d-md-none">
-          <img class="bd-placeholder-img" width="150" height="100%" src="/theme/images/traveler/2022_01-ski_trip/{{ article.photo }}" alt="Ski Trip" preserveAspectRatio="xMidYMid slice" focusable="false">
+          <img class="bd-placeholder-img" width="150" height="100%" src="/theme/images/traveler/2023_05-scandinavia/{{ article.photo }}" alt="Scandinavia" preserveAspectRatio="xMidYMid slice" focusable="false">
         </div>
         <div class="col-auto d-none d-md-block">
-          <img class="bd-placeholder-img" width="200" height="250" src="/theme/images/traveler/2022_01-ski_trip/{{ article.photo }}" alt="Ski Trip" preserveAspectRatio="xMidYMid slice" focusable="false">
+          <img class="bd-placeholder-img" width="200" height="250" src="/theme/images/traveler/2023_05-scandinavia/{{ article.photo }}" alt="Scandinavia" preserveAspectRatio="xMidYMid slice" focusable="false">
         </div>
       </div>
     </div>

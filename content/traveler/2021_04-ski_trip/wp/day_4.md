@@ -47,6 +47,7 @@ My reservation was for an SUV but they put me in an *suv* (lowercase, get it). I
 
 On the way to the hotel, Google Maps gives me one of those ambiguous exit descriptions and I get a little discombobulated on which lane I should be in. By the time I realize it the exit is coming up fast but I have some room to merge over and I swoop in, blinker activated all the way. Well apparently the old fella in the Ford Ranger behind me did not appreciate that. He laid on his horn and gave me the most exaggerated Dikembe Mutumbo “no sir” finger I’ve ever seen in a rearview mirror. Now I did move over a bit late and there wasn’t a huge amount of room but it wasn’t anything worth getting your knickers in a wad over. Futhermore, he was driving a Ford - who the hell does he think he is berating another driver while behind the wheel of that shitbox.
 
+<div id="bridges">
 Anyways, I pull into Portland and really dig the bridges. I like bridges for whatever reason and Portland has the weirdest variety of them. On brand. It’s also a lot more industrial than I would have expected. If you told me I was in a city on the Great Lakes I’d believe you. I guess my expectations were based off the cultural Portland stereotypes but when I think about it, it’s in a natural resource rich area of the country on a big ass river. Makes sense.
 
 <figure class="figure">
