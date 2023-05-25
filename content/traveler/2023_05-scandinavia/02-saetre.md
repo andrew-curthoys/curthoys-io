@@ -14,23 +14,9 @@ short_sum:
 summary: 
 
 <h4 class="article-subheader">Who's Ready for Some Waiting Sausages (cont.)</h4>
-The town of S&aelig;tre sits 45 km southwest of downtown Oslo on the
-Hurumlandet Peninsula near the Dr&oslash;bak Sound, which separates the Inner
-from the Outer Oslofjorden. Sondre is a 3rd generation Huringer - his far and his
-farfar both hail from S&aelig;tre.
-
-Which leads me to a quick digression. In Norwegian, the word for father is *far*
-and mother is *mor*. Your paternal grandparents are *farfar* and *farmor*, i.e
-father's father & father's mother. Same for your maternal side: *morfar* &
-*mormor*, which is a cleverly efficient way to avoid asinine questions like
-"Is granpa Bj&oslash;rn your dad's dad or your mom's dad?"
-
-Anyway, we're sitting on Sondre's parents\* rooftop terrace enjoying a Rignes
+I'm sitting on Sondre's parents' rooftop terrace enjoying a Rignes
 pilsner when Big Tom utters 6 words that have changed my perception of what it
 means to be alive...
-
-\*I don't want to have to deal with awkward plural apostrophes so I will
-heretofore refer to the house of the parents of Sondre as "SPH"
 
 "Who's ready for some waiting sausages?"
 
@@ -43,6 +29,49 @@ Now Big Tom is no ordinary host. He's a host of the highest order, which you can
 tease out from the fact he did not say "who's ready for **a** waiting
 sausage." Because just as I finish my first *p&oslash;lse med lompe* Chef Tom
 hits me with another. Hell I might move to Norway just to wait around.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_rooftop_night.jpeg" alt="Rooftop">
+  <figcaption class="figure-caption">Vakker utsikt.</figcaption>
+</figure>
+
+While we're noshing our *p&oslash;lse med lompe*, Big Tom is working the grill.
+Bleu cheese stuffed mushrooms, jalape&ntilde;os, corn on the cob, and potatoes
+occupy the grate's real estate. Last on is the star of the show, 4 beautiful
+cuts of marinated beef. A feast for a *konge*!
+
+Once the steaks are grilled to a perfect medium rare Big Tom pulls the steaks
+and opens a bottle of red. As the steaks rest he puts the finishing touches on
+a luscious b&eacute;arnaise sauce. I attack the meal with a gluttonous spree of
+gastronomic glee, stretching my ventriculus to its limits. We decide it's in our
+best interest to open another bottle of red and chat about what's been going
+on with our families.
+
+At one point during the meal Monica asks me if I'm tired and the only honest
+answer I could give was "I don't know? I think so?" The human body is a
+peculiar organism.
+
+Time has a tendency to fly by when in the presence of good wine, good
+conversation, and good company and before I know it I look at my watch and it's
+11 PM. This is the first of what will be multiple mind-blowing realizations that
+it's *way* later than I expected. This is because, despite being 23:00, there is
+still a dusky haze in the sky. It *feels* like 8 PM, it *looks* like 8 PM, but
+it's not 8 PM.
+
+I'm definitely tired now. Tired, stuffed, and buzzing on some delicious wine.
+I'd say it's high time to hit the hay. What a long strange trip it's been.
+
+I'm sitting on 
+The town of S&aelig;tre sits 45 km southwest of downtown Oslo on the
+Hurumlandet Peninsula near the Dr&oslash;bak Sound, which separates the Inner
+from the Outer Oslofjorden. Sondre is a 3rd generation Huringer - his far and his
+farfar both hail from S&aelig;tre.
+
+Which leads me to a quick digression. In Norwegian, the word for father is *far*
+and mother is *mor*. Your paternal grandparents are *farfar* and *farmor*, i.e
+father's father & father's mother. Same for your maternal side: *morfar* &
+*mormor*, which is a cleverly efficient way to avoid asinine questions like
+"Is granpa Bj&oslash;rn your dad's dad or your mom's dad?"
 
 <h4 class="article-subheader">Gratuler med Dagen</h4>
 After $20 and 20 minutes of impossibly smooth track the Flytoget airport train
@@ -162,12 +191,27 @@ To call Farfar Bj&oslash;rn a seafarer would be an understatement. He cannot
 comprehend how I would not know all the navigable waterways up and down the
 Eastern Seaboard. I mean he's sailed all of them & he lives an ocean away.
 
-"We left from Norway and sailed down
+"We left from Norway and sailed down through the North Sea and the English
+Channel, through the Bay of Biscay and then around Spain to the Canary Islands.
+We then sailed across the Atlantic to the Caribbean, through the Panama Canal
+and down the western coast of South America to Patagonia. From there we planned
+to go to French Polynesia, but (one of the parts of the sail, let's just
+call it the mizzen-jib) broke during a storm and we were unable to sail into
+the Pacific.
 
+We sailed back up the coast, got the (mizzen-jib) fixed in Panama, went back
+through the Panama Canal, through the Caribbean, and up the Intercoastal
+Waterway through the US. Are you sure you don't know the Great Dismal Swamp?"
 
+"I'd never heard of it before this conversation."
 
+"But you live in North Carolina!"
 
-"And how long did that take you?"
+"The US is a big place, Farfar Bj&oslash;rn!"
+
+"Yes, we sailed all the way from Florida to Maine"
+
+"And how long did this sailing around the world take you?"
 
 "6 years"
 
@@ -179,13 +223,6 @@ get sick of it after 6 days. But then again I grew up 500 miles from the nearest
 saltwater.
 
 <h4 class="article-subheader">Middagstid</h4>
-Big Tom has prepared a feast fit for a *konge*. While we're satiating ourselves
-on *p&oslash;lse med lompe*, Big Tom is working his magic on the grill.
-
-For supper we have bleu cheese stuffed mushrooms, roasted jalape&ntilde;os,
-roasted corn on the cob, roasted potatoes, and the star of the show, a beautiful
-cut of marinated beef grilled to a perfect medium rare topped with a luscious
-b&eacute;arnaise sauce.
 
 Then it's down to Sondre's parents' house and a 7 course steak dinner.
 
