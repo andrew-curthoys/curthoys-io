@@ -1,7 +1,7 @@
 title: Del To: S&aelig;tre Serenity
 slug: traveler/2022_05-scandinavia/02-saetre
 slug_base: traveler/2022_05-scandinavia
-day_alias: 60 Degrees North
+day_alias: S&aelig;tre Serenity
 prev_day: 01-60_deg_north
 next_day: 03-norway_day*
 date: 2023-05-12
@@ -13,43 +13,87 @@ activity: 2023 Scandinavian Sk&oslash;yestreker
 short_sum: 
 summary: 
 
-<h4 class="article-subheader">Who's Ready for Some Waiting Sausages (cont.)</h4>
-I'm sitting on Sondre's parents' rooftop terrace enjoying a Rignes
-pilsner when Big Tom utters 6 words that have changed my perception of what it
-means to be alive...
+<h4 class="article-subheader">Who's Ready for Some Waiting Sausages? (cont.)</h4>
+I'm enjoying a Rignes pilsner when 6 words strike my tympanic membrane that
+have since changed my perception of what it means to be alive...
 
 "Who's ready for some waiting sausages?"
 
-I've never been more ready for anything in my entire life, Big Tom. Sondre told
-me about the waiting sausage on our drive out to S&aelig;tre so I've been
-bristling with anticipation the whole afternoon. I might need a waiting
-sausage waiting sausage.
+I have to say I've never been more ready for anything in my entire life.
 
-Now Big Tom is no ordinary host. He's a host of the highest order, which you can
-tease out from the fact he did not say "who's ready for **a** waiting
-sausage." Because just as I finish my first *p&oslash;lse med lompe* Chef Tom
-hits me with another. Hell I might move to Norway just to wait around.
+A subtlety of the query that I did not immediately realize was "who's ready
+for ***some*** waiting sausages?" is an entirely different question than "who's
+ready for ***a*** waiting sausage?"
+Because just as I finish my first *p&oslash;lse; med lompe* another magically
+appears in my mitts. Hell I might move to Norway just to wait around.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_rooftop_night.jpeg" alt="Rooftop">
   <figcaption class="figure-caption">Vakker utsikt.</figcaption>
 </figure>
 
-While we're noshing our *p&oslash;lse med lompe*, Big Tom is working the grill.
-Bleu cheese stuffed mushrooms, jalape&ntilde;os, corn on the cob, and potatoes
-occupy the grate's real estate. Last on is the star of the show, 4 beautiful
+<h4 class="article-subheader">I Bet You're Wondering How I Ended Up Here</h4>
+This entire story starts over a dozen years ago.
+
+Fall 2010.
+
+Knock on the door.
+
+My brother Alex answers.
+
+In his underwear.
+
+"Hello, this is Sondre, he's your exchange student that will be staying with
+you this year."
+
+"Huh?"
+
+"Are your parents home?"
+
+"I don't know."
+
+"Can you check?"
+
+"Mooooommmmmmmmmmm!!!!"
+
+I have no earthly idea how my family ended up with an exchange student. On paper
+we seem like a perfectly reasonable family.
+
+
+The funny part about this entire story was that Sondre was sent to America as a
+punishment & ended up with my family. Because living with my family would only
+be a punishment if you hate fun. And Sondre certainly did not hate fun.
+
+He immediately ingratiated himself with my family and Timmy's friends. He
+immediately ingratiated himself with the delivery drivers for Hideaway Pizza.
+He immediately ingratiated himself with purveyors of Keystone Light.
+
+My parents treated him with the same laissez-faire attitude that they showed to
+their own 4 dopes. Did we turn out alright? Eventually, maybe?
+
+Sondre became part of the family. He introduces me to his friends as his
+"American brother." I do the same.
+
+While we nosh our *p&oslash;lse med lompe*, the chef works the grill, as is
+tradition. Atop the grate sit bleu cheese stuffed mushrooms, corn on the cob,
+jalape&ntilde;os, and potatoes. Last on is the star of the show, 4 beautiful
 cuts of marinated beef. A feast for a *konge*!
 
-Once the steaks are grilled to a perfect medium rare Big Tom pulls the steaks
+While we're waiting in a cylindrical processed meat product bliss
+Sondre's mom Monica asks me if I'm tired.
+
+"I... don't know? I think so?"
+
+My body seems to have shot well past *tired* to a state of catatonic delirium.
+It's a peculiar organism the human corpus.
+
+Once a perfect medium rare has been achieved Big Tom pulls the steaks
 and opens a bottle of red. As the steaks rest he puts the finishing touches on
 a luscious b&eacute;arnaise sauce. I attack the meal with a gluttonous spree of
 gastronomic glee, stretching my ventriculus to its limits. We decide it's in our
 best interest to open another bottle of red and chat about what's been going
-on with our families.
+on in our respective spheres.
 
-At one point during the meal Monica asks me if I'm tired and the only honest
-answer I could give was "I don't know? I think so?" The human body is a
-peculiar organism.
 
 Time has a tendency to fly by when in the presence of good wine, good
 conversation, and good company and before I know it I look at my watch and it's
@@ -71,7 +115,7 @@ Which leads me to a quick digression. In Norwegian, the word for father is *far*
 and mother is *mor*. Your paternal grandparents are *farfar* and *farmor*, i.e
 father's father & father's mother. Same for your maternal side: *morfar* &
 *mormor*, which is a cleverly efficient way to avoid asinine questions like
-"Is granpa Bj&oslash;rn your dad's dad or your mom's dad?"
+"Is grandpa Bj&oslash;rn your dad's dad or your mom's dad?"
 
 <h4 class="article-subheader">Gratuler med Dagen</h4>
 After $20 and 20 minutes of impossibly smooth track the Flytoget airport train
@@ -87,7 +131,11 @@ Per Aabel looking like he's having a great time.
 
 "Take a picture so I can see where you are"
 
-<little guy dancing photo>
+<figure class="figure container-fluid">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_per_aabel.jpg" alt="Per Aabel">
+  <figcaption class="figure-caption">Found a better photo on the line without
+	all the people mulling about.</figcaption>
+</figure>
 
 "On my way"
 
@@ -161,24 +209,43 @@ mental faculties are focused on three simple Norwegian words.
 
 *Dah-genn*
 
+After an hour of driving through some of the most idyllic countryside I've ever
+seen we arrive to farfar Bj&oslash;rn's house, sitting on a hill overlooking the
+Oslofjord on the south side of the town of S&aelig;tre.
 
+The literal translation of *farfar* is "fatherfather", a brutally efficient way
+of avoiding annoying questions like "is grandpa Bj&oslash;rn your dad's dad or
+mom's dad?"
 
-First stop is *farfar*'s house.
+*Farfar* = paternal grandfather
+*Farmor* = paternal grandmother
+*Mormor* = maternal grandmother
+*Morfar* = maternal grandfather
 
-"It's 
+You don't realize how much sense it makes until you hear it.
 
-farmor, which literally translates to "dadmom", which is a convenient way to
-avoid inane questions like, "Is grandma Evy your dad's mom or your mom's mom?"
+Farfar Bj&oslash;rn opens the door
 
-Farfar Bjorn sailed around the world over 6 years.
-From Norway to the Canary Islands, across the Atlantic to the Caribbean, through
-the Panama Canal
+"Hello! You must be Andrew!"
+
+"*Gratt-you-larry me doggun!*"
+
+\*puzzled look of ________ bemusement\*
+
+"Oh yes, *gratuler med dagen*, thank you! Come in! Come in! Welcome!"
+
+We climb the stairs to their deck overlooking the fjord. I'm blown away by the
+scenery. Surrounded by thickly wooded hills, the deck overlooks Oslofjorden with
+a view all the way to downtown Oslo. To a hayseed from Oklahoma I'm in awe that
+a place like this even exists.
+
+To a Norwegain this is just home.
 
 <h4 class="article-subheader">What Do You Mean You Don't Know About Cape Hatteras??</h4>
-"I'm sorry farfar Bj&oslash;rn, I've lived in North Carolina less than a year."
+"I'm sorry farfar Bj&oslash;rn, I only moved to North Carolina last summer."
 
 "It's Cape Hatteras! You live in North Carolina and don't know about Cape
-Hatteras? It's where you enter the Albemarle sound before The Great Dismal
+Hatteras? It's where you enter the Albemarle Sound before The Great Dismal
 Swamp!"
 
 "The what?"
@@ -201,7 +268,9 @@ the Pacific.
 
 We sailed back up the coast, got the (mizzen-jib) fixed in Panama, went back
 through the Panama Canal, through the Caribbean, and up the Intercoastal
-Waterway through the US. Are you sure you don't know the Great Dismal Swamp?"
+Waterway through the US.
+
+Are you sure you don't know the Great Dismal Swamp?"
 
 "I'd never heard of it before this conversation."
 
@@ -209,41 +278,53 @@ Waterway through the US. Are you sure you don't know the Great Dismal Swamp?"
 
 "The US is a big place, Farfar Bj&oslash;rn!"
 
-"Yes, we sailed all the way from Florida to Maine"
+"Yes, I know we sailed all the way from Florida to Maine"
 
-"And how long did this sailing around the world take you?"
+"And how long did this sailing trip around the world take you?"
 
 "6 years"
 
 "6 YEARS!!??"
 
-The indignation of incomprehensibilty that Farfar Bj&oslash; gave me is returned
+The indignation of incomprehensibilty that Farfar Bj&oslash;rn gave me is returned
 in kind when I heard this news. 6 years calling a sailboat home. I think I might
 get sick of it after 6 days. But then again I grew up 500 miles from the nearest
 saltwater.
 
-<h4 class="article-subheader">Middagstid</h4>
-
-Then it's down to Sondre's parents' house and a 7 course steak dinner.
+<h4 class="article-subheader">S&aelig;tre By Day</h4>
+After chatting with farfar Bj&oslash;rn about it's down to Big Tom & Monica's
+house for our aforementioned gourmet steak dinner.
 
 The next morning Monica makes us breakfast on the terrace, <all the brekky stuff>.
 I have to imagine heaven is like the past 12 hours.
 
-After brekky we head down to the water to check on the dock. Every year the
-residents on the fjord disassemble their docks for the winter. Every spring when
+During breakfast I'm introduced to two of Norway's proudest traditions, *brunost*
+and the *osteh&oslash;vel*. *Brunost*, literally translated as brown cheese is
+not *technically* a cheese but I don't want to hang out with people who define
+the strict regulations for the definition of cheese. Leftover whey is boiled
+down from the cheesemaking process until it caramelizes into a creamy, savory
+delicacy of confusingly high levels of amazingness.
+and the osteh&oslash;vel is the triangular cheese knife 
+
+
+
+After brekky we head down to the water to check on the dock. Every year
+residents on the fjord disassemble their docks for the winter. Then every spring
+after
 the ice melts the docks are reassembled. Traditional dockbuilding techniques
-are preserved - big ass mallets used to drive wooden piles into the mud of the
+are preserved - big ass mallets for driving wooden piles into the mud of the
 harbor, cross bracing hammered in place by hand, walkways lashed down each year
 anew.
 
 We ask Big Tom if he needs any help with the dock. Fortunately he says he has
-it under control and we are released of any labor. I would have helped. But I
-have soft hands and I'm still a bit jetlagged. Actually I would have just
-gotten in the way.
+it under control and we are released of any labor. I would have helped. *But* I
+have soft hands and I'm still a bit jetlagged. Now that I think about it I would
+have just gotten in the way.
 
-I can feel the caliber of the glares that the neighboring dock builders shoot
-our way behind grizzled faces and calloused hands. We make a quick stroll up
-to the town square to pay *farmor* a visit. She's preparing for a 
+The disappointed glares from the grizzled faces of the neighboring dock builders
+when we scurry away pierce my heart like a krókspjót  We make a quick stroll up
+to the town square to pay *farmor* a visit. She's preparing for a Constitution
+Day party
 
 Cape Hatteras
 

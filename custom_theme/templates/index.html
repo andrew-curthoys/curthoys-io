@@ -56,7 +56,7 @@
                     {% set _temp = latest_dict.update(
                       {article.activity: 
                         {'min_date': article.date,
-                          'slug': article.slug,
+                          'slug': article.slug_base,
                           'summary': article.summary}
                       })
                     %}
