@@ -10,7 +10,7 @@ category: Traveler
 subcat: Gallivanting
 photo: 60_oslo_by_air.jpeg
 activity: 2023 Scandinavian Sk&oslash;yestreker
-short_sum: Oslo, I'm comin' for ya
+short_sum: We're losing the hot dog technology war.
 summary: This is a travel story, sure. But this is a story about much, *much* more. This is a story about cuisine. This is a story about creativity. This is a story about culture.
 
 <h4 class="article-subheader">Who's Ready For Some Waiting Sausages?</h4>
