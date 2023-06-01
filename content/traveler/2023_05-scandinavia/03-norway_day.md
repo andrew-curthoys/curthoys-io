@@ -28,3 +28,9 @@ been working on,
 <h4 class="article-subheader">Champagne Breakfast</h4>
 The day started the way nearly every day starts in Norway on the 17th of May,
 with a champagne breakfast.
+
+Bread, scrambled eggs, 
+
+
+
+Don't do parade, don't eat ice cream

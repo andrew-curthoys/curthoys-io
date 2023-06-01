@@ -1134,7 +1134,7 @@ against the hike & head over to the lodge to see if there's at least a view
 from there. No dice. But the gift shop has a book on the best bars in the world,
 so I guess I got that goin' for me, y'know?
 
-<figure class="figure">
+<figure class="figure" id="bartenders">
   <div class="row">
     <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/sea_bar_book.jpeg" alt="Bar book">
   <figcaption class="figure-caption">I've been to all the ones in Houston, NBD</figcaption>

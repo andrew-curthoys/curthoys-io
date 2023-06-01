@@ -19,13 +19,14 @@ have since changed my perception of what it means to be alive...
 
 "Who's ready for some waiting sausages?"
 
-I have to say I've never been more ready for anything in my entire life.
+Funny you should ask, because I've never been more ready for anything in my
+entire life.
 
 A subtlety of the query that I did not immediately realize was "who's ready
 for ***some*** waiting sausages?" is an entirely different question than "who's
 ready for ***a*** waiting sausage?"
 Because just as I finish my first *p&oslash;lse; med lompe* another magically
-appears in my mitts. Hell I might move to Norway just to wait around.
+appears in my waiting paws. Hell I might move to Norway just to wait around.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_rooftop_night.jpeg" alt="Rooftop">
@@ -39,7 +40,7 @@ Fall 2010.
 
 A knock on the door.
 
-My brother Alex answers. In his underwear.
+My brother Alex answers... In his underwear.
 
 "Hello, this is Sondre, he's your exchange student that will be staying with
 you this year."
@@ -88,15 +89,31 @@ visiting his homeland but not my first *plan* to visit. A few years
 ago I saw a cheap flight deal to Norway & picked a random week in May... *of
 2020.*
 
-Yeah, that trip didn't happen. So this is my first *realized* trip to Norway.
+Yeah, that trip didn't happen. So this is my first *materialized* trip to
+Norway.
 
 Sondre grew up in a small town called S&aelig;tre, situated 45 km southwest of
-downtown Oslo on the Hurumlandet Peninsula. The Dr&oslash;bak Sound, separating
-the Inner from the Outer Oslofjorden, _______ ________ km to the east. His
-parents' house is perched on a hill overlooking the fjord, a stone's throw from
-the S&aelig;tre city center. It's is a sleek two story modern construction with clean
-lines, a wraparound deck, rooftop terrace, and indoor/outdoor hot tub. It blends
-the ______ modern________ with a warm coziness that feels chic yet comfortable.
+downtown Oslo on the Hurumlandet Peninsula. The narrowest part of the fjord,
+the Dr&oslash;bak Sound, separates the Inner from the Outer Oslofjorden a mere
+5 km to the east.
+ 
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_map.JPEG" alt="Saetre">
+  <figcaption class="figure-caption">That's a mighty nice fjord ya got there.</figcaption>
+</figure>
+
+The town's most famous resident is Morten Harket, the lead
+singer of the Norwegian band a-ha, which might not ring a bell, but this
+certainly will:
+
+<iframe class="mb-2" style="border-radius:12px" src="https://open.spotify.com/embed/track/2WfaOiMkCvy7F5fcp2zZ8L?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+His parents' house is perched on a hill overlooking the fjord, a stone's throw
+from the S&aelig;tre city center. The home is a sleek two story modern
+construction with clean lines, a wraparound deck, rooftop terrace, and
+indoor/outdoor hot tub. It blends minimalist functionalism with a warm coziness
+that feels chic yet comfortable. And high tech toilets that I couldn't figure
+out how to use.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_house.JPEG" alt="Saetre house">
@@ -105,7 +122,7 @@ the ______ modern________ with a warm coziness that feels chic yet comfortable.
 </figure>
 
 His parents Tom & Monica have welcomed this weary traveler from a faraway land
-with their characteristic kindness and hospitality. Tom, known as "Big Tom" due
+with their characteristic kindness and generosity. Tom, known as "Big Tom" due
 to his 6'7" stature, is an executive for a real estate developer in the Oslo
 area. S&aelig;trealleen, the mixed-use development in the city center of
 S&aelig;tre was built by Big Tom, as were a number of other
@@ -129,43 +146,17 @@ when the municipalities of Asker, R&oslash;yken & Hurum merged into a single,
 larger governing body. Before the consolidation she was the mayor of Hurum,
 which included S&aelig;tre. So you could say she's kind of a big deal.
 
-\*These "municipalities" are larger than cities but smaller than counties.
+\*These "municipalities" seem to most closely resemble US counties, while
+Norwegian counties are more akin to US states.
 
-While waiting for supper on the deck in a state of
-cylindrical-processed-meat-product bliss, Big Tom works works the grill, as is
-tradition. Atop the grate sit bleu cheese stuffed mushrooms, corn on the cob,
-jalape&ntilde;os, and potatoes. Last on is the star of the show, 4 beautiful
-cuts of marinated beef. A feast fit for a *konge*!
-
-Once a perfect medium rare has been achieved Big Tom pulls the steaks
-and puts the finishing touches on a luscious b&eacute;arnaise sauce. We open a
-bottle of Italian red and I attack the meal in a gluttonous spree of
-gastronomic glee, stretching my ventriculus to its limits. After cleaning our
-plates we decide it's in our best interest to open another bottle of wine. So we
-do just that and chat about what's been going on in our respective spheres.
-
-At some point in the conversation Monica asks me if I'm tired.
-
-"I... don't know? I think so?"
-
-My body seems to have shot well past *tired* to a state of catatonic delirium.
-It's a peculiar organism this mortal coil we inhabit.
-
-Time has a tendency to fly by when in the presence of good wine, good
-conversation, and most importantly, good company. Before I know it I glance at
-my watch to discover it's
-11 PM. This is the first of what will be multiple mind-blowing realizations that
-it's *way* later than I expected. This is because, despite being 23:00, there is
-still a dusky haze in the sky. It *feels* like 8 PM, it *looks* like 8 PM, but
-it's not 8 PM.
-
-I'm definitely tired now. Tired, stuffed, and buzzing on some delicious wine.
-I'd say it's high time to hit the hay.
+I could not have asked for better hosts. Big Tom and Monica have shown me a
+level of hospitality that I've done nothing to deserve but am grateful for
+nonetheless. Norwegian gjestfrihet at its finest.
 
 <h4 class="article-subheader">Gratuler Med Dagen</h4>
-The Norwegian leg of my trip started in the early afternoon after enduring the
-disorganized mayhem of Norse Atlantic. Bags in tow, I was quickly introduced to
-the nonchalant efficiency of Norwegian transit. $20 and 20 minutes over 30 miles
+The day started earlier this afternoon at Oslo Gardermoen Airport. After
+enduring the disorganized mayhem of Norse Atlantic, I was quickly introduced to
+the nonchalant efficiency of Norwegian transit. $20, 30 minutes, and 30 miles
 of impossibly smooth track were all that separated me from the Nationaltheateret
 station in downtown Oslo. A far cry from the $60 and 45
 minutes-to-an-hour-depending-on-traffic 9 mile Uber ride I took to JFK.
@@ -193,7 +184,7 @@ Didn't think that would actually work.
 5 minutes later my Norwegian brother shows up with a big bear hug. We head back
 down into the train station for the 4 train to Storo, Sondre's neighborhood
 5 km to the northeast. At 3:40 PM Oslo time I drop my bags & sink into his couch
-in a heap of #BUG delirious exhaustion. It's been 8 hours & 10 minutes since I
+in a heap of delirious exhaustion. It's been 8 hours & 10 minutes since I
 went wheels up in NYC and 12 hours since I dumped myself in an Uber outside
 Mikey's apartment. Feels like 12 days.
 
@@ -211,7 +202,7 @@ like a hippie."
 "Ok that's fair"
 
 Sondre whips me up a leftover burrito and a hot cup of joe. We split a beer
-and the combination of it all somehow hits the spot. I muster enough energy
+and the combination of it all somehow enlivens. I muster enough energy
 to toss a wad of clothes into my backpack for a slumber party in S&aelig;tre.
 
 We venture down to the basement where he walks up to a car whose tail is plugged
@@ -222,8 +213,6 @@ circling the automobile taking photos.
 
 "Yeah it's just an app on your phone and you can reserve a car for however long
 you want."
-
-"Convenient."
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_car.JPEG" alt="Rental car">
@@ -248,8 +237,8 @@ birthday yesterday & we should go with him a happy birthday"
 
 "Gurlendugendrundenrmndenemun! How is that hard??"
 
-"Let me look it up... Ohhh '*gratuler med dagen*'... Ok, I got it now,
-*grad-you-lurr med doggen*"
+"Let me look it up...  Ohhh, when it's spelled out it makes sense '*gratuler med
+dagen*'... Ok, I got it now, *grad-you-lurr med doggen*"
 
 "If you say that to my grandfather he will have no idea what you are saying"
 
@@ -271,7 +260,7 @@ mental faculties are focused on three simple Norwegian words.
 *Dah-genn*
 
 After an hour of driving through some of the most idyllic countryside I've ever
-seen we arrive to farfar Bj&oslash;rn's house, sitting on a hill overlooking the
+seen we arrive to *farfar* Bj&oslash;rn's house, sitting on a hill overlooking the
 Oslofjord on the southern edge of S&aelig;tre.
 
 A quick digression: in Norwegian, the word for father is *far*
@@ -334,11 +323,11 @@ Eastern Seaboard. I mean he's sailed all of them & he lives an ocean away.
 Channel, through the Bay of Biscay and then around Spain to the Canary Islands.
 We then sailed across the Atlantic to the Caribbean, through the Panama Canal
 and down the western coast of South America to Patagonia. From there we planned
-to go to French Polynesia, but (one of the parts of the sail, let's just
+to go to French Polynesia, but (one of the parts of the sailboat, let's just
 call it the mizzen-jib) broke during a storm and we were unable to sail into
 the Pacific.
 
-We sailed back up the coast, got the (mizzen-jib) fixed in Panama, went back
+So we sailed back up the coast, got the (mizzen-jib) fixed in Panama, went back
 through the Panama Canal, through the Caribbean, and up the Intercoastal
 Waterway through the US.
 
@@ -363,10 +352,42 @@ returned in kind when I hear this. 6 years calling a sailboat home. I think I
 might get sick of it after 6 days. But then again I grew up 500 miles from the
 nearest saltwater.
 
-<h4 class="article-subheader">S&aelig;tre By Day</h4>
 We chat with farfar Bj&oslash;rn for about an hour before our appointment with
 waiting sausages and red meat down at Big Tom & Monica's house.
 
+<h4 class="article-subheader">Middagstid</h4>
+While waiting for supper on the deck in a state of
+cylindrical-processed-meat-product bliss, Big Tom works works the grill, as is
+tradition. Atop the grate sit bleu cheese stuffed mushrooms, corn on the cob,
+jalape&ntilde;os, and potatoes. Last on is the star of the show, 4 beautiful
+cuts of marinated beef. A feast fit for a *konge*!
+
+Once a perfect medium rare has been achieved Big Tom pulls the steaks
+and puts the finishing touches on a luscious b&eacute;arnaise sauce. We open a
+bottle of Italian red and I attack the meal in a gluttonous spree of
+gastronomic glee, stretching my ventriculus to its limits. After cleaning our
+plates we decide it's in our best interest to open another bottle of wine. So we
+do.
+
+At some point in the conversation Monica asks me if I'm tired.
+
+"I... don't know? I think so?"
+
+My body seems to have shot well past *tired* to a state of catatonic delirium.
+It's a peculiar organism this mortal coil we inhabit.
+
+Time has a tendency to fly by when in the presence of good wine, good
+conversation, and most importantly, good company. Before I know it a quick
+glance at my watch reveals it's 
+11 PM. This is the first of what will be multiple mind-blowing realizations that
+it's *way* later than I expected. This is because, despite being 23:00, there is
+still a dusky haze in the sky. It *feels* like 8 PM, it *looks* like 8 PM, but
+it's not 8 PM.
+
+I'm definitely tired now. Tired, stuffed, and buzzing on some delicious wine.
+I'd say it's high time to hit the hay.
+
+<h4 class="article-subheader">S&aelig;tre By Day</h4>
 The next morning Monica makes us breakfast on the terrace. Four types of breads,
 fried eggs, three different cheeses, cured meats, salmon, berry preserves, fresh
 strawberries, and orange juice round out the feast. I have to imagine heaven is
@@ -386,6 +407,11 @@ down from the cheesemaking process until it caramelizes into a creamy, savory
 delicacy of confusingly high levels of amazingness. And the osteh&oslash;vel is
 the triangular cheese knife with the slit near the handle you've probably seen
 on a wedding registry.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_brunost.jpg" alt="Bunost">
+  <figcaption class="figure-caption">Brunost & osteh&oslash;vel.</figcaption>
+</figure>
 
 After brekky we head down to the water to check on the dock. Every year
 residents on the fjord disassemble their docks for the winter. Then after the
@@ -409,7 +435,7 @@ The disappointed glares that emanate from the grizzled faces of the neighboring
 dock builders as we scurry away pierce my heart like a krókspjót.
 
 From the dock we make a
-quick stroll to the town square to pay farmor Evy a visit. She's preparing
+quick stroll to the town square to pay *farmor* Evy a visit. She's preparing
 to host a Constitution Day\* party with a charming Norway-themed table set and a
 delicious cake that I want to try but can't ruin the decoration.
 
@@ -456,8 +482,9 @@ months & cost another NOK 35 million. And in 2011 the addition of emergency
 evacuation rooms cost NOK 40 million. So that's NOK 105 million, without even
 adding in the events that I couldn't track down cost estimates for: floods in
 2003 & 2008 and truck fires that shut down the tube in 2006 and 2011. In 2016
-alone the tunnel experienced over 200 temporary closures. I'm
-definitely biased but I think a bridge would have been a better choice.
+alone the tunnel experienced over 200 temporary closures.
+
+I'm definitely biased but I think a bridge would have been a better choice.
 
 <h4 class="article-subheader">Brage? No It's Brage</h4>
 As Sondre's American tutelage was coming to an end in the spring of 2011, his
@@ -496,11 +523,10 @@ the dumb American tourist stereotype.
 
 After the cafe I duck into an Irish pub called Lincoln, mostly because that's
 the same name as one of my best good buddy Easley's favorite watering holes in
-Boston. When ordering a
-beer from the rail the barkeep asks me if I want the pilsner to which I reply
-"si". Because I guess my dumb brain just substitutes \*any foreign language\*
-with the only other one I (kinda) know. It wouldn't be as embarrassing if I
-didn't do it a dozen more times in the next week.
+Boston. When ordering a beer from the rail the barkeep asks me if I want the
+pilsner to which I reply "si". Because I guess my dumb brain just goes
+&lt;insert foreign language here&gt; and Spanish is the only one I (kinda) know. It
+wouldn't be as embarrassing if I didn't do it a dozen more times in the next week.
 
 <figure class="figure">
   <div class="row">
@@ -544,11 +570,14 @@ As we're ambling to the pub I notice the word "barcode" on a lot of restaurant s
 "No, this is called the barcode district, because these tall skinny buildings
 look like a barcode from the water."
 
-<barcode from the sea photo>
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_barcode.jpeg" alt="Barcode">
+  <figcaption class="figure-caption">I can see it.</figcaption>
+</figure>
 
 We arrive to Pokalen just before Sondre's beloved Arsenal kicks off against
-____________. Arsenal are the biggest rivals of Tottenham, the Premier League
-team I've supported my entire life (the past 4 years), but I'm in no position to
+Brighton. Arsenal are hated rivals of Tottenham Hotspur, the Premier League
+team I've supported my entire life (the past 4 years). But I'm in no position to
 talk trash because the last few years have seen dysfunction and shit football
 from the Spurs. It's frankly embarrassing.
 
@@ -558,42 +587,83 @@ the title for Man City. Sondre is not happy. I join him on the sourpuss express
 when I discover that someone has walked off with my jacket that I set on a
 table.
 
+<figure class="figure container-fluid">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_sondre_sad.JPEG" alt="Arsenal">
+  <figcaption class="figure-caption">Pobrecito.</figcaption>
+</figure>
+
 We hang around after the game with a round of Harvey Wallbangers and more than a
-few rounds of Freydenlund Pilsner. The Wallbanger is a simple drink: vodka,
+few rounds of Frydenlund Pilsner. The Wallbanger is a simple drink: vodka,
 Galliano, orange juice - a glorified screwdriver. But it's nearly impossible to
-order in the States for the simple fact that hardly any bars stock Galliano, an
-Italian liquor __________.
+order in the States for the simple fact that hardly any bars stock Galliano, a
+sweet herbal Italian liquer with flavors of vanilla-anise and citrus.
 
-As we enjoy our barley sammiches I'm once again bitten by the disorienting time
-warp that comes with gallivanting around at 60&deg; North. I glance at the time
-and it's 9 PM. And completely bright outside. I did this exact same thing last
-night and I still fell for it again. If you really want your mind blown, pull up
-a map and see how far up the North American landmass Oslo would sit. It's
-halfway up Canada & farther north than the southernmost point of Alaska. I
-don't think I want to experience what it's like here in January.
+We pair our beers & 'bangers with another Norwegian delicacy: bacon snacks.
+These puffed wheat/potato starch squares brandish cartoonish bacon stripes and
+artificial "bacon" flavoring. They are, of course, served into a paper bucket
+from a contraption that resembles a movie theater popcorn machine. It brings me
+joy to report they are produced by a company called "Mr Slush". It brings me
+pain to report how many nonsensical bar snacks I consumed.
 
-We finish up at Pokalen and make one final pit stop on the way home. The last
-time I was in Seattle I purchased myself a book called "Where Bartenders Drink:
-The Last Word on the Glass." One of the 5 listings for Oslo is just a short skip
-away so we stop at Himkok for a nightcap. One of the servers roaming the bar
-instantly recognizes Brage and sets us up at a nice table right by the courtyard.
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_galliano.jpeg" alt="Galliano">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_bacon_snacks.JPEG" alt="Bacon snacks">
+    </div>
+  </div>
+  <div class="row">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_bangers.JPEG" alt="Harvey Wallbangers">
+	</div>
+  <figcaption class="figure-caption">Sunday Funday.<figcaption>
+</figure>
 
-The menu is divided by ingredient, i.e. a page with a cocktail inspired by
-strawberries, another based on rhubarb.
+<h4 class="article-subheader">Ok, Just One Bridge Really Quick</h4>
+As we finish up at Pokalen we stroll out into the 9 PM Oslo sunshine. Separating
+the Barcode district from the city center is a 13-lane train station transected
+by a beautiful pedestrian bridge called the Akrobaten.
 
-"For you, my friends, I would recommend the 'Bun' to get the full Norwegian
-experience. It's made with _______________ and topped with a vanilla pastry.
-I would recommend drinking half the cocktail, eating the bun, then noticing how
-it affects the flavor of the drink."
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_bridge1.JPEG" alt="Akrobaten">
+  <figcaption class="figure-caption">Hey Brage.</figcaption>
+</figure>
 
-"I don't know about you guys but I'm sold"
+The transverse asymmetry of the bridge is its most striking feature. The 
+footpath is suspended from above, but the support pillars only rise
+from one side. An arrangement that *should* topple over. But it doesn't because
+the pillars rise at an angle from below the longitudinal center of gravity and
+the tubular steel truss that holds the suspenders is rotated off-center to 
+balance the load. It's subtle but really clever engineering.
 
-"A round of Buns for the fellas"
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_bridge2.JPEG" alt="Akrobaten">
+  <figcaption class="figure-caption">Say it with me: asymmetry!</figcaption>
+</figure>
 
-## Fill in about drink once we get the ingredients
+A Tripadvisor review for the Akrobaten from December 2019 is simply titled
+"**Just a Bridge**". The unimpressed ambler from Lichfield, UK remarked,
+
+*It's really just a bridge like any other bridge, which cosses over the railway
+with some views of the great buildings as you cross it.*
+
+Oh is it? Is it just like any other bridge? Like any other bridge that won 1st
+Prize for extraordinary steel & composite bridges at the European Award for
+Steel Bridges in 2012?
+
+Just like any other bridge. Smh.
+
+<figure class="figure container-fluid">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_bridge3.JPEG" alt="Akrobaten">
+  <figcaption class="figure-caption">But think of the forces!</figcaption>
+</figure>
+
+Ok, Sondre & Brage are starting to get annoyed.
 
 Since Sondre & I are planning to work tomorrow we decide we've had our fill of
-revelry and hop on the bus back to his apartment. Just two days of grindin' then
+revelry and hop on the bus back to his apartment. I've powered through my jet
+lag & I'm livin' on Oslo time. Just two days of grindin' then
 we're onto Constitution Day.
 
 Giddy up
