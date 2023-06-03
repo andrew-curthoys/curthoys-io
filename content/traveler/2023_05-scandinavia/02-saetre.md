@@ -3,7 +3,7 @@ slug: traveler/2022_05-scandinavia/02-saetre
 slug_base: traveler/2022_05-scandinavia
 day_alias: S&aelig;tre Serenity
 prev_day: 01-60_deg_north
-next_day: 03-norway_day*
+next_day: 03-norway_day
 date: 2023-05-13
 post_date: 2023-05-30
 category: Traveler
@@ -19,8 +19,7 @@ have since changed my perception of what it means to be alive...
 
 "Who's ready for some waiting sausages?"
 
-Funny you should ask, because I've never been more ready for anything in my
-entire life.
+You know what? I've never been more ready for anything in my entire life.
 
 A subtlety of the query that I did not immediately realize was "who's ready
 for ***some*** waiting sausages?" is an entirely different question than "who's
@@ -69,7 +68,7 @@ we seem like a perfectly reasonable family. In practice we're closer to the
 Delta Tau Chi fraternity from Animal House.
 
 The funny part about the entire situation is that Sondre was sent to America as
-a punishment. Punishment because he missed ***175 days*** of school the previous
+a punishment. Punishment because he missed ***75 days*** of school the previous
 year. Funny because the only way living with my family could be considered
 punishment is if you hate fun. And Sondre certainly did not hate fun.
 
@@ -202,8 +201,9 @@ like a hippie."
 "Ok that's fair"
 
 Sondre whips me up a leftover burrito and a hot cup of joe. We split a beer
-and the combination of it all somehow enlivens. I muster enough energy
-to toss a wad of clothes into my backpack for a slumber party in S&aelig;tre.
+and the combination of it all somehow enlivens my somnolent soul. I muster
+enough energy to toss a wad of clothes into my backpack for our slumber party in
+S&aelig;tre.
 
 We venture down to the basement where he walks up to a car whose tail is plugged
 into the wall and clicks some button on his phone to make it beep. He starts
@@ -303,7 +303,7 @@ a place like this even exists.
 To a Norwegain this is just home.
 
 <h4 class="article-subheader">What Do You Mean You Don't Know About Cape Hatteras??</h4>
-"I'm sorry farfar Bj&oslash;rn, I only moved last summer."
+"I'm sorry farfar Bj&oslash;rn, I only moved there last summer."
 
 "It's Cape Hatteras! You live in North Carolina and don't know about Cape
 Hatteras? It's where you enter the Albemarle Sound before The Great Dismal
@@ -315,7 +315,7 @@ Swamp!"
 
 "I have no idea what that is"
 
-To call Farfar Bj&oslash;rn a seafarer would be an understatement. He cannot
+To call farfar Bj&oslash;rn a seafarer would be an understatement. He cannot
 begin to fathom how I wouldn't know all the navigable waterways up and down the
 Eastern Seaboard. I mean he's sailed all of them & he lives an ocean away.
 
@@ -337,7 +337,7 @@ Are you sure you don't know the Great Dismal Swamp?"
 
 "But you live in North Carolina!"
 
-"The US is a big place, Farfar Bj&oslash;rn!"
+"The US is a big place, farfar Bj&oslash;rn!"
 
 "Yes, I know! We sailed all the way from Florida to Maine!"
 
@@ -347,7 +347,7 @@ Are you sure you don't know the Great Dismal Swamp?"
 
 "6 YEARS!!??"
 
-The indignation of incomprehensibility that Farfar Bj&oslash;rn showed me is
+The indignation of incomprehensibility that farfar Bj&oslash;rn showed me is
 returned in kind when I hear this. 6 years calling a sailboat home. I think I
 might get sick of it after 6 days. But then again I grew up 500 miles from the
 nearest saltwater.
@@ -431,7 +431,7 @@ Now that I think about it I would have just gotten in the way.
   <figcaption class="figure-caption">You got a great lookin' dock, Big Tom.</figcaption>
 </figure>
 
-The disappointed glares that emanate from the grizzled faces of the neighboring
+The disappointed glares from the grizzled faces of the neighboring
 dock builders as we scurry away pierce my heart like a krókspjót.
 
 From the dock we make a
