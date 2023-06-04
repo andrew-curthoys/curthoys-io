@@ -24,19 +24,7 @@ stupid it just might work,
 "Hey I'm American, what's your name?"
 
 Well, to be accurate, this suave line was delivered to Louise's friend Martine,
-after which I complimented her *bunad*, the traditional Norwegian folk costume
-that's commonly worn on Norway Day. While the modern bunad is a
-20th century invention meant to invoke traditions of the past, it still takes
-inspiration from outfits worn by Norwegians as far back as the 18th century.
-Every bunad is different, but they typically consist of elaborate embroidery,
-scarves, shawls, stockings, and handmade jewelry known as s&oslash;lje. Most
-s&oslash;lje are made of silver, a material that's steeped in Norwegian lore.
-Legend has it that the silver mines belonged to the mountain trolls & the
-wearer of silver would be protected against sickness, rotten weather, and bad
-luck.
-
-A bunad should reflect the family or regional heritage of the wearer. It serves
-as an homage to your heritage.
+after which I complimented her 
 
 So while I'm chatting with Martine, Louise sidles up to let me know I'm
 barking up the wrong tree.
@@ -75,6 +63,11 @@ wings in my day, but this is the first time I've eaten them for breakfast.
 
 Once the food is tabled, the crew participates in a champagne toast 
 
+After the toast everyone fills their plate and finds whatever couch, chair,
+bench, ledge, armrest, or other ass-cheek sized horizontal surface 2-3 feet off
+the ground that's available for 15 people in a 1 bedroom downtown Oslo apartment.
+I enjoy a few glasses of champagne over breakfast before switching to beer.
+
 
 <h4 class="article-subheader">This is Where The Parade Came</h4>
 "Wait.... what parade?"
@@ -94,13 +87,24 @@ parade you shouldn't have gone to Spain!"
 
 "Sondre!"
 
-Sondre's girlfriend Nora is (rightfully) incensed that I did not see the parade
-nor ate mountains of ice cream. But to be fair she did leave the country the
-week of the 17th, which should be a crime in my opinion.
+Sondre's girlfriend Nora is (rightfully) incensed that I did not attend the
+parade while indulging in mountains of ice cream. *2 scoops? Make it 3, I'm not
+driving*. But to be fair she did leave the country
+the week of the 17th, which should be a crime in my opinion.
 
-<div class="tenor-gif-embed" data-postid="24460693" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/jail-no-excuse-gif-24460693">Jail No GIF</a>from <a href="https://tenor.com/search/jail-gifs">Jail GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed mb-3" data-postid="24460693" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/jail-no-excuse-gif-24460693">Jail No GIF</a>from <a href="https://tenor.com/search/jail-gifs">Jail GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-Don't do parade, don't eat ice cream
+We're currently standing in front of the Royal Palace, looking down upon Karl
+Johans Gate, the main street of Oslo. This is the final stretch of the parade
+route, where the paradegoers get an official wave from the Royal Family.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_parade_route.jpeg" alt="Parade Route">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_parade.jpeg" alt="Parade">
+  <figcaption class="figure-caption">You can imagine what it'd be like though
+	right?</figcaption>
+</figure>
+
 
 <h4 class="article-subheader">Suit Up</h4>
 One major difference between the US American Independence Day and Norwegian
@@ -227,3 +231,21 @@ Bjornstjerne Bjornson, who wrote the national anthem, suggested staging a parade
 just for primary school pupils, representing Norway’s bright future."
 
 https://www.independent.co.uk/news/world/europe/norway-day-constitution-ice-cream-children-marches-national-holiday-a8916266.html
+
+At the bar _______ gave me his 3 presidents lapel pin
+
+
+
+*bunad*, the traditional Norwegian folk costume
+that's commonly worn on Norway Day. While the modern bunad is a
+20th century invention meant to invoke traditions of the past, it still takes
+inspiration from outfits worn by Norwegians as far back as the 18th century.
+Every bunad is different, but they typically consist of elaborate embroidery,
+scarves, shawls, stockings, and handmade jewelry known as s&oslash;lje. Most
+s&oslash;lje are made of silver, a material that's steeped in Norwegian lore.
+Legend has it that the silver mines belonged to the mountain trolls & the
+wearer of silver would be protected against sickness, rotten weather, and bad
+luck.
+
+A bunad should reflect the family or regional heritage of the wearer. It serves
+as an homage to your heritage.
