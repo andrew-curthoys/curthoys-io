@@ -68,8 +68,53 @@ bench, ledge, armrest, or other ass-cheek sized horizontal surface 2-3 feet off
 the ground that's available for 15 people in a 1 bedroom downtown Oslo apartment.
 I enjoy a few glasses of champagne over breakfast before switching to beer.
 
+Yesterday I scooped up a selection of &oslash;l from the grocer below Sondre's
+apartment. Among the offerings are the VestKyst IPA from Kinn Bryggeri, the
+Littlebro Session IPA & Czech-Style Pils from &AElig;gir Bryggeri, the Fjord
+Session IPA from Tya Bryggeri, the Pale Ale & Brown Ale from N&oslash;gne
+&Oslash; and a few Frydenlund Pales Ale just to be on the safe side.
 
-<h4 class="article-subheader">This is Where The Parade Came</h4>
+As I crack into oone of the IPAs, ____________ inquires,
+
+"What kind of beer is that?"
+
+"It's an IPA, it's really good, you want to try it?"
+
+"Oh no, I don't like *eepas*"
+
+"Oh well you're missing out, I love *eepas*"
+
+And this is the first, but not last, time that I pronounce IPA as *eepa*.
+
+We continue drinking our &Oslash;, *eepas*, and champagne milling about in
+Sondre's apartment and jockeying for a good spot on his balcony in the
+fabulous weather.
+
+After an hour or two the party moves to the rooftop terrace, where Sondre &
+friends introduce me to King of the Court, their simple yet deceptively fun
+ball & paddle game. The paddles are essentially oversized ping pong paddles and
+the ball is like a smaller, less dense lacrosse ball. The game pits the King
+vs a challenger, who must score two points against the King to take his crown.
+The King must only score a single point to send his lowly peon subject to the
+gallows and bring on fresh blood. It's blindingly simple, unexpectedly fun, and
+cycles through players quickly so everyone gets to play without a bunch of
+standing around.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_paddle1.JPEG" alt="King of the Court">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_paddle2.JPEG" alt="King of the Court">
+    </div>
+  </div>
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_paddle2.JPEG" alt="King of the Court">
+  <figcaption class="figure-caption">Action shot.<figcaption>
+</figure>
+
+
+<h4 class="article-subheader">This is Where The Parade Ended</h4>
 "Wait.... what parade?"
 
 "Did Sondre not take you to the parade?"
@@ -94,9 +139,30 @@ the week of the 17th, which should be a crime in my opinion.
 
 <div class="tenor-gif-embed mb-3" data-postid="24460693" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/jail-no-excuse-gif-24460693">Jail No GIF</a>from <a href="https://tenor.com/search/jail-gifs">Jail GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-We're currently standing in front of the Royal Palace, looking down upon Karl
-Johans Gate, the main street of Oslo. This is the final stretch of the parade
-route, where the paradegoers get an official wave from the Royal Family.
+The parade is one of the most beloved traditions of Constitution Day. All over
+the country, children assemble with their elementary schools to participate in
+the parade. Each school carries their official school banner and is typically
+accompanied by the school's marching band. The Oslo parade attracts over
+100,000 people to watch 100+ schools parade through town, waving Norwegian
+flags. The final stop of the parade is the Royal Palace, where the children
+pass by the Royal Family who display the
+*R&oslash;j&aelig;lw&aring;v&oslash;kk&aelig;r*\*, the official Royal Wave
+
+\*I just made that word up
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_royal_family.jpg" alt="Royal Family">
+  <figcaption class="figure-caption">R&oslash;j&aelig;lw&aring;v&oslash;kk&aelig;r!</figcaption>
+</figure>
+
+We're currently standing in front of the Royal Palace, looking down upon the
+final stretch of the parade route. The most remarkable thing that I notice is
+the complete lack of evidence that tens of thousands of Norwegians of various
+states of drunkenness occupied this exact same spot just two days ago. No litter,
+no vandalism, no evidence of hooliganry. The only evidence I saw in the days
+following the 17th was a newspaper vending box wearing three empty beer bottles
+as a crown. That's it. The Norwegians know how to party but they also know how
+to leave it like ya found it.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_parade_route.jpeg" alt="Parade Route">
@@ -104,6 +170,7 @@ route, where the paradegoers get an official wave from the Royal Family.
   <figcaption class="figure-caption">You can imagine what it'd be like though
 	right?</figcaption>
 </figure>
+
 
 
 <h4 class="article-subheader">Suit Up</h4>
