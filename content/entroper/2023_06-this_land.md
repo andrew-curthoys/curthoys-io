@@ -11,7 +11,43 @@ subcat: Dancing
 activity: 2023 American Dance Festival
 summary: 
 
+<h4 class="article-subheader">One-Two-Three-Four</h4>
+
+<p class="fs-4 fw-bold my-4" style="text-align:center;">WAIT FOR IT......</p>
+
+<i>Five-Six-Seven-Eight</i>
+
+One extra count behind the curtain
+
+<i>One-Two-Three-Four</i>
+
+Deep breath
+
+<i>Five-Six-Seven-Eight</i>
+
+Naked improv. Naked improv. Naked improv.
+
+<i>One-Two-Three-Four</i>
+
+Right foot on the Five
+
+Left foot on the Six
+
+Dick in the spotlight
+
+
+
+
+
+1-2-3-4
+
 <h4 class="article-subheader">"You should do this"</h4>
+You know what I think I will
+
+A story in how 7 words can change your life
+
+<>
+
 I open my Instagram to find a message from my wonderful cousin Laura, who I have
 <a href="/rambler/2021_11-nyc_marathon/marathon.html" target="_blank" rel="noopener noreferrer">written</a>
 <a href="/traveler/2022_01-ski_trip/06-seattle.html?id=laura" target="_blank" rel="noopener noreferrer">about</a>
@@ -275,3 +311,13 @@ The performance
 
 I exist in the dielectic state of craving praise while simultaneously being
 wholly unable to accept it.
+
+<h4 class="article-subheader">Andy, You Shit!</h4>
+As rehearsals continue & get more runs under our belt we get more comfortable
+with the piece. Less thinking and more emoting.
+
+And then the Saturday before the shows I was feeling really comfortable.
+
+And on the first nude pass I hit Mark with a pec blast.
+
+<Terry Crews gif?>
