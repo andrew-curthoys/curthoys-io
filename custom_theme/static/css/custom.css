@@ -53,6 +53,12 @@
 .text-semimuted {
     color: #656565;
 }
+.dict-def {
+    font-weight: bold;
+}
+.dict-def li span {
+    font-weight: normal;
+}
 .no-dec {
     text-decoration: none !important;
 }
