@@ -99,9 +99,11 @@ dance who is celebrating her 40th season teaching at the ADF summer intensive.
 A graduate of The Julliard School and former Dean of the ADF School, her
 accomplishments and accolades are far too extensive to detail here, but I
 encourage everyone to read about her magnificent career
-<a href="https://americandancefestival.org/2023/05/03/adf-dedicates-its-90th-anniversary-season-to-gerri-houlihan/" target="_blank" rel="noopener noreferrer">here</a>
+<a href="https://americandancefestival.org/2023/05/03/adf-dedicates-its-90th-anniversary-season-to-gerri-houlihan/" target="_blank" rel="noopener noreferrer">here</a>,
 and if you have the means, consider donating a few shekels to the Gerri
-Houlihan Scholarship Fund, which you can find in the above link.
+Houlihan Scholarship Fund. I had the
+pleasure to meet Gerri at one of our rehearsals and look forward to attending
+one of her classes, where she continues to advance the mission of ADF.
 
 This season features two companies who performed at the inaugural Durham
 festival, the Paul Taylor Dance Company and Pilobolus, the latter of which
@@ -112,7 +114,11 @@ ADF as "one of the nation's most important institutions."
 No pressure.
 
 <h4 class="article-subheader">The Performance Contains Nudity</h4>
-At first you had my curiosity. Now you have my attention. As a complete outsider
+At first you had my curiosity.
+
+**Now** you have my attention.
+
+As a complete outsider
 to the world of dance and longtime denizen of the world of overthinking,
 I couldn't help but ponder, "what exactly does 'contains
 nudity' mean?" Does *contains nudity* fall on a performance nudity scale that
@@ -166,23 +172,23 @@ What does contains nudity ***mean***?
 
 
 <h4 class="article-subheader">Submit A Headshot</h4>
-January 30th
-Deadline March 6th
--I have over a month, plenty of time
+The calendar reads January 30 when cousin Laura sends me the audition
+invitation. The deadline for applications is March 6th so I have *plenty* of
+time to apply.
 
-Requirements:
+Application requirements:
 
 * 150 word biography.
 * A short description why you want to partake in this performance.
 * Headshot.
 
-To most people this probably seems like a piece of cake. Knock it out between
-walkin' the dogs & fixin' supper. But for a habitual overthinker it ain't so
-easy. I just finished writing 90,000 words about a ski trip, so a
-150 word bio is a linguistical economy I can only aspire to. Then as
-to why I want to participate in this process and perform this piece? Where do I
-even begin? And then the headshot makes me feel like Kevin McCallister when he
-has to pack his suitcase.
+To most people this probably seems like a piece of cake. Just knock it out
+between walkin' the dogs & fixin' supper. But for someone with no relevant
+experience what do I include in my bio? And a *short* description why I want to
+partake in this performance? I'd need 10 sessions with a psychologist to even
+begin to answer that question.
+
+Then the headshot. I feel like Kevin McCallister packing his suitcase.
 
 SUBMIT.
 
@@ -194,8 +200,14 @@ Well at least I have a month to think it all over.
 
 So I spend the month *thinking* and not a minute of *doing*.
 
+Fast forward to Friday March 3rd and as I'm packing for a ski trip to Utah a
+towering wave of *oh shit* breaks over the beaches of Responsibility Island,
+distributing a flotsam of procrastination and anxiety.
+
 As the March 6 deadline looms ever more sinister with each passing day I realize
-my window to snag a headshot before I leave for my Utah ski trip on March 3rd is
+my window to snag a headshot before I leave for my
+<a href="/traveler/2022_01-ski_trip/11-utah.html" target="_blank" rel="noopener noreferrer">Utah ski trip</a>
+on March 3rd is
 rapidly closing. While working from home before my evening flight I spend my
 entire lunch break struggling to snap an adequate headshot.
 
