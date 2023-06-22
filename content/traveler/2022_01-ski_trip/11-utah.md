@@ -69,7 +69,7 @@ me to my room where I unload my gear. They have a beautiful home and I'm less
 than half an hour from 4 incredible ski resorts on my pass. I feel like I've
 died & gone to Utah.
 
-<figure class="figure">
+<figure class="figure" id="dogs">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_dogs1.jpeg" alt="Dogs">
   <figcaption class="figure-caption">ChaCha, Paco & Crosby (Not pictured:
   Geno. It's impossible to get all 4 to stay still for a photo)</figcaption>

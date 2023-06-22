@@ -1,4 +1,18 @@
-
+title: Showtime
+subtitle: Part 1 <i>and</i> 2 <i>and</i> 3 <i>and</i> 4: Showtime
+slug: entroper/2023_06-this_land/04-showtime
+slug_base: entroper/2023_06-this_land
+day_alias: This Land Is Your Land
+prev_day: 03-rehearsals
+next_day: /entroper/2023_06-this_land
+date: 2023-06-13
+post_date: 2023-06-20
+category: entroper
+subcat: Dancing
+activity: This Land Is Your Land
+photo:
+short_sum: This is it, don't get scared now
+summary: 
 
 
 
@@ -125,6 +139,23 @@ Dick in the spotlight
 
 1-2-3-4
 
+
+"Are you going to the talkback?"
+
+"The what now?"
+
+"The talkback"
+
+"Y'all have terms like *adagio* and *pli&eacute;* but the forum in which the
+choreographer discusses their art is called a talkback?"
+
+*annoyed glares*
+
+"Yes I'm going to the talkback"
+
+I'm just saying that even football coaches have *postgame press conferences*.
+I doubt half the coaches in the NFL could spell "conferences." A quarter
+probably can't spell "press."
 
 
 
