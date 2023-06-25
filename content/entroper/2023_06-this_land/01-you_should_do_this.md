@@ -167,8 +167,9 @@ brick wall, balance the pizza box on the handlebars, sit on the floor, and snap
 the most *serviceable* headshot in the history of headshots.
 
 If I knew I'd actually get the part I would have saved all the rejects for your
-bemusement. As it stands I only have the final picture. Which should attest to
-how bad the previous photos were.
+bemusement. As it stands I only have the final picture, which looks like I'm
+Elder Andy standing on your front porch asking if you want a free book about
+Jesus. Which should attest to how bad the previous photos were.
 
 Headshot &check;
 

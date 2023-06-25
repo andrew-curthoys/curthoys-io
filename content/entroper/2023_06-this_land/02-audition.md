@@ -247,28 +247,30 @@ dancing was not up to par.*
 Thank you so much for attending the audition, **but** *what the hell were you thinking?*
 
 I open the email & I'm relieved to find not a **but** but an invitation to a
-callback. I think that's good? The first rehearsal was to start tomorrow but
-Mark has decided to hold a callback instead.
+callback. I think that's good?
 
+*Thank you so much for attending the audition last night! Instead of holding a
+first rehearsal this Sunday, Mark would like to hold a callback.* ***You are
+invited to attend the callback.***
 
+The callback takes place the next morning, where we work through all the hits
+again. After about an hour we take a break and while we're all relaxing on the
+benches in the reception area of the studio Marks strides in with an
+announcement he delivers in the most understated tone possible,
 
-d
+"Ok so this is technically a callback but I like what I see and we're going to
+move forward with this group. So you've all made it. Is everyone comfortable
+continuing? We'll consider this the first rehearsal."
 
-Perhaps it's the Oklahoma Catholic upbringing but I have a hard time
-I love compliments but hate accepting them.
-I feel proud for putting myself out there. I also realize I didn't win the Nobel Prize.
-Would I have been as comfortable auditioning for a performance containing nudity
-if I were a woman? I can't say for sure. What I can say for sure as someone who
-has never performed, let alone performed in the nude, I never fretted over
-potential harassment stemming from walking naked in a room full of strangers.
-Concerns over the vulnerability that comes with that? Sure. Concerns with the
-ambient temperature of the performing space? Absolutely.
+Everyone shares shocked looks of unexpected excitement and mild bewilderment.
+Of course we're comfortable continuing. The mood of the studio lightens and we
+spend the next two hours rehearsing and adding new elements to the piece.
 
+I'm happy to report that all 4 founding members of the Durham Dance Mafia, Dana,
+Matt, Renay, and yours truly made the team. I'm glad we didn't have to resort to
+making Mark an offer he couldn't refuse.
 
-Fast forward to Friday March 3rd and as I'm packing for a ski trip to Utah a
-towering wave of *oh shit* breaks over the beaches of Responsibility Island,
-distributing a flotsam of procrastination and anxiety.
-
+So... I guess I'm going to be performing at American Dance Festival?
 
 <h4 class="article-subheader">American Dance Festival</h4>
 The American Dance Festival is a Durham-based dance studio and school dedicated
@@ -323,3 +325,7 @@ tree of modern dance." In the final line of the 1978 article, the NYT described
 ADF as "one of the nation's most important institutions."
 
 No pressure.
+
+
+
+After the first week we start putting together our costumes.

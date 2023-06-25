@@ -59,6 +59,10 @@
 .dict-def li span {
     font-weight: normal;
 }
+.flip-h{
+    display: inline-block;
+    transform: scale(-1, 1);
+}
 .no-dec {
     text-decoration: none !important;
 }
