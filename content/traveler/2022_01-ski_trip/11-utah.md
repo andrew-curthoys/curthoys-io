@@ -61,7 +61,7 @@ behemoth personalities collided.
 
 But I'm getting ahead of myself.
 
-<h4 class="article-subheader">The Crossroads of the West</h4>
+<h4 class="article-subheader" id="bob-lagayle">The Crossroads of the West</h4>
 I ring the doorbell in Holladay, Utah and I'm greeted with open arms by Bob,
 LaGayle, & their
 roving gang of canine rapscallions, Geno, Crosby, Paco, and ChaCha. They show
