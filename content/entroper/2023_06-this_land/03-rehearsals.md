@@ -104,16 +104,10 @@ in front of a bunch of people."
 
 Because that's exactly what he would say.
 
-
-Everyone got emotional
-
-Whatever it was everyone had their ow emotion that they were going through.
-All it was for me was just thinking about listening to FM 95.5 with my old man
-in Tulsa
-
-
-"Make sure to make your steps a little longer on the way back because you have
-to walk farther since it's on an angle"
+<h4 class="article-subheader">Pythagoras</h4>
+During our first rehearsal Mark gives us a pointer to help keep our lines
+straight, "make sure to make your steps a little longer on the way back because
+you have to walk farther since it's on an angle"
 
 At this point my brain starts calculating. It's a subconscious reaction that I
 have no control over.
@@ -129,12 +123,15 @@ At the next break I grab my phone.
 $\sqrt{65} = 8.0623$.
 
 Which means the distance we have to walk upstage is 0.778% longer than the
-distance we have to walk downstage. Or if we assume an average stride distance
+distance we have to walk downstage\*. Or if we assume an average stride distance
 of 2.5 ft, a difference of 1.87 inches over a total distance of 20 feet.
+
+\* I just learned what upstage & downstage meant
 
 I'm not saying there's a psychological difference in how far it *feels*.
 
-I'm just saying I'm a pedantic asshole whose brain doesn't have an off switch.
+I'm just saying the *actual* distance is pretty negligible. I'm also saying that
+I'm a pedantic asshole whose brain doesn't have an off switch.
 
 Which might be why I was able to pick up a dance performance based on
 counting and trigonometry so quickly. Perhaps.
