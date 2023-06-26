@@ -15,7 +15,7 @@ short_sum: Comfort zone? We don't need no stinking comfort zone!
 summary: 
 
 <h4 class="article-subheader">I Think I Will</h4>
-I open Instagram to find a message from my wonderful cousin Laura, a NYC-based
+I open Instagram to find a message from my cousin Laura, a NYC-based
 dancer. Laura is 5 days older and 5 times more mature than I. I have
 <a href="/rambler/2021_11-nyc_marathon/marathon.html" target="_blank" rel="noopener noreferrer">written</a>
 <a href="/traveler/2022_01-ski_trip/06-seattle.html?id=laura" target="_blank" rel="noopener noreferrer">about</a>
@@ -51,18 +51,20 @@ Mark Haim would like to restage the dance for a group of 14 performers from the
 NC community and is looking for a very diverse group in age, race, size and gender. 
 </div>
 
-Well.... it was fun while it lasted.
+Well....
+
+It was fun while it lasted.
 
 Of the roughly 1 million words in the English language, the descriptor
 "diverse" would be nowhere near the top of the list for a mid-30s straight white
 guy from Oklahoma.
 
 However, near the top of the same list you would
-surely find "misplaced confidence", so I decide to apply anyway.
+surely find "misplaced confidence", so I decide to apply anyway ¯\\_(ツ)_/¯
 
 My 7 word response to Laura initiated the fueling procedures for a pair of
 liquid rocket boosters programmed with a trajectory to launch me so far out of
-my comfort zone we're headed to another galaxy. Buckle up.
+my comfort zone we're headed to another galaxy.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/aud-insta_message.jpeg" alt="I think I will">
@@ -81,12 +83,15 @@ Application requirements:
 
 To most people this probably seems like a piece of cake. Just knock it out
 between walkin' the dogs & fixin' supper. But for someone with no relevant
-experience what the heck should I include in my bio? And a ***short***
+experience - what the heck should I include in my bio?
+
+And a ***short***
 description why I want
 to partake in this performance? I'd need 10 sessions with a psychologist to even
 begin to answer that question.
 
-Then the headshot. I feel like Kevin McCallister packing his suitcase.
+Then the headshot. I've never taken a headshot in my life. I feel like Kevin
+McCallister packing his suitcase.
 
 SUBMIT.
 
@@ -244,10 +249,10 @@ What does contains nudity ***mean***?
 
 <h4 class="article-subheader">Here Goes Nothin'</h4>
 The night before the application deadline I navigate the USS Procrastination
-through roiling seas in the ominous shadow of Responsibility Island's craggy
-coastline.
+through the roiling seas 'neath the ominous shadow of Responsibility Island's
+craggy coastline.
 
-I've been agonizing over these two simple prompts for weeks. I have a rough
+I've been agonizing over two simple prompts for weeks. I have a rough
 outline of a biography written in fits and starts. Then there's the matter of
 "why you would like to participate in this process and perform this piece?" The
 more I think about it the less I know why.
@@ -255,25 +260,27 @@ more I think about it the less I know why.
 After a killer day on the slopes at Park City, I ease into the recliner couch
 of our family friends Bob & LaGayle, who I stayed with during my
 <a href="/traveler/2022_01-ski_trip/11-utah.html?=bob-lagayle" target="_blank" rel="noopener noreferrer">2022 Funemployment Ski Trip Jubilee</a>.
-This trip I am joined by my mom, who cozies up on the other end of the couch
-with LaGayle's 4 tiny dogs.
+This trip to Utah I am joined by my mom, who cozies up on the other end of the
+couch with LaGayle's 4 tiny dogs.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/do_this-dogs.jpeg" alt="Dogs">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/utah_dogs1.jpeg" alt="Dogs">
-  <figcaption class="figure-caption">Top photo: Paco, ChaCha, & Geno. Bottom
-	photo: ChaCha, Paco, & Crosby. It's impossible to get all 4 in the same photo</figcaption>
+  <figcaption class="figure-caption">Top photo: Paco, ChaCha, & Geno.<br>Bottom
+	photo: ChaCha, Paco, & Crosby.<br>It's impossible to get all 4 in the same
+	photo.</figcaption>
 </figure>
 
 <div id="red-sparrow" class="mb-3">
 LaGayle fires up the 2018 Jennifer Lawrence & Joel Edgerton dark spy thriller
 <i>Red Sparrow</i> and I grab my laptop. I click, I clack, I make the final cuts
-of the words that auditioned for inclusion in my bio. I don't realize it at the
-time, but the backdrop of ballet dancers in the movie while I complete my
-application feels like kismet.
+of the words that auditioned for inclusion in my bio. 5 minutes into the movie
+Jennifer Lawrence pirouettes out onto the stage of the Bolshoi in a red and gold
+tutu & bodice. I don't realize it at the time, but the background ballet ambience
+while I complete my application now feels like kismet.
 </div>
 
-As for the "why" - I throw out everything I have written down to this point and
+As for the "why" - I throw out everything I've written to this point and
 just write how I feel at this moment.
 
 <figure class="figure">
@@ -286,10 +293,10 @@ ether of the internet. At the very least I can rest easy knowing I won't have
 the nagging question of "what if?"
 
 <h4 class="article-subheader">Ohhh, So THAT'S What "Contains Nudity" Means</h4>
-The next day after some incredible morning laps of waist deep powder, I head to
-Umbrella Bar in Canyons Village at the base of Park City Mountain. I order
-myself a bowl of chili and a Pint of Johnny's American IPA and pop open my
-email.
+The next day after some incredible morning laps of waist deep Utah powder, I
+head to Umbrella Bar in Canyons Village at the base of Park City Mountain. I
+order myself a bowl of chili and a Pint of Johnny's American IPA and pop open
+my email.
 
 <div class="text-muted fst-italic mx-3 mb-3">
 Thank you for applying to audition for Mark Haim’s This Land Is Your Land
@@ -297,18 +304,21 @@ co-presented by ADF and the Nasher this summer. As mentioned in the audition
 call, this performance contains nudity. Please watch the following video to
 understand the scope of the performance.
 <p class="text-center">...</p>
-Once you have watched the video, respond to this email by tomorrow, March 7 to confirm that you will be in attendance at the audition. Nudity will not be part of the audition. More information regarding the audition will be shared following your confirmation.
+Once you have watched the video, respond to this email by tomorrow, March 7 to
+confirm that you will be in attendance at the audition. Nudity will not be part
+of the audition. More information regarding the audition will be shared
+following your confirmation.
 </div>
 
 Alright, let's give it a look. I open the link and start scrolling to finally
-complete my quest to find the meaning of *contains*. We start fully clothed,
-looks like a few wardrobe changes, then BAM! Full, ass out, flappin' in the
-breeze nudity. So THAT'S what *contains* means.
+complete my quest to find the meaning of "contains". We start fully clothed,
+cycle through a few wardrobe changes, then BAM! Full on, ass out, flappin' in
+the breeze nudity. So THAT'S what *contains* means.
 
 I quickly realize I'm watching a group of naked strangers on my phone in the
 middle of a crowded ski bar & slam my phone face down on the bar where it
 remains for the rest of my meal. Don't want my other bar patrons to confirm
-their suspicions I'm some sort of weirdo.
+their suspicions that I'm some sort of weirdo.
 
 So *contains nudity=full nudity*. I'd be lying if I said I hadn't considered this
 possibility. But now that it's confirmed I have a decision to make.
@@ -327,14 +337,24 @@ up. I want to watch it start to finish to see what I'd be getting myself into
 should I choose to accept the mission.
 
 A split second into the video I realize that I *have* to say yes. The
-unmistakable, mesmerizing contralto of Patsy Cline snuggles up to me like an old
-friend. I've probably listened to *Walkin' After Midnight* hundreds of times.
-As kids our parents would play Patsy Cline CDs in our old Mercury sedan before
-Johnny boy came along and we became a minivan family. I can still belt out
-*I Fall To Pieces*, *Crazy*, and *She's Got You* in my sleep.
+unmistakable, mesmerizing contralto of Patsy Cline singing *Walkin' After
+Midnight* snuggles up to me like an old friend. I've probably listened to this
+song hundreds of times.  As kids our parents would play Patsy Cline on repeat in
+our old Mercury sedan before Johnny boy came along and we became a minivan
+family. And then they played Pasty in the minivan. I can still belt out *Walkin'
+After Midnight*, *I Fall To Pieces*, *Crazy*, and *She's Got You* in my sleep.
 
-I watch the rest of the video to see the rest of the performance but my
-decision has already been made.
+<div class="text-muted fst-italic mx-3 mb-3">
+I stopped to see a weeping willow</br>
+Crying on his pillow</br>
+Maybe he's crying for me</br>
+And as the skies turn gloomy</br>
+Night winds whisper to me</br>
+I'm lonesome as I can be
+</div>
+
+I watch the rest of the video to see the full performance but my
+decision has already been made. I type up a quick email before hitting the sack.
 
 *Hello Kelsey, I watched the performance and plan to attend the audition.*
 

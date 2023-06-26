@@ -14,16 +14,16 @@ photo:
 short_sum: Right foot odd, left foot even. Until it isn't.
 summary: 
 
-<h4 class="article-subheader">Audition</h4>
+<h4 class="article-subheader">Clean Pair Of White-Soled Sneakers</h4>
 As someone who's never auditioned for anything I have no idea what to expect. I
 tried out for baseball when I was 10 but I don't think cranking dingers is gonna
 help me today.
 
 I don't even know what to wear. The only guidance from the email was a clean pair of
 white-soled sneakers. It also said there will be no nudity in the audition so
-I should probably supplement the shoes with some clothes. I opted for a pair of
+I should probably supplement the shoes with some clothes. I opt for a pair of
 breathable trousers and a plain dark v-neck. For the clean white-soled sneakers
-I chose the pair of white Asics I wore to officiate my good friends Brady &
+I choose the pair of white Asics I wore to officiate my good friends Brady &
 Shelby's wedding last summer. Maybe they got some magic in them yet.
 
 Raining before original audition.
@@ -39,21 +39,15 @@ I drop my bag on a bench in the reception area and tentatively stroll into the
 studio. A dozen or so people are scattered about in various states
 of stretching and mild calisthenics. I find a vacant patch of studio real estate
 and do as the Romans do. To even the most generous of observers my stretches
-would be considered *half assed*. Have I mentioned I don't know what I'm
-doing?
+would be considered *half assed*. I have to admit the Duke softball stadium
+right outside the window has me wishing I was rippin' taters and turnin' double
+plays.
 
 Right around 6 PM our choreographer Mark Haim gathers everyone to *ahem* put us
 through our paces.
 
 I remember from my film study it's a constantly flowing series of 8 step
-down & backs.
-
-1-2-3-4-5-6-7-8 pivot  
-1-2-3-4-5-6-7-8 pivot  
-1-2-3-4-5-6-7-8 pivot  
-1-2-3-4-5-6-7-8 pivot  
-
-I think I can handle that.
+down & backs. I think I can handle that.
 
 Mark divides the group into manageable chunks and watches everyone walk 8 step
 laps without music.
@@ -63,8 +57,11 @@ laps without music.
 1-2-3-4-5-6-7-8 pivot  
 1-2-3-4-5-6-7-8 pivot
 
-down & back, down & back, a series of "ope I forgot my keys, oh no there they
-are"
+A continuous series of  
+"ope I forgot my keys, oh no there they are"  
+"ope I forgot my keys, oh no there they are"  
+"ope I forgot my keys, oh no there they are"  
+"ope I forgot my keys, oh no there they are"
 
 Mark then turns on some music & tells us to lead with our right foot on the 1
 & pivot with our left on the 8.
@@ -103,6 +100,10 @@ switching feet means we switch the direction of our pivot.
 
 I stand no chance.
 
+<figure class="figure">
+	<iframe src="https://giphy.com/embed/kzuNhxVf27plttAS7E" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</figure>
+
 We do a few laps in our blobs before Mark lines us back up to do it in
 unison. I take one step and my brain freezes. I hop, I lurch, I trundle. But I
 sure as hell don't gallop. The once steady count in my head violently sublimates,
@@ -129,11 +130,21 @@ Mark colors each character with a story of an interaction with that individual
 or an archetype of the character. With each story I know exactly the person he's
 describing. If I can embody that person is another question.
 
-Halfway through the audition Mark calls us all together again and drops 
+We do some Sallys, we do some Lewistons. Some good (Renay, Dana, Matt, et al.).
+Some not so good (me).
 
-"We're going to go ahead and cut some folks right now, I hate to do this but
-we want to get some more looks at 
+Halfway through the audition Mark calls us all together again and drops a
+terrifying line that sends shivers through my spine,
 
+"We're going to go ahead and cut some folks right now, I *really* hate to do
+this but we want to get some more looks at a smaller group."
+
+This is the moment that I realize what an unbelievable opportunity I have. I
+can see the genuine pain in Mark's face when he has to tell people they've
+been cut. He's genuinely uncomfortable. I came into this on somewhat of a lark.
+I had no idea what I was getting into. The choreographer could be an asshole.
+The choreographer could have taken glee in cutting people. But each number he
+reads *pains* him.
 
 157
 
@@ -143,13 +154,19 @@ we want to get some more looks at
 
 168
 
+\**gulp*\*
+
 172
 
 176
 
+\**phew*\*
+
 He continues but I stop listening.
 
-170 is safe. For now.
+170 is safe.
+
+For now.
 
 One thing I might have going for me is we're now down to only 3 men at the
 audition. It could just be a numbers game at this point. And I will certainly
@@ -160,7 +177,10 @@ We do much of the same for another hour or so, Shirleys, Lewistons, skips,
 gallops... the fucking gallops... until Mark has seen all he needs to see and
 releases us.
 
-"Anybody want to go grab a beer?" I say to nobody and everybody all at once.
+As we're all mulling about the reception area gathering all our belongings I
+say to nobody and everybody all at once, 
+
+"Anybody want to go grab a beer?" 
 
 "Yeah, where were you thinking?" Dana cheerfully replies.
 
@@ -171,7 +191,7 @@ are coming. It's a great dive bar, I know all the bartenders."
 
 "Oh I'm *very* familiar with Accordion Club. I love that place! See you there!"
 
-Anticipating my condition I hitch up my steed at my apartment
+Anticipating my condition I hitch up my 6 cylinder steed at my apartment
 and set off to the saloon on foot. I show up to my new friends Dana, Renay, 
 and Matt halfway through their first sarsparilla. I mosey over to a stool and
 order up a Fairground Balloons Pale Ale.

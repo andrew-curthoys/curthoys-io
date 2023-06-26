@@ -424,29 +424,46 @@ Six ways of dying hung low on his side
 </div>
 
 <h4 class="article-subheader">About That Whole Nudity Thing</h4>
-Aside from the initial jolt of realization that this will involve *full* nudity
-I didn't have a problem with it. My only preparation was a strict diet
+I'll admit, when I first saw the video of the previous performance with *full
+nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
+trepidation. The trepidation quickly turned into an immature mirthfulness, where
+I was using cosmopolitan terms such as "hang dong" in an attempt to entice my
+friends from out of state to come to the performance. My only preparation for
+the nudity was a strict diet
 and maniacal workout program. Because who would know about vainglorious pursuits
 more than a man who built an entire website to write about himself.
 
-Having said that, I'm fully aware that my position as a man colors every aspect of how I feel
-about it. I've never felt overtly sexualized by another person. I've never been
-told I need to *smile more*. I've never been catcalled. I've never been felt
-uncomfortable in a room . I've never felt unsafe walking home at night. I've
-never been sexually assaulted.
+But I don't want to breeze over the nudity. Because I'm fully aware that my
+standing in society as a man dominates every aspect of how I feel about it. I've
+never felt overtly sexualized by another person. I've never been catcalled. I've
+never been told I need to *smile more*. I've never felt unsafe walking home at
+night. I've never carried pepper spray. I've never felt uncomfortable in a room
+full of men. I've never been sexually assaulted.
 
-I've never experienced the myriad unfortunate and inexcusable behavior directed
-at women in our society.
+I've never experienced the innumerable
+unfortunate and inexcusable incidents directed at women in our society.
+
+I have no frame of reference to relate to the women who are performing in this
+piece. I have no idea of each of their stories. But I have to assume that each
+of them has endured unwanted abuses however large or small that weighs on their
+decision to perform in this piece.
 
 I'm not brave for walking naked in a room full of people. Renay and McKelynn and
-Linda and Alexandra and Cate and Dana and Allie and Carrie and Alyce are.
-During a few of the breaks during rehearsal the topic of nudity would get
-brought up. Each woman had a different perspective, a different story, a
-different perception, a different journey.
+Linda and Alexandra and Cate and Dana and Allie and Carrie and Alyce are. They
+may not consider themselves brave but it takes a hell of a lot more courage for
+them to step around that curtain than it does for me. And I respect and admire
+them for it.
 
-Almost every conversation led to the requirement to separate nudity from
+A few times during rehearsal breaks the topic of nudity would get brought up.
+Each woman had a different perspective, a different story, a different mindset,
+a different journey. And each time this topic was broached, I realized it was
+time for me to shut the fuck up and listen and learn. Despite the fact that each
+woman had their own story of acceptance and comfort level with the nudity,
+almost every conversation ended up with the  to separate nudity from
 sexualization. Nearly every woman remarked that they were much more comfortable
 accepting the nudity when
+
+
 
 I can't speak for the other members of the cast but I was slightly surprised how
 quickly the nudity became just another part of the performance. I'm sure it had
