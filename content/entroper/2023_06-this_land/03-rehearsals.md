@@ -138,10 +138,10 @@ in unexpected ways. During the last rehearsal of our first week Mark introduces
 a new section of the performance that's an homage to the Covid pandemic. It's
 simple, it's moving, it's beautiful.
 
-After our first pandemic run-through the collective dam holding
-back everyone's emotional reservoir bursts, releasing a tsunami of
+After our first *pandemic* runthrough the collective dam holding
+everyone's emotional reservoir bursts, releasing a tsunami of
 sentimental feelings that leaves nary a dry eye in the studio. Each of us
-experiences our own unique emotional journey, each of us relates to one another
+experiences our own unique, personal emotional journey, which is shared
 through the shared language of weepy hugs. For me, it's as simple as remembering
 riding in the car with my dad, listening to country music on 95.5 FM. It's such
 a simple memory that carries the weight of the memories of a man whose
@@ -152,15 +152,15 @@ personality was so enormous everyone called him Big Daddy.
 	<figcaption class="figure-caption">I'm just a carefree range-ridin' driftin' cowpoke</figcaption>
 </figure>
 
-I just wish I could hear him say, "why the hell do you wanna walk around naked
-in front of a bunch of people."
+I wipe way the tears thinking how I just wish I could hear him say, "why the
+hell do you want walk around naked in front of a bunch of people."
 
 Because that's exactly what he would say.
 
 <h4 class="article-subheader">Pythagoras</h4>
 During our first rehearsal Mark gives us a tip to help keep our lines
 straight, "make sure your steps are a little longer on the way back because
-you have to walk farther since it's on an angle"
+you have to walk farther since it's on an angle."
 
 At this point my brain starts calculating. It's a subconscious reaction that I
 have no control over.
@@ -176,8 +176,8 @@ At the next break I grab my phone.
 $\sqrt{65} = 8.0623$.
 
 Which means the distance we have to walk upstage is 0.778% longer than the
-distance we have to walk downstage\*. Or if we assume an average stride distance
-of 2.5 ft, a difference of 1.87 inches over a total distance of 20 feet.
+distance we have to walk downstage\*. So if we assume an average stride distance
+of 2.5 ft that's a difference of 1.87 inches over a total distance of 20 feet.
 
 \*I just learned what upstage & downstage meant during rehearsal today.
 
