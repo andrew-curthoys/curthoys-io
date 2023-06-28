@@ -508,6 +508,13 @@ simply *humans*. A condition that does not know national borders, does not
 know ethnic rivalries, does not know racial tension. The more we strip away the
 more we realize how similar we all are.
 
+There are no national borders, no political ideologies, no religions affiliations.
+
+Carl Sagan, in his iconic Pale Blue Dot poetically remarked,
+
+<div class="quote">
+The Earth is a very small stage in a vast cosmic arena. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot.
+
 Am I saying the world would be a better place if we all walked around stark
 naked in front of a group of strangers? Maybe. Would it be a worse place? I
 doubt it.
@@ -522,3 +529,12 @@ I would always sit back and listen.
 <h4 class="article-subheader">If You Coat Your Jeans With Baby Powder</h4>
 
 <h4 class="article-subheader">Earworm</h4>
+Ronnie Milsap
+
+<h4 class="article-subheader">Slap Your Grandma</h4>
+In 2005's rhapsodic ode to healthy backsides, "Honky Tonk Badonkadonk," the bard
+of Sarepta Louisiana, Trace Adkins, 
+And ooh-wee, shut my mouth, slap your grandma
+
+
+A walk-on offensive lineman on the Louisiana Tech Bulldogs football team, Adkins left the team after his freshman season due to a knee injury, without ever playing in a game.[9]: 26 [10][11] Adkins never graduated. After leaving college, he worked on an oil rig.
