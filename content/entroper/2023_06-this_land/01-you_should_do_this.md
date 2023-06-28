@@ -326,9 +326,9 @@ possibility. But now that it's confirmed I have a decision to make.
 But first I have some more skiing to do.
 
 <figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/aud-twister.jpeg" alt="Twister">
-	<figcaption class="figure-caption">As an Oklahoman I'm morally obligated to
-	ski a run named "Twister"</figcaption>
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/aud-twister.jpeg" alt="twister">
+	<figcaption class="figure-caption">as an oklahoman i'm morally obligated to
+	ski a run named "twister"</figcaption>
 </figure>
 
 <h4 class="article-subheader">Well, We've Come This Far</h4>

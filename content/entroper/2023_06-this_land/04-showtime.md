@@ -18,7 +18,7 @@ summary:
 
 
 <h4 class="article-subheader">Nothin' To Say</h4>
-The most beautiful aspect of art in my opinion is that it's subjective. Every
+One most beautiful aspect of art in my opinion is that it's subjective. Every
 person who experiences the art brings their life experience & perspective to the
 piece
 
@@ -99,6 +99,10 @@ If he says right here on his website that he will help the less fortunate
 It sticks with me every time I hear it because I was that person. Substitute
 school for work and I was that person that had nothing to say.
 
+The first time I watched the piece, during what I felt was the most powerful
+section of the performance, I made an immediate connection to Woody
+Guthrie's *This Land Is Your Land*. I asked Mark if that was his intention and
+he said he had never even considered it.
 
 <h4 class="article-subheader">It's Art, Get It?</h4>
 The most wonderful part of Mark's piece is the fact that there's no message.
@@ -164,3 +168,29 @@ The performance
 
 I exist in the dielectic state of craving praise while simultaneously being
 wholly unable to accept it.
+
+
+<h4 class="article-subheader">Well, Here Goes Nothin'</h4>
+The hours leading up to the first performance are filled with much milling
+about and nonsensical banter.
+
+<h4 class="article-subheader">Overly Excited</h4>
+On my third pass I'm supposed to do a single skip on each of the first two laps
+then three skips each on the next two. First lap I nail it. The best skip you've
+ever laid eyes on. No notes. The second lap, however, I get a little
+overexuberant and hit the three skips one lap too early. I try to play it off as
+best I can and finish out the pass with no further gaffes.
+
+Behind the curtain I look to Cate,
+
+"Ugh I accidentally did 3 skips on the second lap. Whoops!"
+
+"OMG I did too!"
+
+"Ha! No way! I guess we're just a little over excited for our first performance"
+
+"Definitely"
+
+Seeing as we were in the middle of the line when we committed our faux pas it
+very well could have looked intentional. At least that's what we tell ourselves
+as we prepare to come out for some maxi skips.

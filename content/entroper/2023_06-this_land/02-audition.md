@@ -21,9 +21,9 @@ help me today.
 
 I don't even know what to wear. The only guidance from the email was a clean pair of
 white-soled sneakers. It also said there will be no nudity in the audition so
-I should probably supplement the shoes with some clothes. I opt for a pair of
+I should probably wear some clothes too. I opt for a pair of
 breathable trousers and a plain dark v-neck. For the clean white-soled sneakers
-I choose the pair of white Asics I wore to officiate my good friends Brady &
+I choose my white Asics that I wore to officiate my good friends Brady &
 Shelby's wedding last summer. Maybe they got some magic in them yet.
 
 Raining before original audition.
@@ -31,7 +31,7 @@ Raining before original audition.
 I arrive at ADF's Samuel H. Scripps Studios at quarter to 6 and check in
 with Kelsey, who hands me number 170 to pin to my
 shirt. Which can only mean one thing: I'm going to be the dancing equivalent of
-Josh Allen at this audition, only 10 times better. They snap a quick picture,
+Josh Allen, only 10 times better. They snap a quick picture,
 ostensibly to get a photo with my number, but most likely because my headshot was
 so amateurish.
 
@@ -58,10 +58,10 @@ laps without music.
 1-2-3-4-5-6-7-8 pivot
 
 A continuous series of  
-"ope I forgot my keys, oh no there they are"  
-"ope I forgot my keys, oh no there they are"  
-"ope I forgot my keys, oh no there they are"  
-"ope I forgot my keys, oh no there they are"
+"ope I forgot my keys, oh no they're in my pocket"  
+"ope I forgot my keys, oh no they're in my pocket"  
+"ope I forgot my keys, oh no they're in my pocket"  
+"ope I forgot my keys, oh no they're in my pocket"
 
 Mark then turns on some music & tells us to lead with our right foot on the 1
 & pivot with our left on the 8.
@@ -134,7 +134,7 @@ We do some Sallys, we do some Lewistons. Some good (Renay, Dana, Matt, et al.).
 Some not so good (me).
 
 Halfway through the audition Mark calls us all together again and drops a
-terrifying line that sends shivers through my spine,
+terrifying line that sends shivers down my spine,
 
 "We're going to go ahead and cut some folks right now, I *really* hate to do
 this but we want to get some more looks at a smaller group."
@@ -168,7 +168,7 @@ He continues but I stop listening.
 
 For now.
 
-One thing I might have going for me is we're now down to only 3 men at the
+One thing I might have going for me is we're now down to only 4 men at the
 audition. It could just be a numbers game at this point. And I will certainly
 not complain about getting let in on a technicality.
 
@@ -180,7 +180,7 @@ releases us.
 As we're all mulling about the reception area gathering all our belongings I
 say to nobody and everybody all at once, 
 
-"Anybody want to go grab a beer?" 
+"Anyone want to go grab a beer?" 
 
 "Yeah, where were you thinking?" Dana cheerfully replies.
 
@@ -326,6 +326,25 @@ guitar riffs and Dizzy Gillespie leading President Carter in a rendition of
 *Salt Peanuts*, The Paper of Record details the 45th season of the festival.
 It feels poetic that ADF is celebrating its 90th anniversary this season,
 exactly 45 years on from the first performances on Duke's campus.
+
+That 1978 class featured a young 19-year old student by the name of Madonna
+Ciccone, but today we just know her by her first name. A story that ran in the
+Charlotte Observer detailing the festival began thusly,
+
+*Her name is Madonna Ciccone, and her face matches her name.*
+
+*Round eyes, arched eyebrows, finely drawn mouth – Da Vinci would have loved it.
+It is a theatrical face, a dancer’s face. And she has a dancer’s body – thin as
+a blade, lithe and agile. Doll-like, she looks as if she’d snap in a strong wind.*
+
+*She wouldn’t.*
+
+Read more at: https://www.newsobserver.com/entertainment/music-news-reviews/on-the-beat-blog/article23143152.html#storylink=cpy
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/aud-madonna.jpeg" alt="Madonna">
+	<figcaption class="figure-caption"></figcaption>
+</figure>
 
 This year's festival is dedicated to Gerri Houlihan, a colossus in the world of
 dance who is celebrating her 40th season teaching at the ADF summer intensive.

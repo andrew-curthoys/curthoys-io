@@ -261,6 +261,31 @@ Allie asks, "are you actually an uncle?"
 
 "To my friends' pets I am"
 
+<h4 class="article-subheader">Markisms</h4>
+Throughout the course of rehearsals, Mark would sometimes say something that was
+so funny,    or out of left field that I had to jot it down. A few favorites:
+
+
+*After our lunch break from our first Sunday rehearsal:*
+
+“Mark was tired & he went home. I showed up and I’m a bitch!”
+
+
+*On the character he wanted us to embody during a section of the piece:*
+“I want you to be Tuesday from then Addams Family”
+
+“You mean Wednesday!?"
+
+
+<h4 class="article-subheader">How Do You Hold Hands?</h4>
+The captivity of rehearsals, in addition to sparking deep, contemplative
+discussions of nudity and sexuality, also sparks shallow, silly discussions of
+nonsense and frivolity.
+
+One day during a lull I wander into a conversation that Matt & Renay are
+having regarding their preferred method of holding hands.
+
+Taller person goes in front.
 
 
 <h4 class="article-subheader">Headshot Redux</h4>
@@ -495,3 +520,5 @@ I would always sit back and listen.
 
 
 <h4 class="article-subheader">If You Coat Your Jeans With Baby Powder</h4>
+
+<h4 class="article-subheader">Earworm</h4>
