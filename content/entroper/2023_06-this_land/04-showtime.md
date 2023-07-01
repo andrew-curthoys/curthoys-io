@@ -111,7 +111,40 @@ audience to come to their own conclusion.
 
 At least that's my conclusion.
 
+<h4 class="article-subheader">Prepared</h4>
+The night before our first performance I sleep like a damn baby. Rehearsals
+have worn me out and I'm ready for the real thing. I'm in a great headspace,
+we've prepared thoroughly and I have my system down. I'm prepared. calm.
+confident.
 
+When I wake up the day of our first performance I find a ladybug on my pillow.
+That's gotta be good luck right? But then again, maybe I
+<a href="https://dancespirit.com/history-of-merde/" target="_blank" rel="noopener no referrer">don't want good luck</a>?
+I'm not really sure what to make of dancer superstitions. Best not leave
+anything to chance.
+
+<h4 class="article-subheader">Quick Change</h4>
+Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
+require a full outfit changes, some are just an accessory here, new top there,
+different pair of jeans. But a substantial wardrobe to keep track of nonetheless.
+Before each performance I neatly stack each article of clothing in reverse order
+of their appearance.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_before.jpeg" alt="Before">
+</figure>
+
+And each costume change I frantically tear off my clothes & throw them into a
+pile. Entropy increasing with every performance.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_after.jpeg" alt="After">
+</figure>
+
+Much like Rabbit's maps in Twister I've found that the most effective way to
+prepare my socks is to roll them.
+
+<div class="tenor-gif-embed" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h4 class="article-subheader">One-Two-Three-Four</h4>
 
@@ -172,7 +205,11 @@ wholly unable to accept it.
 
 <h4 class="article-subheader">Well, Here Goes Nothin'</h4>
 The hours leading up to the first performance are filled with much milling
-about and nonsensical banter.
+about and nonsensical banter. Our heroic stage manager, Gabby, has the
+unenviable job 
+
+<h4 class="article-subheader">Focus</h4>
+
 
 <h4 class="article-subheader">Overly Excited</h4>
 On my third pass I'm supposed to do a single skip on each of the first two laps
@@ -193,4 +230,36 @@ Behind the curtain I look to Cate,
 
 Seeing as we were in the middle of the line when we committed our faux pas it
 very well could have looked intentional. At least that's what we tell ourselves
-as we prepare to come out for some maxi skips.
+as we prepare for our next pass. No time to dwell on the past.
+
+<h4 class="article-subheader">Ovation</h4>
+I didn't know what to expect after my first performance. I gave it a 50-50 shot
+that I'd get emotional and tear up backstage but when it was all said and done
+the only emotion I feel is pure, unadulterated bliss. My smile spans the full
+distance between my ears
+
+As we're hugging backstage I realize that I might not be the only one with first
+show jitters. Our curtain call song, a delightful honky tonk swing ditty from
+Patsy, has not made its usual appearance. In its stead an anticipatory applause
+and wide-eyed looks of confusion among the cast. As we're pondering if we should
+just take our curtain call without music Patsy starts up. But it's not the right
+Patsy. It's *Walkin' After Midnight*, the opening song to the piece. It seems
+the technician in charge of the music ran into a snafu playing the song and
+made a tactical decision to go with the 
+
+Order of appearance:
+Alexandra
+Renay
+Matt
+Cate
+Allie
+Hendri
+McKelynn
+Carrie
+Andy
+Alyce
+Jonathan
+Brace
+Dana
+Linda Belans
+Aaron

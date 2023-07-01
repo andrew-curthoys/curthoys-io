@@ -276,6 +276,8 @@ so funny,    or out of left field that I had to jot it down. A few favorites:
 
 “You mean Wednesday!?"
 
+And I think my favorite, any time he referred to Linda he used her full name.
+So we all came to refer to Linda as Linda Belans.
 
 <h4 class="article-subheader">How Do You Hold Hands?</h4>
 The captivity of rehearsals, in addition to sparking deep, contemplative
@@ -532,9 +534,91 @@ I would always sit back and listen.
 Ronnie Milsap
 
 <h4 class="article-subheader">Slap Your Grandma</h4>
-In 2005's rhapsodic ode to healthy backsides, "Honky Tonk Badonkadonk," the bard
-of Sarepta Louisiana, Trace Adkins, 
-And ooh-wee, shut my mouth, slap your grandma
+In 2005's rhapsodic ode to healthy backsides, "Honky Tonk Badonkadonk," Trace
+Adkins, the bard of Sarepta, Louisiana croons,
 
+<div class="text-muted fst-italic mx-3 mb-3">
+And ooh-wee<br>
+Shut my mouth<br>
+Slap your grandma<br>
+</div>
 
-A walk-on offensive lineman on the Louisiana Tech Bulldogs football team, Adkins left the team after his freshman season due to a knee injury, without ever playing in a game.[9]: 26 [10][11] Adkins never graduated. After leaving college, he worked on an oil rig.
+Now the first time that Linda Belans, a proud grandmother, heard this line her
+eyes grew to the size of saucers and she exclaimed, "SLAP YOUR GRANDMA!!??" She
+was not nonplussed with the suggestion. As you can imagine it became a running
+joke during rehearsals. The timing worked out that each time I came off stage
+right as Mr. Adkins suggested said matriarchal thwacking. And who's seat was
+right there at the edge of the stage was none other than the incomparable Linda
+Belans.
+
+a reaction that fell somewhere between covering her face with her hands and
+shooting me a glare so as to suggest *if you know what's best for your health,
+young man, you better not even think about it*. I would never, Linda Belans, I
+would never.
+
+A quick detour: I have discovered that the Trace Adkins Wikipedia page is a
+stream of consciousness masterpiece. A few selections:
+
+"A walk-on offensive lineman on the Louisiana Tech Bulldogs football team, Adkins
+left the team after his freshman season due to a knee injury, without ever
+playing in a game. Adkins never graduated. After leaving college, he worked on
+an oil rig."
+
+"On June 4, 2011, at approximately 3:35 pm, Adkins' home in Brentwood, Tennessee,
+burned down. On October 20, 2011, Adkins sang the National Anthem at game 2
+of the 2011 World Series in St. Louis."
+
+"The album's second single, 'Arlington', generated controversy over its content
+(a first-person account of a fictional soldier who was about to be buried in
+Arlington National Cemetery). It was followed by 'Honky Tonk Badonkadonk.'"
+
+"In 2001, Adkins was injured in a tractor accident and had to cancel touring
+temporarily."
+
+"He lost the pinky finger on his left hand in an accident using a knife to open a
+bucket, and asked doctors to reattach the finger at an angle so that he could
+continue to play guitar."
+
+"He has also experienced a number of serious injuries as an adult, including
+being shot by his second ex-wife Julie Curtis in 1994. The bullet went
+through his heart and both lungs. He survived and chose not to press charges.
+They got divorced after 3 years."
+
+"In March 2014, Trace Adkins and his wife Rhonda filed for divorce, citing
+irreconcilable differences. Rhonda dismissed her divorce petition in June 2015.
+Despite rumors of reconciliation, Adkins re-filed for divorce less than a month
+later."
+
+"Adkins recorded a duet with country legend Ronnie Milsap called "My First Ride"
+to benefit fire-fighters and police officers in the U.S. and Canada. Then, after
+the song's release, the label said 'no' to radio stations playing it with no
+explanation given."
+
+I'll use this last little tidbit to segue back into our story. Because the
+song that precedes Adkins's in our performance was sung by none other than Ronnie
+Milsap. Originally penned by Burt Bacharach, *Any Day Now*, opens Milsap's 1982
+album *Inside*. In a stark juxtaposition to Adkins's objectifying anthem,
+Milsap tenderly sings about that hollow feeling you get deep down in your gut
+when you know your sweetheart will soon break your heart,
+
+<div class="text-muted fst-italic mx-3 mb-3">
+Any day now<br>
+I will hear you say<br>
+Good bye, my love<br>
+And you'll be on your way<br>
+Then my wild beautiful bird, you will have flown<br>
+Any day now, I'll be all alone<br>
+</div>
+
+Despite the gut wrenching lyrics Milsap's velvety smooth treatment somehow lulls
+you into its captivating trance. Just like the devilish smile of your ex-sweetie.
+The song falls squarely in the subgenre of Yacht Rock that I just invented
+called Pontoon DockRock. As anyone who knows how much I love pontoons and yacht
+rock will understand the how much I adore this song.
+
+The song has also been covered by the likes of Elvis Presley, Percy Sledge,
+Frankie Valli, Luther Vandross, James Brown, and Eddie Kendricks of The
+Temptations. You've might have heard of them.
+
+We also have favorites from Eric Church, (fellow Oklahoman) Toby Keith,
+Martina McBride, and none other than the Indian Outlaw Time McGraw.

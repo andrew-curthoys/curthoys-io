@@ -331,6 +331,8 @@ But first I have some more skiing to do.
 	ski a run named "twister"</figcaption>
 </figure>
 
+<div class="tenor-gif-embed" data-postid="7754384" data-share-method="host" data-aspect-ratio="2.38095" data-width="100%"><a href="https://tenor.com/view/twister-nature-philip-seymour-hoffman-gif-7754384">Twister Nature GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h4 class="article-subheader">Well, We've Come This Far</h4>
 When I get back to LaGayle's after the day's skiing I pull the video back
 up. I want to watch it start to finish to see what I'd be getting myself into
