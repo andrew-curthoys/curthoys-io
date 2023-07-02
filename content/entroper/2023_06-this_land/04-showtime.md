@@ -245,7 +245,26 @@ and wide-eyed looks of confusion among the cast. As we're pondering if we should
 just take our curtain call without music Patsy starts up. But it's not the right
 Patsy. It's *Walkin' After Midnight*, the opening song to the piece. It seems
 the technician in charge of the music ran into a snafu playing the song and
-made a tactical decision to go with the 
+made the tactical decision to just play the soundtrack from the piece. We shrug
+and run out for the curtain call just like we practiced.
+
+Backstage after the curtain call McKelynn looks at me with a huge smile on her
+face, "Oh my god they gave us a standing ovation! That doesn't happen every
+time!"
+
+"Well for me it does!" I reply with a shiteating grin. I'm an ornery prick
+aren't I?
+
+<h4 class="article-subheader">Time For My Solo</h4>
+My last pass comes as the music fades out to silence. 96 steps of silence. I'm
+the very last in the line so my final lap is all alone. No music to keep my
+count. No comrades to distract the audience's gaze.
+
+Seeing as this is my first performance (have I mentioned that yet?) my fellow
+dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
+it. I should be nervous but for reasons I can't explain I'm not. Chalk it up to
+preparation.
+
 
 Order of appearance:
 Alexandra
