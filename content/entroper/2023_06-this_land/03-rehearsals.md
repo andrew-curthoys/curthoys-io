@@ -1,13 +1,13 @@
 title: Rehearsals
 subtitle: Part 1 <i>and</i> 2 <i>and</i> 3: Rehearsals
-slug: entroper/2023_06-this_land/03-rehearsals
-slug_base: entroper/2023_06-this_land
-day_alias: This Land Is Your Land
+slug: misc/2023_06-this_land/03-rehearsals
+slug_base: misc/2023_06-this_land
+day_alias: Rehearsals
 prev_day: 02-audition
 next_day: 04-showtime
 date: 2023-05-30
 post_date: 2023-06-20
-category: entroper
+category: misc
 subcat: Dancing
 activity: This Land Is Your Land
 photo:
@@ -530,7 +530,6 @@ I would always sit back and listen.
 
 <h4 class="article-subheader">If You Coat Your Jeans With Baby Powder</h4>
 
-<h4 class="article-subheader">Earworm</h4>
 Ronnie Milsap
 
 <h4 class="article-subheader">Slap Your Grandma</h4>
@@ -594,6 +593,7 @@ to benefit fire-fighters and police officers in the U.S. and Canada. Then, after
 the song's release, the label said 'no' to radio stations playing it with no
 explanation given."
 
+<h4 class="article-subheader">Any Day Now</h4>
 I'll use this last little tidbit to segue back into our story. Because the
 song that precedes Adkins's in our performance was sung by none other than Ronnie
 Milsap. Originally penned by Burt Bacharach, *Any Day Now*, opens Milsap's 1982

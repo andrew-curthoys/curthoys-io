@@ -1,13 +1,13 @@
 title: Showtime
 subtitle: Part 1 <i>and</i> 2 <i>and</i> 3 <i>and</i> 4: Showtime
-slug: entroper/2023_06-this_land/04-showtime
-slug_base: entroper/2023_06-this_land
+slug: misc/2023_06-this_land/04-showtime
+slug_base: misc/2023_06-this_land
 day_alias: This Land Is Your Land
 prev_day: 03-rehearsals
 next_day: /entroper/2023_06-this_land
 date: 2023-06-13
 post_date: 2023-06-20
-category: entroper
+category: misc
 subcat: Dancing
 activity: This Land Is Your Land
 photo:
@@ -177,14 +177,14 @@ Dick in the spotlight
 1-2-3-4
 
 
-"Are you going to the talkback?"
+<h4 class="article-subheader">Are you going to the talkback?</h4>
 
 "The what now?"
 
 "The talkback"
 
-"Y'all have terms like *adagio* and *pli&eacute;* but the forum in which the
-choreographer discusses their art is called a talkback?"
+"Y'all have terms like *adagio* and *pli&eacute;* but the forum where the
+choreographer discusses their art and creative process is called a talkback?"
 
 *annoyed glares*
 
@@ -209,9 +209,26 @@ about and nonsensical banter. Our heroic stage manager, Gabby, has the
 unenviable job 
 
 <h4 class="article-subheader">Focus</h4>
+For the performance the audience is seated on the floor on three sides
+surrounding the stage. One of my biggest points of concentration is to keep my
+gaze above the heads of the audience, staring off into that deep blue lake. I do
+this because it's what Mark told us to do, but mostly because I know if I make
+eye contact with a friend I'll immediately crack up.
+
+I didn't have anyone come the first day, but I didn't know that at the time. The
+second day I had friends confirmed for both shows so it's good I had my gaze
+fixing practice night 1. During the first performance of the second day I did
+catch myself smothering a smirk during the nude section. Facing out towards the
+audience I was stoic, but going back towards the curtain each time I had the
+smallest smirk I had to muffle.
+
+<h4 class="article-subheader">Dress Rehearsal</h4>
+The day before our first performances we mosey over to the Nasher for a full
+dress rehearsal in the performance space. It's my first time to the Nasher so
+I'm 
 
 
-<h4 class="article-subheader">Overly Excited</h4>
+<h4 class="article-subheader">Giddy</h4>
 On my third pass I'm supposed to do a single skip on each of the first two laps
 then three skips each on the next two. First lap I nail it. The best skip you've
 ever laid eyes on. No notes. The second lap, however, I get a little
@@ -265,6 +282,10 @@ dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
 it. I should be nervous but for reasons I can't explain I'm not. Chalk it up to
 preparation.
 
+Do I feel brave?
+No
+Do I feel proud?
+Absolutely
 
 Order of appearance:
 Alexandra
