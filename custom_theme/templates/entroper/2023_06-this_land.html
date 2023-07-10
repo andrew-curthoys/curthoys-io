@@ -65,7 +65,7 @@ TODO
 <!-- TRIPS -->
 <div class="container">
   <div class="row mb-2">
-  {% for article in articles|reverse %}
+  {% for article in drafts|reverse %}
     {% if article.activity == 'This Land Is Your Land' %}
     <div class="col-lg-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
@@ -73,7 +73,7 @@ TODO
           <p class="card-header-traveler mb-0 f-blue-grey">{{ article.title }}</p>
           <p class="card-text card-text-traveler fst-italic mb-2">{{ article.date.strftime('%B %-d, %Y') }}</p>
           <p class="card-text card-text-traveler">{{ article.short_sum }}</p>
-          <a href=/{{ article.slug }}.html class="stretched-link"></a>
+          <a href=/drafts/{{ article.slug }}.html class="stretched-link"></a>
         </div>
         <div class="col-auto d-sm-none">
           <img class="bd-placeholder-img" width="120" height="100%" src="/theme/images/entroper/2023_06-this_land/{{ article.photo }}" alt="This Land" preserveAspectRatio="xMidYMid slice" focusable="false">

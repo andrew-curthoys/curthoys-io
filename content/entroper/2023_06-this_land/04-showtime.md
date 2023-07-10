@@ -1,15 +1,16 @@
 title: Showtime
 subtitle: Part 1 <i>and</i> 2 <i>and</i> 3 <i>and</i> 4: Showtime
-slug: misc/2023_06-this_land/04-showtime
-slug_base: misc/2023_06-this_land
+slug: entroper/2023_06-this_land/04-showtime
+slug_base: entroper/2023_06-this_land
 day_alias: This Land Is Your Land
 prev_day: 03-rehearsals
 next_day: /entroper/2023_06-this_land
 date: 2023-06-13
 post_date: 2023-06-20
-category: misc
+category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
+status: draft
 photo:
 short_sum: This is it, don't get scared now
 summary: 
@@ -18,9 +19,9 @@ summary:
 
 
 <h4 class="article-subheader">Nothin' To Say</h4>
-One most beautiful aspect of art in my opinion is that it's subjective. Every
-person who experiences the art brings their life experience & perspective to the
-piece
+One most beautiful aspects of art in my opinion is that it's subjective. There's
+no right way to create,    , or appreciate it. Every person brings their life
+experience & perspective to their interpretation.
 
 John Prine is one the the greatest American songwriters and I will challenge
 anyone to a duel who opines otherwise.
@@ -112,16 +113,26 @@ audience to come to their own conclusion.
 At least that's my conclusion.
 
 <h4 class="article-subheader">Prepared</h4>
-The night before our first performance I sleep like a damn baby. Rehearsals
-have worn me out and I'm ready for the real thing. I'm in a great headspace,
-we've prepared thoroughly and I have my system down. I'm prepared. calm.
-confident.
+Rehearsals have worn me down and I'm ready for the real thing. I've got my
+system down, I've got my spreadsheets printed. I'm prepared. calm. confident.
 
-When I wake up the day of our first performance I find a ladybug on my pillow.
-That's gotta be good luck right? But then again, maybe I
+The night before our first performance I sleep like a damn baby. When I arise
+I find a ladybug on my pillow - that's gotta be good luck right? But then again,
+maybe I
 <a href="https://dancespirit.com/history-of-merde/" target="_blank" rel="noopener no referrer">don't want good luck</a>?
 I'm not really sure what to make of dancer superstitions. Best not leave
 anything to chance.
+
+<h4 class="article-subheader">Dress Rehearsal</h4>
+The day before our first performances we mosey over to the Nasher for a full
+dress rehearsal in the performance space. I've yet to grace the halls of the
+museum so I'm blown away by the asymmetrical 5-sided glass roof. I stand and
+stare at the beams that are beautifully engineered to support the load without
+any spanning the whole distance of the roof. Each beam supports each other,
+somewhat like the way you can fold the top flaps of a cardboard box to stay
+shut without tape.
+
+The designer <talk about the design>
 
 <h4 class="article-subheader">Quick Change</h4>
 Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
@@ -168,49 +179,34 @@ Right foot on the Five
 
 Left foot on the Six
 
-Dick in the spotlight
+Birthday suit in the spotlight
 
 
 
-
-
-1-2-3-4
-
-
-<h4 class="article-subheader">Are you going to the talkback?</h4>
-
-"The what now?"
-
-"The talkback"
-
-"Y'all have terms like *adagio* and *pli&eacute;* but the forum where the
-choreographer discusses their art and creative process is called a talkback?"
-
-*annoyed glares*
-
-"Yes I'm going to the talkback"
-
-I'm just saying that even football coaches have *postgame press conferences*.
-I doubt half the coaches in the NFL could spell "conferences." A quarter
-probably can't spell "press."
-
-
-
-<h4 class="article-subheader">It's Like A Drug</h4>
-The performance
-
-I exist in the dielectic state of craving praise while simultaneously being
-wholly unable to accept it.
 
 
 <h4 class="article-subheader">Well, Here Goes Nothin'</h4>
 The hours leading up to the first performance are filled with much milling
 about and nonsensical banter. Our heroic stage manager, Gabby, has the
-unenviable job 
+unenviable job of appeasing contingents from the Nasher, the ADF, and the
+security detail, all while wrangling a group of nervy performers.
+
+15 minutes before showtime Gabby leads us from the green room backstage. We chat
+idly, review notes, stretch out, waiting anxiously just to get the show on the
+road. 6:30 comes and goes.
+
+"These things never start on time, I'm sure there are still people shuffling in"
+
+A few minutes later Gabby comes backstage and calmly tells us we'll be starting
+in 5.
+
+*I go out walkin' after midnight...*
 
 <h4 class="article-subheader">Focus</h4>
-For the performance the audience is seated on the floor on three sides
-surrounding the stage. One of my biggest points of concentration is to keep my
+On my first pass my biggest point of concentration is to keep my gaze above the
+heads of the audience, staring off into that deep blue lake.
+The audience is seated on folding chairs surrounding the stage on three sides.
+One of my biggest points of concentration is to keep my
 gaze above the heads of the audience, staring off into that deep blue lake. I do
 this because it's what Mark told us to do, but mostly because I know if I make
 eye contact with a friend I'll immediately crack up.
@@ -222,10 +218,6 @@ catch myself smothering a smirk during the nude section. Facing out towards the
 audience I was stoic, but going back towards the curtain each time I had the
 smallest smirk I had to muffle.
 
-<h4 class="article-subheader">Dress Rehearsal</h4>
-The day before our first performances we mosey over to the Nasher for a full
-dress rehearsal in the performance space. It's my first time to the Nasher so
-I'm 
 
 
 <h4 class="article-subheader">Giddy</h4>
@@ -249,8 +241,28 @@ Seeing as we were in the middle of the line when we committed our faux pas it
 very well could have looked intentional. At least that's what we tell ourselves
 as we prepare for our next pass. No time to dwell on the past.
 
+With my gaffe in the rearview I'm soon to my absolute favorite part of the piece.
+The pouty pause. On my last lap of plastic surgery I stop for a 4 count at the
+end of the stage and give the audience the look of petulant, bratty child who
+was just told they couldn't have ice cream. "You're a bratty kid who didn't get
+their way and you want to stare at them like you're parents are the worst."
+
+The rest of the show goes off without a hitch. No more gaffes, blunders, or
+goofs. I feel pretty good about it, my confidence, it seems, was not misplaced.
+
+<h4 class="article-subheader">Time For My Solo</h4>
+My last pass comes as the music fades out to silence. 96 steps of silence. I'm
+the very last in the line so my final lap is all alone. No music to keep my
+count. No comrades to distract the audience's gaze.
+
+Seeing as this is my first performance (have I mentioned that yet?) my fellow
+dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
+it. I should be nervous but for reasons I can't explain I'm not. Chalk it up to
+preparation.
+
 <h4 class="article-subheader">Ovation</h4>
-I didn't know what to expect after my first performance. I gave it a 50-50 shot
+I didn't know what to expect as I walked off the stage to finish my first ever
+performance. I gave it a 50-50 shot
 that I'd get emotional and tear up backstage but when it was all said and done
 the only emotion I feel is pure, unadulterated bliss. My smile spans the full
 distance between my ears
@@ -272,15 +284,26 @@ time!"
 "Well for me it does!" I reply with a shiteating grin. I'm an ornery prick
 aren't I?
 
-<h4 class="article-subheader">Time For My Solo</h4>
-My last pass comes as the music fades out to silence. 96 steps of silence. I'm
-the very last in the line so my final lap is all alone. No music to keep my
-count. No comrades to distract the audience's gaze.
+<h4 class="article-subheader">Are you going to the talkback?</h4>
 
-Seeing as this is my first performance (have I mentioned that yet?) my fellow
-dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
-it. I should be nervous but for reasons I can't explain I'm not. Chalk it up to
-preparation.
+"The what?"
+
+"The talkback, Mark is going to talk about the piece & do a Q&A"
+
+"Y'all have terms like *adagio* and *pli&eacute;* but the forum where a
+choreographer discusses their art and creative process is called a talkback?"
+
+*annoyed glares*
+
+"Yes I'm going to the talkback"
+
+I'm just saying that even football coaches have *postgame press conferences*.
+I doubt half the coaches in the NFL could spell "conferences." A quarter
+probably can't spell "press."
+
+During the talkback we learn about the story of how the piece came to be. Our
+current hour-long iteration was incrementally developed over time, with the
+original spanning a much more modest 20 minutes.
 
 Do I feel brave?
 No

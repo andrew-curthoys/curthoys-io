@@ -1,15 +1,16 @@
 title: Rehearsals
 subtitle: Part 1 <i>and</i> 2 <i>and</i> 3: Rehearsals
-slug: misc/2023_06-this_land/03-rehearsals
-slug_base: misc/2023_06-this_land
+slug: entroper/2023_06-this_land/03-rehearsals
+slug_base: entroper/2023_06-this_land
 day_alias: Rehearsals
 prev_day: 02-audition
 next_day: 04-showtime
 date: 2023-05-30
 post_date: 2023-06-20
-category: misc
+category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
+status: draft
 photo:
 short_sum: Who ever knew so much work could be so much fun?
 summary: 
@@ -35,8 +36,7 @@ Mona Lisa to Tightrope to... Wait What's Next?</h4>
 Most of the time spent during the first few rehearsals are teaching the
 individual segments. Each has its own name that Mark has informally conferred as
 he developed the piece and each segment has its own flavor. Whether it be a
-different costume, step sequence, hand movements, facial expressions, or other
-
+different costume, step sequence, hand movement, facial expression, or other
 
 For example, this is what I write in my notebook for the pass called Plastic
 Surgery
@@ -262,22 +262,38 @@ Allie asks, "are you actually an uncle?"
 "To my friends' pets I am"
 
 <h4 class="article-subheader">Markisms</h4>
-Throughout the course of rehearsals, Mark would sometimes say something that was
-so funny,    or out of left field that I had to jot it down. A few favorites:
-
+Throughout the course of rehearsals, Mark would sometimes blurt out something
+that was so funny, kooky, or poetically nonsensical I had to jot it down. A few
+favorites:
 
 *After our lunch break from our first Sunday rehearsal:*
 
 “Mark was tired & he went home. I showed up and I’m a bitch!”
 
+*On the look he wants us to show during our "neutral" passes*
+
+"I want your face to look like you're staring off into a deep blue lake"
+
+*On the look he wants us to have during "plastic surgery"*
+
+"I want your face to have no expression, like you just got botox and your face
+is paralyzed."
+
+*On the way we need to walk to look relaxed and not stiff*
+
+"I want you to imagine your body is a million tiny little pieces and each piece
+moves independent of one another."
 
 *On the character he wanted us to embody during a section of the piece:*
+
 “I want you to be Tuesday from then Addams Family”
 
-“You mean Wednesday!?"
+“Do you mean Wednesday!?"
 
 And I think my favorite, any time he referred to Linda he used her full name.
-So we all came to refer to Linda as Linda Belans.
+
+"Andy, just make sure you come out on the 2 on that pass. Linda Belans, you
+nailed it!"
 
 <h4 class="article-subheader">How Do You Hold Hands?</h4>
 The captivity of rehearsals, in addition to sparking deep, contemplative
@@ -285,9 +301,23 @@ discussions of nudity and sexuality, also sparks shallow, silly discussions of
 nonsense and frivolity.
 
 One day during a lull I wander into a conversation that Matt & Renay are
-having regarding their preferred method of holding hands.
+having regarding their preferred method of holding hands. After some wrangling
+of mitts Matt ends up in front and Renay in back. They each recall holding hands
+in the alternate position but for whatever reason this feels right. I reach out
+a paw and find that I fit best in front with both of my colleagues. Matt tries
+the frontward position and works out a theory of hand holding logistics: taller
+person goes in front.
 
-Taller person goes in front.
+Which makes sense to me because I think I've only assumed the forward station
+and can't remember holding the hand of someone taller than me. Which leads us
+to the inevitable conclusion that I'll have to try it with Brace.
+
+<h4 class="article-subheader">Seattle Steppers</h4>
+In addition to our complement of a dozen North Carolina-based dancers Mark has
+arranged to supplement the company with a couple performers from Seattle who
+have performed the piece in the past. Since they have performed the piece before
+and live 3 timezones away they are only participating in the second week of
+rehearsals.
 
 
 <h4 class="article-subheader">Headshot Redux</h4>

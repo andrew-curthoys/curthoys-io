@@ -1,20 +1,20 @@
 title: You Should Do This
 subtitle: Part 1: You Should Do This
-slug: misc/2023_06-this_land/01-you_should_do_this
-slug_base: misc/2023-06_this_land
+slug: entroper/2023_06-this_land/01-you_should_do_this
+slug_base: entroper/2023-06_this_land
 day_alias: You Should Do This
-prev_day: /misc/2023_06-this_land
+prev_day: /entroper/2023_06-this_land
 next_day: 02-audition
 date: 2023-03-06
 post_date: 2023-06-20
-category: misc
+category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
+status: draft
 photo: aud-insta_message.jpeg
 short_sum: Comfort zone? We don't need no stinking comfort zone!
 summary: 
 
-<h4 class="article-subheader">I Think I Will</h4>
 I open Instagram to find a message from my cousin Laura, a NYC-based
 dancer. Laura is 5 days older and 5 times more mature than I. I have
 <a href="/rambler/2021_11-nyc_marathon/marathon.html" target="_blank" rel="noopener noreferrer">written</a>

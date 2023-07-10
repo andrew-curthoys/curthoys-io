@@ -1,15 +1,16 @@
 title: The Audition
 subtitle: Part 1 <i>and</i> 2: The Audition
-slug: misc/2023_06-this_land/02-audition
-slug_base: misc/2023-06_this_land
+slug: entroper/2023_06-this_land/02-audition
+slug_base: entroper/2023-06_this_land
 day_alias: Audition
 prev_day: 01-you_should_do_this
 next_day: 03-rehearsals
 date: 2023-03-10
 post_date: 2023-06-20
-category: misc
+category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
+status: draft
 photo: 
 short_sum: Right foot odd, left foot even. Until it isn't.
 summary: 

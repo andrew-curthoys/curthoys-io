@@ -45,7 +45,7 @@
               {% set latest_dict = {} %}
 
               {% for article in articles %}
-                {% if article.category != 'misc' %}
+                {% if article.category != 'misc' and article.status != 'draft' %}
                   {% if latest_dict[article.activity] %}
                     {% if latest_dict[article.activity]['min_date'] > article.date %}
                       {% set _temp = latest_dict[article.activity].update({'min_date': article.date }) %}
