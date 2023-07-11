@@ -36,10 +36,17 @@ Mona Lisa to Tightrope to... Wait What's Next?</h4>
 Most of the time spent during the first few rehearsals are teaching the
 individual segments. Each has its own name that Mark has informally conferred as
 he developed the piece and each segment has its own flavor. Whether it be a
-different costume, step sequence, hand movement, facial expression, or other
+different costume, step sequence, hand movement, facial expression, or body
+position.
 
-For example, this is what I write in my notebook for the pass called Plastic
-Surgery
+
+As Mark teaches us each individual segment I get the hang of it pretty quickly.
+It's when we link all of them together where my head starts to spin. When we
+start to link 3 and 4 segments together I realize I'm going to need a notebook
+to write all this down.
+
+For example, this is what I write in my notebook for the pass called "Plastic
+Surgery"
 
 Start with head cocked to the right - left hand on hip
 
@@ -59,11 +66,7 @@ Head cocked to the left
 
 Pouty pause
 
-As Mark teaches us each individual segment I get the hang of it pretty quickly.
-It's when we link all of them together where my head starts to spin. When we
-start to link 3 and 4 segments together I realize I'm going to need a notebook
-to write all this down. Halfway through the first week I finally capitulate
-back to my comfort zone,
+Halfway through the first week I finally capitulate back to my comfort zone,
 
 "Ok that's it, I'm gonna need to make a spreadsheet."
 
@@ -79,83 +82,6 @@ there's no way I'm going to be comfortable memorizing all the intricate
 choreography for 24 passes. Especially with the added adrenaline that's likely
 to come with a live audience. But one pass at a time I can manage. Did I
 mention I'm trusting the process?
-
-
-
-<h4 class="article-subheader">Andy, You Shit!</h4>
-As rehearsals continue & get more runs under our belt we get more comfortable
-with the piece. Less thinking and more emoting.
-
-And then the Saturday before the shows I was feeling really comfortable.
-
-During one pass of Lewistons I shot Mark a little wave. *Hey, how ya doin'*.
-He gave an eye-rolley smirk and wrote "Andy, you shit!" in his notebook.
-
-And on the first nude pass I hit Mark with a pec blast.
-
-<div class="tenor-gif-embed" data-postid="4754376" data-share-method="host" data-aspect-ratio="1.79856" data-width="100%"><a href="https://tenor.com/view/terry-crews-muscle-chest-pecs-move-gif-4754376">Terry Crews Pecs GIF</a>from <a href="https://tenor.com/search/terry+crews-gifs">Terry Crews GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-This resulted in what I have to imagine is a completely novel entry in Marks
-notebook, "Andy, you fuck!"
-
-After each run Mark would give us notes while we're gathered around him on the
-floor. When Mark read his notes for me on this run I *literally* rolled around
-on the floor laughing. A little bit of levity is warranted when doing the same
-thing over and over again for hours at a time. As Mark said, "I didn't want
-anybody in this piece who took themselves too seriously." Well, brother, you
-got what you asked for with Uncle Andy.
-
-That isn't to say we're unprofessional. Each one of us realize we're here
-to do a job and to express Mark's creative vision to the best of our ability.
-Throughout each rehearsal we are constantly talking among ourselves, comparing
-notes, ironing out steps, perfecting hand positions, trying out facial
-expressions. It's a remarkably collaborative and supportive environment.
-
-I never felt reticent to ask a stupid question and if Mark or my compatriots
-grew weary of my inane inquiries they did a masterful job hiding it. A typical
-sample of a conversation we would have during rehearsal,
-
-"Ok so, Cate, you're high claw leaving pink?"
-
-"No I'm halfway."
-
-"Wait... then where should I be?"
-
-"I think you should be fully high claw leaving blue."
-
-"Leaving blue? Ohhh ok, that makes sense, that way I have two laps to neutral
-when I get to green"
-
-"Yes, I'll be neutral just as I'm leaving the stage."
-
-"Got it, thanks."
-
-
-<h4 class="article-subheader">Catharsis</h4>
-There's something about being cooped up in the same room with the same people
-performing the same movements to the same songs that can play with your emotions
-in unexpected ways. During the last rehearsal of our first week Mark introduces
-a new section of the performance that's an homage to the Covid pandemic. It's
-simple, it's moving, it's beautiful.
-
-After our first *pandemic* runthrough the collective dam holding
-everyone's emotional reservoir bursts, releasing a tsunami of
-sentimental feelings that leaves nary a dry eye in the studio. Each of us
-experiences our own unique, personal emotional journey, which is shared
-through the shared language of weepy hugs. For me, it's as simple as remembering
-riding in the car with my dad, listening to country music on 95.5 FM. It's such
-a simple memory that carries the weight of the memories of a man whose
-personality was so enormous everyone called him Big Daddy.
-
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-big_daddy.JPG" alt="Big Daddy">
-	<figcaption class="figure-caption">I'm just a carefree range-ridin' driftin' cowpoke</figcaption>
-</figure>
-
-I wipe way the tears thinking how I just wish I could hear him say, "why the
-hell do you want walk around naked in front of a bunch of people."
-
-Because that's exactly what he would say.
 
 <h4 class="article-subheader">Pythagoras</h4>
 During our first rehearsal Mark gives us a tip to help keep our lines
@@ -290,10 +216,12 @@ moves independent of one another."
 
 “Do you mean Wednesday!?"
 
-And I think my favorite, any time he referred to Linda he used her full name.
+And I think my favorite,
 
-"Andy, just make sure you come out on the 2 on that pass. Linda Belans, you
-nailed it!"
+"Linda Belans!"
+
+For whatever reason Mark always referred to Linda by her full name, a practice
+that was adopted by the rest of the company.
 
 <h4 class="article-subheader">How Do You Hold Hands?</h4>
 The captivity of rehearsals, in addition to sparking deep, contemplative
@@ -471,7 +399,7 @@ cowboy hat I requisitioned at the Houston rodeo.
 When I'm adorned in full cowboy regalia Mark looks at me, "oh we need a name for
 this cowboy...... I'm going to call you 'Zane'".
 
-The Durham Herald Sun ran a story on Zane the next day
+The Durham Herald Sun ran a story on Zane the next day,
 
 <div class="text-muted fst-italic mx-3 mb-3">
 A tall handsome stranger rode into town<br>
@@ -586,7 +514,8 @@ young man, you better not even think about it*. I would never, Linda Belans, I
 would never.
 
 A quick detour: I have discovered that the Trace Adkins Wikipedia page is a
-stream of consciousness masterpiece. A few selections:
+stream of consciousness minefield, littered with the wreckage of broken body
+parts, broken marriages, and broken sequiturs. A few selections:
 
 "A walk-on offensive lineman on the Louisiana Tech Bulldogs football team, Adkins
 left the team after his freshman season due to a knee injury, without ever
@@ -623,13 +552,12 @@ to benefit fire-fighters and police officers in the U.S. and Canada. Then, after
 the song's release, the label said 'no' to radio stations playing it with no
 explanation given."
 
-<h4 class="article-subheader">Any Day Now</h4>
 I'll use this last little tidbit to segue back into our story. Because the
 song that precedes Adkins's in our performance was sung by none other than Ronnie
 Milsap. Originally penned by Burt Bacharach, *Any Day Now*, opens Milsap's 1982
 album *Inside*. In a stark juxtaposition to Adkins's objectifying anthem,
-Milsap tenderly sings about that hollow feeling you get deep down in your gut
-when you know your sweetheart will soon break your heart,
+Milsap tenderly sings about that hollow feeling deep down in your gut when you
+know your sweetheart is about to break your heart,
 
 <div class="text-muted fst-italic mx-3 mb-3">
 Any day now<br>
@@ -640,15 +568,91 @@ Then my wild beautiful bird, you will have flown<br>
 Any day now, I'll be all alone<br>
 </div>
 
-Despite the gut wrenching lyrics Milsap's velvety smooth treatment somehow lulls
-you into its captivating trance. Just like the devilish smile of your ex-sweetie.
+Despite the heart wrenching lyrics Milsap's velvety smooth treatment somehow lulls
+you into its captivating trance just like the devilish smile of your ex-sweetie.
 The song falls squarely in the subgenre of Yacht Rock that I just invented
 called Pontoon DockRock. As anyone who knows how much I love pontoons and yacht
 rock will understand the how much I adore this song.
 
 The song has also been covered by the likes of Elvis Presley, Percy Sledge,
 Frankie Valli, Luther Vandross, James Brown, and Eddie Kendricks of The
-Temptations. You've might have heard of them.
+Temptations. You might have heard of them.
 
-We also have favorites from Eric Church, (fellow Oklahoman) Toby Keith,
-Martina McBride, and none other than the Indian Outlaw Time McGraw.
+The soundtrack also includes favorites from Eric Church, (fellow Oklahoman) Toby
+Keith, Martina McBride, and the Indian Outlaw Time McGraw, among others. During
+rehearsals we listen to the soundtrack so many times that it becomes ingrained
+in our very beings
+
+<h4 class="article-subheader">Catharsis</h4>
+There's something about being cooped up in the same room with the same people
+performing the same movements to the same songs that can play with your emotions
+in unexpected ways. During the last rehearsal of our first week Mark introduces
+a new section of the performance that's an homage to the Covid pandemic. It's
+simple, it's moving, it's beautiful.
+
+After our first *pandemic* runthrough the collective dam holding
+everyone's emotional reservoir bursts, releasing a tsunami of
+sentimental feelings that leaves nary a dry eye in the studio. Each of us
+experiences our own unique, personal emotional journey, which is shared
+through the shared language of weepy hugs. For me, it's as simple as remembering
+riding in the car with my dad, listening to country music on 95.5 FM. It's such
+a simple memory that carries the weight of the memories of a man whose
+personality was so enormous everyone called him Big Daddy.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-big_daddy.JPG" alt="Big Daddy">
+	<figcaption class="figure-caption">I'm just a carefree range-ridin' driftin' cowpoke</figcaption>
+</figure>
+
+I wipe way the tears thinking how I just wish I could hear him say, "why the
+hell do you want walk around naked in front of a bunch of people."
+
+Because that's exactly what he would say.
+
+<h4 class="article-subheader">Andy, You Shit!</h4>
+As rehearsals continue & get more runs under our belt we get more comfortable
+with the piece. Less thinking and more emoting.
+
+And then the Saturday before the shows I was feeling really comfortable.
+
+During one pass of Lewistons I shot Mark a little wave. *Hey, how ya doin'*.
+He gave an eye-rolley smirk and wrote "Andy, you shit!" in his notebook.
+
+And on the first nude pass I hit Mark with a pec blast.
+
+<div class="tenor-gif-embed" data-postid="4754376" data-share-method="host" data-aspect-ratio="1.79856" data-width="100%"><a href="https://tenor.com/view/terry-crews-muscle-chest-pecs-move-gif-4754376">Terry Crews Pecs GIF</a>from <a href="https://tenor.com/search/terry+crews-gifs">Terry Crews GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+This resulted in what I have to imagine is a completely novel entry in Marks
+notebook, "Andy, you fuck!"
+
+After each run Mark would give us notes while we're gathered around him on the
+floor. When Mark read his notes for me on this run I *literally* rolled around
+on the floor laughing. A little bit of levity is warranted when doing the same
+thing over and over again for hours at a time. As Mark said, "I didn't want
+anybody in this piece who took themselves too seriously." Well, brother, you
+got what you asked for with Uncle Andy.
+
+That isn't to say we're unprofessional. Each one of us realize we're here
+to do a job and to express Mark's creative vision to the best of our ability.
+Throughout each rehearsal we are constantly talking among ourselves, comparing
+notes, ironing out steps, perfecting hand positions, trying out facial
+expressions. It's a remarkably collaborative and supportive environment.
+
+I never felt reticent to ask a stupid question and if Mark or my compatriots
+grew weary of my inane inquiries they did a masterful job hiding it. A typical
+sample of a conversation we would have during rehearsal,
+
+"Ok so, Cate, you're high claw leaving pink?"
+
+"No I'm halfway."
+
+"Wait... then where should I be?"
+
+"I think you should be fully high claw leaving blue."
+
+"Leaving blue? Ohhh ok, that makes sense, that way I have two laps to neutral
+when I get to green"
+
+"Yes, I'll be neutral just as I'm leaving the stage."
+
+"Got it, thanks."

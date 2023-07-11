@@ -250,7 +250,17 @@ their way and you want to stare at them like you're parents are the worst."
 The rest of the show goes off without a hitch. No more gaffes, blunders, or
 goofs. I feel pretty good about it, my confidence, it seems, was not misplaced.
 
-<h4 class="article-subheader">Time For My Solo</h4>
+In the second performance I completely lost my count on one of my sideways
+passes with skips and just had to wing it. I lost my instruments and just had
+to go on feel. Since we had run it through so many times I had gotten a good
+feel for my steps and skips. Each skip I had a pretty good feel for when to
+fire it off, but luckily I had Renay next to me who really loaded up for each
+skip so I could confirm my hunch that it was time for a skip by looking at my
+peripherals.
+
+
+
+<h4 class="article-subheader">Time For Your Solo</h4>
 My last pass comes as the music fades out to silence. 96 steps of silence. I'm
 the very last in the line so my final lap is all alone. No music to keep my
 count. No comrades to distract the audience's gaze.
@@ -309,6 +319,11 @@ Do I feel brave?
 No
 Do I feel proud?
 Absolutely
+
+When people ask me how the performance went I say the same thing every time, "it
+was one of the most fun experiences of my life." From the moment I walked through
+the door for the audition to the moment we took our final bow it was an
+unrelenting torrent of joy. 
 
 Order of appearance:
 Alexandra

@@ -15,8 +15,9 @@ photo: aud-insta_message.jpeg
 short_sum: Comfort zone? We don't need no stinking comfort zone!
 summary: 
 
-I open Instagram to find a message from my cousin Laura, a NYC-based
-dancer. Laura is 5 days older and 5 times more mature than I. I have
+I'm minding my own business on a nondescript January morning when I receive an
+Instagram message from my cousin Laura. Laura is a trained dancer in NYC who is
+5 days older and 5 times more mature than I. I have
 <a href="/rambler/2021_11-nyc_marathon/marathon.html" target="_blank" rel="noopener noreferrer">written</a>
 <a href="/traveler/2022_01-ski_trip/06-seattle.html?id=laura" target="_blank" rel="noopener noreferrer">about</a>
 <a href="/rambler/2021_11-nyc_marathon/marathon.html?id=ballet" target="_blank" rel="noopener noreferrer">Laura</a>
@@ -28,10 +29,11 @@ begin to describe the joy she brings to this world.
 	<figcaption class="figure-caption">She's just the best</figcaption>
 </figure>
 
-This particular missive
-contains a link entitled *Audition for "This Land Is Your Land" by Mark Haim.*
+This particular missive contains a link to a post from the American Dance
+Festival with the headline *Audition for "This Land Is Your Land" by Mark Haim.*
 
-Hmmm... ok, I'll bite.
+Audition? I've never auditioned for anything in my life, why on earth is she
+sending me a link to an audition? I skeptically click the link.
 
 <div class="text-muted fst-italic mx-3 mb-3">
 In honor of the ADF’s decade of collaborating with the Nasher Museum of Art, it
@@ -39,12 +41,12 @@ is bringing back a community favorite from 2013: Mark Haim’s “This Land Is Y
 Land,” an evening-long dance based entirely on walking.
 </div>
 
-Well we're off to a good start, "entirely on walking" seems within my
-capabilities. Hell I walk every day. Plus, "This Land Is Your Land" slides right
+Well, now that you mention it, "based entirely on walking" seems squarely within
+my capabilities, hell I walk every day. Plus, "This Land Is Your Land" slides right
 into a cozy pair of blue jeans and cowboy boots at the heart of my Oklahoma
-pride. Tulsa is home to the Woody Guthrie Center and sits just 60 miles to
-the Northeast of Woodrow Wilson Guthrie's hometown of Okemah. How 'bout that lil
-deal?
+pride. My childhood home sits just up the road a piece from the Woody Guthrie
+Center, which sits just 60 miles to the Northeast of Woodrow Wilson Guthrie's
+hometown of Okemah. How 'bout that lil deal?
 
 <div class="text-muted fst-italic mx-3 mb-3">
 Mark Haim would like to restage the dance for a group of 14 performers from the
@@ -63,8 +65,8 @@ However, near the top of the same list you would
 surely find "misplaced confidence", so I decide to apply anyway ¯\\_(ツ)_/¯
 
 My 7 word response to Laura initiated the fueling procedures for a pair of
-liquid rocket boosters programmed with a trajectory to launch me so far out of
-my comfort zone we're headed to another galaxy.
+liquid rocket boosters programmed with a trajectory to launch me out of
+my comfort zone into another galaxy.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/aud-insta_message.jpeg" alt="I think I will">
@@ -85,10 +87,8 @@ To most people this probably seems like a piece of cake. Just knock it out
 between walkin' the dogs & fixin' supper. But for someone with no relevant
 experience - what the heck should I include in my bio?
 
-And a ***short***
-description why I want
-to partake in this performance? I'd need 10 sessions with a psychologist to even
-begin to answer that question.
+And a ***short*** description why I want to partake in this performance? I'd
+need 10 sessions with a psychologist to even begin to answer that question.
 
 Then the headshot. I've never taken a headshot in my life. I feel like Kevin
 McCallister packing his suitcase.
@@ -198,11 +198,11 @@ I'm unaware of?
 
 Suggests nudity  
 &emsp;Teases nudity  
-&emsp;&emsp;Implies nudity  
-&emsp;&emsp;&emsp;Flashes nudity  
+&emsp;&emsp;Flashes nudity  
+&emsp;&emsp;&emsp;Features nudity  
 &emsp;&emsp;&emsp;&emsp;*Contains nudity*  
-&emsp;&emsp;&emsp;&emsp;&emsp;Features nudity  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Showcases nudity  
+&emsp;&emsp;&emsp;&emsp;&emsp;Showcases nudity  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flaunts nudity  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Celebrates nudity  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Overdoes nudity
 
@@ -248,8 +248,8 @@ What does ***contains nudity*** mean?
 What does contains nudity ***mean***?
 
 <h4 class="article-subheader">Here Goes Nothin'</h4>
-The night before the application deadline I navigate the USS Procrastination
-through the roiling seas 'neath the ominous shadow of Responsibility Island's
+The night before the application deadline I captain the USS Procrastination
+through roiling seas in the ominous shadow of Responsibility Island's
 craggy coastline.
 
 I've been agonizing over two simple prompts for weeks. I have a rough
@@ -341,7 +341,7 @@ should I choose to accept the mission.
 A split second into the video I realize that I *have* to say yes. The
 unmistakable, mesmerizing contralto of Patsy Cline singing *Walkin' After
 Midnight* snuggles up to me like an old friend. I've probably listened to this
-song hundreds of times.  As kids our parents would play Patsy Cline on repeat in
+song hundreds of times. As kids our parents would play Patsy Cline on repeat in
 our old Mercury sedan before Johnny boy came along and we became a minivan
 family. And then they played Pasty in the minivan. I can still belt out *Walkin'
 After Midnight*, *I Fall To Pieces*, *Crazy*, and *She's Got You* in my sleep.

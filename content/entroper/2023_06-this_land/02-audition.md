@@ -16,11 +16,9 @@ short_sum: Right foot odd, left foot even. Until it isn't.
 summary: 
 
 <h4 class="article-subheader">Clean Pair Of White-Soled Sneakers</h4>
-As someone who's never auditioned for anything I have no idea what to expect. I
-tried out for baseball when I was 10 but I don't think cranking dingers is gonna
-help me today.
-
-I don't even know what to wear. The only guidance from the email was a clean pair of
+It should come as no surprise that I have absolutely no idea what to expect for
+the audition. I don't even know what to wear. The only guidance from the email
+was a clean pair of
 white-soled sneakers. It also said there will be no nudity in the audition so
 I should probably wear some clothes too. I opt for a pair of
 breathable trousers and a plain dark v-neck. For the clean white-soled sneakers
