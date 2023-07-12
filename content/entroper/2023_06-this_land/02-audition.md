@@ -16,7 +16,7 @@ short_sum: Right foot odd, left foot even. Until it isn't.
 summary: 
 
 <h4 class="article-subheader">Clean Pair Of White-Soled Sneakers</h4>
-It should come as no surprise that I have absolutely no idea what to expect for
+It shouldn't surprise you that I have absolutely no idea what to expect for
 the audition. I don't even know what to wear. The only guidance from the email
 was a clean pair of
 white-soled sneakers. It also said there will be no nudity in the audition so

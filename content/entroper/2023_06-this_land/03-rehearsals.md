@@ -15,8 +15,8 @@ photo:
 short_sum: Who ever knew so much work could be so much fun?
 summary: 
 
-<h4 class="article-subheader">Jetlagged?</h4>
-Mark asks with a slight kick to the left foot of my vaguely animated corpse.
+"Jetlagged?" Mark asks with a slight kick to the left foot of my vaguely
+animated corpse.
 
 I partially peel open an eyelid and muster the strength for a mumbled
 "yeah"
@@ -33,17 +33,16 @@ levels are zapped.
 
 <h4 class="article-subheader">Claw to Maxi to Lewiston to Plastic Surgery to
 Mona Lisa to Tightrope to... Wait What's Next?</h4>
-Most of the time spent during the first few rehearsals are teaching the
+Most of our time during the first few rehearsals is spent teaching the
 individual segments. Each has its own name that Mark has informally conferred as
 he developed the piece and each segment has its own flavor. Whether it be a
 different costume, step sequence, hand movement, facial expression, or body
 position.
 
-
-As Mark teaches us each individual segment I get the hang of it pretty quickly.
-It's when we link all of them together where my head starts to spin. When we
-start to link 3 and 4 segments together I realize I'm going to need a notebook
-to write all this down.
+As Mark teaches us each individual segment I get the hang of them pretty quickly.
+It's when we start to link 3 or 4 segments together that my head starts to spin.
+I follow the lead of the more seasoned dancers and begin to write it all down
+in a notebook.
 
 For example, this is what I write in my notebook for the pass called "Plastic
 Surgery"
@@ -80,8 +79,8 @@ my noodle.
 I don't trust myself to go to the grocery store without a list so
 there's no way I'm going to be comfortable memorizing all the intricate
 choreography for 24 passes. Especially with the added adrenaline that's likely
-to come with a live audience. But one pass at a time I can manage. Did I
-mention I'm trusting the process?
+to come with a live audience. But one pass at a time I can manage. Just gotta
+trust the process.
 
 <h4 class="article-subheader">Pythagoras</h4>
 During our first rehearsal Mark gives us a tip to help keep our lines
@@ -145,10 +144,68 @@ Andy.*
 By the time we finish rehearsals I believe I've dragged my maxi skip into the
 realm of *adequate*, and I'll take that.
 
+<h4 class="article-subheader">How Do You Hold Hands?</h4>
+The captivity of rehearsals, in addition to sparking deep, contemplative
+discussions of nudity and sexuality, also sparks shallow, silly discussions of
+nonsense and frivolity.
 
+One day during a lull I wander into a conversation that Matt & Renay are
+having regarding their preferred method of holding hands. After some wrangling
+of mitts Matt ends up in front and Renay in back. They each recall holding hands
+in the alternate position but for whatever reason this feels right. I reach out
+a paw and find that I fit best in front with both of my colleagues. Matt tries
+the frontward position and works out a theory of hand holding logistics: taller
+person goes in front.
+
+Which makes sense to me because I think I've only assumed the forward station
+and can't remember holding the hand of someone taller than me. Which leads us
+to the inevitable conclusion that I'll have to try it with Brace.
+
+<h4 class="article-subheader">Seattle Steppers</h4>
+In addition to our complement of a dozen North Carolina-based dancers Mark has
+arranged to supplement the company with a couple performers from Seattle who
+have performed the piece in the past. Since they have performed the piece before
+and live 3 timezones away they are only participating in the second week of
+rehearsals.
+
+<h4 class="article-subheader">Markisms</h4>
+Throughout the course of rehearsals, Mark would sometimes blurt out something
+that was so funny, kooky, or poetically nonsensical I had to jot it down. A few
+favorites:
+
+*After our lunch break from our first Sunday rehearsal:*
+
+“Mark was tired & he went home. I showed up and I’m a bitch!”
+
+*On the look he wants us to show during our "neutral" passes*
+
+"I want your face to look like you're staring off into a deep blue lake"
+
+*On the look he wants us to have during "plastic surgery"*
+
+"I want your face to have no expression, like an LA socialite whose face is
+paralyzed from her last botox injection."
+
+*On the way we need to walk to look relaxed and not stiff*
+
+"I want you to imagine your body is a million tiny little pieces and each piece
+moves independent of one another."
+
+*On the character he wanted us to embody during a section of the piece:*
+
+“I want you to be Tuesday from then Addams Family”
+
+“Do you mean Wednesday!?"
+
+And I think my favorite,
+
+"Linda Belans!"
+
+For whatever reason Mark always referred to Linda by her full name, a practice
+that was adopted by the rest of the company.
 
 <h4 class="article-subheader">A-What Now?</h4>
-"Ok Linda, you are going to come out during the adagio sequence."
+"Linda Belans! You are going to come out during the adagio sequence."
 
 I whisper to Allie, "the what sequence?"
 
@@ -179,6 +236,12 @@ a choreographer in New York."
 So Monica Bill Barnes is a choreographer in New York. But I still have no idea
 what Mark meant. I hope my MBB energy came through my performance nonetheless.
 
+*We need less Lim&oacute;n overcurve*
+
+*Really emphasize the contrapposto*
+
+I'm listening but nothing is 
+
 "Who is the first one to come out with the straw cup?"
 
 "Right here! Uncle Andy!"
@@ -186,66 +249,6 @@ what Mark meant. I hope my MBB energy came through my performance nonetheless.
 Allie asks, "are you actually an uncle?"
 
 "To my friends' pets I am"
-
-<h4 class="article-subheader">Markisms</h4>
-Throughout the course of rehearsals, Mark would sometimes blurt out something
-that was so funny, kooky, or poetically nonsensical I had to jot it down. A few
-favorites:
-
-*After our lunch break from our first Sunday rehearsal:*
-
-“Mark was tired & he went home. I showed up and I’m a bitch!”
-
-*On the look he wants us to show during our "neutral" passes*
-
-"I want your face to look like you're staring off into a deep blue lake"
-
-*On the look he wants us to have during "plastic surgery"*
-
-"I want your face to have no expression, like you just got botox and your face
-is paralyzed."
-
-*On the way we need to walk to look relaxed and not stiff*
-
-"I want you to imagine your body is a million tiny little pieces and each piece
-moves independent of one another."
-
-*On the character he wanted us to embody during a section of the piece:*
-
-“I want you to be Tuesday from then Addams Family”
-
-“Do you mean Wednesday!?"
-
-And I think my favorite,
-
-"Linda Belans!"
-
-For whatever reason Mark always referred to Linda by her full name, a practice
-that was adopted by the rest of the company.
-
-<h4 class="article-subheader">How Do You Hold Hands?</h4>
-The captivity of rehearsals, in addition to sparking deep, contemplative
-discussions of nudity and sexuality, also sparks shallow, silly discussions of
-nonsense and frivolity.
-
-One day during a lull I wander into a conversation that Matt & Renay are
-having regarding their preferred method of holding hands. After some wrangling
-of mitts Matt ends up in front and Renay in back. They each recall holding hands
-in the alternate position but for whatever reason this feels right. I reach out
-a paw and find that I fit best in front with both of my colleagues. Matt tries
-the frontward position and works out a theory of hand holding logistics: taller
-person goes in front.
-
-Which makes sense to me because I think I've only assumed the forward station
-and can't remember holding the hand of someone taller than me. Which leads us
-to the inevitable conclusion that I'll have to try it with Brace.
-
-<h4 class="article-subheader">Seattle Steppers</h4>
-In addition to our complement of a dozen North Carolina-based dancers Mark has
-arranged to supplement the company with a couple performers from Seattle who
-have performed the piece in the past. Since they have performed the piece before
-and live 3 timezones away they are only participating in the second week of
-rehearsals.
 
 
 <h4 class="article-subheader">Headshot Redux</h4>

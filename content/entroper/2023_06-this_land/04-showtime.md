@@ -15,113 +15,53 @@ photo:
 short_sum: This is it, don't get scared now
 summary: 
 
-
-
-
 <h4 class="article-subheader">Nothin' To Say</h4>
-One most beautiful aspects of art in my opinion is that it's subjective. There's
-no right way to create,    , or appreciate it. Every person brings their life
-experience & perspective to their interpretation.
+Art is by its very nature a subjective human pursuit. There's no one way, no
+right way, no wrong way to create, consume, or appreciate it. Every person
+brings their life experience & perspective to their interpretation.
 
-John Prine is one the the greatest American songwriters and I will challenge
-anyone to a duel who opines otherwise.
-
-John Prine recorded thousands of lines of recorded lyrical poetry and
-certainly wrote tens of thousands more.
-
-In the midst of every one of these lines there's one that drives a stake
-deep into the soul of my being.
+In 1971's *Angel From Montgomery*, American mail carryer and occasional writer
+of profound poetry croons,
 
 *How the hell can a person
 Go to work in the morning
 Then come home in the evening
 And have nothing to say?*
 
-As a poet this is a perfectly reasonable question.
+This is a perfectly reasonable question.
 
-As an introverted adolescent whose parents might ask him,
+But as a young man I would come home from school every day and have nothing
+to say. I spent hundreds of excruciating car rides dreading the inevitable "what
+did you learn in school today?" The thing is I learned plenty in school. I just
+wanted to be alone.
 
-"What did you learn in school today?"
+But as I've matured and grown I've come to realize there's nothing wrong with
+that. There's nothing to be ashamed of. I can be comfortable with *who I am*.
+And if you're comfortable with who you are you can deal with uncomfortable
+situations. You can fly towards Mount Awkward instead of around it.
 
-It's a *feeling*.
+So why in the hell am I telling you this?
 
-A feeling that puts you in an exact time and place that your brain is
-incapable of forgetting. You faked the answer hundreds of times but for
-whatever reason any time you think of the question you can remember the exact
-stretch of pavement above which the question was proffered.
+Because there's absolutely no way that John Prine, when writing about the
+failing marriage of a middle aged woman, thought about how the journey of a 35
+year man would color his interpretation of the song. Because every single
+person who enjoys art brings their own life story to it.
 
-And the reason that I went to (school) in the morning then came home in the
-evening and had nothing to say is that I just wanted to be alone. I didn't want
-to talk to anyone.
-
-I'm fully aware that Uncle John is singing about a failed marriage, but I think
-this ties into the reason we crave art. Art is what makes us human. It's an
-opinion. It's a disagreement. It's a guy holding onto the microphone too long
-at a Q&A.
-
-A bleh_____ will always __________ weigh bleh or something
-
-That's science. And I love science. It's what got me through my adolescence.
-The surety. The answers. The black & white. It's what helped make the world
-make sense to me. If I was unsure of myself I could at least be sure of the
-principles that _____ built upon the __ that__ built yadda yadda
-
-I 
-
-You actually realize what catharsis means. You grab the grief with both hands
-and knead it like dough. You sit with it. Your use your introversion
-to your advantage. You realize you are a master contemplator. You're
-comfortable being alone. You can sit with your thoughts. You can wrestle with
-your thoughts. You embrace the pain. You walk through it instead of
-around it.
-
-You realize that you have just as much to say as anyone else. You realize that
-you do have something to say. The words come gushing out. What the hell is our
-word count now? Are you still reading this?
-
-You gain enough confidence where self deprecation is funny and endearing insread
-of worrying and tragic. You realize you have a super power. You also acknowledge
-much of that power comes from all the seen and unseen advantages that come from
-growing up as a white male in an upper middle class stable family in the
-heartland of America. You wish everyone could be afforded the same opportunity.
-
-Do you do anything 
-
-Does he spend his time writing nonsense instead of helping the less fortunate?
-
-Yes
-
-Does he feel guilty about it?
-
-Yes
-
-If he says right here on his website that he will help the less fortunate
-
-It sticks with me every time I hear it because I was that person. Substitute
-school for work and I was that person that had nothing to say.
-
-The first time I watched the piece, during what I felt was the most powerful
-section of the performance, I made an immediate connection to Woody
-Guthrie's *This Land Is Your Land*. I asked Mark if that was his intention and
-he said he had never even considered it.
-
-<h4 class="article-subheader">It's Art, Get It?</h4>
 The most wonderful part of Mark's piece is the fact that there's no message.
 There's no agenda. He presents the world the way he sees it and allows the
 audience to come to their own conclusion.
 
 At least that's my conclusion.
 
-<h4 class="article-subheader">Prepared</h4>
-Rehearsals have worn me down and I'm ready for the real thing. I've got my
-system down, I've got my spreadsheets printed. I'm prepared. calm. confident.
+It's such a unique and captivating piece that every single audience member walks
+away from the performance with a different perspective. The first time I watched
+a recording of the piece I made an immediate connection to what I considered the
+most powerful section of the performance, and Woody Guthrie's *This Land Is Your
+Land*. But that's just the Oklahoma in me. And I'm sure every single person at
+the Nasher made a connection to the piece that felt just at powerful and
+profound to them.
 
-The night before our first performance I sleep like a damn baby. When I arise
-I find a ladybug on my pillow - that's gotta be good luck right? But then again,
-maybe I
-<a href="https://dancespirit.com/history-of-merde/" target="_blank" rel="noopener no referrer">don't want good luck</a>?
-I'm not really sure what to make of dancer superstitions. Best not leave
-anything to chance.
+
 
 <h4 class="article-subheader">Dress Rehearsal</h4>
 The day before our first performances we mosey over to the Nasher for a full
@@ -132,7 +72,41 @@ any spanning the whole distance of the roof. Each beam supports each other,
 somewhat like the way you can fold the top flaps of a cardboard box to stay
 shut without tape.
 
-The designer <talk about the design>
+The architect, Uruguayan-born Rafael Vin&ntilde;oly, was a prolific designer
+with buildings spanning the globe from his native Latin America, to his adopted
+USA, on through Europe, Asia, Africa, and the Middle East. His firm was one of
+the finalists for the World Trade Center. Vi&ntilde; designed the revered Tokyo
+International Forum and, somewhat less revered, super skinny 432 Park Avenue
+condo near Central Park, and sunlight concentrator extraordinaire Vdara hotel in
+Vegas.
+
+<h4 class="article-subheader">Prepared</h4>
+Rehearsals have worn me down and I'm ready for the real thing. I've got my
+system down, I've got my spreadsheets printed. I'm prepared. Calm. Confident.
+
+The night before opening day I sleep like a damn baby. When I arise
+I find a ladybug on my pillow - that's gotta be good luck right? But then again,
+maybe I
+<a href="https://dancespirit.com/history-of-merde/" target="_blank" rel="noopener no referrer">don't want good luck</a>?
+I'm not really sure what to make of dancer superstitions. Best not leave
+anything to chance.
+
+<h4 class="article-subheader">Well, Here Goes Nothin'</h4>
+The hours leading up to the first performance are filled with much milling
+about and nonsensical banter. Our heroic stage manager, Gabby, has the
+unenviable job of appeasing contingents from the Nasher, the ADF, and the
+security detail, all while wrangling a group of nervy performers.
+
+15 minutes before showtime Gabby leads us from the green room backstage. We chat
+idly, review notes, stretch out, waiting anxiously just to get the show on the
+road. 6:30 comes and goes.
+
+"These things never start on time, I'm sure there are still people shuffling in"
+
+A few minutes later Gabby comes backstage and calmly tells us we'll be starting
+in 5.
+
+*I go out walkin' after midnight...*
 
 <h4 class="article-subheader">Quick Change</h4>
 Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
@@ -185,22 +159,7 @@ Birthday suit in the spotlight
 
 
 
-<h4 class="article-subheader">Well, Here Goes Nothin'</h4>
-The hours leading up to the first performance are filled with much milling
-about and nonsensical banter. Our heroic stage manager, Gabby, has the
-unenviable job of appeasing contingents from the Nasher, the ADF, and the
-security detail, all while wrangling a group of nervy performers.
 
-15 minutes before showtime Gabby leads us from the green room backstage. We chat
-idly, review notes, stretch out, waiting anxiously just to get the show on the
-road. 6:30 comes and goes.
-
-"These things never start on time, I'm sure there are still people shuffling in"
-
-A few minutes later Gabby comes backstage and calmly tells us we'll be starting
-in 5.
-
-*I go out walkin' after midnight...*
 
 <h4 class="article-subheader">Focus</h4>
 On my first pass my biggest point of concentration is to keep my gaze above the
@@ -215,10 +174,8 @@ I didn't have anyone come the first day, but I didn't know that at the time. The
 second day I had friends confirmed for both shows so it's good I had my gaze
 fixing practice night 1. During the first performance of the second day I did
 catch myself smothering a smirk during the nude section. Facing out towards the
-audience I was stoic, but going back towards the curtain each time I had the
-smallest smirk I had to muffle.
-
-
+audience I maintained a stoic stare into the deep blue lake, but going back
+towards the curtain each time I had the smallest smirk I had to muffle.
 
 <h4 class="article-subheader">Giddy</h4>
 On my third pass I'm supposed to do a single skip on each of the first two laps
@@ -258,9 +215,6 @@ fire it off, but luckily I had Renay next to me who really loaded up for each
 skip so I could confirm my hunch that it was time for a skip by looking at my
 peripherals.
 
-
-
-<h4 class="article-subheader">Time For Your Solo</h4>
 My last pass comes as the music fades out to silence. 96 steps of silence. I'm
 the very last in the line so my final lap is all alone. No music to keep my
 count. No comrades to distract the audience's gaze.
@@ -288,14 +242,13 @@ made the tactical decision to just play the soundtrack from the piece. We shrug
 and run out for the curtain call just like we practiced.
 
 Backstage after the curtain call McKelynn looks at me with a huge smile on her
-face, "Oh my god they gave us a standing ovation! That doesn't happen every
+face, "oh my god they gave us a standing ovation! That doesn't happen every
 time!"
 
 "Well for me it does!" I reply with a shiteating grin. I'm an ornery prick
 aren't I?
 
 <h4 class="article-subheader">Are you going to the talkback?</h4>
-
 "The what?"
 
 "The talkback, Mark is going to talk about the piece & do a Q&A"
@@ -323,9 +276,10 @@ Absolutely
 When people ask me how the performance went I say the same thing every time, "it
 was one of the most fun experiences of my life." From the moment I walked through
 the door for the audition to the moment we took our final bow it was an
-unrelenting torrent of joy. 
+unrelenting torrent of joy. A ton of work. But a ton of fun.
 
-Order of appearance:
+I want to thank all my fellow performers for their patience putting up with my
+asinine questions and inane jokes of mediocre quality:
 Alexandra
 Renay
 Matt
@@ -341,3 +295,7 @@ Brace
 Dana
 Linda Belans
 Aaron
+
+But most of all I want to thank Mark Haim for taking a chance on a hayseed from
+Oklahoma with no dane experience to participate in a piece that's so meaningful
+to him.

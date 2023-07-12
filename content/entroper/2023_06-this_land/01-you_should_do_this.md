@@ -42,11 +42,11 @@ Land,” an evening-long dance based entirely on walking.
 </div>
 
 Well, now that you mention it, "based entirely on walking" seems squarely within
-my capabilities, hell I walk every day. Plus, "This Land Is Your Land" slides right
-into a cozy pair of blue jeans and cowboy boots at the heart of my Oklahoma
-pride. My childhood home sits just up the road a piece from the Woody Guthrie
-Center, which sits just 60 miles to the Northeast of Woodrow Wilson Guthrie's
-hometown of Okemah. How 'bout that lil deal?
+my capabilities, hell I walk every day. Plus, "This Land Is Your Land" slides
+right into a cozy pair of blue jeans and cowboy boots sitting in the closet of
+my Oklahoma pride. My childhood home sits just up the road a piece from the
+Woody Guthrie Center, which itself is located a mere 60 miles Northeast of
+Woodrow Wilson Guthrie's hometown of Okemah. How 'bout that lil deal?
 
 <div class="text-muted fst-italic mx-3 mb-3">
 Mark Haim would like to restage the dance for a group of 14 performers from the
@@ -61,12 +61,11 @@ Of the roughly 1 million words in the English language, the descriptor
 "diverse" would be nowhere near the top of the list for a mid-30s straight white
 guy from Oklahoma.
 
-However, near the top of the same list you would
-surely find "misplaced confidence", so I decide to apply anyway ¯\\_(ツ)_/¯
+However, you'd surely find "misplaced confidence" near the top of the same list
+so I decide to apply anyway ¯\\_(ツ)_/¯
 
-My 7 word response to Laura initiated the fueling procedures for a pair of
-liquid rocket boosters programmed with a trajectory to launch me out of
-my comfort zone into another galaxy.
+My 7 word response to Laura initiated the fueling procedures for a Saturn V
+rocket programmed to launch me out of my comfort zone and into another galaxy.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/aud-insta_message.jpeg" alt="I think I will">
@@ -90,8 +89,7 @@ experience - what the heck should I include in my bio?
 And a ***short*** description why I want to partake in this performance? I'd
 need 10 sessions with a psychologist to even begin to answer that question.
 
-Then the headshot. I've never taken a headshot in my life. I feel like Kevin
-McCallister packing his suitcase.
+Then the headshot. I feel like Kevin McCallister packing his suitcase.
 
 SUBMIT.
 
