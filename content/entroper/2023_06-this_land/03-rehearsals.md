@@ -659,3 +659,7 @@ when I get to green"
 "Yes, I'll be neutral just as I'm leaving the stage."
 
 "Got it, thanks."
+
+Jen Law on nudity
+
+https://www.nme.com/news/jennifer-lawrence-says-red-sparrow-nudity-actual-nightmare-2249235

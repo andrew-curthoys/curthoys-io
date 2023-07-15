@@ -61,8 +61,6 @@ Land*. But that's just the Oklahoma in me. And I'm sure every single person at
 the Nasher made a connection to the piece that felt just at powerful and
 profound to them.
 
-
-
 <h4 class="article-subheader">Dress Rehearsal</h4>
 The day before our first performances we mosey over to the Nasher for a full
 dress rehearsal in the performance space. I've yet to grace the halls of the
@@ -72,26 +70,53 @@ any spanning the whole distance of the roof. Each beam supports each other,
 somewhat like the way you can fold the top flaps of a cardboard box to stay
 shut without tape.
 
-The architect, Uruguayan-born Rafael Vin&ntilde;oly, was a prolific designer
-with buildings spanning the globe from his native Latin America, to his adopted
-USA, on through Europe, Asia, Africa, and the Middle East. His firm was one of
-the finalists for the World Trade Center. Vi&ntilde; designed the revered Tokyo
-International Forum and, somewhat less revered, super skinny 432 Park Avenue
-condo near Central Park, and sunlight concentrator extraordinaire Vdara hotel in
-Vegas.
+In the words of Rafael Vi&ntilde;oly, the Uruguayan-born architect,
+<div class="text-muted fst-italic mx-3 mb-3">
+A collection of five separate, rectangular volumes arranged in a loose radial
+pattern near the top of a gentle slope define an irregular, pentagonal central
+courtyard topped by a glass roof. The complex, almost vertiginous geometries of
+the atrium roof are formed by a hierarchy of structural systems, all supported
+on five primary beams. This seemingly simple network of structural supports adds
+rhythm, lightness, scale, and openness to the column-free public lobby and event
+space at the heart of the museum and also incorporates the building’s mechanical
+systems.
+</div>
 
-<h4 class="article-subheader">Prepared</h4>
+It's a pretty magical space. And my first introduction to the mindfuck
+that occurs when you leave the familiar confines of your home rehearsal space.
+Our first dress rehearsal at the Nasher I make mistakes I haven't made in over
+a week. I can't keep my count. I can't remember my choreography. I'm
+discombobulated. It certainly doesn't help that the floor tiles are slanted at
+an angle oblique to our walking path.
+
+After the run through I ask the other performers if they had similar
+tribulations and they confirm they did as well.
+
+"Every time you rehearse at a new place that will happen. You'll be alright,
+that's why we did this."
+
+Phew. Did I mention my co-performers are fabulous people?
+
+For our second dress rehearsal we get an audience. Members of the ADF staff and
+participants in the summer dance intensive who have schedule conflicts with the
+nights of the performance are offered the opportunity to see our final dress.
+Much the same as the venue adds a new layer to the performance, a live audience
+significantly changes the dynamic. I'm grateful that we are able to rehearse in
+the Nasher with an audience before opening night. As an engineer I'm always on
+the lookout to isolate as many variables as possible.
+
+<h4 class="article-subheader">This Is It, Don't Get Scared Now</h4>
 Rehearsals have worn me down and I'm ready for the real thing. I've got my
-system down, I've got my spreadsheets printed. I'm prepared. Calm. Confident.
+system down, I've got my spreadsheets printed. I've got Linda Belans's
+spreadsheets printed. I'm prepared. Calm. Confident.
 
-The night before opening day I sleep like a damn baby. When I arise
+The night before our first performance I sleep like a damn baby. When I arise
 I find a ladybug on my pillow - that's gotta be good luck right? But then again,
 maybe I
 <a href="https://dancespirit.com/history-of-merde/" target="_blank" rel="noopener no referrer">don't want good luck</a>?
 I'm not really sure what to make of dancer superstitions. Best not leave
 anything to chance.
 
-<h4 class="article-subheader">Well, Here Goes Nothin'</h4>
 The hours leading up to the first performance are filled with much milling
 about and nonsensical banter. Our heroic stage manager, Gabby, has the
 unenviable job of appeasing contingents from the Nasher, the ADF, and the
@@ -130,36 +155,6 @@ Much like Rabbit's maps in Twister I've found that the most effective way to
 prepare my socks is to roll them.
 
 <div class="tenor-gif-embed" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-<h4 class="article-subheader">One-Two-Three-Four</h4>
-
-<p class="fs-4 fw-bold my-4" style="text-align:center;">WAIT FOR IT......</p>
-
-<i>Five-Six-Seven-Eight</i>
-
-One extra count behind the curtain
-
-<i>One-Two-Three-Four</i>
-
-Deep breath
-
-<i>Five-Six-Seven-Eight</i>
-
-Naked improv. Naked improv. Naked improv.
-
-<i>One-Two-Three-Four</i>
-
-Right foot on the Five
-
-Left foot on the Six
-
-Birthday suit in the spotlight
-
-
-
-
-
-
 
 <h4 class="article-subheader">Focus</h4>
 On my first pass my biggest point of concentration is to keep my gaze above the
@@ -299,3 +294,32 @@ Aaron
 But most of all I want to thank Mark Haim for taking a chance on a hayseed from
 Oklahoma with no dane experience to participate in a piece that's so meaningful
 to him.
+
+
+<h4 class="article-subheader">One-Two-Three-Four</h4>
+
+<div class="container containter-fluid">
+  <iframe src="https://giphy.com/embed/c16VH0CFMh7gOqqXOM" width="100%" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+
+<p class="fs-5 fw-bond fst-italic">Five-Six-Seven-Eight</p>
+
+
+Typically I go out on the **five**. But this is the naked improv, I have one extra
+8 count behind the curtain.
+
+<i>One-Two-Three-Four</i>
+
+Deep breath
+
+<i>Five-Six-Seven-Eight</i>
+
+Naked improv. Naked improv. Naked improv.
+
+<i>One-Two-Three-Four</i>
+
+Right foot on the Five
+
+Left foot on the Six
+
+Birthday suit in the spotlight
