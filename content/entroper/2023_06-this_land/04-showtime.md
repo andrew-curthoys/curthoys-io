@@ -21,16 +21,18 @@ right way, no wrong way to create, consume, or appreciate it. Every person
 brings their life experience & perspective to their interpretation.
 
 In 1971's *Angel From Montgomery*, American mail carryer and occasional writer
-of profound poetry croons,
+of profound poetry John Prine croons,
 
-*How the hell can a person
-Go to work in the morning
-Then come home in the evening
-And have nothing to say?*
+<div class="text-muted fst-italic mx-3 mb-3">
+How the hell can a person<br>
+Go to work in the morning<br>
+Then come home in the evening<br>
+And have nothing to say?
+</div>
 
-This is a perfectly reasonable question.
+Which, on the face of it, is a perfectly reasonable question.
 
-But as a young man I would come home from school every day and have nothing
+But as an introverted young man I came home from school every day and had nothing
 to say. I spent hundreds of excruciating car rides dreading the inevitable "what
 did you learn in school today?" The thing is I learned plenty in school. I just
 wanted to be alone.
@@ -47,12 +49,6 @@ failing marriage of a middle aged woman, thought about how the journey of a 35
 year man would color his interpretation of the song. Because every single
 person who enjoys art brings their own life story to it.
 
-The most wonderful part of Mark's piece is the fact that there's no message.
-There's no agenda. He presents the world the way he sees it and allows the
-audience to come to their own conclusion.
-
-At least that's my conclusion.
-
 It's such a unique and captivating piece that every single audience member walks
 away from the performance with a different perspective. The first time I watched
 a recording of the piece I made an immediate connection to what I considered the
@@ -60,6 +56,12 @@ most powerful section of the performance, and Woody Guthrie's *This Land Is Your
 Land*. But that's just the Oklahoma in me. And I'm sure every single person at
 the Nasher made a connection to the piece that felt just at powerful and
 profound to them.
+
+The most wonderful part of Mark's piece is the fact that there's no message.
+There's no agenda. He presents the world the way he sees it and allows the
+audience to come to their own conclusion.
+
+At least that's my conclusion.
 
 <h4 class="article-subheader">Dress Rehearsal</h4>
 The day before our first performances we mosey over to the Nasher for a full
@@ -133,28 +135,6 @@ in 5.
 
 *I go out walkin' after midnight...*
 
-<h4 class="article-subheader">Quick Change</h4>
-Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
-require a full outfit changes, some are just an accessory here, new top there,
-different pair of jeans. But a substantial wardrobe to keep track of nonetheless.
-Before each performance I neatly stack each article of clothing in reverse order
-of their appearance.
-
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_before.jpeg" alt="Before">
-</figure>
-
-And each costume change I frantically tear off my clothes & throw them into a
-pile. Entropy increasing with every performance.
-
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_after.jpeg" alt="After">
-</figure>
-
-Much like Rabbit's maps in Twister I've found that the most effective way to
-prepare my socks is to roll them.
-
-<div class="tenor-gif-embed" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h4 class="article-subheader">Focus</h4>
 On my first pass my biggest point of concentration is to keep my gaze above the
@@ -218,6 +198,31 @@ Seeing as this is my first performance (have I mentioned that yet?) my fellow
 dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
 it. I should be nervous but for reasons I can't explain I'm not. Chalk it up to
 preparation.
+
+<h4 class="article-subheader">Quick Change</h4>
+Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
+require a full outfit change, some are just an accessory here, new top there,
+different pair of jeans. But a substantial wardrobe to keep track of nonetheless.
+Before each performance I neatly stack each article of clothing in reverse order
+of their appearance.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_before.jpeg" alt="Before">
+</figure>
+
+And each costume change I frantically tear off my clothes & throw them into a
+pile. Entropy increasing with every pass.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_after.jpeg" alt="After">
+</figure>
+
+Much like Rabbit's maps in Twister I've found that the most effective way to
+prepare my socks is to roll them.
+
+<div class="tenor-gif-embed mb-2" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
 
 <h4 class="article-subheader">Ovation</h4>
 I didn't know what to expect as I walked off the stage to finish my first ever

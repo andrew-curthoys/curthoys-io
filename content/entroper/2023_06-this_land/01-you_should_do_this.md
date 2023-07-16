@@ -29,11 +29,11 @@ begin to describe the joy she brings to this world.
 	<figcaption class="figure-caption">She's just the best</figcaption>
 </figure>
 
-This particular missive contains a link to a post from the American Dance
-Festival with the headline *Audition for "This Land Is Your Land" by Mark Haim.*
-
-Audition? I've never auditioned for anything in my life, why on earth is she
-sending me a link to an audition? I skeptically click the link.
+This particular missive contains a link to a post by the American Dance
+Festival with the headline
+<a href="https://www.instagram.com/p/CpLbgk9J-FI/?igshid=MzRlODBiNWFlZA==" target="_blank" rel="noreferrer noopener">*Audition Opportunity for NC-based Performers*</a>
+Audition? Why on earth is she sending me a link to an audition? I've never
+auditioned for anything in my life. I skeptically click the link.
 
 <div class="text-muted fst-italic mx-3 mb-3">
 In honor of the ADF’s decade of collaborating with the Nasher Museum of Art, it
@@ -53,7 +53,7 @@ Mark Haim would like to restage the dance for a group of 14 performers from the
 NC community and is looking for a very diverse group in age, race, size and gender. 
 </div>
 
-Well....
+Welp....
 
 It was fun while it lasted.
 
@@ -84,7 +84,7 @@ Application requirements:
 
 To most people this probably seems like a piece of cake. Just knock it out
 between walkin' the dogs & fixin' supper. But for someone with no relevant
-experience - what the heck should I include in my bio?
+experience I haven't a clue what to include in my bio.
 
 And a ***short*** description why I want to partake in this performance? I'd
 need 10 sessions with a psychologist to even begin to answer that question.
@@ -102,12 +102,12 @@ Well at least I have over a month to think about it.
 So I spend the month *thinking* and not a minute of *doing*.
 
 As the March 6 deadline looms more sinister with each passing day I realize that
-my window to snag a headshot before my Utah ski trip is rapidly
+my window to snag a headshot before heading to Utah for a ski trip is rapidly
 closing. While working from home ahead of my evening flight on March 3rd I spend
 my entire lunch break struggling to capture an adequate headshot.
 
 It started with a simple "headshot examples" image search. Suddenly a panoply of
-aggressively beautiful people appears on my phone screen. Ok, so all I
+aggressively beautiful people appears in my browser. Ok, so all I
 have to do is look natural and find a nice set of high cheekbones and chiseled
 jaw in my size. I'll take one *Robert Redford from The Sting* please.
 
@@ -194,10 +194,10 @@ I couldn't help but ponder, "what exactly does '*contains
 nudity*' mean?" Does *contains nudity* fall on a performance nudity scale that
 I'm unaware of?
 
-Suggests nudity  
-&emsp;Teases nudity  
-&emsp;&emsp;Flashes nudity  
-&emsp;&emsp;&emsp;Features nudity  
+Excludes nudity  
+&emsp;Suggests nudity  
+&emsp;&emsp;Teases nudity  
+&emsp;&emsp;&emsp;Flashes nudity  
 &emsp;&emsp;&emsp;&emsp;*Contains nudity*  
 &emsp;&emsp;&emsp;&emsp;&emsp;Showcases nudity  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flaunts nudity  
