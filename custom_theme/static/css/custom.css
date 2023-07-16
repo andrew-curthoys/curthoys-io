@@ -27,6 +27,11 @@
     font-variant: small-caps !important;
     font-style: italic !important;
 }
+.trip-link {
+    color: #4B739A !important;
+    font-variant: small-caps !important;
+    font-style: italic !important;
+}
 .article-subheader {
     color: #4B739A !important;
     font-size: calc(1.2rem + 0.3vw) !important;
