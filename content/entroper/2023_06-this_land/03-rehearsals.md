@@ -135,8 +135,8 @@ of 2.5 ft the difference of the component perpendicular to the curtain would be
 1.89 inches over a total distance of 20 feet. Or 0.24 inches per step. We're
 good but I don't think we're *that* good.
 
-\*I just learned what upstage & downstage meant during rehearsal today. I'm only
-77.8% sure I'm using it correctly here.
+*\*I just learned what upstage & downstage meant during rehearsal today. I'm only
+77.8% sure I'm using it correctly here.*
 
 I'm not saying there's a psychological difference in how far it *feels*.
 
@@ -155,8 +155,8 @@ on counting and trigonometry. Perhaps.
 <h4 class="article-subheader">A-What Now?</h4>
 "Linda Belans!\* You are going to come out during the adagio sequence."
 
-\*Mark always referred to Linda by her full name. The rest of the company
-naturally followed suit.
+*\*Mark always referred to Linda by her full name. The rest of the company
+naturally followed suit.*
 
 I whisper to Allie, "the what sequence?"
 
@@ -253,7 +253,7 @@ to opening day. Dana assures me that the programs are all digital so my worries
 about getting the headshot and bio submitted before they "go to the presses"\*
 with the programs are unfounded.
 
-\*do they say that? I don't know, you get the idea.
+*\*do they say that? I don't know, you get the idea.*
 
 We spend about a beer and a half mulling over the wording of my bio, cutting
 this, tightening that, rewording here. Once we're satisfied I send over the
