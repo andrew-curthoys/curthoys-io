@@ -17,8 +17,8 @@ summary:
 
 <h4 class="article-subheader">Nothin' To Say</h4>
 Art is by its very nature a subjective human pursuit. There's no one way, no
-right way, no wrong way to create, consume, or appreciate it. Every person
-brings their life experience & perspective to their interpretation.
+right way, no wrong way to create, consume, or appreciate art. It's intimately
+individual and that's what makes it beautiful.
 
 In 1971's *Angel From Montgomery*, American mail carryer and occasional writer
 of profound poetry John Prine croons,
@@ -78,21 +78,23 @@ A collection of five separate, rectangular volumes arranged in a loose radial
 pattern near the top of a gentle slope define an irregular, pentagonal central
 courtyard topped by a glass roof. The complex, almost vertiginous geometries of
 the atrium roof are formed by a hierarchy of structural systems, all supported
-on five primary beams. This seemingly simple network of structural supports adds
+on five primary beams.
+<br><br>
+This seemingly simple network of structural supports adds
 rhythm, lightness, scale, and openness to the column-free public lobby and event
 space at the heart of the museum and also incorporates the building’s mechanical
 systems.
 </div>
 
-It's a pretty magical space. And my first introduction to the mindfuck
-that occurs when you leave the familiar confines of your home rehearsal space.
-Our first dress rehearsal at the Nasher I make mistakes I haven't made in over
-a week. I can't keep my count. I can't remember my choreography. I'm
-discombobulated. It certainly doesn't help that the floor tiles are slanted at
-an angle oblique to our walking path.
+It's a pretty magical space. And my first introduction to the complete
+bewilderment that comes with rehearsing in a new space. During our first dress
+at the Nasher I make mistakes I haven't made in over a week in the
+comfy confines of the ADF Studios. I can't keep my count. I can't remember my
+choreography. I'm discombobulated. It certainly doesn't help that the floor
+tiles are slanted at an angle oblique to our walking path.
 
-After the run through I ask the other performers if they had similar
-tribulations and they confirm they did as well.
+After the run through I ask my fellow performers if they had similar
+misfortunes and they confirm as much.
 
 "Every time you rehearse at a new place that will happen. You'll be alright,
 that's why we did this."
@@ -109,17 +111,15 @@ the lookout to isolate as many variables as possible.
 
 <h4 class="article-subheader">This Is It, Don't Get Scared Now</h4>
 Rehearsals have worn me down and I'm ready for the real thing. I've got my
-system down, I've got my spreadsheets printed. I've got Linda Belans's
-spreadsheets printed. I'm prepared. Calm. Confident.
+system down, I've got my spreadsheets printed. I'm prepared. Calm. Confident.
 
 The night before our first performance I sleep like a damn baby. When I arise
 I find a ladybug on my pillow - that's gotta be good luck right? But then again,
 maybe I
 <a href="https://dancespirit.com/history-of-merde/" target="_blank" rel="noopener no referrer">don't want good luck</a>?
-I'm not really sure what to make of dancer superstitions. Best not leave
-anything to chance.
+I'm not really sure what to make of dancer superstitions.
 
-The hours leading up to the first performance are filled with much milling
+The hours leading up to the performance are filled with much milling
 about and nonsensical banter. Our heroic stage manager, Gabby, has the
 unenviable job of appeasing contingents from the Nasher, the ADF, and the
 security detail, all while wrangling a group of nervy performers.
@@ -135,10 +135,12 @@ in 5.
 
 *I go out walkin' after midnight...*
 
-
 <h4 class="article-subheader">Focus</h4>
 On my first pass my biggest point of concentration is to keep my gaze above the
 heads of the audience, staring off into that deep blue lake.
+
+**Mark in 80 faces video**: it's an interactive viewing experience
+
 The audience is seated on folding chairs surrounding the stage on three sides.
 One of my biggest points of concentration is to keep my
 gaze above the heads of the audience, staring off into that deep blue lake. I do
@@ -222,14 +224,12 @@ prepare my socks is to roll them.
 
 <div class="tenor-gif-embed mb-2" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-
-
 <h4 class="article-subheader">Ovation</h4>
 I didn't know what to expect as I walked off the stage to finish my first ever
 performance. I gave it a 50-50 shot
-that I'd get emotional and tear up backstage but when it was all said and done
+that I'd get emotional and tear up backstage. But when it was all said and done
 the only emotion I feel is pure, unadulterated bliss. My smile spans the full
-distance between my ears
+distance from ear to ear.
 
 As we're hugging backstage I realize that I might not be the only one with first
 show jitters. Our curtain call song, a delightful honky tonk swing ditty from
@@ -267,6 +267,26 @@ probably can't spell "press."
 During the talkback we learn about the story of how the piece came to be. Our
 current hour-long iteration was incrementally developed over time, with the
 original spanning a much more modest 20 minutes.
+
+
+"It's based on a very simple pattern that keeps mutating for 14 performers that
+also involves about 200 Starbucks cups, 14 rifles, 14 pistols, 15 cell phones,
+17 beer cans, and a whole bunch of costumes set to a whole bunch of country
+music."
+
+The piece is so much about the performing non-performance. Everyone is trying to
+look as if they're not aware that people are looking at them even though all
+eyes are on them.
+
+
+<h4 class="article-subheader">"Holy Shit"</h4>
+"You totally undersold it," was the most common refrain I heard from my friends
+after viewing the piece.
+
+
+<h4 class="article-subheader">Well What Now?</h4>
+All of my fellow performers are curious as to my future in the dancing arts.
+
 
 Do I feel brave?
 No
@@ -328,3 +348,13 @@ Right foot on the Five
 Left foot on the Six
 
 Birthday suit in the spotlight
+
+
+
+
+
+
+
+
+
+Before day 2 get lunch with Brace & Hendri.

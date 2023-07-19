@@ -25,8 +25,6 @@ breathable trousers and a plain dark v-neck. For the clean white-soled sneakers
 I choose my white Asics that I wore to officiate my good friends Brady &
 Shelby's wedding last summer. Maybe they got some magic in them yet.
 
-Raining before original audition.
-
 I arrive at ADF's Samuel H. Scripps Studios at quarter to 6 and check in
 with Kelsey, who hands me number 170 to pin to my
 shirt. Which can only mean one thing: I'm going to be the dancing equivalent of
@@ -39,8 +37,8 @@ studio. A dozen or so people are scattered about in various states
 of stretching and mild calisthenics. I find a vacant patch of studio real estate
 and do as the Romans do. To even the most generous of observers my stretches
 would be considered *half assed*. I have to admit the Duke softball stadium
-right outside the window has me wishing I was rippin' taters and turnin' double
-plays.
+right outside the window has me wishing I was crankin' dingers and turnin'
+double plays.
 
 Right around 6 PM our choreographer Mark Haim gathers everyone to *ahem* put us
 through our paces.
@@ -48,8 +46,8 @@ through our paces.
 I remember from my film study it's a constantly flowing series of 8 step
 down & backs. I think I can handle that.
 
-Mark divides the group into manageable chunks and watches everyone walk 8 step
-laps without music.
+Mark divides the group into groups of a dozen or so auditioners and watches
+everyone walk 8 step laps without music.
 
 1-2-3-4-5-6-7-8 pivot  
 1-2-3-4-5-6-7-8 pivot  
@@ -87,7 +85,7 @@ skip where you raise your front leg for a little hop instead of bringing
 your other leg through. I could gallop up & down the studio no problem.
 
 The thing about the gallop, though, is that it switches your feet. Instead of
-right foot odds, left foot evens we've entered the unfamiliar and sinister world
+right foot odds, left foot evens we've entered the unfamiliar and depraved world
 of left-foot odds, right-foot evens.
 
 I cringe just thinking about it.
@@ -106,7 +104,7 @@ I stand no chance.
 We do a few laps in our blobs before Mark lines us back up to do it in
 unison. I take one step and my brain freezes. I hop, I lurch, I trundle. But I
 sure as hell don't gallop. The once steady count in my head violently sublimates,
-forever lost to the steady, growing entropy of the universe. My grasp on the
+forever lost to the steady, growing chaos of the universe. My grasp on the
 very concept of numbers has become unsettlingly tenuous.
 
 After a few rounds of gallops I glance over at the woman who is galloping with
@@ -129,7 +127,7 @@ Mark colors each character with a story of an interaction with that individual
 or an archetype of the character. With each story I know exactly the person he's
 describing. If I can embody that person is another question.
 
-We do some Sallys, we do some Lewistons. Some good (Renay, Dana, Matt, et al.).
+We do some Sallys, we do some Lewistons. Some good (Renay, et al.).
 Some not so good (me).
 
 Halfway through the audition Mark calls us all together again and drops a
@@ -140,8 +138,7 @@ this but we want to get some more looks at a smaller group."
 
 This is the moment that I realize what an unbelievable opportunity I have. I
 can see the genuine pain in Mark's face when he has to tell people they've
-been cut. He's genuinely uncomfortable. I came into this on somewhat of a lark.
-I had no idea what I was getting into. The choreographer could be an asshole.
+been cut. He's genuinely uncomfortable. The choreographer could be an asshole.
 The choreographer could have taken glee in cutting people. But each number he
 reads *pains* him.
 
@@ -157,9 +154,9 @@ reads *pains* him.
 
 172
 
-176
-
 \**phew*\*
+
+176
 
 He continues but I stop listening.
 
@@ -191,9 +188,14 @@ are coming. It's a great dive bar, I know all the bartenders."
 "Oh I'm *very* familiar with Accordion Club. I love that place! See you there!"
 
 Anticipating my condition I hitch up my 6 cylinder steed at my apartment
-and set off to the saloon on foot. I show up to my new friends Dana, Renay, 
-and Matt halfway through their first sarsparilla. I mosey over to a stool and
-order up a Fairground Balloons Pale Ale.
+and set off to the saloon on foot. By the time I belly up to the rail my new
+friends Dana, Renay, and Matt halfway through their first sarsparilla. I
+order up a Fairground Balloons Pale Ale for a little catch up.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/aud-accordion.jpeg" alt="Accordion Club`">
+	<figcaption class="figure-caption">Accordion Club. Got everything we need here.</figcaption>
+</figure>
 
 We exchange our thoughts from the audition. Nobody thinks they are going to
 get it. Everybody thinks everybody else is going to get it.
@@ -207,9 +209,9 @@ After my craft pale ale I switch over to a bottle of swill that's more fitting
 of an establishment of Accordion Club's class. The bartender pops the cap on my
 PBR then just stares at me.
 
-"Uhhhhh"
+"Uhhhhh?"
 
-"You gotta guess the card," interjects Dana.
+"You gotta guess the card," interjects Dana after a painfully awkward pause.
 
 "The card?"
 
@@ -227,7 +229,7 @@ card & suit you get the beer for free."
 I resist the urge to explain that probabilistically it's just as close as any
 other card, assuming the caps are evenly distributed of course.
 
-And then explain it anyway.
+And then on my next beer I explain it anyway.
 
 Because I'm an annoying twat. I can't help it.
 
@@ -239,7 +241,9 @@ Dana, Renay, & Matt all have a similar answer. Some choreographers are nice,
 some are assholes, and some fill in the space between. I'm chuffed that Mark
 falls on the nice end of the spectrum.
 
-One PBR turns to two then Dana shows up to the table with a round of tequila
+The PBRs are going down, well, like PBRs. It's not smooth, it's not drinkable,
+but that's what's good about it. Then Dana pours some coal on the fire and
+shows up to the table with a round of tequila
 shots. Oh sweet baby Jesus, I was not prepared for this.
 
 "Here's to everybody making it. Here's to the Durham Dance Mafia!"
@@ -249,13 +253,15 @@ My alarm squawks the next morning and I feel bleary eyed and cranky. About
 halfway through preparing my morning coffee I realize I'm dealing with
 the effects of our delightful biannual daylight savings tradition that we have
 all allowed to happen in the Year of Our Lord 2023. Hopefully this pot of Little
-Waves Dinkinesh: Yukro medium roast Ethiopian jitter juice puts a little pep in
+Waves Dinkinesh: Yukro Ethiopian medium roast jitter juice puts a little pep in
 my step.
 
 As I'm milling about the apartment I receive an email at 11:22 AM. I read the
 preview and feel a slight lump in my throat.  
 
-*Good Morning, Thank you so much for attending the aud...*
+<div class="text-muted fst-italic mx-3 mb-3">
+Good Morning, Thank you so much for attending the aud...
+</div>
 
 I tap the email fully expecting to see a big fat **but** right after "audition."
 
@@ -268,13 +274,15 @@ Thank you so much for attending the audition, **but** *what the hell were you th
 I open the email & I'm relieved to find not a **but** but an invitation to a
 callback. I think that's good?
 
-*Thank you so much for attending the audition last night! Instead of holding a
-first rehearsal this Sunday, Mark would like to hold a callback.* ***You are
-invited to attend the callback.***
+<div class="text-muted fst-italic mx-3 mb-3">
+Thank you so much for attending the audition last night! Instead of holding a
+first rehearsal this Sunday, Mark would like to hold a callback. <b>You are
+invited to attend the callback.</b>
+</div>
 
-The callback takes place the next morning, where we work through all the hits
+I return to the studio the next morning where we work through all the hits
 again. After about an hour we take a break and while we're all relaxing on the
-benches in the reception area of the studio Marks strides in with an
+benches in the reception area Marks strides in with an
 announcement he delivers in the most understated tone possible,
 
 "Ok so this is technically a callback but I like what I see and we're going to
@@ -305,14 +313,14 @@ expression and that this art form is accessible to all, now and for generations
 to come.
 </div>
 
-The festival traces its origins to the Bennington School of the Dance, a summer
+The festival traces its origins to the Bennington School of Dance, a summer
 program established at Bennington College in Vermont. The school provided
 choreographers and performers a venue to experiment and perform works in the
 rapidly evolving medium of modern dance. In 1948 the festival was relocated to
 Connecticut College before it's final move to the 36th parallel in 1978.
 
 (*Fun fact:* one side of the road outside the Nasher
-Museum of Art where the performance will be held is at 35.99999&deg;N and the
+Museum of Art where our performances will be held is at 35.99999&deg;N and the
 other is 36.0&deg;N. I'm comfortable admitting that I'm probably the only weirdo
 who finds that fact fun.)
 
@@ -324,25 +332,33 @@ the White House featuring George Benson plucking some impossibly smooth
 guitar riffs and Dizzy Gillespie leading President Carter in a rendition of
 *Salt Peanuts*, The Paper of Record details the 45th season of the festival.
 It feels poetic that ADF is celebrating its 90th anniversary this season,
-exactly 45 years on from the first performances on Duke's campus.
+exactly 45 years after the first performances on Duke's campus.
+
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/aud-nyt.png" alt="NYT">
+	<figcaption class="figure-caption">Breezin</figcaption>
+</figure>
 
 That 1978 class featured a young 19-year old student by the name of Madonna
-Ciccone, but today we just know her by her first name. A story that ran in the
-Charlotte Observer detailing the festival began thusly,
+Ciccone, a performer we know today simply by her first name. A story that ran in
+the Charlotte Observer detailing the festival began thusly,
 
-*Her name is Madonna Ciccone, and her face matches her name.*
+*"Her name is Madonna Ciccone, and her face matches her name.*
 
 *Round eyes, arched eyebrows, finely drawn mouth – Da Vinci would have loved it.
 It is a theatrical face, a dancer’s face. And she has a dancer’s body – thin as
 a blade, lithe and agile. Doll-like, she looks as if she’d snap in a strong wind.*
 
-*She wouldn’t.*
+*She wouldn’t."*
 
-Read more at: https://www.newsobserver.com/entertainment/music-news-reviews/on-the-beat-blog/article23143152.html#storylink=cpy
+Read more at:
+<a href="https://www.newsobserver.com/entertainment/music-news-reviews/on-the-beat-blog/article23143152.html#storylink=cpy" target="_blank" rel="noopener noreferrer">Madonna
+before she was Madonna - a dance student at ADF</a>
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/aud-madonna.jpeg" alt="Madonna">
-	<figcaption class="figure-caption"></figcaption>
+	<figcaption class="figure-caption">A print hanging on the wall of the studio.
+	That's Madonna sitting on the stage in the white headband</figcaption>
 </figure>
 
 This year's festival is dedicated to Gerri Houlihan, a colossus in the world of
@@ -363,7 +379,3 @@ tree of modern dance." In the final line of the 1978 article, the NYT described
 ADF as "one of the nation's most important institutions."
 
 No pressure.
-
-
-
-After the first week we start putting together our costumes.

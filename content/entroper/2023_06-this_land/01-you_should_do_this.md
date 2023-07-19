@@ -245,8 +245,8 @@ What does ***contains nudity*** mean?
 
 What does contains nudity ***mean***?
 
-<h4 class="article-subheader">Here Goes Nothin'</h4>
-The night before the application deadline I captain the USS Procrastination
+<h4 class="article-subheader">Application &check;</h4>
+The night before the application deadline I navigate the USS Procrastination
 through roiling seas in the ominous shadow of Responsibility Island's
 craggy coastline.
 
@@ -271,9 +271,9 @@ couch with LaGayle's 4 tiny dogs.
 
 <div id="red-sparrow" class="mb-3">
 LaGayle fires up the 2018 Jennifer Lawrence & Joel Edgerton dark spy thriller
-<i>Red Sparrow</i> and I grab my laptop. I click, I clack, I make the final cuts
-of the words that auditioned for inclusion in my bio. 5 minutes into the movie
-Jennifer Lawrence pirouettes out onto the stage of the Bolshoi in a red and gold
+<i>Red Sparrow</i> and I grab my laptop. I click, I clack, I make final cuts
+of the words that auditioned for inclusion in my bio. Five minutes into the flick
+Jennifer Lawrence pirouettes onto the stage of the Bolshoi in a red and gold
 tutu & bodice. I don't realize it at the time, but the background ballet ambience
 while I complete my application now feels like kismet.
 </div>
@@ -329,7 +329,7 @@ But first I have some more skiing to do.
 	ski a run named "twister"</figcaption>
 </figure>
 
-<div class="tenor-gif-embed" data-postid="7754384" data-share-method="host" data-aspect-ratio="2.38095" data-width="100%"><a href="https://tenor.com/view/twister-nature-philip-seymour-hoffman-gif-7754384">Twister Nature GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed mb-3" data-postid="7754384" data-share-method="host" data-aspect-ratio="2.38095" data-width="100%"><a href="https://tenor.com/view/twister-nature-philip-seymour-hoffman-gif-7754384">Twister Nature GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h4 class="article-subheader">Well, We've Come This Far</h4>
 When I get back to LaGayle's after the day's skiing I pull the video back
@@ -338,7 +338,7 @@ should I choose to accept the mission.
 
 A split second into the video I realize that I *have* to say yes. The
 unmistakable, mesmerizing contralto of Patsy Cline singing *Walkin' After
-Midnight* snuggles up to me like an old friend. I've probably listened to this
+Midnight* snuggles up to me like an old friend. I've easily listened to this
 song hundreds of times. As kids our parents would play Patsy Cline on repeat in
 our old Mercury sedan before Johnny boy came along and we became a minivan
 family. And then they played Pasty in the minivan. I can still belt out *Walkin'

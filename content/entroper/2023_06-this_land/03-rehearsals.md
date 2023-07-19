@@ -15,72 +15,101 @@ photo:
 short_sum: Who ever knew so much work could be so much fun?
 summary: 
 
-"Jetlagged?" Mark asks with a slight kick to the left foot of my vaguely
+<h4 class="article-subheader">"Jetlagged?"</h4>
+Mark asks with a slight kick to the left foot of my vaguely
 animated corpse.
 
-I partially peel open an eyelid and muster the strength for a mumbled
-"yeah"
+I peel open an eyelid and muster the strength for a mumbled "yeah."
 
 "Sorry, but it's time to start rehearsal," Mark coyly remarks behind a Cheshire
-cat smile that I am soon to become intimately familiar with over the course of
-the next two weeks.
+cat smile that I will become intimately familiar with over the course of the
+next two weeks.
 
-I scrape myself off the floor of the Samuel H. Scripps Studios at the American
-Dance Festival, still reeling from
+I scrape myself off the floor, still reeling from
 <a href="/traveler/2023_05-scandinavia.html" target="_blank" rel="noopener noreferrer">3 weeks in Scandinavia</a>.
 I just got back to Durham last night and worked all day today so my energy
 levels are zapped.
 
-<h4 class="article-subheader">Claw to Maxi to Lewiston to Plastic Surgery to
-Mona Lisa to Tightrope to... Wait What's Next?</h4>
 Most of our time during the first few rehearsals is spent teaching the
-individual segments. Each has its own name that Mark has informally conferred as
-he developed the piece and each segment has its own flavor. Whether it be a
-different costume, step sequence, hand movement, facial expression, or body
-position.
+individual segments that make up the whole of the performance. Each has its own
+name that Mark has informally conferred as he developed the piece and each has
+its own flavor. Whether it be a different costume, step sequence, hand movement,
+facial expression, or body position.
 
-As Mark teaches us each individual segment I get the hang of them pretty quickly.
+As Mark teaches us each segment I get the hang of it pretty quickly.
 It's when we start to link 3 or 4 segments together that my head starts to spin.
-I follow the lead of the more seasoned dancers and begin to write it all down
-in a notebook.
+I quickly follow the lead of the more seasoned dancers and begin to write it all
+down in a notebook.
 
 For example, this is what I write in my notebook for the pass called "Plastic
 Surgery"
 
-Start with head cocked to the right - left hand on hip
+<div class="text-muted fst-italic mx-3 mb-3">
+Start with head cocked to the right, left hand on hip<br>
+1 length to get right hand to cup<br>
+1 lap to uncock head<br>
+1 length to drop left hand<br>
+1 length to drop right hand<br>
+1 length to get right hand to hip<br>
+1 length to get left hand to cup<br>
+1 lap to cock head to the left<br>
+1 length to drop right hand<br>
+1 length to drop left hand<br>
+4 count pouty pause<br>
+1 length to get left hand to hip
+</div>
 
-Right hand to cup
-
-Uncock head
-
-Left hand down
-
-Right hand down
-
-Right hand to hip
-
-Left hand to cup
-
-Head cocked to the left
-
-Pouty pause
-
-Halfway through the first week I finally capitulate back to my comfort zone,
+And that's just one pass. I have 20 something passes. After just a few
+rehearsals I'm overwhelmed by the headspinning complexity of it all and
+capitulate,
 
 "Ok that's it, I'm gonna need to make a spreadsheet."
 
-By the time I finish filling out my spreadsheet I count 24 on-stage passes,
+Now that's what I call a comfort zone.
+
+By the time I finish filling out my spreadsheet I count 24 passes,
 each with a different outfit, prop, step sequence, step direction, posture,
-hand movements, or facial expression. Once we start doing full start-to-finish
-run throughs at rehearsal I start to print out my sheet and cross out each pass
-as I finish & highlight important reminders for my next pass to cement them in
-my noodle.
+hand movements, facial expression, or other some such choreographic flourish.
+Once the full start-to-finish run throughs begin I print out my
+sheet and cross out each pass as I complete it & highlight important reminders
+for the next pass.
 
 I don't trust myself to go to the grocery store without a list so
-there's no way I'm going to be comfortable memorizing all the intricate
+there's no way I'm going to be comfortable memorizing intricate
 choreography for 24 passes. Especially with the added adrenaline that's likely
 to come with a live audience. But one pass at a time I can manage. Just gotta
 trust the process.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-spreadsheets.jpeg" alt="Spreadsheets">
+	<figcaption class="figure-caption">The spreadsheet evolved with each rehearsal</figcaption>
+</figure>
+
+With practice my Sally eventually reaches a degree of aptitude that could
+generously be described as *adequate*. My next challenge is
+to master the "maxi" skip. So called because we are going to the max&trade;, the
+maxi is a mix between a skip and a speed skating lunge. My initial attempts were
+akin to a baby giraffe learning to walk - a graceless cyclone of gangly
+appendages. If there was ever any evidence that I have no dance experience this
+is it.
+
+Mark enlists the expertise of Alexandra for some personal coaching. She does a
+few skips with a lithe effortless nonchalance that implies this should be easy.
+*See? Just like that.* It's the dancing equivalent of Tiger Woods striping a 2
+iron then looking at me, "See? Just like that." Well, Alexandra, I don't even
+own a 2 iron.
+
+But I put my faith in the process and continue to work at it. At some point
+throughout our two weeks of rehearsal I receive further personal instruction
+from Allie, Alyce, Brace, and Hendri. Sometimes at the behest of Mark,
+sometimes out of pity. I learn the key is to pivot your foot and swivel your
+hips before launching to the other side. Each bit of incremental progress I make
+the other dancers smile proudly in the slightly patronizing way you
+do for the kid picking dandelions out in right field. *You're doing great,
+Andy.*
+
+By the time we finish rehearsals I believe I've dragged my maxi skip into
+passable territory, and I'll take that.
 
 <h4 class="article-subheader">Pythagoras</h4>
 During our first rehearsal Mark gives us a tip to help keep our lines
@@ -100,112 +129,34 @@ At the next break I grab my phone.
 
 $\sqrt{65} = 8.0623$.
 
-Which means the distance we have to walk upstage is 0.778% longer than the
-distance we have to walk downstage\*. So if we assume an average stride distance
-of 2.5 ft that's a difference of 1.87 inches over a total distance of 20 feet.
+Which means the distance we would have to walk upstage is 0.778% longer than the
+distance we walk downstage\*. So if we assume an average stride distance
+of 2.5 ft the difference of the component perpendicular to the curtain would be
+1.89 inches over a total distance of 20 feet. Or 0.24 inches per step. We're
+good but I don't think we're *that* good.
 
-\*I just learned what upstage & downstage meant during rehearsal today.
+\*I just learned what upstage & downstage meant during rehearsal today. I'm only
+77.8% sure I'm using it correctly here.
 
 I'm not saying there's a psychological difference in how far it *feels*.
 
 I'm just saying the *actual* distance is pretty negligible. I'm also saying that
 I'm a pedantic asshole whose brain doesn't have an off switch.
 
-Which might be why I was able to pick up a dance performance based on
-counting and trigonometry so quickly. Perhaps.
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-step_graph.png" alt="Step Graph">
+	<figcaption class="figure-caption">Of course I made a graph. Pedantic asshole indeed.</figcaption>
+</figure>
 
+But then again that might be why I'm able to pick up a dance performance based
+on counting and trigonometry. Perhaps.
 
-Jennifer Lawrence on nude scenes
-https://www.nme.com/news/jennifer-lawrence-says-red-sparrow-nudity-actual-nightmare-2249235
-
-
-I eventually acquired an adequate Sally acumen and my next challenge was to
-master the "maxi" skip. So called because we are going to the max&trade;, the
-maxi is a mix between a skip and a speed skating lunge. My initial attempts were
-akin to a baby giraffe learning to walk, an graceless cyclone of gangly
-appendages. If there was ever any evidence that I have no dance experience this
-is it.
-
-Mark enlists the expertise of Alexandra for some personal coaching. She does a
-few skips with a lithe effortless nonchalance that implies this should be easy.
-*See? Just like that.* It's the dancing equivalent of Tiger Woods striping a 2
-iron then looking at me, "See? Just like that." Well, Alexandra, I don't even
-own a 2 iron.
-
-But I put my faith in the process and continue to work at it. At some point
-throughout our two weeks of rehearsal I receive further personal instruction
-from Allie, Alyce, Brace, and Hendri. Sometimes at the behest of Mark,
-sometimes out of pity. I learn the key is to pivot your foot and swivel your
-hips before launching to the other side. Each bit of incremental progress I make
-the other dancers smile proudly in the slightly patronizing way you
-do for the kid picking dandelions out in right field. *You're doing great,
-Andy.*
-
-By the time we finish rehearsals I believe I've dragged my maxi skip into the
-realm of *adequate*, and I'll take that.
-
-<h4 class="article-subheader">How Do You Hold Hands?</h4>
-The captivity of rehearsals, in addition to sparking deep, contemplative
-discussions of nudity and sexuality, also sparks shallow, silly discussions of
-nonsense and frivolity.
-
-One day during a lull I wander into a conversation that Matt & Renay are
-having regarding their preferred method of holding hands. After some wrangling
-of mitts Matt ends up in front and Renay in back. They each recall holding hands
-in the alternate position but for whatever reason this feels right. I reach out
-a paw and find that I fit best in front with both of my colleagues. Matt tries
-the frontward position and works out a theory of hand holding logistics: taller
-person goes in front.
-
-Which makes sense to me because I think I've only assumed the forward station
-and can't remember holding the hand of someone taller than me. Which leads us
-to the inevitable conclusion that I'll have to try it with Brace.
-
-<h4 class="article-subheader">Seattle Steppers</h4>
-In addition to our complement of a dozen North Carolina-based dancers Mark has
-arranged to supplement the company with a couple performers from Seattle who
-have performed the piece in the past. Since they have performed the piece before
-and live 3 timezones away they are only participating in the second week of
-rehearsals.
-
-<h4 class="article-subheader">Markisms</h4>
-Throughout the course of rehearsals, Mark would sometimes blurt out something
-that was so funny, kooky, or poetically nonsensical I had to jot it down. A few
-favorites:
-
-*After our lunch break from our first Sunday rehearsal:*
-
-“Mark was tired & he went home. I showed up and I’m a bitch!”
-
-*On the look he wants us to show during our "neutral" passes*
-
-"I want your face to look like you're staring off into a deep blue lake"
-
-*On the look he wants us to have during "plastic surgery"*
-
-"I want your face to have no expression, like an LA socialite whose face is
-paralyzed from her last botox injection."
-
-*On the way we need to walk to look relaxed and not stiff*
-
-"I want you to imagine your body is a million tiny little pieces and each piece
-moves independent of one another."
-
-*On the character he wanted us to embody during a section of the piece:*
-
-“I want you to be Tuesday from then Addams Family”
-
-“Do you mean Wednesday!?"
-
-And I think my favorite,
-
-"Linda Belans!"
-
-For whatever reason Mark always referred to Linda by her full name, a practice
-that was adopted by the rest of the company.
 
 <h4 class="article-subheader">A-What Now?</h4>
-"Linda Belans! You are going to come out during the adagio sequence."
+"Linda Belans!\* You are going to come out during the adagio sequence."
+
+\*Mark always referred to Linda by her full name. The rest of the company
+naturally followed suit.
 
 I whisper to Allie, "the what sequence?"
 
@@ -299,10 +250,10 @@ heavy dose of *you're an idiot*.
 So I guess we're not getting a head(and shirt apparently)shot today. I'm
 stressing out because it's already past the deadline and we're getting close
 to opening day. Dana assures me that the programs are all digital so my worries
-about getting the headshot and bio submitted before they "go to the presses"/*
+about getting the headshot and bio submitted before they "go to the presses"\*
 with the programs are unfounded.
 
-/*do they say that? I don't know, you get the idea.
+\*do they say that? I don't know, you get the idea.
 
 We spend about a beer and a half mulling over the wording of my bio, cutting
 this, tightening that, rewording here. Once we're satisfied I send over the
@@ -319,7 +270,7 @@ appropriate backdrop and lighting. We find a spot in the main rehearsal space
 and Allie snaps a series of photos while Brace cracks me up by just being Brace.
 
 An artist is only as good as her tools and despite Allie's best efforts I...
-look like a tool. I wouldn't recommend a photoshoot while exhausted and sweaty
+look like a dweeb. I wouldn't recommend a photoshoot while exhausted and sweaty
 from a full day of rehearsing. Whatever, I send the photo and put the whole
 headshot hardship behind me.
 
@@ -332,8 +283,13 @@ headshot hardship behind me.
 <h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
 At the start of rehearsals Mark had us write our name on a few of our props for
 the performance. Since I routinely wake up in the morning and choose silliness
-I wrote A<span class="flip-h">N</span>DY like our best good pal Woody proudly
-brandishes on the bottom of his cowboy boot.
+I write A<span class="flip-h">N</span>DY like our best good pal Woody
+sports 'neath cowboy boot.
+
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-andy_cup.jpeg" alt="Andy">
+	<figcaption class="figure-caption">There's a snake in my boots!</figcaption>
+</figure>
 
 And this is how I inadvertently adopted Andy as my stage name.
 
@@ -364,11 +320,28 @@ referenced the prop guns my head instinctively popped up like a meerkat.
 	<figcaption class="figure-caption">Did someone say toys?</figcaption>
 </figure>
 
-When discussing what Mark calls our "high fashion" outfits he tells me, "Andy,
-I'm thinking you will be a granola, hippie co-op barista type. I'm thinking
-Birkenstocks, maybe a chunky sweater, & a sarong. Do you have any of that?"
+Everybody is having a great time. Exchanging outfits, trying out looks,
+pilfering through the offerings on display at Boutique Alyce, the miniature
+emporium of all things fashion set up by Alyce in a corner of the studio. It's
+the dance equivalent of a general store selling picks and shovels during the
+California gold rush.
 
-"Uhhh no." I don't admit that I don't know what a sarong is.
+My wardrobe on the dance spectrum is somewhere on the very end just this side
+of "dad clothes." So while everyone is flitting around exchanging outfits and
+trying new looks I mostly just mill about and admire everyone else's duds.
+Once everyone has showcased their looks for Mark he eyes my Sunday afternoon
+golf attire and sarcastically pans,
+
+"Well *Andy's* made my job easy, you haven't even changed!"
+
+"I don't really have anything that fun, what angle were you thinking for me?"
+
+"I'm thinking a granola, hippie co-op barista type. Birkenstocks, maybe a chunky
+sweater, sarong? Do you have any of that?"
+
+"Uhhh no."
+
+I don't admit that I don't know what a sarong is.
 
 "Ok ask around if you can borrow something. Brace, Hendri, and I are going
 shopping on Friday so we'll look for something for you too."
@@ -436,25 +409,24 @@ piece. I have no idea of each of their stories. But I have to assume that each
 of them has endured unwanted abuses however large or small that weighs on their
 decision to perform in this piece.
 
-I'm not brave for walking naked in a room full of people. Renay and McKelynn and
-Linda and Alexandra and Cate and Dana and Allie and Carrie and Alyce are. They
-may not consider themselves brave but it takes a hell of a lot more courage for
-them to step around that curtain than it does for me. And I respect and admire
-them for it.
+I'm not brave for walking naked in a room full of people. Alexandra and Renay
+and Cate and Allie and McKelynn and Carrie and Alyce and Dana and Linda are.
+And I respect and admire them for it.
 
 A few times during rehearsal breaks the topic of nudity would get brought up.
 Each woman had a different perspective, a different story, a different mindset,
 a different journey. And each time this topic was broached, I realized it was
 time for me to shut the fuck up and listen and learn. Despite the fact that each
 woman had their own story of acceptance and comfort level with the nudity,
-almost every conversation ended up with the  to separate nudity from
+almost every conversation ended up with the necessity to separate nudity from
 sexualization. Nearly every woman remarked that they were much more comfortable
-accepting the nudity when
-
-
+accepting the nudity when it was a de-sexualized environment where everybody
+realizes that we're just expressing ourselves with our *bodies*. Our society's
+puritanical abhorrence to nudity seems a bit childish when you look at it that
+way.
 
 I can't speak for the other members of the cast but I was slightly surprised how
-quickly the nudity became just another part of the performance. I'm sure it had
+quickly the nudity became, for lack of a better word, *meh*. I'm sure it had
 something to do with us scrambling to rip off all our clothes as quickly as
 possible while remembering our steps for the next pass. But as I stated earlier,
 everybody comported themselves in the most professional way possible. The nudity
@@ -464,6 +436,13 @@ dichotomy of clothed vs unclothed.
 
 Going full circle back to
 <a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>
+Jennifer Lawrence on nude scenes
+https://www.nme.com/news/jennifer-lawrence-says-red-sparrow-nudity-actual-nightmare-2249235
+
+
+Jen Law on nudity
+
+https://www.nme.com/news/jennifer-lawrence-says-red-sparrow-nudity-actual-nightmare-2249235
 
 When we stripped ourselves of the carapace of modern society we cease to become
 Democrats or Republicans, Christians or Jews, citizens or immigrants. We are
@@ -471,27 +450,14 @@ simply *humans*. A condition that does not know national borders, does not
 know ethnic rivalries, does not know racial tension. The more we strip away the
 more we realize how similar we all are.
 
-There are no national borders, no political ideologies, no religions affiliations.
-
-Carl Sagan, in his iconic Pale Blue Dot poetically remarked,
+Carl Sagan, in his iconic *Pale Blue Dot* poetically remarked,
 
 <div class="quote">
 The Earth is a very small stage in a vast cosmic arena. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot.
+</div>
 
 Am I saying the world would be a better place if we all walked around stark
-naked in front of a group of strangers? Maybe. Would it be a worse place? I
-doubt it.
-
-Each woman had their own level of comfort, their
-own insecurities, their own apprehensions.
-
-
-I would always sit back and listen.
-
-
-<h4 class="article-subheader">If You Coat Your Jeans With Baby Powder</h4>
-
-Ronnie Milsap
+naked in front of a group of strangers? Maybe. But I'm willing to give it a shot.
 
 <h4 class="article-subheader">Slap Your Grandma</h4>
 In 2005's rhapsodic ode to healthy backsides, "Honky Tonk Badonkadonk," Trace
@@ -504,56 +470,74 @@ Slap your grandma<br>
 </div>
 
 Now the first time that Linda Belans, a proud grandmother, heard this line her
-eyes grew to the size of saucers and she exclaimed, "SLAP YOUR GRANDMA!!??" She
+face turned white and she exclaimed, "SLAP YOUR GRANDMA!!??" She
 was not nonplussed with the suggestion. As you can imagine it became a running
 joke during rehearsals. The timing worked out that each time I came off stage
 right as Mr. Adkins suggested said matriarchal thwacking. And who's seat was
 right there at the edge of the stage was none other than the incomparable Linda
 Belans.
 
-a reaction that fell somewhere between covering her face with her hands and
+Each time her reaction would fall somewhere between covering her face with her hands and
 shooting me a glare so as to suggest *if you know what's best for your health,
 young man, you better not even think about it*. I would never, Linda Belans, I
 would never.
 
 A quick detour: I have discovered that the Trace Adkins Wikipedia page is a
-stream of consciousness minefield, littered with the wreckage of broken body
+stream-of-consciousness minefield, littered with the wreckage of broken body
 parts, broken marriages, and broken sequiturs. A few selections:
 
+<div class="text-muted fst-italic mx-3 mb-3">
+<p>
 "A walk-on offensive lineman on the Louisiana Tech Bulldogs football team, Adkins
 left the team after his freshman season due to a knee injury, without ever
 playing in a game. Adkins never graduated. After leaving college, he worked on
 an oil rig."
+</p>
 
+<p>
 "On June 4, 2011, at approximately 3:35 pm, Adkins' home in Brentwood, Tennessee,
 burned down. On October 20, 2011, Adkins sang the National Anthem at game 2
 of the 2011 World Series in St. Louis."
+</p>
 
+<p>
 "The album's second single, 'Arlington', generated controversy over its content
 (a first-person account of a fictional soldier who was about to be buried in
 Arlington National Cemetery). It was followed by 'Honky Tonk Badonkadonk.'"
+</p>
 
+<p>
 "In 2001, Adkins was injured in a tractor accident and had to cancel touring
 temporarily."
+</p>
 
+<p>
 "He lost the pinky finger on his left hand in an accident using a knife to open a
 bucket, and asked doctors to reattach the finger at an angle so that he could
 continue to play guitar."
+</p>
 
+<p>
 "He has also experienced a number of serious injuries as an adult, including
 being shot by his second ex-wife Julie Curtis in 1994. The bullet went
 through his heart and both lungs. He survived and chose not to press charges.
 They got divorced after 3 years."
+</p>
 
+<p>
 "In March 2014, Trace Adkins and his wife Rhonda filed for divorce, citing
 irreconcilable differences. Rhonda dismissed her divorce petition in June 2015.
 Despite rumors of reconciliation, Adkins re-filed for divorce less than a month
 later."
+</p>
 
+<p>
 "Adkins recorded a duet with country legend Ronnie Milsap called "My First Ride"
 to benefit fire-fighters and police officers in the U.S. and Canada. Then, after
 the song's release, the label said 'no' to radio stations playing it with no
 explanation given."
+</p>
+</div>
 
 I'll use this last little tidbit to segue back into our story. Because the
 song that precedes Adkins's in our performance was sung by none other than Ronnie
@@ -572,9 +556,9 @@ Any day now, I'll be all alone<br>
 </div>
 
 Despite the heart wrenching lyrics Milsap's velvety smooth treatment somehow lulls
-you into its captivating trance just like the devilish smile of your ex-sweetie.
+you into its captivating trance just like the devilish grin of your former flame.
 The song falls squarely in the subgenre of Yacht Rock that I just invented
-called Pontoon DockRock. As anyone who knows how much I love pontoons and yacht
+called *Pontoon DockRock*. As anyone who knows how much I love pontoons and yacht
 rock will understand the how much I adore this song.
 
 The song has also been covered by the likes of Elvis Presley, Percy Sledge,
@@ -596,7 +580,7 @@ simple, it's moving, it's beautiful.
 After our first *pandemic* runthrough the collective dam holding
 everyone's emotional reservoir bursts, releasing a tsunami of
 sentimental feelings that leaves nary a dry eye in the studio. Each of us
-experiences our own unique, personal emotional journey, which is shared
+experiences our own unique, personal emotional journey, expressed
 through the shared language of weepy hugs. For me, it's as simple as remembering
 riding in the car with my dad, listening to country music on 95.5 FM. It's such
 a simple memory that carries the weight of the memories of a man whose
@@ -613,25 +597,26 @@ hell do you want walk around naked in front of a bunch of people."
 Because that's exactly what he would say.
 
 <h4 class="article-subheader">Andy, You Shit!</h4>
-As rehearsals continue & get more runs under our belt we get more comfortable
-with the piece. Less thinking and more emoting.
+As rehearsals continue we get more comfortable with each run under our belt.
+Less thinking and more emoting.
 
-And then the Saturday before the shows I was feeling really comfortable.
+On the Saturday before the shows I was feeling really comfortable.
 
 During one pass of Lewistons I shot Mark a little wave. *Hey, how ya doin'*.
 He gave an eye-rolley smirk and wrote "Andy, you shit!" in his notebook.
 
-And on the first nude pass I hit Mark with a pec blast.
+And then on the first nude pass I hit Mark with a pec blast.
 
 <div class="tenor-gif-embed" data-postid="4754376" data-share-method="host" data-aspect-ratio="1.79856" data-width="100%"><a href="https://tenor.com/view/terry-crews-muscle-chest-pecs-move-gif-4754376">Terry Crews Pecs GIF</a>from <a href="https://tenor.com/search/terry+crews-gifs">Terry Crews GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 This resulted in what I have to imagine is a completely novel entry in Marks
-notebook, "Andy, you fuck!"
+notebook,
 
-After each run Mark would give us notes while we're gathered around him on the
-floor. When Mark read his notes for me on this run I *literally* rolled around
-on the floor laughing. A little bit of levity is warranted when doing the same
-thing over and over again for hours at a time. As Mark said, "I didn't want
+"Andy, you fuck!"
+
+When Mark read his notes for me on this run I *literally* rolled around
+on the floor laughing. A little bit of levity is warranted as we approach 60
+hours of rehearsal time. As Mark said, "I didn't want
 anybody in this piece who took themselves too seriously." Well, brother, you
 got what you asked for with Uncle Andy.
 
@@ -660,6 +645,70 @@ when I get to green"
 
 "Got it, thanks."
 
-Jen Law on nudity
 
-https://www.nme.com/news/jennifer-lawrence-says-red-sparrow-nudity-actual-nightmare-2249235
+
+
+
+
+<h4 class="article-subheader">How Do You Hold Hands?</h4>
+The captivity of rehearsals, in addition to sparking deep, contemplative
+discussions of nudity and sexuality, also sparks shallow, silly discussions of
+nonsense and frivolity.
+
+One day during a lull I wander into a conversation that Matt & Renay are
+having regarding their preferred method of holding hands. After some wrangling
+of mitts Matt ends up in front and Renay in back. They each recall holding hands
+in the alternate position but for whatever reason this feels right. I reach out
+a paw and find that I fit best in front with both of my colleagues. Matt tries
+the frontward position and works out a theory of hand holding logistics: taller
+person goes in front.
+
+Which makes sense to me because I think I've only assumed the forward station
+and can't remember holding the hand of someone taller than me. Which leads us
+to the inevitable conclusion that I'll have to try it with Brace.
+
+<h4 class="article-subheader">Seattle Steppers</h4>
+In addition to our complement of a dozen North Carolina-based dancers Mark has
+arranged to supplement the company with a couple performers from Seattle who
+have performed the piece in the past. Since they have performed the piece before
+and live 3 timezones away they are only participating in the second week of
+rehearsals.
+
+
+<h4 class="article-subheader">Markisms</h4>
+Throughout the course of rehearsals, Mark would sometimes blurt out something
+that was so funny, kooky, or poetically nonsensical I had to jot it down. A few
+favorites:
+
+*After our lunch break from our first Sunday rehearsal:*
+
+“Mark was tired & he went home. I showed up and I’m a bitch!”
+
+*On the look he wants us to show during our "neutral" passes*
+
+"I want your face to look like you're staring off into a deep blue lake"
+
+*On the look he wants us to have during "plastic surgery"*
+
+"I want your face to have no expression, like an LA socialite whose face is
+paralyzed from her last botox injection."
+
+*On the way we need to walk to look relaxed and not stiff*
+
+"I want you to imagine your body is a million tiny little pieces and each piece
+moves independent of one another."
+
+*On the character he wanted us to embody during a section of the piece:*
+
+“I want you to be Tuesday from then Addams Family”
+
+“Do you mean Wednesday!?"
+
+"I only shot a gun when I was a kid at sleepaway camp and I was like this is so stupid! So I went and did arts & crafts! Making structures out of popsicle sticks"
+
+And I think my favorite,
+
+"Linda Belans!"
+
+For whatever reason Mark always referred to Linda by her full name, a practice
+that was adopted by the rest of the company.
