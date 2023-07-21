@@ -426,7 +426,7 @@ accepting the nudity when it was a de-sexualized environment where everybody
 realizes that we're just expressing ourselves with our *bodies*.
 
 Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
-grow hair in the worst places and lose hair in the best.
+creak and groan and grow hair in the worst places and lose hair in the best.
 
 Circling back to
 <a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
@@ -437,7 +437,6 @@ Looking back on the role (which required her to learn dance (link)), Lawrence
 reflected, “It took a while to say yes – and the night before I didn’t sleep at
 all... But then after I finished the scene, I felt empowered.”
 
-
 I can't speak for the other members of the cast but I was slightly surprised how
 quickly the nudity became, for lack of a better word, *meh*. I'm sure it had
 something to do with us scrambling to rip off all our clothes as quickly as
@@ -446,7 +445,6 @@ everybody comported themselves in the most professional way possible. The nudity
 was always going to be as big or small of a deal as we made it. And we
 approached it with a matter-of-fact pragmatism that took the power away from the
 milieu of undress.
-
 
 
 Jen Law on nudity
@@ -472,7 +470,7 @@ give it a shot.
 
 <h4 class="article-subheader">Slap Your Grandma</h4>
 In the 2005 rhapsodic ode to healthy backsides, "Honky Tonk Badonkadonk,"
-the bard of Sarepta, Louisiana croons,
+Trace Adkins croons,
 
 <div class="text-muted fst-italic mx-3 mb-3">
 And ooh-wee<br>
@@ -480,9 +478,14 @@ Shut my mouth<br>
 Slap your grandma<br>
 </div>
 
-Now the first time that Linda Belans, a proud grandmother, heard Trace Adkins
-suggest said matriarchal thwacking her face turned white and she exclaimed,
-"SLAP YOUR GRANDMA!!??" She
+Now the first time that Linda Belans, a proud grandmother, hears the bard of 
+Sarepta, Louisiana suggest said matriarchal thwacking her face turns red. 
+
+"SLAP YOUR GRANDMA!!??"
+
+If Trace Adkins had a grandma the caliber of Linda Belans he wouldn't even think
+of such a calamatous feat of skullduggery.
+
 was not nonplussed with the suggestion. As you can imagine it became a running
 joke during rehearsals. The timing worked out that Mr Adkins's advocation for
 familial violence coincided with my stage exit. And who's seat was
