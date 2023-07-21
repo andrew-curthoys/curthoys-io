@@ -16,9 +16,12 @@ short_sum: Comfort zone? We don't need no stinking comfort zone!
 summary: 
 
 I'm minding my own business on a nondescript January morning when I notice a
-little red notification on my Instagram app. receive an
-Instagram message from my cousin Laura. Laura is a NYC-based dancer who is
-5 days older and 5 times more mature than I. I have
+little red notification on my Instagram app. I pop it open expecting to see what
+I typically see when I notice a little red notification on my Instagram app: an
+epic guitar solo or mind bending soccer goal sent from the small group of
+friends who send tme these things. Instead it's a message from my
+cousin Laura, a NYC-based dancer who is 5 days older and 5 times more mature
+than I. I have
 <a href="/rambler/2021_11-nyc_marathon/marathon.html" target="_blank" rel="noopener noreferrer">written</a>
 <a href="/traveler/2022_01-ski_trip/06-seattle.html?id=laura" target="_blank" rel="noopener noreferrer">about</a>
 <a href="/rambler/2021_11-nyc_marathon/marathon.html?id=ballet" target="_blank" rel="noopener noreferrer">Laura</a>
@@ -30,16 +33,18 @@ begin to describe the joy she brings to this world.
 	<figcaption class="figure-caption">She's just the best</figcaption>
 </figure>
 
-This particular missive contains a link to a post by the American Dance
-Festival with the headline
-<a href="https://www.instagram.com/p/CpLbgk9J-FI/?igshid=MzRlODBiNWFlZA==" target="_blank" rel="noreferrer noopener">*Audition Opportunity for NC-based Performers*</a>
-Audition? Why on earth is she sending me a link to an audition? I've never
-auditioned for anything in my life. I skeptically click the link.
+The missive is a simple command, "you should do this," accompanied by a link to
+a post from the American Dance Festival with the headline
+<a href="https://www.instagram.com/p/CpLbgk9J-FI/?igshid=MzRlODBiNWFlZA==" target="_blank" rel="noreferrer noopener">*Audition Opportunity for NC-based Performers*</a>.
+
+
+Huh? Why on earth is she sending me a link to an audition opportunity? I
+skeptically click the link.
 
 <div class="text-muted fst-italic mx-3 mb-3">
-In honor of the ADF’s decade of collaborating with the Nasher Museum of Art, it
-is bringing back a community favorite from 2013: Mark Haim’s “This Land Is Your
-Land,” an evening-long dance based entirely on walking.
+"In honor of the ADF’s decade of collaborating with the Nasher Museum of Art, it
+is bringing back a community favorite from 2013: Mark Haim’s 'This Land Is Your
+Land,' an evening-long dance based entirely on walking."
 </div>
 
 Well, now that you mention it, "based entirely on walking" seems squarely within
@@ -50,8 +55,8 @@ Woody Guthrie Center, which itself is located a mere 60 miles Northeast of
 Woodrow Wilson Guthrie's hometown of Okemah. How 'bout that lil deal?
 
 <div class="text-muted fst-italic mx-3 mb-3">
-Mark Haim would like to restage the dance for a group of 14 performers from the
-NC community and is looking for a very diverse group in age, race, size and gender. 
+"Mark Haim would like to restage the dance for a group of 14 performers from the
+NC community and is looking for a very diverse group in age, race, size and gender."
 </div>
 
 Welp....
