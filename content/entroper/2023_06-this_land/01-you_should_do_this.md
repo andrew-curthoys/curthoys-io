@@ -15,8 +15,9 @@ photo: aud-insta_message.jpeg
 short_sum: Comfort zone? We don't need no stinking comfort zone!
 summary: 
 
-I'm minding my own business on a nondescript January morning when I receive an
-Instagram message from my cousin Laura. Laura is a trained dancer in NYC who is
+I'm minding my own business on a nondescript January morning when I notice a
+little red notification on my Instagram app. receive an
+Instagram message from my cousin Laura. Laura is a NYC-based dancer who is
 5 days older and 5 times more mature than I. I have
 <a href="/rambler/2021_11-nyc_marathon/marathon.html" target="_blank" rel="noopener noreferrer">written</a>
 <a href="/traveler/2022_01-ski_trip/06-seattle.html?id=laura" target="_blank" rel="noopener noreferrer">about</a>

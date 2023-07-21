@@ -17,8 +17,11 @@ summary:
 
 <h4 class="article-subheader">Clean Pair Of White-Soled Sneakers</h4>
 It shouldn't surprise you that I have absolutely no idea what to expect for
-the audition. I don't even know what to wear. The only guidance from the email
-was a clean pair of
+the audition.
+
+I don't even know what to wear.
+
+The only guidance from the email was a clean pair of
 white-soled sneakers. It also said there will be no nudity in the audition so
 I should probably wear some clothes too. I opt for a pair of
 breathable trousers and a plain dark v-neck. For the clean white-soled sneakers
@@ -249,15 +252,13 @@ shots. Oh sweet baby Jesus, I was not prepared for this.
 "Here's to everybody making it. Here's to the Durham Dance Mafia!"
 
 <h4 class="article-subheader">Callback</h4>
-My alarm squawks the next morning and I feel bleary eyed and cranky. About
-halfway through preparing my morning coffee I realize I'm dealing with
-the effects of our delightful biannual daylight savings tradition that we have
-all allowed to happen in the Year of Our Lord 2023. Hopefully this pot of Little
-Waves Dinkinesh: Yukro Ethiopian medium roast jitter juice puts a little pep in
-my step.
+Thankfully I have a day to recover from the PBR and tequila, which is spent in a
+torpid state of lethargy. Or is it a lethargic state of torpor? Whichever it
+is my sofa sure doesn't seem to mind.
 
-As I'm milling about the apartment I receive an email at 11:22 AM. I read the
-preview and feel a slight lump in my throat.  
+As I'm entering a deep, transcendental state of post-breakfast lounging my phone
+buzzes with an email from Kelsey. When I read the preview I feel
+a slight lump in my throat.  
 
 <div class="text-muted fst-italic mx-3 mb-3">
 Good Morning, Thank you so much for attending the aud...
@@ -280,8 +281,20 @@ first rehearsal this Sunday, Mark would like to hold a callback. <b>You are
 invited to attend the callback.</b>
 </div>
 
-I return to the studio the next morning where we work through all the hits
-again. After about an hour we take a break and while we're all relaxing on the
+I'll be honest I didn't expect to reach feelings of dread & relief regarding the
+fate of my participation in this performance. When I decided to apply it was
+with a feeling of *sure why not?* I think there was just something about the
+audition that captivated me. A little magic
+
+My alarm squawks the next morning and I feel bleary eyed and cranky. About
+halfway through preparing my morning coffee I realize I'm dealing with
+the effects of our delightful biannual daylight savings tradition that we have
+all allowed to happen in the Year of Our Lord 2023. Hopefully this pot of Little
+Waves Dinkinesh: Yukro Ethiopian medium roast jitter juice puts a little pep in
+my step.
+
+Back at the studio where work through all the hits again. After about an hour we
+take a break and while we're all relaxing on the
 benches in the reception area Marks strides in with an
 announcement he delivers in the most understated tone possible,
 

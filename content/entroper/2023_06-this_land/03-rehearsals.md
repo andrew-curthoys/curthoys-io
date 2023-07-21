@@ -21,7 +21,7 @@ animated corpse.
 
 I peel open an eyelid and muster the strength for a mumbled "yeah."
 
-"Sorry, but it's time to start rehearsal," Mark coyly remarks behind a Cheshire
+"Sorry, but it's time to start rehearsal," Mark coyly announces behind a Cheshire
 cat smile that I will become intimately familiar with over the course of the
 next two weeks.
 
@@ -29,6 +29,8 @@ I scrape myself off the floor, still reeling from
 <a href="/traveler/2023_05-scandinavia.html" target="_blank" rel="noopener noreferrer">3 weeks in Scandinavia</a>.
 I just got back to Durham last night and worked all day today so my energy
 levels are zapped.
+
+In the break between the audition and 
 
 Most of our time during the first few rehearsals is spent teaching the
 individual segments that make up the whole of the performance. Each has its own
@@ -130,10 +132,10 @@ At the next break I grab my phone.
 $\sqrt{65} = 8.0623$.
 
 Which means the distance we would have to walk upstage is 0.778% longer than the
-distance we walk downstage\*. So if we assume an average stride distance
-of 2.5 ft the difference of the component perpendicular to the curtain would be
-1.89 inches over a total distance of 20 feet. Or 0.24 inches per step. We're
-good but I don't think we're *that* good.
+distance we walk downstage\*. If we assume an average stride distance of 2.5 ft
+that means we'd walk 20 feet downstage and to account for the angle we'd need
+to walk 20 feet 1.87 inches on the way back. Or 0.23 extra inches per step.
+We're good but I don't think we're *that* good.
 
 *\*I just learned what upstage & downstage meant during rehearsal today. I'm only
 77.8% sure I'm using it correctly here.*
@@ -421,9 +423,20 @@ woman had their own story of acceptance and comfort level with the nudity,
 almost every conversation ended up with the necessity to separate nudity from
 sexualization. Nearly every woman remarked that they were much more comfortable
 accepting the nudity when it was a de-sexualized environment where everybody
-realizes that we're just expressing ourselves with our *bodies*. Our society's
-puritanical abhorrence to nudity seems a bit childish when you look at it that
-way.
+realizes that we're just expressing ourselves with our *bodies*.
+
+Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
+grow hair in the worst places and lose hair in the best.
+
+Circling back to
+<a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
+Jennifer Lawrence grappled with accepting the role, knowing it called for nudity.
+Her trepidation stemmed from a nude photo leak that sent her into a "long period
+when I didn't want to be seen sexually and I didn't want anybody to see my flesh."
+Looking back on the role (which required her to learn dance (link)), Lawrence
+reflected, “It took a while to say yes – and the night before I didn’t sleep at
+all... But then after I finished the scene, I felt empowered.”
+
 
 I can't speak for the other members of the cast but I was slightly surprised how
 quickly the nudity became, for lack of a better word, *meh*. I'm sure it had
@@ -432,12 +445,8 @@ possible while remembering our steps for the next pass. But as I stated earlier,
 everybody comported themselves in the most professional way possible. The nudity
 was always going to be as big or small of a deal as we made it. And we
 approached it with a matter-of-fact pragmatism that took the power away from the
-dichotomy of clothed vs unclothed.
+milieu of undress.
 
-Going full circle back to
-<a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>
-Jennifer Lawrence on nude scenes
-https://www.nme.com/news/jennifer-lawrence-says-red-sparrow-nudity-actual-nightmare-2249235
 
 
 Jen Law on nudity
@@ -457,11 +466,13 @@ The Earth is a very small stage in a vast cosmic arena. Think of the endless cru
 </div>
 
 Am I saying the world would be a better place if we all walked around stark
-naked in front of a group of strangers? Maybe. But I'm willing to give it a shot.
+naked in front of a group of strangers? Maybe. Maybe not. But I'm willing to
+give it a shot.
+
 
 <h4 class="article-subheader">Slap Your Grandma</h4>
-In 2005's rhapsodic ode to healthy backsides, "Honky Tonk Badonkadonk," Trace
-Adkins, the bard of Sarepta, Louisiana croons,
+In the 2005 rhapsodic ode to healthy backsides, "Honky Tonk Badonkadonk,"
+the bard of Sarepta, Louisiana croons,
 
 <div class="text-muted fst-italic mx-3 mb-3">
 And ooh-wee<br>
@@ -469,11 +480,12 @@ Shut my mouth<br>
 Slap your grandma<br>
 </div>
 
-Now the first time that Linda Belans, a proud grandmother, heard this line her
-face turned white and she exclaimed, "SLAP YOUR GRANDMA!!??" She
+Now the first time that Linda Belans, a proud grandmother, heard Trace Adkins
+suggest said matriarchal thwacking her face turned white and she exclaimed,
+"SLAP YOUR GRANDMA!!??" She
 was not nonplussed with the suggestion. As you can imagine it became a running
-joke during rehearsals. The timing worked out that each time I came off stage
-right as Mr. Adkins suggested said matriarchal thwacking. And who's seat was
+joke during rehearsals. The timing worked out that Mr Adkins's advocation for
+familial violence coincided with my stage exit. And who's seat was
 right there at the edge of the stage was none other than the incomparable Linda
 Belans.
 
@@ -569,6 +581,7 @@ The soundtrack also includes favorites from Eric Church, (fellow Oklahoman) Toby
 Keith, Martina McBride, and the Indian Outlaw Time McGraw, among others. During
 rehearsals we listen to the soundtrack so many times that it becomes ingrained
 in our very beings
+
 
 <h4 class="article-subheader">Catharsis</h4>
 There's something about being cooped up in the same room with the same people
