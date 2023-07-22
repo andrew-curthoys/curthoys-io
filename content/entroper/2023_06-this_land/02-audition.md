@@ -21,8 +21,8 @@ the audition.
 
 I don't even know what to wear.
 
-The only guidance from the email was a clean pair of
-white-soled sneakers. It also said there will be no nudity in the audition so
+The only guidance from the email was a "clean pair of
+white-soled sneakers". It also said there will be no nudity in the audition so
 I should probably wear some clothes too. I opt for a pair of
 breathable trousers and a plain dark v-neck. For the clean white-soled sneakers
 I choose my white Asics that I wore to officiate my good friends Brady &
@@ -49,7 +49,7 @@ through our paces.
 I remember from my film study it's a constantly flowing series of 8 step
 down & backs. I think I can handle that.
 
-Mark divides the group into groups of a dozen or so auditioners and watches
+Mark partitions the group into three roughly equal clusters and watches
 everyone walk 8 step laps without music.
 
 1-2-3-4-5-6-7-8 pivot  

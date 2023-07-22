@@ -19,7 +19,7 @@ I'm minding my own business on a nondescript January morning when I notice a
 little red notification on my Instagram app. I pop it open expecting to see what
 I typically see when I notice a little red notification on my Instagram app: an
 epic guitar solo or mind bending soccer goal sent from the small group of
-friends who send tme these things. Instead it's a message from my
+friends who sends me these things. Instead it's a message from my
 cousin Laura, a NYC-based dancer who is 5 days older and 5 times more mature
 than I. I have
 <a href="/rambler/2021_11-nyc_marathon/marathon.html" target="_blank" rel="noopener noreferrer">written</a>
@@ -33,12 +33,11 @@ begin to describe the joy she brings to this world.
 	<figcaption class="figure-caption">She's just the best</figcaption>
 </figure>
 
-The missive is a simple command, "you should do this," accompanied by a link to
-a post from the American Dance Festival with the headline
-<a href="https://www.instagram.com/p/CpLbgk9J-FI/?igshid=MzRlODBiNWFlZA==" target="_blank" rel="noreferrer noopener">*Audition Opportunity for NC-based Performers*</a>.
+The missive consists of a simple command, "you should do this," accompanied by a
+link to a post from the American Dance Festival with the headline
+<a href="https://www.instagram.com/p/CpLbgk9J-FI/?igshid=MzRlODBiNWFlZA==" target="_blank" rel="noreferrer noopener">*"Audition Opportunity for NC-based Performers"*</a>.
 
-
-Huh? Why on earth is she sending me a link to an audition opportunity? I
+Huh? An audition opportunity? Why on earth would she send me this? I
 skeptically click the link.
 
 <div class="text-muted fst-italic mx-3 mb-3">
@@ -47,10 +46,10 @@ is bringing back a community favorite from 2013: Mark Haim’s 'This Land Is You
 Land,' an evening-long dance based entirely on walking."
 </div>
 
-Well, now that you mention it, "based entirely on walking" seems squarely within
-my capabilities, hell I walk every day. Plus, "This Land Is Your Land" slides
-right into a cozy pair of blue jeans and cowboy boots sitting in the closet of
-my Oklahoma pride. My childhood home sits just up the road a piece from the
+Well, now that you mention it, "based entirely on walking" feels right in my
+wheelhouse, hell I walk every day. Plus, "This Land Is Your Land" slides
+right into a cozy pair of and cowboy boots and blue jeans hanging in the closet
+of my Oklahoma pride. My childhood home sits just up the road a piece from the
 Woody Guthrie Center, which itself is located a mere 60 miles Northeast of
 Woodrow Wilson Guthrie's hometown of Okemah. How 'bout that lil deal?
 
@@ -90,7 +89,7 @@ Application requirements:
 
 To most people this probably seems like a piece of cake. Just knock it out
 between walkin' the dogs & fixin' supper. But for someone with no relevant
-experience I haven't a clue what to include in my bio.
+experience what in the world should I put in my bio?
 
 And a ***short*** description why I want to partake in this performance? I'd
 need 10 sessions with a psychologist to even begin to answer that question.
@@ -167,7 +166,7 @@ Headshot &square;
 
 That unchecked box gnaws at me.
 
-My internal *Minister of Be Comfortable Being Uncomfortable*,
+My internal *Minister of "Be Comfortable Being Uncomfortable"*,
 who I've been grooming the past few years for situations just like this, pipes
 up - *it's not that big of a deal, just get a serviceable headshot and we'll head
 to the airport and worry about the rest later*.
@@ -320,7 +319,7 @@ cycle through a few wardrobe changes, then BAM! Full on, ass out, flappin' in
 the breeze nudity. So THAT'S what *contains* means.
 
 I quickly realize I'm watching a group of naked strangers on my phone in the
-middle of a crowded ski bar & slam my phone face down on the bar where it
+middle of a crowded ski bar & slam my phone face down where it
 remains for the rest of my meal. Don't want my other bar patrons to confirm
 their suspicions that I'm some sort of weirdo.
 
@@ -338,9 +337,8 @@ But first I have some more skiing to do.
 <div class="tenor-gif-embed mb-3" data-postid="7754384" data-share-method="host" data-aspect-ratio="2.38095" data-width="100%"><a href="https://tenor.com/view/twister-nature-philip-seymour-hoffman-gif-7754384">Twister Nature GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h4 class="article-subheader">Well, We've Come This Far</h4>
-When I get back to LaGayle's after the day's skiing I pull the video back
-up. I want to watch it start to finish to see what I'd be getting myself into
-should I choose to accept the mission.
+When I return to LaGayle's after the day's skiing I pull the video back
+up. I want to watch it start to finish to see what I'd be getting myself into.
 
 A split second into the video I realize that I *have* to say yes. The
 unmistakable, mesmerizing contralto of Patsy Cline singing *Walkin' After
