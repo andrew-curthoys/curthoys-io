@@ -63,6 +63,7 @@ audience to come to their own conclusion.
 
 At least that's my conclusion.
 
+
 <h4 class="article-subheader">Dress Rehearsal</h4>
 The day before our first performances we mosey over to the Nasher for a full
 dress rehearsal in the performance space. I've yet to grace the halls of the
@@ -109,6 +110,7 @@ significantly changes the dynamic. I'm grateful that we are able to rehearse in
 the Nasher with an audience before opening night. As an engineer I'm always on
 the lookout to isolate as many variables as possible.
 
+
 <h4 class="article-subheader">This Is It, Don't Get Scared Now</h4>
 Rehearsals have worn me down and I'm ready for the real thing. I've got my
 system down, I've got my spreadsheets printed. I'm prepared. Calm. Confident.
@@ -135,6 +137,7 @@ in 5.
 
 *I go out walkin' after midnight...*
 
+
 <h4 class="article-subheader">Focus</h4>
 On my first pass my biggest point of concentration is to keep my gaze above the
 heads of the audience, staring off into that deep blue lake.
@@ -153,6 +156,7 @@ fixing practice night 1. During the first performance of the second day I did
 catch myself smothering a smirk during the nude section. Facing out towards the
 audience I maintained a stoic stare into the deep blue lake, but going back
 towards the curtain each time I had the smallest smirk I had to muffle.
+
 
 <h4 class="article-subheader">Giddy</h4>
 On my third pass I'm supposed to do a single skip on each of the first two laps
@@ -201,6 +205,7 @@ dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
 it. I should be nervous but for reasons I can't explain I'm not. Chalk it up to
 preparation.
 
+
 <h4 class="article-subheader">Quick Change</h4>
 Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
 require a full outfit change, some are just an accessory here, new top there,
@@ -224,6 +229,7 @@ prepare my socks is to roll them.
 
 <div class="tenor-gif-embed mb-2" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+
 <h4 class="article-subheader">Ovation</h4>
 I didn't know what to expect as I walked off the stage to finish my first ever
 performance. I gave it a 50-50 shot
@@ -233,15 +239,14 @@ distance from ear to ear.
 
 As we're hugging backstage I realize that I might not be the only one with first
 show jitters. Our curtain call song, a delightful honky tonk swing ditty from
-Patsy, has not made its usual appearance. In its stead an anticipatory applause
-and wide-eyed looks of confusion among the cast. As we're pondering if we should
+Patsy, has not made its usual appearance. As we're pondering if we should
 just take our curtain call without music Patsy starts up. But it's not the right
 Patsy. It's *Walkin' After Midnight*, the opening song to the piece. It seems
 the technician in charge of the music ran into a snafu playing the song and
 made the tactical decision to just play the soundtrack from the piece. We shrug
 and run out for the curtain call just like we practiced.
 
-Backstage after the curtain call McKelynn looks at me with a huge smile on her
+Backstage after we finish our bows McKelynn looks at me with a huge smile on her
 face, "oh my god they gave us a standing ovation! That doesn't happen every
 time!"
 

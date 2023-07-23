@@ -32,24 +32,24 @@ levels are zapped.
 
 In the break between the audition and the start of rehearsals Mark sends us an
 email with our order in the lineup. Everybody is assigned to a performer from
-the Paris performance video. I drew Jurg
+the Paris performance video. I drew Jurg:
 
 <div class="text-muted fst-italic mx-3 mb-3">
 9. Andrew (JURG)- orange T shirt, light grey pants. ENTRANCE IS AT 4:24
 </div>
 
-When I watch the Paris video I'm overwhelmed by a euphoric realization - all the
+When I watch the Paris video I'm struck by a euphoric realization - all the
 gallops occur in the first 3 minutes. Since Jurg doesn't come on till 4:24
 I won't be doing any gallops! Praise be! Based on my complete galloptrical
 ineptitude displayed during the audition I'd say Mark's decision to spare me
 from gallop duty is wise and prudent.
 
-Most of the time during our first few rehearsals is spent teaching the
+The majority of our time during the first few rehearsals is spent teaching the
 individual segments that make up the whole of the performance. Each has its own
 name that Mark has informally conferred over the years and each has
 its own flavor.
 
-As Mark teaches us each segment I get the hang of them relatively quickly.
+As Mark teaches us each part I get the hang of them relatively quickly.
 It's when we start to link 3 or 4 sections together that my head starts to spin.
 I quickly follow the lead of the more seasoned dancers and begin to write it all
 down in a notebook.
@@ -58,7 +58,7 @@ For example, this is what I write in my notebook for the pass called "Plastic
 Surgery"
 
 <div class="text-muted fst-italic mx-3 mb-3">
-Start with head cocked to the right, left hand on hip<br>
+Start with head cocked to the right, left hand on hip, straw in mouth<br>
 1/2 lap to get right hand to cup<br>
 1 lap to uncock head<br>
 1/2 lap to drop left hand<br>
@@ -72,7 +72,7 @@ Start with head cocked to the right, left hand on hip<br>
 1/2 lap to get left hand to hip
 </div>
 
-And that's just one pass. I over 20 passes. After just a few
+And that's just one pass. I have over 20 passes. After just a few
 rehearsals the headspinning complexity of it all overwhelms me and
 retreat back to my comfort zone,
 
@@ -104,7 +104,7 @@ a graceless cyclone of gangly appendages, not unlike a baby giraffe learning to
 walk. If there was ever any evidence that I have no dance experience this
 is it.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/85cXrCIHjraRa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/baby-standing-giraffe-85cXrCIHjraRa">via GIPHY</a></p>
+<div class="mb-3" style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/85cXrCIHjraRa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Mark enlists the expertise of Alexandra for some personal coaching. She does a
 few skips with a lithe, effortless nonchalance that implies this should be easy.
@@ -250,10 +250,12 @@ emphasize that the prop guns used during the performance were not real weapons
 Mark encouraged us to call them "toys" instead of "guns." So every time someone
 referenced the prop guns my head instinctively popped up like a meerkat.
 
-<figure class="figure">
-	<iframe src="https://giphy.com/embed/6pUBXVTai18Iw" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div style="width:100%;height:0;padding-bottom:15%;position:relative;">
+	<figure class="figure">
+		<iframe src="https://giphy.com/embed/6pUBXVTai18Iw" width="100%" height="100%" style="position:absolute;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 	<figcaption class="figure-caption">Did someone say toys?</figcaption>
-</figure>
+	</figure>
+</div>
 
 Everybody is having a great time. Exchanging outfits, trying out looks,
 pilfering through the offerings on display at Boutique Alyce, the miniature
@@ -399,10 +401,10 @@ headshot hardship behind me.
 <h4 class="article-subheader">About That Whole Nudity Thing</h4>
 I'll admit, when I first saw the video of the previous performance with *full
 nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
-trepidation. The trepidation quickly turned into an immature mirthfulness, where
-I was using cosmopolitan terms such as "hang dong" in an attempt to entice my
-friends from out of state to come to the performance. My only preparation for
-the nudity was a strict diet
+trepidation. Trepidation which quickly turns to a sense of immature mirthfulness.
+I dispatch a flurry of text messages to my similarly puerile pals full of
+cosmopolitan aphorisms such as "hanging dong" in an attempt to entice them
+to attend. My only preparation for the nudity is a strict diet
 and maniacal workout program. Because who would know about vainglorious pursuits
 more than a man who built an entire website to write about himself.
 
@@ -410,20 +412,13 @@ But I don't want to breeze over the nudity. Because I'm fully aware that my
 standing in society as a man dominates every aspect of how I feel about it. I've
 never felt overtly sexualized by another person. I've never been catcalled. I've
 never been told I need to *smile more*. I've never felt unsafe walking home at
-night. I've never carried pepper spray. I've never felt uncomfortable in a room
+night. I've never carried pepper spray. I've never been uncomfortable in a room
 full of men. I've never been sexually assaulted.
 
-I've never experienced the innumerable
-unfortunate and inexcusable incidents directed at women in our society.
-
-I have no frame of reference to relate to the women who are performing in this
-piece. I have no idea of each of their stories. But I have to assume that each
+I've never experienced the innumerable unfortunate and inexcusable incidents
+directed at women in our society. I have no idea about each of the stories. But I have to assume that each
 of them has endured unwanted abuses however large or small that weighs on their
-decision to perform in this piece.
-
-I'm not brave for walking naked in a room full of people. Alexandra and Renay
-and Cate and Allie and McKelynn and Carrie and Alyce and Dana and Linda are.
-And I respect and admire them for it.
+decision to perform this piece.
 
 A few times during rehearsal breaks the topic of nudity would get brought up.
 Each woman had a different perspective, a different story, a different mindset,
@@ -447,6 +442,11 @@ Looking back on the role (which required her to learn dance (link)), Lawrence
 reflected, “It took a while to say yes – and the night before I didn’t sleep at
 all... But then after I finished the scene, I felt empowered.”
 
+I'm not brave for walking naked in a room full of people. Alexandra and Renay
+and Cate and Allie and McKelynn and Carrie and Alyce and Dana and Linda are.
+And I respect and admire them for it.
+
+
 I can't speak for the other members of the cast but I was slightly surprised how
 quickly the nudity became, for lack of a better word, *meh*. I'm sure it had
 something to do with us scrambling to rip off all our clothes as quickly as
@@ -456,15 +456,12 @@ was always going to be as big or small of a deal as we made it. And we
 approached it with a matter-of-fact pragmatism that took the power away from the
 milieu of undress.
 
-
-Jen Law on nudity
-
-https://www.nme.com/news/jennifer-lawrence-says-red-sparrow-nudity-actual-nightmare-2249235
-
-When we stripped ourselves of the carapace of modern society we cease to become
-Democrats or Republicans, Christians or Jews, citizens or immigrants. We are
+When we strip ourselves of the carapace of modern society we cease to become
+Democrats or Republicans, Christians or Jews, citizens or immigrants. Whichever
+artificial tribal identity we cling to melts away to reveal that we are
 simply *humans*. A condition that does not know national borders, does not
-know ethnic rivalries, does not know racial tension. The more we strip away the
+know ethnic divisions, does not know religious rivalries. The more we strip away
+t callhe
 more we realize how similar we all are.
 
 Carl Sagan, in his iconic *Pale Blue Dot* poetically remarked,
