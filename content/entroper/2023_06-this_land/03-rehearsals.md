@@ -219,7 +219,7 @@ Allie asks, "are you actually an uncle?"
 At the start of rehearsals Mark had us write our name on a few of our props for
 the performance. Since I routinely wake up in the morning and choose silliness
 I write A<span class="flip-h">N</span>DY like our best good pal Woody
-sports 'neath cowboy boot.
+sports 'neath his cowboy boot.
 
 <figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-andy_cup.jpeg" alt="Andy">
@@ -250,20 +250,19 @@ emphasize that the prop guns used during the performance were not real weapons
 Mark encouraged us to call them "toys" instead of "guns." So every time someone
 referenced the prop guns my head instinctively popped up like a meerkat.
 
-<div style="width:100%;height:0;padding-bottom:15%;position:relative;">
-	<figure class="figure">
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
 		<iframe src="https://giphy.com/embed/6pUBXVTai18Iw" width="100%" height="100%" style="position:absolute;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-	<figcaption class="figure-caption">Did someone say toys?</figcaption>
-	</figure>
 </div>
+<figcaption class="figure-caption mb-2">Did someone say toys?</figcaption>
 
-Everybody is having a great time. Exchanging outfits, trying out looks,
+Everyone is having a great time. Exchanging outfits, trying out looks,
 pilfering through the offerings on display at Boutique Alyce, the miniature
 emporium of all things fashion set up by Alyce in a corner of the studio. It's
 the dance equivalent of a general store selling picks and shovels during the
 California gold rush.
 
-My wardrobe on the dance spectrum is somewhere on the very end just this side
+My sartorial selection falls somewhere near the very end of the dance wardrobe
+spectrum just this side
 of "dad clothes." So while everyone is flitting around exchanging outfits and
 trying new looks I mostly just mill about and admire everyone else's duds.
 Once everyone has showcased their looks for Mark he eyes my Sunday afternoon
@@ -284,6 +283,19 @@ I don't admit that I don't know what a sarong is.
 shopping on Friday so we'll look for something for you too."
 
 "Okie doke."
+
+Brace & Hendri are two performers from Seattle who have been requisitioned to
+join the Carolina contingent. They will help add to the diversity quotient that
+Jonathan, Matt, and I don't really hit as three white guys. They were a part of
+the original cast to perform the piece and have performed it multiple times
+over the years. They come prepared with notes from their previous performances
+and help alleviate the burden from Mark as the sole expert on the piece.
+
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-lunch.jpeg" alt="Lunch">
+	<figcaption class="figure-caption">Enjoying lunch with Hendri & Brace ahead
+	of night 2</figcaption>
+</figure>
 
 When the Seattle crew returns from their Friday shopping spree they have found
 me a crop top sweater with a deep V, a high slit sarong, and a colorful over

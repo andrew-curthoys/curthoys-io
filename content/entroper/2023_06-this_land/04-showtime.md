@@ -102,7 +102,8 @@ that's why we did this."
 
 Phew. Did I mention my co-performers are fabulous people?
 
-For our second dress rehearsal we get an audience. Members of the ADF staff and
+For our second dress rehearsal we are graced with an audience. Members of the
+ADF staff and
 participants in the summer dance intensive who have schedule conflicts with the
 nights of the performance are offered the opportunity to see our final dress.
 Much the same as the venue adds a new layer to the performance, a live audience
@@ -142,9 +143,8 @@ in 5.
 On my first pass my biggest point of concentration is to keep my gaze above the
 heads of the audience, staring off into that deep blue lake.
 
-**Mark in 80 faces video**: it's an interactive viewing experience
-
 The audience is seated on folding chairs surrounding the stage on three sides.
+As Mark said, it's an interactive viewing experience.
 One of my biggest points of concentration is to keep my
 gaze above the heads of the audience, staring off into that deep blue lake. I do
 this because it's what Mark told us to do, but mostly because I know if I make
@@ -253,6 +253,7 @@ time!"
 "Well for me it does!" I reply with a shiteating grin. I'm an ornery prick
 aren't I?
 
+
 <h4 class="article-subheader">Are you going to the talkback?</h4>
 "The what?"
 
@@ -279,9 +280,9 @@ also involves about 200 Starbucks cups, 14 rifles, 14 pistols, 15 cell phones,
 17 beer cans, and a whole bunch of costumes set to a whole bunch of country
 music."
 
-The piece is so much about the performing non-performance. Everyone is trying to
-look as if they're not aware that people are looking at them even though all
-eyes are on them.
+"The piece is so much about the performing non-performance. Everyone is trying
+to look as if they're not aware that people are looking at them even though all
+eyes are on them."
 
 
 <h4 class="article-subheader">"Holy Shit"</h4>
@@ -361,5 +362,7 @@ Birthday suit in the spotlight
 
 
 
-
-Before day 2 get lunch with Brace & Hendri.
+<h4 class="article-subheader">Security</h4>
+On the subject of those prop guns everyone calls "toys," we had a minor
+emergency in the days leading up to the performance. The toys we use are
+relatively life-like rifles & pistols.
