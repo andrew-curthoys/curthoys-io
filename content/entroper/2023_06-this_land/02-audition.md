@@ -195,7 +195,7 @@ and set off to the saloon on foot. By the time I belly up to the rail my new
 friends Dana, Renay, and Matt halfway through their first sarsparilla. I
 order up a Fairground Balloons Pale Ale for a little catch up.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/aud-accordion.jpeg" alt="Accordion Club`">
 	<figcaption class="figure-caption">Accordion Club. Got everything we need here.</figcaption>
 </figure>
@@ -232,21 +232,20 @@ card & suit you get the beer for free."
 I resist the urge to explain that probabilistically it's just as close as any
 other card, assuming the caps are evenly distributed of course.
 
-And then on my next beer I explain it anyway.
-
-Because I'm an annoying twat. I can't help it.
+And then on my next beer I explain it anyway. Because I'm an annoying twat. I
+can't help it.
 
 "So as someone who has never attended an audition I have to say that Mark was
 super nice and the whole audition was actually kinda fun. I'm assuming that's
 not how it always goes?"
 
 Dana, Renay, & Matt all have a similar answer. Some choreographers are nice,
-some are assholes, and some fill in the space between. I'm chuffed that Mark
-falls on the nice end of the spectrum.
+some are assholes, and some fill in the space between. I'm positively chuffed
+that Mark falls on the nice end of the spectrum.
 
-The PBRs are going down, well, like PBRs. It's not smooth, it's not drinkable,
-but that's what's good about it. Then Dana pours some coal on the fire and
-shows up to the table with a round of tequila
+The PBRs are going down, well, like PBRs. They ain't smooth, they ain't
+drinkable, but that's what's good about 'em. Then Dana pours some coal on the
+fire and shows up to the table with a round of tequila
 shots. Oh sweet baby Jesus, I was not prepared for this.
 
 "Here's to everybody making it. Here's to the Durham Dance Mafia!"

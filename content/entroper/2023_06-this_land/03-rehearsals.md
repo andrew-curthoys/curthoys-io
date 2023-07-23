@@ -30,16 +30,27 @@ I scrape myself off the floor, still reeling from
 I just got back to Durham last night and worked all day today so my energy
 levels are zapped.
 
-In the break between the audition and 
+In the break between the audition and the start of rehearsals Mark sends us an
+email with our order in the lineup. Everybody is assigned to a performer from
+the Paris performance video. I drew Jurg
 
-Most of our time during the first few rehearsals is spent teaching the
+<div class="text-muted fst-italic mx-3 mb-3">
+9. Andrew (JURG)- orange T shirt, light grey pants. ENTRANCE IS AT 4:24
+</div>
+
+When I watch the Paris video I'm overwhelmed by a euphoric realization - all the
+gallops occur in the first 3 minutes. Since Jurg doesn't come on till 4:24
+I won't be doing any gallops! Praise be! Based on my complete galloptrical
+ineptitude displayed during the audition I'd say Mark's decision to spare me
+from gallop duty is wise and prudent.
+
+Most of the time during our first few rehearsals is spent teaching the
 individual segments that make up the whole of the performance. Each has its own
-name that Mark has informally conferred as he developed the piece and each has
-its own flavor. Whether it be a different costume, step sequence, hand movement,
-facial expression, or body position.
+name that Mark has informally conferred over the years and each has
+its own flavor.
 
-As Mark teaches us each segment I get the hang of it pretty quickly.
-It's when we start to link 3 or 4 segments together that my head starts to spin.
+As Mark teaches us each segment I get the hang of them relatively quickly.
+It's when we start to link 3 or 4 sections together that my head starts to spin.
 I quickly follow the lead of the more seasoned dancers and begin to write it all
 down in a notebook.
 
@@ -48,30 +59,28 @@ Surgery"
 
 <div class="text-muted fst-italic mx-3 mb-3">
 Start with head cocked to the right, left hand on hip<br>
-1 length to get right hand to cup<br>
+1/2 lap to get right hand to cup<br>
 1 lap to uncock head<br>
-1 length to drop left hand<br>
-1 length to drop right hand<br>
-1 length to get right hand to hip<br>
-1 length to get left hand to cup<br>
+1/2 lap to drop left hand<br>
+1/2 lap to drop right hand<br>
+1/2 lap to get right hand to hip<br>
+1/2 lap to get left hand to cup<br>
 1 lap to cock head to the left<br>
-1 length to drop right hand<br>
-1 length to drop left hand<br>
+1/2 lap to drop right hand<br>
+1/2 lap to drop left hand<br>
 4 count pouty pause<br>
-1 length to get left hand to hip
+1/2 lap to get left hand to hip
 </div>
 
-And that's just one pass. I have 20 something passes. After just a few
-rehearsals I'm overwhelmed by the headspinning complexity of it all and
-capitulate,
+And that's just one pass. I over 20 passes. After just a few
+rehearsals the headspinning complexity of it all overwhelms me and
+retreat back to my comfort zone,
 
 "Ok that's it, I'm gonna need to make a spreadsheet."
 
-Now that's what I call a comfort zone.
-
 By the time I finish filling out my spreadsheet I count 24 passes,
 each with a different outfit, prop, step sequence, step direction, posture,
-hand movements, facial expression, or other some such choreographic flourish.
+hand movement, facial expression, or other some such choreographic flourish.
 Once the full start-to-finish run throughs begin I print out my
 sheet and cross out each pass as I complete it & highlight important reminders
 for the next pass.
@@ -79,8 +88,8 @@ for the next pass.
 I don't trust myself to go to the grocery store without a list so
 there's no way I'm going to be comfortable memorizing intricate
 choreography for 24 passes. Especially with the added adrenaline that's likely
-to come with a live audience. But one pass at a time I can manage. Just gotta
-trust the process.
+to come with a live audience. But one pass at a time I can manage. At least I
+hope I can.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-spreadsheets.jpeg" alt="Spreadsheets">
@@ -91,14 +100,16 @@ With practice my Sally eventually reaches a degree of aptitude that could
 generously be described as *adequate*. My next challenge is
 to master the "maxi" skip. So called because we are going to the max&trade;, the
 maxi is a mix between a skip and a speed skating lunge. My initial attempts were
-akin to a baby giraffe learning to walk - a graceless cyclone of gangly
-appendages. If there was ever any evidence that I have no dance experience this
+a graceless cyclone of gangly appendages, not unlike a baby giraffe learning to
+walk. If there was ever any evidence that I have no dance experience this
 is it.
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/85cXrCIHjraRa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/baby-standing-giraffe-85cXrCIHjraRa">via GIPHY</a></p>
+
 Mark enlists the expertise of Alexandra for some personal coaching. She does a
-few skips with a lithe effortless nonchalance that implies this should be easy.
+few skips with a lithe, effortless nonchalance that implies this should be easy.
 *See? Just like that.* It's the dancing equivalent of Tiger Woods striping a 2
-iron then looking at me, "See? Just like that." Well, Alexandra, I don't even
+iron then looking at me, *See? Just like that.* Well, Alexandra, I don't even
 own a 2 iron.
 
 But I put my faith in the process and continue to work at it. At some point
@@ -204,84 +215,6 @@ Allie asks, "are you actually an uncle?"
 "To my friends' pets I am"
 
 
-<h4 class="article-subheader">Headshot Redux</h4>
-
-<div class="text-muted fst-italic mx-3 mb-3">
-Greetings Dancers!
-
-I have created a shared doc for you all to type your bios in. The deadline for
-bios is June 8th and when you all get the chance, please email me your headshots
-along with your first and last name. 
-</div>
-
-Oh no, not this again.
-
-At least this time I have the experience of a baker's
-dozen dancers that I can lean on. I ask the crew if they will help me write a
-bio and take a headshot and they of course agree. We plan to huddle up at the
-next rehearsal, where I summarily forget. And continue to forget each of the
-next three rehearsals until the deadline day. I hastily scribble something down
-and send it to Destinee, I'll have to figure something out for this headshot.
-
-Today is our day off so Dana agrees to meet me at Daily Beer Bar to punch up
-my bio & take a headshot for me. Seeing as we're planning to sip some suds from
-my favorite beer bar in Durham I throw on a shirt from
-<a href="https://www.instagram.com/americansolera/" target="_blank" rel="noopener noreferrer">my favorite brewery</a>.
-
-<figure class="figure container-fluid">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-cat.jpeg" alt="Beyonce">
-	<figcaption class="figure-caption">Meet Beyonce the brewery cat</figcaption>
-</figure>
-
-As I stroll up to the bar Dana sees me and immediately exclaims, "Oh my god,
-you're NOT wearing that for your headshot!"
-
-"What?"
-
-"That shirt!"
-
-"What about it?"
-
-"You can't wear that shirt in your headshot!"
-
-"Why does my shirt matter? It's a HEADshot not a HeadAndShirtshot"
-
-The look on Dana's face was a mixture of disappointment, resignation, and a
-heavy dose of *you're an idiot*.
-
-So I guess we're not getting a head(and shirt apparently)shot today. I'm
-stressing out because it's already past the deadline and we're getting close
-to opening day. Dana assures me that the programs are all digital so my worries
-about getting the headshot and bio submitted before they "go to the presses"\*
-with the programs are unfounded.
-
-*\*do they say that? I don't know, you get the idea.*
-
-We spend about a beer and a half mulling over the wording of my bio, cutting
-this, tightening that, rewording here. Once we're satisfied I send over the
-final copy to Desinee and agree to bring a plain, unmarked (boring) shirt to
-rehearsals tomorrow for my headshot. We each vow to not forget tomorrow.
-
-And then forget.
-
-Luckily I remember just as I'm walking out the door and Dana is already on her
-way home. I commandeer Allie to serve as photographer, who surely would prefer
-to do *anything* else after 6 hours of rehearsing. But she agrees because she's
-a wonderful human. We make a whirlwind tour of the studios looking for an
-appropriate backdrop and lighting. We find a spot in the main rehearsal space
-and Allie snaps a series of photos while Brace cracks me up by just being Brace.
-
-An artist is only as good as her tools and despite Allie's best efforts I...
-look like a dweeb. I wouldn't recommend a photoshoot while exhausted and sweaty
-from a full day of rehearsing. Whatever, I send the photo and put the whole
-headshot hardship behind me.
-
-<figure class="figure container-fluid">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-headshot.png" alt="Headshot & Bio">
-	<figcaption class="figure-caption">Had to sneak that plug in there</figcaption>
-</figure>
-
-
 <h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
 At the start of rehearsals Mark had us write our name on a few of our props for
 the performance. Since I routinely wake up in the morning and choose silliness
@@ -385,6 +318,83 @@ With fire in his eyes burning red as sundown<br>
 His boots were all dusty, his coat open wide<br>
 Six ways of dying hung low on his side
 </div>
+
+
+<h4 class="article-subheader">Headshot Redux</h4>
+<div class="text-muted fst-italic mx-3 mb-3">
+Greetings Dancers!
+
+I have created a shared doc for you all to type your bios in. The deadline for
+bios is June 8th and when you all get the chance, please email me your headshots
+along with your first and last name. 
+</div>
+
+Oh no, not this again.
+
+At least this time I have the experience of a baker's
+dozen dancers that I can lean on. I ask the crew if they will help me write a
+bio and take a headshot and they of course agree. We plan to huddle up at the
+next rehearsal, where I summarily forget. And continue to forget each of the
+next three rehearsals until the deadline day. I hastily scribble something down
+and send it to Destinee, I'll have to figure something out for this headshot.
+
+Today is our day off so Dana agrees to meet me at Daily Beer Bar to punch up
+my bio & take a headshot for me. Seeing as we're planning to sip some suds from
+my favorite beer bar in Durham I throw on a shirt from
+<a href="https://www.instagram.com/americansolera/" target="_blank" rel="noopener noreferrer">my favorite brewery</a>.
+
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-cat.jpeg" alt="Beyonce">
+	<figcaption class="figure-caption">Meet Beyonce the brewery cat</figcaption>
+</figure>
+
+As I stroll up to the bar Dana sees me and immediately exclaims, "Oh my god,
+you're NOT wearing that for your headshot!"
+
+"What?"
+
+"That shirt!"
+
+"What about it?"
+
+"You can't wear that shirt in your headshot!"
+
+"Why does my shirt matter? It's a HEADshot not a HeadAndShirtshot"
+
+The look on Dana's face was a mixture of disappointment, resignation, and a
+heavy dose of *you're an idiot*.
+
+So I guess we're not getting a head(and shirt apparently)shot today. I'm
+stressing out because it's already past the deadline and we're getting close
+to opening day. Dana assures me that the programs are all digital so my worries
+about getting the headshot and bio submitted before they "go to the presses"\*
+with the programs are unfounded.
+
+*\*do they say that? I don't know, you get the idea.*
+
+We spend about a beer and a half mulling over the wording of my bio, cutting
+this, tightening that, rewording here. Once we're satisfied I send over the
+final copy to Desinee and agree to bring a plain, unmarked (boring) shirt to
+rehearsals tomorrow for my headshot. We each vow to not forget tomorrow.
+
+And then forget.
+
+Luckily I remember just as I'm walking out the door and Dana is already on her
+way home. I commandeer Allie to serve as photographer, who surely would prefer
+to do *anything* else after 6 hours of rehearsing. But she agrees because she's
+a wonderful human. We make a whirlwind tour of the studios looking for an
+appropriate backdrop and lighting. We find a spot in the main rehearsal space
+and Allie snaps a series of photos while Brace cracks me up by just being Brace.
+
+An artist is only as good as her tools and despite Allie's best efforts I...
+look like a dweeb. I wouldn't recommend a photoshoot while exhausted and sweaty
+from a full day of rehearsing. Whatever, I send the photo and put the whole
+headshot hardship behind me.
+
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-headshot.png" alt="Headshot & Bio">
+	<figcaption class="figure-caption">Had to sneak that plug in there</figcaption>
+</figure>
 
 <h4 class="article-subheader">About That Whole Nudity Thing</h4>
 I'll admit, when I first saw the video of the previous performance with *full

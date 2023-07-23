@@ -33,8 +33,8 @@ begin to describe the joy she brings to this world.
 	<figcaption class="figure-caption">She's just the best</figcaption>
 </figure>
 
-The missive consists of a simple command, "you should do this," accompanied by a
-link to a post from the American Dance Festival with the headline
+The missive consists of a simple command: "You should do this." The directive is
+accompanied by a link to a post from the American Dance Festival with the headline
 <a href="https://www.instagram.com/p/CpLbgk9J-FI/?igshid=MzRlODBiNWFlZA==" target="_blank" rel="noreferrer noopener">*"Audition Opportunity for NC-based Performers"*</a>.
 
 Huh? An audition opportunity? Why on earth would she send me this? I
@@ -85,20 +85,24 @@ Application requirements:
 
 * 150 word biography.
 * A short description why you want to partake in this performance.
-* Headshot.
+* A headshot.
 
 To most people this probably seems like a piece of cake. Just knock it out
 between walkin' the dogs & fixin' supper. But for someone with no relevant
-experience what in the world should I put in my bio?
+experience what in the world do I put in my bio?
 
 And a ***short*** description why I want to partake in this performance? I'd
 need 10 sessions with a psychologist to even begin to answer that question.
 
 Then the headshot. I feel like Kevin McCallister packing his suitcase.
 
-SUBMIT.
+SUBMIT. A HEADSHOT!?
 
-A HEADSHOT!?
+<div class="mb-3" style="position: relative; width: 100%; padding-bottom: 56.25%;">
+	<iframe style="position:absolute; width:100%; height:100%;"
+		src="https://memes.getyarn.io/yarn-clip/305f6b32-e3d2-46b2-a03f-50efe6b69047/embed?autoplay=false&responsive=true" frameborder="0">
+	</iframe>
+</div>
 
 Woof.
 
@@ -109,7 +113,7 @@ So I spend the month *thinking* and not a minute of *doing*.
 As the March 6 deadline looms more sinister with each passing day I realize that
 my window to snag a headshot before heading to Utah for a ski trip is rapidly
 closing. While working from home ahead of my evening flight on March 3rd I spend
-my entire lunch break struggling to capture an adequate headshot.
+my entire lunch break struggling to capture an adequate photo.
 
 It started with a simple "headshot examples" image search. Suddenly a panoply of
 aggressively beautiful people appears in my browser. Ok, so all I
@@ -313,10 +317,11 @@ of the audition. More information regarding the audition will be shared
 following your confirmation.
 </div>
 
-Alright, let's give it a look. I open the link and start scrolling to finally
-complete my quest to find the meaning of "contains". We start fully clothed,
-cycle through a few wardrobe changes, then BAM! Full on, ass out, flappin' in
-the breeze nudity. So THAT'S what *contains* means.
+Alright, let's give it a look. I open the link to a video of a previous
+performance of the piece in Paris in 2013. I press play & start scrolling to
+finally complete my quest to find the meaning of "contains". We start fully
+clothed, cycle through a few wardrobe changes, then BAM! Full on, ass out,
+flappin' in the breeze nudity. So THAT'S what *contains* means.
 
 I quickly realize I'm watching a group of naked strangers on my phone in the
 middle of a crowded ski bar & slam my phone face down where it
