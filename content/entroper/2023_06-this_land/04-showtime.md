@@ -20,8 +20,8 @@ Art is by its very nature a subjective human pursuit. There's no one way, no
 right way, no wrong way to create, consume, or appreciate art. It's intimately
 individual and that's what makes it beautiful.
 
-In 1971's *Angel From Montgomery*, American mail carryer and occasional writer
-of profound poetry John Prine croons,
+In 1971's *Angel From Montgomery*, American mail carryer and lyrical poet John
+Prine croons,
 
 <div class="text-muted fst-italic mx-3 mb-3">
 How the hell can a person<br>
@@ -46,14 +46,16 @@ So why in the hell am I telling you this?
 
 Because there's absolutely no way that John Prine, when writing about the
 failing marriage of a middle aged woman, thought about how the journey of a 35
-year man would color his interpretation of the song. Because every single
+year man would color his interpretation of the song. It's my self-absorbed and
+convoluted way of observing that every single
 person who enjoys art brings their own life story to it.
 
-It's such a unique and captivating piece that every single audience member walks
-away from the performance with a different perspective. The first time I watched
-a recording of the piece I made an immediate connection to what I considered the
-most powerful section of the performance, and Woody Guthrie's *This Land Is Your
-Land*. But that's just the Oklahoma in me. And I'm sure every single person at
+*This Land Is Your Land* is such a unique and captivating piece that no two
+audience members walked out of the Nasher with the same perspective.
+The first time I watched the Paris recording I made an immediate connection
+between Woody Guthrie's *This Land Is Your Land* and what I considered to be the
+most powerful section of the performance. But that's just the Oklahoma in me.
+And I'm sure every single person at
 the Nasher made a connection to the piece that felt just at powerful and
 profound to them.
 
@@ -93,6 +95,12 @@ at the Nasher I make mistakes I haven't made in over a week in the
 comfy confines of the ADF Studios. I can't keep my count. I can't remember my
 choreography. I'm discombobulated. It certainly doesn't help that the floor
 tiles are slanted at an angle oblique to our walking path.
+
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-dress1.jpg" alt="Dress rehearsal">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-dress2.jpg" alt="Dress rehearsal">
+  <figcaption class="figure-caption">Putting the finishing touches on it</figcaption>
+</figure>
 
 After the run through I ask my fellow performers if they had similar
 misfortunes and they confirm as much.
@@ -180,7 +188,7 @@ very well could have looked intentional. At least that's what we tell ourselves
 as we prepare for our next pass. No time to dwell on the past.
 
 With my gaffe in the rearview I'm soon to my absolute favorite part of the piece.
-The pouty pause. On my last lap of plastic surgery I stop for a 4 count at the
+"The pouty pause". On my last lap of plastic surgery I stop for a 4 count at the
 end of the stage and give the audience the look of petulant, bratty child who
 was just told they couldn't have ice cream. "You're a bratty kid who didn't get
 their way and you want to stare at them like you're parents are the worst."
@@ -364,5 +372,11 @@ Birthday suit in the spotlight
 
 <h4 class="article-subheader">Security</h4>
 On the subject of those prop guns everyone calls "toys," we had a minor
-emergency in the days leading up to the performance. The toys we use are
-relatively life-like rifles & pistols.
+emergency in the days leading up to the performance. The toys we rehearsed with
+were relatively life-like rifles & pistols. Just a few days before opening
+night Mark received a call that the powers that be had decided to outlaw the
+guns from the performance. Whether that be the Nasher or Duke or the Durham
+police we don't know we just know that 
+
+About 20 minutes before one of the performances I was walking back to the
+green room 

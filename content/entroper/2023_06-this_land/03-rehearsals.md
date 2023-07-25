@@ -49,6 +49,12 @@ individual segments that make up the whole of the performance. Each has its own
 name that Mark has informally conferred over the years and each has
 its own flavor.
 
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-notes1.jpg" alt="Notes">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-notes2.jpg" alt="Notes">
+	<figcaption class="figure-caption">The gang gets notes</figcaption>
+</figure>
+
 As Mark teaches us each part I get the hang of them relatively quickly.
 It's when we start to link 3 or 4 sections together that my head starts to spin.
 I quickly follow the lead of the more seasoned dancers and begin to write it all
@@ -124,6 +130,7 @@ Andy.*
 By the time we finish rehearsals I believe I've dragged my maxi skip into
 passable territory, and I'll take that.
 
+
 <h4 class="article-subheader">Pythagoras</h4>
 During our first rehearsal Mark gives us a tip to help keep our lines
 straight, "make sure your steps are a little longer on the way back because
@@ -134,7 +141,7 @@ have no control over.
 
 <div class="text-muted fst-italic mx-3 mb-3">
 Ok so we take 8 steps out, and if we assume it's one step over on the way back,
-Pythagoras tells us our hypotenuse would be $\sqrt{65}$. That
+Pythagoras tells us our hypotenuse would be $\sqrt{65}$ steps. That
 can't possibly be <b>that</b> much bigger than 8 right?
 </div>
 
@@ -145,7 +152,7 @@ $\sqrt{65} = 8.0623$.
 Which means the distance we would have to walk upstage is 0.778% longer than the
 distance we walk downstage\*. If we assume an average stride distance of 2.5 ft
 that means we'd walk 20 feet downstage and to account for the angle we'd need
-to walk 20 feet 1.87 inches on the way back. Or 0.23 extra inches per step.
+to walk 20 feet 1.87 inches on the way back. Or an extra 0.23 inches per step.
 We're good but I don't think we're *that* good.
 
 *\*I just learned what upstage & downstage meant during rehearsal today. I'm only
@@ -180,7 +187,7 @@ I whisper to Allie, "the what sequence?"
 "It's a dance term that means..... actually you don't have to do it so don't
 worry about it"
 
-Ah what a wonderful phrase. The dancer's hakuna matata.
+Ahhhh what a wonderful phrase. The dancer's hakuna matata.
 
 This is hardly the first or the last time I'm left plumflutterated at the use of
 a dance term that I have no idea what it means.
@@ -204,7 +211,7 @@ what Mark meant. I hope my MBB energy came through my performance nonetheless.
 
 *Really emphasize the contrapposto*
 
-I'm listening but nothing is 
+I'm listening but nothing is registering.
 
 "Who is the first one to come out with the straw cup?"
 
@@ -216,8 +223,8 @@ Allie asks, "are you actually an uncle?"
 
 
 <h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
-At the start of rehearsals Mark had us write our name on a few of our props for
-the performance. Since I routinely wake up in the morning and choose silliness
+At the start of rehearsals Mark instructed us to write our name on a few of our
+props. Since I routinely wake up in the morning and choose silliness
 I write A<span class="flip-h">N</span>DY like our best good pal Woody
 sports 'neath his cowboy boot.
 
@@ -230,7 +237,7 @@ And this is how I inadvertently adopted Andy as my stage name.
 
 One day Alexandra asks me, "Do you prefer Andrew or Andy?"
 
-"I don't really care, either works"
+"I don't really care, either works."
 
 Alexandra then gives me a look of someone who's been called "Alex",
 "Allie", "Alexandria", and any number of creative or otherwise head-scratching
@@ -254,6 +261,8 @@ referenced the prop guns my head instinctively popped up like a meerkat.
 		<iframe src="https://giphy.com/embed/6pUBXVTai18Iw" width="100%" height="100%" style="position:absolute;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 <figcaption class="figure-caption mb-2">Did someone say toys?</figcaption>
+
+
 
 Everyone is having a great time. Exchanging outfits, trying out looks,
 pilfering through the offerings on display at Boutique Alyce, the miniature
@@ -410,13 +419,14 @@ headshot hardship behind me.
 	<figcaption class="figure-caption">Had to sneak that plug in there</figcaption>
 </figure>
 
+
 <h4 class="article-subheader">About That Whole Nudity Thing</h4>
-I'll admit, when I first saw the video of the previous performance with *full
+I'll admit, when I first saw the video of the Paris performance with *full
 nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
-trepidation. Trepidation which quickly turns to a sense of immature mirthfulness.
-I dispatch a flurry of text messages to my similarly puerile pals full of
-cosmopolitan aphorisms such as "hanging dong" in an attempt to entice them
-to attend. My only preparation for the nudity is a strict diet
+trepidation. Trepidation, which quickly morphs into to a sense of immature
+mirthfulness. I dispatch a flurry of text messages to my similarly puerile pals
+full of cosmopolitan aphorisms such as "hanging dong" in an attempt to entice
+them to attend. My only preparation for the nudity is a strict diet
 and maniacal workout program. Because who would know about vainglorious pursuits
 more than a man who built an entire website to write about himself.
 
@@ -428,22 +438,18 @@ night. I've never carried pepper spray. I've never been uncomfortable in a room
 full of men. I've never been sexually assaulted.
 
 I've never experienced the innumerable unfortunate and inexcusable incidents
-directed at women in our society. I have no idea about each of the stories. But I have to assume that each
-of them has endured unwanted abuses however large or small that weighs on their
-decision to perform this piece.
+directed at women in our society. I don't know the stories of all the women in
+the company, but I have to assume that each of them has endured unwanted abuses
+however large or small that weighed on their decision to perform this piece.
 
-A few times during rehearsal breaks the topic of nudity would get brought up.
-Each woman had a different perspective, a different story, a different mindset,
+A few times during breaks the topic of nudity would get brought up.
+Each woman had a different perspective, a different mindset,
 a different journey. And each time this topic was broached, I realized it was
-time for me to shut the fuck up and listen and learn. Despite the fact that each
-woman had their own story of acceptance and comfort level with the nudity,
-almost every conversation ended up with the necessity to separate nudity from
-sexualization. Nearly every woman remarked that they were much more comfortable
-accepting the nudity when it was a de-sexualized environment where everybody
-realizes that we're just expressing ourselves with our *bodies*.
+time for me to shut the fuck up and listen and learn.
 
-Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
-creak and groan and grow hair in the worst places and lose hair in the best.
+I'm not brave for walking naked in a room full of people. Alexandra and Renay
+and Cate and Allie and McKelynn and Carrie and Alyce and Dana and Linda are.
+And I respect and admire them for it.
 
 Circling back to
 <a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
@@ -454,9 +460,16 @@ Looking back on the role (which required her to learn dance (link)), Lawrence
 reflected, “It took a while to say yes – and the night before I didn’t sleep at
 all... But then after I finished the scene, I felt empowered.”
 
-I'm not brave for walking naked in a room full of people. Alexandra and Renay
-and Cate and Allie and McKelynn and Carrie and Alyce and Dana and Linda are.
-And I respect and admire them for it.
+Similarly to Lawrence's experience, every woman in the company remarked that the
+most difficult part about the nudity was separating it from sexuality. But once
+they were able to make that cognitive transition it took some of the power from
+the nudity. Nearly every woman remarked that they were much more comfortable
+when they  it was a de-sexualized environment where everybody
+agrees that we're just expressing ourselves with our *bodies*.
+
+Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
+creak and groan and grow hair in the worst places and lose hair in the best.
+
 
 
 I can't speak for the other members of the cast but I was slightly surprised how
@@ -473,17 +486,23 @@ Democrats or Republicans, Christians or Jews, citizens or immigrants. Whichever
 artificial tribal identity we cling to melts away to reveal that we are
 simply *humans*. A condition that does not know national borders, does not
 know ethnic divisions, does not know religious rivalries. The more we strip away
-t callhe
-more we realize how similar we all are.
+the more we realize how similar we all are.
 
-Carl Sagan, in his iconic *Pale Blue Dot* poetically remarked,
+I couldn't resist the urge to shoehorn a Carl Sagan quote here, in his iconic
+*Pale Blue Dot* Sagan poetically remarked,
 
 <div class="quote">
-The Earth is a very small stage in a vast cosmic arena. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot.
+The Earth is a very small stage in a vast cosmic arena. Think of the endless
+cruelties visited by the inhabitants of one corner of this pixel on the scarcely
+distinguishable inhabitants of some other corner, how frequent their
+misunderstandings, how eager they are to kill one another, how fervent their
+hatreds. Think of the rivers of blood spilled by all those generals and emperors
+so that, in glory and triumph, they could become the momentary masters of a
+fraction of a dot.
 </div>
 
 Am I saying the world would be a better place if we all walked around stark
-naked in front of a group of strangers? Maybe. Maybe not. But I'm willing to
+naked in front of a group of strangers? Maybe. Maybe not. But I'd be willing to
 give it a shot.
 
 
@@ -515,6 +534,11 @@ Each time her reaction would fall somewhere between covering her face with her h
 shooting me a glare so as to suggest *if you know what's best for your health,
 young man, you better not even think about it*. I would never, Linda Belans, I
 would never.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-linda.jpg" alt="Linda">
+	<figcaption class="figure-caption">Linda Belans is a treasure</figcaption>
+</figure>
 
 A quick detour: I have discovered that the Trace Adkins Wikipedia page is a
 stream-of-consciousness minefield, littered with the wreckage of broken body
@@ -606,6 +630,8 @@ in our very beings
 
 
 <h4 class="article-subheader">Catharsis</h4>
+
+
 There's something about being cooped up in the same room with the same people
 performing the same movements to the same songs that can play with your emotions
 in unexpected ways. During the last rehearsal of our first week Mark introduces
