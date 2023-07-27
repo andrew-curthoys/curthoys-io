@@ -15,41 +15,7 @@ photo:
 short_sum: This is it, don't get scared now
 summary: 
 
-<h4 class="article-subheader">Nothin' To Say</h4>
-Art is by its very nature a subjective human pursuit. There's no one way, no
-right way, no wrong way to create, consume, or appreciate art. It's intimately
-individual and that's what makes it beautiful.
-
-In 1971's *Angel From Montgomery*, American mail carryer and lyrical poet John
-Prine croons,
-
-<div class="text-muted fst-italic mx-3 mb-3">
-How the hell can a person<br>
-Go to work in the morning<br>
-Then come home in the evening<br>
-And have nothing to say?
-</div>
-
-Which, on the face of it, is a perfectly reasonable question.
-
-But as an introverted young man I came home from school every day and had nothing
-to say. I spent hundreds of excruciating car rides dreading the inevitable "what
-did you learn in school today?" The thing is I learned plenty in school. I just
-wanted to be alone.
-
-But as I've matured and grown I've come to realize there's nothing wrong with
-that. There's nothing to be ashamed of. I can be comfortable with *who I am*.
-And if you're comfortable with who you are you can deal with uncomfortable
-situations. You can fly towards Mount Awkward instead of around it.
-
-So why in the hell am I telling you this?
-
-Because there's absolutely no way that John Prine, when writing about the
-failing marriage of a middle aged woman, thought about how the journey of a 35
-year man would color his interpretation of the song. It's my self-absorbed and
-convoluted way of observing that every single
-person who enjoys art brings their own life story to it.
-
+<h4 class="article-subheader">It's Art, Get It?</h4>
 *This Land Is Your Land* is such a unique and captivating piece that no two
 audience members walked out of the Nasher with the same perspective.
 The first time I watched the Paris recording I made an immediate connection
@@ -89,17 +55,22 @@ space at the heart of the museum and also incorporates the building’s mechanic
 systems.
 </div>
 
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-nasher_roof.jpeg" alt="Nasher Roof">
+  <figcaption class="figure-caption">Look at that roof!</figcaption>
+</figure>
+
 It's a pretty magical space. And my first introduction to the complete
-bewilderment that comes with rehearsing in a new space. During our first dress
-at the Nasher I make mistakes I haven't made in over a week in the
-comfy confines of the ADF Studios. I can't keep my count. I can't remember my
-choreography. I'm discombobulated. It certainly doesn't help that the floor
-tiles are slanted at an angle oblique to our walking path.
+bewilderment that comes with rehearsing in a new place. During our first dress
+at the Nasher I make mistakes I haven't made in over a week in our
+comfy confines at ADF. I can't keep my count. I can't remember my
+choreography. I'm fully discombobulated. It certainly doesn't help that the
+floor tiles are slanted at an angle oblique to our walking path.
 
 <figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-dress1.jpg" alt="Dress rehearsal">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-dress2.jpg" alt="Dress rehearsal">
-  <figcaption class="figure-caption">Putting the finishing touches on it</figcaption>
+  <figcaption class="figure-caption">Putting the finishing touches</figcaption>
 </figure>
 
 After the run through I ask my fellow performers if they had similar
@@ -119,10 +90,21 @@ significantly changes the dynamic. I'm grateful that we are able to rehearse in
 the Nasher with an audience before opening night. As an engineer I'm always on
 the lookout to isolate as many variables as possible.
 
+Then right before the first performance Mark adds another variable.
 
-<h4 class="article-subheader">This Is It, Don't Get Scared Now</h4>
-Rehearsals have worn me down and I'm ready for the real thing. I've got my
-system down, I've got my spreadsheets printed. I'm prepared. Calm. Confident.
+"Andy, I know we haven't practiced this but I want you to grab the spear from
+Cate and you'll carry it offstage."
+
+Sure thing, Mark, no way that could *possibly* end up in disaster. So I practice
+the spear handoff a few times with Cate, a move that requires a pirouette
+in the opposite direction of what we've been practicing the last couple weeks.
+And a last minute scribble on my spreadsheet.
+
+
+<h4 class="article-subheader">Opening Night</h4>
+Outside of the last minute spearouette addition I feel ready. Rehearsals have
+worn me down and I'm ready for the real thing. I've got my
+system down. I'm prepared. Calm. Confident.
 
 The night before our first performance I sleep like a damn baby. When I arise
 I find a ladybug on my pillow - that's gotta be good luck right? But then again,
@@ -135,43 +117,80 @@ about and nonsensical banter. Our heroic stage manager, Gabby, has the
 unenviable job of appeasing contingents from the Nasher, the ADF, and the
 security detail, all while wrangling a group of nervy performers.
 
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-album.JPG" alt="Green room">
+  <figcaption class="figure-caption">Durham Dance Mafia album cover</figcaption>
+</figure>
+
 15 minutes before showtime Gabby leads us from the green room backstage. We chat
 idly, review notes, stretch out, waiting anxiously just to get the show on the
 road. 6:30 comes and goes.
 
-"These things never start on time, I'm sure there are still people shuffling in"
+Dana reassures me, "these things never start on time, I'm sure there are still
+people shuffling in"
 
 A few minutes later Gabby comes backstage and calmly tells us we'll be starting
-in 5.
+in 5. And in 5 minutes I'm greeted, once again, by that familiar contralto,
 
 *I go out walkin' after midnight...*
 
+I relax on my chair for a few minutes, observing the organized chaos backstage.
+For each of their early passes, Alexandra, Renay, Matt, Cate, Allie, Hendri, and
+McKelynn are forced into a frantic scramble. They have 12 counts to make it from
+one edge of the
+curtain to the other, lest they miss their mark for their next pass. Each dancer
+continue to scurry across the breadth of the curtain until they are relieved
+by Carrie's entrance, which provides a buffer from the ceaseless churn and a
+much needed reprieve from the beleaguered troops.
 
-<h4 class="article-subheader">Focus</h4>
-On my first pass my biggest point of concentration is to keep my gaze above the
-heads of the audience, staring off into that deep blue lake.
+Around 4 minutes into the piece, I arise from my comfortable lounged position,
+grab a cup and step in line right behind Cate.
+
+*1 - 2 - 3 - 4*
+
+And Cate is off.
+
+*5 - 6 - 7 - 8*
+
+I take a step up to my mark at the edge of the curtain.
+
+*1 - 2 - 3 - 4*
+
+And on the 5 I make my first step from behind the curtain in my first
+performance.
 
 The audience is seated on folding chairs surrounding the stage on three sides.
-As Mark said, it's an interactive viewing experience.
-One of my biggest points of concentration is to keep my
+It's known as a "thrust stage" according to my research. During my first pass
+I'm acutely focused on keeping my
 gaze above the heads of the audience, staring off into that deep blue lake. I do
 this because it's what Mark told us to do, but mostly because I know if I make
 eye contact with a friend I'll immediately crack up.
 
-I didn't have anyone come the first day, but I didn't know that at the time. The
-second day I had friends confirmed for both shows so it's good I had my gaze
-fixing practice night 1. During the first performance of the second day I did
-catch myself smothering a smirk during the nude section. Facing out towards the
-audience I maintained a stoic stare into the deep blue lake, but going back
-towards the curtain each time I had the smallest smirk I had to muffle.
+<figure class="figure" id="rain">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage1.jpg" alt="Nasher">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage2.jpg" alt="Nasher">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Mark called it an interactive viewing experience</figcaption>
+</figure>
 
+One performance when I knew I had friends in the audience I did catch myself
+smothering a smirk during the nude section. As I strode out towards the audience
+I summoned every ounce of concentration in my body to maintain a stoic stare,
+but going back I had to crush the grassroots campaign of a grin starting to
+organize on my face.
 
-<h4 class="article-subheader">Giddy</h4>
+My first two passes contain pretty subtle choreography that I was able to get
+the hang of relatively quickly.
 On my third pass I'm supposed to do a single skip on each of the first two laps
 then three skips each on the next two. First lap I nail it. The best skip you've
 ever laid eyes on. No notes. The second lap, however, I get a little
 overexuberant and hit the three skips one lap too early. I try to play it off as
-best I can and finish out the pass with no further gaffes.
+best I can and finish out the pass hoping nobody saw that.
 
 Behind the curtain I look to Cate,
 
@@ -187,14 +206,28 @@ Seeing as we were in the middle of the line when we committed our faux pas it
 very well could have looked intentional. At least that's what we tell ourselves
 as we prepare for our next pass. No time to dwell on the past.
 
-With my gaffe in the rearview I'm soon to my absolute favorite part of the piece.
-"The pouty pause". On my last lap of plastic surgery I stop for a 4 count at the
+With my gaffe in the rearview I'm soon to my absolute favorite part of the piece,
+*the pouty pause*. On my last lap of plastic surgery we stop for a 4 count at the
 end of the stage and give the audience the look of petulant, bratty child who
 was just told they couldn't have ice cream. "You're a bratty kid who didn't get
-their way and you want to stare at them like you're parents are the worst."
+their way and you want to stare at them like you're parents are the worst." I
+have a lot of fun with this one & really lean into it. *But I* ***REALLY***
+*want ice cream!!! Ughhhhhhhhhhhhhhh*.
 
-The rest of the show goes off without a hitch. No more gaffes, blunders, or
-goofs. I feel pretty good about it, my confidence, it seems, was not misplaced.
+Then comes the spear handoff. The only part I haven't rehearsed dozens of times.
+As I reach the yellow panel I snag the spear from Cate and collect 11 rubles
+with a flawless pirouette that could only be described as Baryshnikovian. The
+quality of the pirouette is only surpassed by my immense modesty.
+
+Outside of my minor skipping miscue the rest of the show goes off without a
+hitch. No more flubs, goofs, or blunders. My final pass comes as the music
+fades out to silence. 96 steps with no soundtrack but our footsteps. I'm
+the very last in the line so my final lap is all alone. No music to keep my
+count. No comrades to distract the audience's gaze.
+
+Seeing as this is my first performance (have I mentioned that yet?) my fellow
+dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
+it. I should be nervous but for reasons I can't explain I'm not.
 
 In the second performance I completely lost my count on one of my sideways
 passes with skips and just had to wing it. I lost my instruments and just had
@@ -203,16 +236,6 @@ feel for my steps and skips. Each skip I had a pretty good feel for when to
 fire it off, but luckily I had Renay next to me who really loaded up for each
 skip so I could confirm my hunch that it was time for a skip by looking at my
 peripherals.
-
-My last pass comes as the music fades out to silence. 96 steps of silence. I'm
-the very last in the line so my final lap is all alone. No music to keep my
-count. No comrades to distract the audience's gaze.
-
-Seeing as this is my first performance (have I mentioned that yet?) my fellow
-dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
-it. I should be nervous but for reasons I can't explain I'm not. Chalk it up to
-preparation.
-
 
 <h4 class="article-subheader">Quick Change</h4>
 Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
@@ -292,6 +315,91 @@ music."
 to look as if they're not aware that people are looking at them even though all
 eyes are on them."
 
+
+<h4 class="article-subheader">About That Whole Nudity Thing</h4>
+I'll admit, when I first saw the video of the Paris performance with *full
+nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
+trepidation. Trepidation, which quickly morphs into to a sense of immature
+mirthfulness. I dispatch a flurry of text messages to my similarly puerile pals
+full of cosmopolitan aphorisms such as "hanging dong" in an attempt to entice
+them to attend. My only preparation for the nudity is a strict diet
+and maniacal workout program. Because who would know about vainglorious pursuits
+more than a man who built an entire website to write about himself.
+
+But I don't want to breeze over the nudity. Because I'm fully aware that my
+standing in society as a man dominates every aspect of how I feel about it. I've
+never felt overtly sexualized by another person. I've never been catcalled. I've
+never been told I need to *smile more*. I've never felt unsafe walking home at
+night. I've never carried pepper spray. I've never been uncomfortable in a room
+full of men. I've never been sexually assaulted.
+
+I've never experienced the innumerable unfortunate and inexcusable incidents
+directed at women in our society. I don't know the stories of all the women in
+the company, but I have to assume that each of them has endured unwanted abuses
+however large or small that weighed on their decision to perform this piece.
+
+A few times during breaks the topic of nudity would get brought up.
+Each woman had a different perspective, a different mindset,
+a different journey. And each time this topic was broached, I realized it was
+time for me to shut the fuck up and listen and learn.
+
+I'm not brave for walking naked in a room full of people. Alexandra and Renay
+and Cate and Allie and McKelynn and Carrie and Alyce and Dana and Linda are.
+And I respect and admire them for it.
+
+Circling back to
+<a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
+Jennifer Lawrence grappled with accepting the role, knowing it called for nudity.
+Her trepidation stemmed from a nude photo leak that sent her into a "long period
+when I didn't want to be seen sexually and I didn't want anybody to see my flesh."
+Looking back on the role (which required her to learn dance (link)), Lawrence
+reflected, “It took a while to say yes – and the night before I didn’t sleep at
+all... But then after I finished the scene, I felt empowered.”
+
+Similarly to Lawrence's experience, every woman in the company remarked that the
+most difficult part about the nudity was separating it from sexuality. But once
+they were able to make that cognitive transition it took some of the power from
+the nudity. Nearly every woman remarked that they were much more comfortable
+when they  it was a de-sexualized environment where everybody
+agrees that we're just expressing ourselves with our *bodies*.
+
+Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
+creak and groan and grow hair in the worst places and lose hair in the best.
+
+
+
+I can't speak for the other members of the cast but I was slightly surprised how
+quickly the nudity became, for lack of a better word, *meh*. I'm sure it had
+something to do with us scrambling to rip off all our clothes as quickly as
+possible while remembering our steps for the next pass. But as I stated earlier,
+everybody comported themselves in the most professional way possible. The nudity
+was always going to be as big or small of a deal as we made it. And we
+approached it with a matter-of-fact pragmatism that took the power away from the
+milieu of undress.
+
+When we strip ourselves of the carapace of modern society we cease to become
+Democrats or Republicans, Christians or Jews, citizens or immigrants. Whichever
+artificial tribal identity we cling to melts away to reveal that we are
+simply *humans*. A condition that does not know national borders, does not
+know ethnic divisions, does not know religious rivalries. The more we strip away
+the more we realize how similar we all are.
+
+I couldn't resist the urge to shoehorn a Carl Sagan quote here, in his iconic
+*Pale Blue Dot* Sagan poetically remarked,
+
+<div class="quote">
+The Earth is a very small stage in a vast cosmic arena. Think of the endless
+cruelties visited by the inhabitants of one corner of this pixel on the scarcely
+distinguishable inhabitants of some other corner, how frequent their
+misunderstandings, how eager they are to kill one another, how fervent their
+hatreds. Think of the rivers of blood spilled by all those generals and emperors
+so that, in glory and triumph, they could become the momentary masters of a
+fraction of a dot.
+</div>
+
+Am I saying the world would be a better place if we all walked around stark
+naked in front of a group of strangers? Maybe. Maybe not. But I'd be willing to
+give it a shot.
 
 <h4 class="article-subheader">"Holy Shit"</h4>
 "You totally undersold it," was the most common refrain I heard from my friends
@@ -380,3 +488,40 @@ police we don't know we just know that
 
 About 20 minutes before one of the performances I was walking back to the
 green room 
+
+
+
+<h4 class="article-subheader">Nothin' To Say</h4>
+Art is by its very nature a subjective human pursuit. There's no one way, no
+right way, no wrong way to create, consume, or appreciate art. It's intimately
+individual and that's what makes it beautiful.
+
+In 1971's *Angel From Montgomery*, American mail carryer and lyrical poet John
+Prine croons,
+
+<div class="text-muted fst-italic mx-3 mb-3">
+How the hell can a person<br>
+Go to work in the morning<br>
+Then come home in the evening<br>
+And have nothing to say?
+</div>
+
+Which, on the face of it, is a perfectly reasonable question.
+
+But as an introverted young man I came home from school every day and had nothing
+to say. I spent hundreds of excruciating car rides dreading the inevitable "what
+did you learn in school today?" The thing is I learned plenty in school. I just
+wanted to be alone.
+
+But as I've matured and grown I've come to realize there's nothing wrong with
+that. There's nothing to be ashamed of. I can be comfortable with *who I am*.
+And if you're comfortable with who you are you can deal with uncomfortable
+situations. You can fly towards Mount Awkward instead of around it.
+
+So why in the hell am I telling you this?
+
+Because there's absolutely no way that John Prine, when writing about the
+failing marriage of a middle aged woman, thought about how the journey of a 35
+year man would color his interpretation of the song. It's my self-absorbed and
+convoluted way of observing that every single
+person who enjoys art brings their own life story to it.

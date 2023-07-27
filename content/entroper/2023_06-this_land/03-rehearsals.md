@@ -211,15 +211,10 @@ what Mark meant. I hope my MBB energy came through my performance nonetheless.
 
 *Really emphasize the contrapposto*
 
+*The maxi slowly evolves with a turnout where you end up in second position*
+
 I'm listening but nothing is registering.
 
-"Who is the first one to come out with the straw cup?"
-
-"Right here! Uncle Andy!"
-
-Allie asks, "are you actually an uncle?"
-
-"To my friends' pets I am"
 
 
 <h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
@@ -294,9 +289,8 @@ shopping on Friday so we'll look for something for you too."
 "Okie doke."
 
 Brace & Hendri are two performers from Seattle who have been requisitioned to
-join the Carolina contingent. They will help add to the diversity quotient that
-Jonathan, Matt, and I don't really hit as three white guys. They were a part of
-the original cast to perform the piece and have performed it multiple times
+join the Carolina contingent. They were a part of
+the original cast and have performed it multiple times
 over the years. They come prepared with notes from their previous performances
 and help alleviate the burden from Mark as the sole expert on the piece.
 
@@ -418,92 +412,6 @@ headshot hardship behind me.
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-headshot.png" alt="Headshot & Bio">
 	<figcaption class="figure-caption">Had to sneak that plug in there</figcaption>
 </figure>
-
-
-<h4 class="article-subheader">About That Whole Nudity Thing</h4>
-I'll admit, when I first saw the video of the Paris performance with *full
-nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
-trepidation. Trepidation, which quickly morphs into to a sense of immature
-mirthfulness. I dispatch a flurry of text messages to my similarly puerile pals
-full of cosmopolitan aphorisms such as "hanging dong" in an attempt to entice
-them to attend. My only preparation for the nudity is a strict diet
-and maniacal workout program. Because who would know about vainglorious pursuits
-more than a man who built an entire website to write about himself.
-
-But I don't want to breeze over the nudity. Because I'm fully aware that my
-standing in society as a man dominates every aspect of how I feel about it. I've
-never felt overtly sexualized by another person. I've never been catcalled. I've
-never been told I need to *smile more*. I've never felt unsafe walking home at
-night. I've never carried pepper spray. I've never been uncomfortable in a room
-full of men. I've never been sexually assaulted.
-
-I've never experienced the innumerable unfortunate and inexcusable incidents
-directed at women in our society. I don't know the stories of all the women in
-the company, but I have to assume that each of them has endured unwanted abuses
-however large or small that weighed on their decision to perform this piece.
-
-A few times during breaks the topic of nudity would get brought up.
-Each woman had a different perspective, a different mindset,
-a different journey. And each time this topic was broached, I realized it was
-time for me to shut the fuck up and listen and learn.
-
-I'm not brave for walking naked in a room full of people. Alexandra and Renay
-and Cate and Allie and McKelynn and Carrie and Alyce and Dana and Linda are.
-And I respect and admire them for it.
-
-Circling back to
-<a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
-Jennifer Lawrence grappled with accepting the role, knowing it called for nudity.
-Her trepidation stemmed from a nude photo leak that sent her into a "long period
-when I didn't want to be seen sexually and I didn't want anybody to see my flesh."
-Looking back on the role (which required her to learn dance (link)), Lawrence
-reflected, “It took a while to say yes – and the night before I didn’t sleep at
-all... But then after I finished the scene, I felt empowered.”
-
-Similarly to Lawrence's experience, every woman in the company remarked that the
-most difficult part about the nudity was separating it from sexuality. But once
-they were able to make that cognitive transition it took some of the power from
-the nudity. Nearly every woman remarked that they were much more comfortable
-when they  it was a de-sexualized environment where everybody
-agrees that we're just expressing ourselves with our *bodies*.
-
-Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
-creak and groan and grow hair in the worst places and lose hair in the best.
-
-
-
-I can't speak for the other members of the cast but I was slightly surprised how
-quickly the nudity became, for lack of a better word, *meh*. I'm sure it had
-something to do with us scrambling to rip off all our clothes as quickly as
-possible while remembering our steps for the next pass. But as I stated earlier,
-everybody comported themselves in the most professional way possible. The nudity
-was always going to be as big or small of a deal as we made it. And we
-approached it with a matter-of-fact pragmatism that took the power away from the
-milieu of undress.
-
-When we strip ourselves of the carapace of modern society we cease to become
-Democrats or Republicans, Christians or Jews, citizens or immigrants. Whichever
-artificial tribal identity we cling to melts away to reveal that we are
-simply *humans*. A condition that does not know national borders, does not
-know ethnic divisions, does not know religious rivalries. The more we strip away
-the more we realize how similar we all are.
-
-I couldn't resist the urge to shoehorn a Carl Sagan quote here, in his iconic
-*Pale Blue Dot* Sagan poetically remarked,
-
-<div class="quote">
-The Earth is a very small stage in a vast cosmic arena. Think of the endless
-cruelties visited by the inhabitants of one corner of this pixel on the scarcely
-distinguishable inhabitants of some other corner, how frequent their
-misunderstandings, how eager they are to kill one another, how fervent their
-hatreds. Think of the rivers of blood spilled by all those generals and emperors
-so that, in glory and triumph, they could become the momentary masters of a
-fraction of a dot.
-</div>
-
-Am I saying the world would be a better place if we all walked around stark
-naked in front of a group of strangers? Maybe. Maybe not. But I'd be willing to
-give it a shot.
 
 
 <h4 class="article-subheader">Slap Your Grandma</h4>
@@ -630,7 +538,26 @@ in our very beings
 
 
 <h4 class="article-subheader">Catharsis</h4>
+With the amount of time we're spending together shallow, silly discussions of
+nonsense and frivolity.
 
+One day during a lull I wander into a conversation between Matt & Renay 
+regarding their preferred method of holding hands. After some wrangling
+of mitts Matt ends up in front and Renay in back. They each recall holding hands
+in the alternate position but for whatever reason this feels right. I reach out
+a paw and find that I fit best in front with both of my colleagues. Matt tries
+the frontward position and works out a theory of hand holding logistics: taller
+person goes in front.
+
+Which makes sense to me because I think I've only assumed the forward station
+and can't remember holding the hand of someone taller than me. Which leads us
+to the inevitable conclusion that I'll have to try it with Brace. We present our
+theory to Brace, who reaches down from the heights of his 6'7" frame and
+confirms our hypothesis. Taller person goes in front. If not the shorter
+person's wrist wrenches forward uncomfortably.
+
+In addition to silly discussions of nonsense and frivolity the captivity of
+rehearsals can also play with your emotions in unexpected ways.
 
 There's something about being cooped up in the same room with the same people
 performing the same movements to the same songs that can play with your emotions
@@ -773,3 +700,14 @@ And I think my favorite,
 
 For whatever reason Mark always referred to Linda by her full name, a practice
 that was adopted by the rest of the company.
+
+
+
+
+"Who is the first one to come out with the straw cup?"
+
+"Right here! Uncle Andy!"
+
+Allie asks, "are you actually an uncle?"
+
+"To my friends' pets I am"
