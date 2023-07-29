@@ -21,26 +21,32 @@ cackling idiots
 <h4 class="article-subheader">It's Art, Get It?</h4>
 Art is by its very nature a subjective human pursuit. There's no one way, no
 right way, no wrong way to create, consume, or appreciate art. It's intimately
-individual and that's what makes it beautiful.
+individual and that's where it derives its beauty.
 
-*This Land Is Your Land* takes intimately individual to the extreme. It's
-such a unique and captivating piece that no two audience members walked out of
+*This Land Is Your Land* takes subjective to the extreme. It's such a unique and
+captivating piece that no two audience members will walk out of
 the Nasher with the same perspective. And each perspective is perfectly valid.
-It's as much about how it makes the audience feel as 
 
-Even the stage is set up to encourage unique perspectives. Known in the
-biz as a "thrust stage," the audience is seated around the stage on three sides.
-As Mark says it's an *interactive viewing experience*. Audience members who are
+Even the stage is set up to encourage unique interpretations. Seated in a
+configuration known as a "thrust stage," the audience surrounds us
+on three sides. Personally, I'd call it the "Easy Company" but Mark calls it an
+*interactive viewing experience*. Audience members who are
 seated facing the stage are treated to a completely different show than those on
 the flanks. So even the same person watching the show from two different seats
-may leave the show with two different outlooks.
+may leave the show with two different opinions.
 
 The first time I watched the Paris recording I made an immediate connection
 between Woody Guthrie's *This Land Is Your Land* and what I considered to be the
 most powerful section of the performance. But that's just the Oklahoma in me.
-Every other person who has seen the show has brought their life experience to
-the theater and led them to make a connection to the piece that feels
-just as profound to them as mine did to me.
+Maybe someone else is related to one of the many ex-wives of Trace Adkins.
+Maybe someone had their first kiss with Tim McGraw serenading in the background.
+Maybe someone really likes walking in zigzag patterns. Maybe someone texts
+all of his brothers every time he hears a Toby Keith song on the radio (ok that
+last one is me again).
+
+Everyone's life experience colors how they interpret the piece and leads them to
+make a connection feels just as profound to them as my Woody Guthrie connection
+did to me.
 
 The most wonderful part of Mark's piece is the fact that there's no message.
 There's no agenda. He simply presents the world the way he sees it and allows
@@ -50,12 +56,12 @@ At least that's my conclusion.
 
 
 <h4 class="article-subheader">Dress Rehearsal</h4>
-On opening night eve we mosey over to the Nasher for a full
-dress rehearsal in the performance space. I've yet to grace the halls of the
+On opening night eve we mosey over to the Nasher for a full dress rehearsal in
+the *interactive viewing experience*. I've yet to grace the halls of the
 museum so I'm blown away by the asymmetrical 5-sided glass roof. I stand and
 stare at the beams that conjointly support the roof without any spanning the
-whole distance of the atrium. Each beam supports every other beam, if one fails
-we all fail. I'll call it the teamwork truss. The structure is somewhat like
+full distance of the atrium. Each beam supports every other beam - if one fails
+we all fail. I'll call it the teamwork truss. It's somewhat like
 that classic dad trick of folding the flaps of a cardboard box to stay shut
 without tape. It's a beautiful piece of engineering.
 
@@ -79,18 +85,12 @@ systems.
   <figcaption class="figure-caption">Look at that roof!</figcaption>
 </figure>
 
-It's a pretty magical space. It's also my first introduction to the complete
-bewilderment that comes with rehearsing in a new place. During our first dress
-at the Nasher I make mistakes I haven't made in over a week in our
-comfy confines at ADF. I can't keep my count. I can't remember my
+It's a truly magical venue. It's also my first introduction to the complete
+bewilderment that comes with rehearsing in a new space. During our first dress
+at the Nasher I make mistakes I haven't made in over a week. I can't keep my
+count. I can't remember my
 choreography. I'm fully discombobulated. It certainly doesn't help that the
 floor tiles are slanted at an angle oblique to our walking path.
-
-<figure class="figure container-fluid">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-dress1.jpg" alt="Dress rehearsal">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-dress2.jpg" alt="Dress rehearsal">
-  <figcaption class="figure-caption">Putting the finishing touches</figcaption>
-</figure>
 
 After the run through I ask my fellow performers if they had similar
 misfortunes and they confirm as much.
@@ -121,19 +121,26 @@ And a last minute scribble on my spreadsheet.
 
 
 <h4 class="article-subheader">Opening Night</h4>
-Outside of the last minute spearouette addition I feel ready. Rehearsals have
+Outside of the 11th hour spearouette addition I feel ready. Rehearsals have
 worn me down and I'm ready for the real thing. I've got my
 system down. I'm prepared. Calm. Confident.
 
-The night before our first performance I sleep like a damn baby. When I arise
+The night before the big day I sleep like a damn baby. When I arise
 I find a ladybug on my pillow - that's gotta be good luck right? But then again,
 maybe I
 <a href="https://dancespirit.com/history-of-merde/" target="_blank" rel="noopener no referrer">don't want good luck</a>?
 I'm not really sure what to make of dancer superstitions.
 
+Tech rehearsal
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-dress1.jpg" alt="Dress rehearsal">
+  <figcaption class="figure-caption">Notice how Allie & Cate are both focused on
+  the task at hand whilst yours truly sticks his tongue out at the camera</figcaption>
+</figure>
+
 The hours leading up to the performance are filled with much milling
 about and nonsensical banter. Our heroic stage manager, Gabby, has the
-unenviable job of appeasing contingents from the Nasher, the ADF, and the
+unenviable job of appeasing contingents from the Nasher, ADF, and the
 security detail, all while wrangling a group of nervy performers.
 
 <figure class="figure container-fluid">
@@ -151,7 +158,10 @@ people shuffling in"
 A few minutes later Gabby comes backstage and calmly tells us we'll be starting
 in 5. And in 5 minutes I'm greeted, once again, by that familiar contralto,
 
-*I go out walkin' after midnight...*
+<div class="text-muted fst-italic mx-3 mb-3">
+I go out walkin'<br>
+After midnight...
+</div>
 
 I relax on my chair for a few minutes, observing the organized chaos backstage.
 For each of their early passes, Alexandra, Renay, Matt, Cate, Allie, Hendri, and
@@ -175,16 +185,15 @@ I take a step up to my mark at the edge of the curtain.
 
 *1 - 2 - 3 - 4*
 
-And on the 5 I make my first step from behind the curtain in my first
-performance.
+And on the 5 I take my first step from behind the curtain onto the stage in my
+inaugural performance as a dancer.
 
- During my first pass
-I'm acutely focused on keeping my
+During my first pass I'm acutely focused on keeping my
 gaze above the heads of the audience, staring off into that deep blue lake. I do
 this because it's what Mark told us to do, but mostly because I know if I make
 eye contact with a friend I'll immediately crack up.
 
-<figure class="figure" id="rain">
+<figure class="figure">
   <div class="row">
     <div class="col-6">
       <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage1.jpg" alt="Nasher">
@@ -341,7 +350,7 @@ while others were amazed by the cohesive community.
 <h4 class="article-subheader">About That Whole Nudity Thing</h4>
 I'll admit, when I first saw the video of the Paris performance with *full
 nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
-trepidation. The trepidation quickly morphed into a buzz of immature
+trepidation. The trepidation quickly evolved into a buzz of immature
 mirthfulness. I dispatched a flurry of text messages to my similarly puerile pals
 full of cosmopolitan aphorisms such as "hanging dong" in an attempt to encourage
 their attendance. My only preparation for the nudity was a strict diet
