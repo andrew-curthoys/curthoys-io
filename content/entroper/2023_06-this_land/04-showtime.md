@@ -2,7 +2,7 @@ title: Showtime
 subtitle: Part 1 <i>and</i> 2 <i>and</i> 3 <i>and</i> 4: Showtime
 slug: entroper/2023_06-this_land/04-showtime
 slug_base: entroper/2023_06-this_land
-day_alias: This Land Is Your Land
+day_alias: Showtime
 prev_day: 03-rehearsals
 next_day: /entroper/2023_06-this_land
 date: 2023-06-13
@@ -15,35 +15,54 @@ photo:
 short_sum: This is it, don't get scared now
 summary: 
 
+Recently on one of my favorite podcasts, *Penpals* hosted by my two favorite
+cackling idiots
+
 <h4 class="article-subheader">It's Art, Get It?</h4>
-*This Land Is Your Land* is such a unique and captivating piece that no two
-audience members walked out of the Nasher with the same perspective.
+Art is by its very nature a subjective human pursuit. There's no one way, no
+right way, no wrong way to create, consume, or appreciate art. It's intimately
+individual and that's what makes it beautiful.
+
+*This Land Is Your Land* takes intimately individual to the extreme. It's
+such a unique and captivating piece that no two audience members walked out of
+the Nasher with the same perspective. And each perspective is perfectly valid.
+It's as much about how it makes the audience feel as 
+
+Even the stage is set up to encourage unique perspectives. Known in the
+biz as a "thrust stage," the audience is seated around the stage on three sides.
+As Mark says it's an *interactive viewing experience*. Audience members who are
+seated facing the stage are treated to a completely different show than those on
+the flanks. So even the same person watching the show from two different seats
+may leave the show with two different outlooks.
+
 The first time I watched the Paris recording I made an immediate connection
 between Woody Guthrie's *This Land Is Your Land* and what I considered to be the
 most powerful section of the performance. But that's just the Oklahoma in me.
-And I'm sure every single person at
-the Nasher made a connection to the piece that felt just at powerful and
-profound to them.
+Every other person who has seen the show has brought their life experience to
+the theater and led them to make a connection to the piece that feels
+just as profound to them as mine did to me.
 
 The most wonderful part of Mark's piece is the fact that there's no message.
-There's no agenda. He presents the world the way he sees it and allows the
-audience to come to their own conclusion.
+There's no agenda. He simply presents the world the way he sees it and allows
+the audience to come to their own conclusion.
 
 At least that's my conclusion.
 
 
 <h4 class="article-subheader">Dress Rehearsal</h4>
-The day before our first performances we mosey over to the Nasher for a full
+On opening night eve we mosey over to the Nasher for a full
 dress rehearsal in the performance space. I've yet to grace the halls of the
 museum so I'm blown away by the asymmetrical 5-sided glass roof. I stand and
-stare at the beams that are beautifully engineered to support the load without
-any spanning the whole distance of the roof. Each beam supports each other,
-somewhat like the way you can fold the top flaps of a cardboard box to stay
-shut without tape.
+stare at the beams that conjointly support the roof without any spanning the
+whole distance of the atrium. Each beam supports every other beam, if one fails
+we all fail. I'll call it the teamwork truss. The structure is somewhat like
+that classic dad trick of folding the flaps of a cardboard box to stay shut
+without tape. It's a beautiful piece of engineering.
 
-In the words of Rafael Vi&ntilde;oly, the Uruguayan-born architect,
+In the words of Rafael Vi&ntilde;oly, the Uruguayan-born architect, the Nasher
+was designed as
 <div class="text-muted fst-italic mx-3 mb-3">
-A collection of five separate, rectangular volumes arranged in a loose radial
+a collection of five separate, rectangular volumes arranged in a loose radial
 pattern near the top of a gentle slope define an irregular, pentagonal central
 courtyard topped by a glass roof. The complex, almost vertiginous geometries of
 the atrium roof are formed by a hierarchy of structural systems, all supported
@@ -60,7 +79,7 @@ systems.
   <figcaption class="figure-caption">Look at that roof!</figcaption>
 </figure>
 
-It's a pretty magical space. And my first introduction to the complete
+It's a pretty magical space. It's also my first introduction to the complete
 bewilderment that comes with rehearsing in a new place. During our first dress
 at the Nasher I make mistakes I haven't made in over a week in our
 comfy confines at ADF. I can't keep my count. I can't remember my
@@ -159,8 +178,7 @@ I take a step up to my mark at the edge of the curtain.
 And on the 5 I make my first step from behind the curtain in my first
 performance.
 
-The audience is seated on folding chairs surrounding the stage on three sides.
-It's known as a "thrust stage" according to my research. During my first pass
+ During my first pass
 I'm acutely focused on keeping my
 gaze above the heads of the audience, staring off into that deep blue lake. I do
 this because it's what Mark told us to do, but mostly because I know if I make
@@ -264,7 +282,7 @@ prepare my socks is to roll them.
 <h4 class="article-subheader">Ovation</h4>
 I didn't know what to expect as I walked off the stage to finish my first ever
 performance. I gave it a 50-50 shot
-that I'd get emotional and tear up backstage. But when it was all said and done
+that I'd get emotional backstage and tear up. But when it was all said and done
 the only emotion I feel is pure, unadulterated bliss. My smile spans the full
 distance from ear to ear.
 
@@ -315,27 +333,31 @@ music."
 to look as if they're not aware that people are looking at them even though all
 eyes are on them."
 
+To further my earlier point about differing audience experiences some
+participants during the Q&A remarked how individualistic the performance was,
+while others were amazed by the cohesive community.
+
 
 <h4 class="article-subheader">About That Whole Nudity Thing</h4>
 I'll admit, when I first saw the video of the Paris performance with *full
 nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
-trepidation. Trepidation, which quickly morphs into to a sense of immature
-mirthfulness. I dispatch a flurry of text messages to my similarly puerile pals
-full of cosmopolitan aphorisms such as "hanging dong" in an attempt to entice
-them to attend. My only preparation for the nudity is a strict diet
+trepidation. The trepidation quickly morphed into a buzz of immature
+mirthfulness. I dispatched a flurry of text messages to my similarly puerile pals
+full of cosmopolitan aphorisms such as "hanging dong" in an attempt to encourage
+their attendance. My only preparation for the nudity was a strict diet
 and maniacal workout program. Because who would know about vainglorious pursuits
 more than a man who built an entire website to write about himself.
 
-But I don't want to breeze over the nudity. Because I'm fully aware that my
-standing in society as a man dominates every aspect of how I feel about it. I've
+But I don't want to breeze over the nudity. I'm fully aware that my societal
+standing as a man dominates every aspect of how I feel about it. I've
 never felt overtly sexualized by another person. I've never been catcalled. I've
 never been told I need to *smile more*. I've never felt unsafe walking home at
 night. I've never carried pepper spray. I've never been uncomfortable in a room
 full of men. I've never been sexually assaulted.
 
 I've never experienced the innumerable unfortunate and inexcusable incidents
-directed at women in our society. I don't know the stories of all the women in
-the company, but I have to assume that each of them has endured unwanted abuses
+directed at women in our society. I don't know everybody's story, but I have to
+assume that each of the women in the company has endured unwanted abuses
 however large or small that weighed on their decision to perform this piece.
 
 A few times during breaks the topic of nudity would get brought up.

@@ -64,6 +64,9 @@
 .dict-def li span {
     font-weight: normal;
 }
+.dict-def li ul {
+    font-weight: normal;
+}
 .flip-h{
     display: inline-block;
     transform: scale(-1, 1);

@@ -37,8 +37,8 @@ The missive consists of a simple command: "You should do this." The directive is
 accompanied by a link to a post from the American Dance Festival with the headline
 <a href="https://www.instagram.com/p/CpLbgk9J-FI/?igshid=MzRlODBiNWFlZA==" target="_blank" rel="noreferrer noopener">*"Audition Opportunity for NC-based Performers"*</a>.
 
-Huh? An audition opportunity? Why on earth would she send me this? I
-skeptically click the link.
+Huh? An audition opportunity? Why on earth would she send me an audition
+opportunity? I skeptically click the link.
 
 <div class="text-muted fst-italic mx-3 mb-3">
 "In honor of the ADF’s decade of collaborating with the Nasher Museum of Art, it
@@ -62,8 +62,8 @@ Welp....
 
 It was fun while it lasted.
 
-Of the roughly 1 million words in the English language, the descriptor
-"diverse" would be nowhere near the top of the list for a mid-30s straight white
+Of the nearly half-million words in the English language, the descriptor
+"diverse" would be near the bottom of the list for a mid-30s straight white
 guy from Oklahoma.
 
 However, you'd surely find "misplaced confidence" near the top of the same list
@@ -216,23 +216,25 @@ Excludes nudity
 So... I stroll down to the Durham Public Library to see if I can find some answers.
 
 On the top floor of the DPL I find the 20 volume collection of The Oxford
-English Dictionary Second Edition, published Clarendon Press 1989. I scan the
-spines until I land on *Volume III: Cham-Creeky*.
+English Dictionary Second Edition, published Clarendon Press, Oxford 1989. I
+scan the spines until I land on *Volume III: Cham-Creeky*.
 
 The principal historical dictionary of the English language lists no fewer than
-17 definitions for the word "contains." The most pertinent for our purposes are
+17 definitions for the word "contain." The most pertinent for our purposes are
 probably:
 
 <ol start="2" class="dict-def">
 <li>
 	a: <span>To have as part (or the whole) of its contents or substance; to
 comprise, include.</span>
-<br>
+		<ul><li>First usage: Richard Rolle of Hampole, 1340.</li></ul>
 	b: <span>Of a material body or substance: To have in it (as a constituent
 	element or in combination)</span>
+		<ul><li>First usage: Charles Lucas, 1756.</li></ul>
 </li>
 <li>
 	a: <span>To include, comprise, extend over, measure.</span>
+		<ul><li>First usage: Geoffrey Chaucer, 1374.</li></ul>
 </li>
 </ol>
 
@@ -242,17 +244,20 @@ but then we also have definitions
 <li>
 	a: <span>To restrain, hold in, keep in check; to hold back, keep back,
 	hinder.</span>
-<br>
+		<ul><li>First usage: Henry VIII, 1523.</li></ul>
 	b: <span>To restrain, put restraint on, repress</span>
+		<ul><li>First usage: George Chapman, 1611.</li></ul>
 </li>
 <li>
 	<span>To restrict, limit, confine.</span>
+		<ul><li>First usage: John Lyly, 1579.</li></ul>
 </li>
 </ol>
 
 What does ***contains nudity*** mean?
 
 What does contains nudity ***mean***?
+
 
 <h4 class="article-subheader">Application &check;</h4>
 The night before the application deadline I navigate the USS Procrastination
