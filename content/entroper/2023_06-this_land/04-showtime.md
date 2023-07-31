@@ -21,32 +21,32 @@ cackling idiots
 <h4 class="article-subheader">It's Art, Get It?</h4>
 Art is by its very nature a subjective human pursuit. There's no one way, no
 right way, no wrong way to create, consume, or appreciate art. It's intimately
-individual and that's where it derives its beauty.
+individual and that's where it derives its beauty. Y'know, the eye of the
+beholder and whatnot.
 
-*This Land Is Your Land* takes subjective to the extreme. It's such a unique and
-captivating piece that no two audience members will walk out of
+*This Land Is Your Land* is an extreme exercise in subjectivity. The piece is so
+unique and captivating that no two audience members will walk out of
 the Nasher with the same perspective. And each perspective is perfectly valid.
 
-Even the stage is set up to encourage unique interpretations. Seated in a
-configuration known as a "thrust stage," the audience surrounds us
-on three sides. Personally, I'd call it the "Easy Company" but Mark calls it an
-*interactive viewing experience*. Audience members who are
-seated facing the stage are treated to a completely different show than those on
+Even the stage is set up to encourage unique experiences. Surrounding the stage
+on three sides, the audience is seated in a configuration that I just learned is
+called a "thrust stage." Personally, I'd call it the "Easy Company" but Mark
+calls it an
+*interactive viewing experience*. Audience members who are seated directly
+facing the stage are treated to a completely different show than those on
 the flanks. So even the same person watching the show from two different seats
-may leave the show with two different opinions.
+may draw differing conclusions.
+
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage1.jpg" alt="Stage">
+  <figcaption class="figure-caption">The view from house right</figcaption>
+</figure>
 
 The first time I watched the Paris recording I made an immediate connection
-between Woody Guthrie's *This Land Is Your Land* and what I considered to be the
-most powerful section of the performance. But that's just the Oklahoma in me.
-Maybe someone else is related to one of the many ex-wives of Trace Adkins.
-Maybe someone had their first kiss with Tim McGraw serenading in the background.
-Maybe someone really likes walking in zigzag patterns. Maybe someone texts
-all of his brothers every time he hears a Toby Keith song on the radio (ok that
-last one is me again).
-
-Everyone's life experience colors how they interpret the piece and leads them to
-make a connection feels just as profound to them as my Woody Guthrie connection
-did to me.
+between Woody Guthrie's *This Land Is Your Land* and a section of Mark Haim's
+*TLIYL* that I considered to be the most powerful part of the piece. But that's
+just the Oklahoma in me. Everybody else will surely make a connection that feels
+just as profound to them as my Woody Guthrie connection did to me.
 
 The most wonderful part of Mark's piece is the fact that there's no message.
 There's no agenda. He simply presents the world the way he sees it and allows
@@ -60,15 +60,14 @@ On opening night eve we mosey over to the Nasher for a full dress rehearsal in
 the *interactive viewing experience*. I've yet to grace the halls of the
 museum so I'm blown away by the asymmetrical 5-sided glass roof. I stand and
 stare at the beams that conjointly support the roof without any spanning the
-full distance of the atrium. Each beam supports every other beam - if one fails
-we all fail. I'll call it the teamwork truss. It's somewhat like
+full distance of the atrium. It's somewhat like
 that classic dad trick of folding the flaps of a cardboard box to stay shut
 without tape. It's a beautiful piece of engineering.
 
 In the words of Rafael Vi&ntilde;oly, the Uruguayan-born architect, the Nasher
 was designed as
 <div class="text-muted fst-italic mx-3 mb-3">
-a collection of five separate, rectangular volumes arranged in a loose radial
+A collection of five separate, rectangular volumes arranged in a loose radial
 pattern near the top of a gentle slope define an irregular, pentagonal central
 courtyard topped by a glass roof. The complex, almost vertiginous geometries of
 the atrium roof are formed by a hierarchy of structural systems, all supported
@@ -82,7 +81,7 @@ systems.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-nasher_roof.jpeg" alt="Nasher Roof">
-  <figcaption class="figure-caption">Look at that roof!</figcaption>
+  <figcaption class="figure-caption">Look at that roof! Vertiginous geometries!</figcaption>
 </figure>
 
 It's a truly magical venue. It's also my first introduction to the complete
@@ -112,12 +111,19 @@ the lookout to isolate as many variables as possible.
 Then right before the first performance Mark adds another variable.
 
 "Andy, I know we haven't practiced this but I want you to grab the spear from
-Cate and you'll carry it offstage."
+Cate and carry it offstage."
 
-Sure thing, Mark, no way that could *possibly* end up in disaster. So I practice
+Sure thing, Mark, let's just throw a last minute curveball to the only dancer
+with absolutely no dance experience who'd be more comfortable hitting a
+*literal* curveball. No way that could possibly end up in disaster.
+
+"Yeah, no problem," I say with a false confidence that hopefully hides the fact
+that it's at the very least a small problem.
+
+So I practice
 the spear handoff a few times with Cate, a move that requires a pirouette
 in the opposite direction of what we've been practicing the last couple weeks.
-And a last minute scribble on my spreadsheet.
+And of course a last minute scribble on my spreadsheet.
 
 
 <h4 class="article-subheader">Opening Night</h4>
@@ -125,20 +131,23 @@ Outside of the 11th hour spearouette addition I feel ready. Rehearsals have
 worn me down and I'm ready for the real thing. I've got my
 system down. I'm prepared. Calm. Confident.
 
-The night before the big day I sleep like a damn baby. When I arise
+That night I sleep like a damn baby. When I arise
 I find a ladybug on my pillow - that's gotta be good luck right? But then again,
 maybe I
 <a href="https://dancespirit.com/history-of-merde/" target="_blank" rel="noopener no referrer">don't want good luck</a>?
 I'm not really sure what to make of dancer superstitions.
 
-Tech rehearsal
+I arrive to the Nasher a couple hours ahead of our 6:30 PM show. Around 4:30
+we do a tech rehearsal, which I learn is just a breezy run-through with the
+music but no costumes or props. Like a Thursday football practice with no pads.
+
 <figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-dress1.jpg" alt="Dress rehearsal">
-  <figcaption class="figure-caption">Notice how Allie & Cate are both focused on
+  <figcaption class="figure-caption">Notice how everyone else is focused on
   the task at hand whilst yours truly sticks his tongue out at the camera</figcaption>
 </figure>
 
-The hours leading up to the performance are filled with much milling
+The time between tech & the performance is filled with much milling
 about and nonsensical banter. Our heroic stage manager, Gabby, has the
 unenviable job of appeasing contingents from the Nasher, ADF, and the
 security detail, all while wrangling a group of nervy performers.
@@ -159,18 +168,15 @@ A few minutes later Gabby comes backstage and calmly tells us we'll be starting
 in 5. And in 5 minutes I'm greeted, once again, by that familiar contralto,
 
 <div class="text-muted fst-italic mx-3 mb-3">
-I go out walkin'<br>
-After midnight...
+I go out walkin' after midnight...
 </div>
 
 I relax on my chair for a few minutes, observing the organized chaos backstage.
 For each of their early passes, Alexandra, Renay, Matt, Cate, Allie, Hendri, and
-McKelynn are forced into a frantic scramble. They have 12 counts to make it from
-one edge of the
-curtain to the other, lest they miss their mark for their next pass. Each dancer
-continue to scurry across the breadth of the curtain until they are relieved
-by Carrie's entrance, which provides a buffer from the ceaseless churn and a
-much needed reprieve from the beleaguered troops.
+McKelynn are forced to make a frantic backstage scramble. They have 12 counts to
+make it from one edge of the curtain to the other, lest they miss their mark for
+their next pass. The frenzied scurrying continues until Carrie joins the ranks,
+providing a much needed respite for the beleaguered troops.
 
 Around 4 minutes into the piece, I arise from my comfortable lounged position,
 grab a cup and step in line right behind Cate.
@@ -185,25 +191,13 @@ I take a step up to my mark at the edge of the curtain.
 
 *1 - 2 - 3 - 4*
 
-And on the 5 I take my first step from behind the curtain onto the stage in my
-inaugural performance as a dancer.
+And on the 5 I take my first step onto the stage in my inaugural performance as
+a dancer. The first of what will be over 2500 steps in this performance.
 
-During my first pass I'm acutely focused on keeping my
+During my first pass I'm acutely focused on locking my
 gaze above the heads of the audience, staring off into that deep blue lake. I do
 this because it's what Mark told us to do, but mostly because I know if I make
 eye contact with a friend I'll immediately crack up.
-
-<figure class="figure">
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage1.jpg" alt="Nasher">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage2.jpg" alt="Nasher">
-    </div>
-  </div>
-  <figcaption class="figure-caption">Mark called it an interactive viewing experience</figcaption>
-</figure>
 
 One performance when I knew I had friends in the audience I did catch myself
 smothering a smirk during the nude section. As I strode out towards the audience
@@ -233,8 +227,8 @@ Seeing as we were in the middle of the line when we committed our faux pas it
 very well could have looked intentional. At least that's what we tell ourselves
 as we prepare for our next pass. No time to dwell on the past.
 
-With my gaffe in the rearview I'm soon to my absolute favorite part of the piece,
-*the pouty pause*. On my last lap of plastic surgery we stop for a 4 count at the
+With my gaffe in the rearview we're soon to my absolute favorite part of the piece,
+*the pouty pause*. On my last lap of "plastic surgery" we stop for a 4 count at the
 end of the stage and give the audience the look of petulant, bratty child who
 was just told they couldn't have ice cream. "You're a bratty kid who didn't get
 their way and you want to stare at them like you're parents are the worst." I
@@ -556,3 +550,21 @@ failing marriage of a middle aged woman, thought about how the journey of a 35
 year man would color his interpretation of the song. It's my self-absorbed and
 convoluted way of observing that every single
 person who enjoys art brings their own life story to it.
+
+Maybe someone in the audience is related to an ex-wife of Trace Adkins.
+Maybe someone had their first kiss with Tim McGraw serenading in the background.
+Maybe someone really likes walking in zigzag patterns. Maybe someone texts
+all of his brothers every time he hears a Toby Keith song on the radio (ok that
+last one is me again).
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage1.jpg" alt="Nasher">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage2.jpg" alt="Nasher">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Mark called it an interactive viewing experience</figcaption>
+</figure>
