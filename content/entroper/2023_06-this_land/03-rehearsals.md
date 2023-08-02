@@ -15,39 +15,42 @@ photo:
 short_sum: Who ever knew so much work could be so much fun?
 summary: 
 
+*\*Mark always referred to Linda by her full name. The rest of the company
+naturally followed suit.*
+
 <h4 class="article-subheader">"Jetlagged?"</h4>
 Mark asks with a slight kick to the left foot of my vaguely
 animated corpse.
 
 I peel open an eyelid and muster the strength for a mumbled "yeah."
 
-"Sorry, but it's time to start rehearsal," Mark coyly announces behind a Cheshire
+"Sorry, but it's time to start rehearsal," Mark coyly remarks behind a Cheshire
 cat smile that I will become intimately familiar with over the course of the
 next two weeks.
 
 I scrape myself off the floor, still reeling from
 <a href="/traveler/2023_05-scandinavia.html" target="_blank" rel="noopener noreferrer">3 weeks in Scandinavia</a>.
-I just got back to Durham last night and worked all day today so my energy
-levels are zapped.
+I just flew into Durham late last night and worked all day today so my batteries
+are are running on emergency reserve.
 
-In the break between the audition and the start of rehearsals Mark sends us an
-email with our order in the lineup. Everybody is assigned to a performer from
-the Paris performance video. I drew Jurg:
+During the two months between the audition and the start of rehearsals Mark sent
+us an email with our order in the lineup. He assigned each of us a performer from
+the Paris video to study. I drew Jurg:
 
 <div class="text-muted fst-italic mx-3 mb-3">
 9. Andrew (JURG)- orange T shirt, light grey pants. ENTRANCE IS AT 4:24
 </div>
 
-When I watch the Paris video I'm struck by a euphoric realization - all the
+When I watch the video I'm struck by a euphoric realization - all the
 gallops occur in the first 3 minutes. Since Jurg doesn't come on till 4:24
-I won't be doing any gallops! Praise be! Based on my complete galloptrical
-ineptitude displayed during the audition I'd say Mark's decision to spare me
+I won't be doing any gallops! Praise be!!! Based on my complete galloptrical
+ineptitude during the audition I'd say Mark's decision to spare me
 from gallop duty is wise and prudent.
 
-The majority of our time during the first few rehearsals is spent teaching the
-individual segments that make up the whole of the performance. Each has its own
-name that Mark has informally conferred over the years and each has
-its own flavor.
+During the first few rehearsals the majority of our time is spent learning the
+choreography of the separate segments that make up the whole of the performance.
+Each has its own name that Mark has informally conferred over the years and each
+has its own flavor.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-notes1.jpg" alt="Notes">
@@ -55,12 +58,12 @@ its own flavor.
 	<figcaption class="figure-caption">The gang gets notes</figcaption>
 </figure>
 
-As Mark teaches us each part I get the hang of them relatively quickly.
+As Mark teaches us each individual part I get the hang of them relatively quickly.
 It's when we start to link 3 or 4 sections together that my head starts to spin.
 I quickly follow the lead of the more seasoned dancers and begin to write it all
 down in a notebook.
 
-For example, this is what I write in my notebook for the pass called "Plastic
+For example, this is what I jot down for the pass called "Plastic
 Surgery"
 
 <div class="text-muted fst-italic mx-3 mb-3">
@@ -79,7 +82,7 @@ Start with head cocked to the right, left hand on hip, straw in mouth<br>
 </div>
 
 And that's just one pass. I have over 20 passes. After just a few
-rehearsals the headspinning complexity of it all overwhelms me and
+rehearsals the bewildering complexity overwhelms me and I
 retreat back to my comfort zone,
 
 "Ok that's it, I'm gonna need to make a spreadsheet."
@@ -87,9 +90,8 @@ retreat back to my comfort zone,
 By the time I finish filling out my spreadsheet I count 24 passes,
 each with a different outfit, prop, step sequence, step direction, posture,
 hand movement, facial expression, or other some such choreographic flourish.
-Once the full start-to-finish run throughs begin I print out my
-sheet and cross out each pass as I complete it & highlight important reminders
-for the next pass.
+Once we start full start-to-finish run-throughs I print out my
+sheet and cross out each pass as I complete it.
 
 I don't trust myself to go to the grocery store without a list so
 there's no way I'm going to be comfortable memorizing intricate
@@ -99,24 +101,30 @@ hope I can.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-spreadsheets.jpeg" alt="Spreadsheets">
-	<figcaption class="figure-caption">The spreadsheet evolved with each rehearsal</figcaption>
+	<figcaption class="figure-caption">The evolution of the spreadsheet</figcaption>
 </figure>
 
-With practice my Sally eventually reaches a degree of aptitude that could
+As rehearsals grind on my Sally eventually reaches a level that could
 generously be described as *adequate*. My next challenge is
 to master the "maxi" skip. So called because we are going to the max&trade;, the
-maxi is a mix between a skip and a speed skating lunge. My initial attempts were
-a graceless cyclone of gangly appendages, not unlike a baby giraffe learning to
-walk. If there was ever any evidence that I have no dance experience this
-is it.
+maxi is a mix between a skip and a speed skating lunge. My initial attempts are
+a graceless cyclone of gangly appendages; the dancing equivalent a baby
+giraffe learning to walk. If there was ever any evidence that I have no
+experience this is it.
 
 <div class="mb-3" style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/85cXrCIHjraRa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
-Mark enlists the expertise of Alexandra for some personal coaching. She does a
+Mark, while trying to smother a watching-a-car-wreck-in-slow-motion grimace,
+enlists the expertise of Alexandra for some personal coaching. She does a
 few skips with a lithe, effortless nonchalance that implies this should be easy.
-*See? Just like that.* It's the dancing equivalent of Tiger Woods striping a 2
-iron then looking at me, *See? Just like that.* Well, Alexandra, I don't even
-own a 2 iron.
+
+*See? Just like that.*
+
+It would be like Tiger Woods striping a 2 iron then looking at me,
+
+*See? Just like that.*
+
+Well, Alexandra, I don't even own a 2 iron.
 
 But I put my faith in the process and continue to work at it. At some point
 throughout our two weeks of rehearsal I receive further personal instruction
@@ -127,8 +135,8 @@ the other dancers smile proudly in the slightly patronizing way you
 do for the kid picking dandelions out in right field. *You're doing great,
 Andy.*
 
-By the time we finish rehearsals I believe I've dragged my maxi skip into
-passable territory, and I'll take that.
+By the time we finish rehearsals I believe I've dragged my maxi skip to a
+marginally presentable level. I guess that will have to do.
 
 
 <h4 class="article-subheader">Pythagoras</h4>
@@ -163,20 +171,46 @@ I'm not saying there's a psychological difference in how far it *feels*.
 I'm just saying the *actual* distance is pretty negligible. I'm also saying that
 I'm a pedantic asshole whose brain doesn't have an off switch.
 
+But then again that might be why I'm able to pick up a dance performance based
+on counting and trigonometry. Perhaps.
+
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-step_graph.png" alt="Step Graph">
 	<figcaption class="figure-caption">Of course I made a graph. Pedantic asshole indeed.</figcaption>
 </figure>
 
-But then again that might be why I'm able to pick up a dance performance based
-on counting and trigonometry. Perhaps.
-
 
 <h4 class="article-subheader">A-What Now?</h4>
-"Linda Belans!\* You are going to come out during the adagio sequence."
+During one of the rehearsals, Mark exhibits the posture and facial expression
+he's is looking for and exclaims,
 
-*\*Mark always referred to Linda by her full name. The rest of the company
-naturally followed suit.*
+"I feel like Monica Bill Barnes!!"
+
+I lean over to Allie, "who's Monica Bill Barnes?"
+
+She looks at me like I asked who Michael Jordan was at a basketball camp.
+
+"She's a choreographer in New York."
+
+"Ah ok, got it."
+
+So Monica Bill Barnes is a choreographer in New York. I pretend like this answer
+sates my curiosity but I still have no idea what Monica Bill Barnes should look
+like. I'll just have to resort to my strategy that has gotten me this far: fake
+it till you make it.
+
+This is hardly the first or the last time I'm left plumflutterated at the use of
+a dance term or reference.
+
+"We need less Lim&oacute;n overcurve"
+
+"Really emphasize the contrapposto"
+
+"Can you do a tandu?"
+
+"The maxi starts with a turnout then slowly evolves until you end up in second position"
+
+"Linda Belans!\* You are going to come out during the adagio sequence."
 
 I whisper to Allie, "the what sequence?"
 
@@ -187,35 +221,28 @@ I whisper to Allie, "the what sequence?"
 "It's a dance term that means..... actually you don't have to do it so don't
 worry about it"
 
-Ahhhh what a wonderful phrase. The dancer's hakuna matata.
+Ahhhh what a wonderful phrase. The dancer's hakuna matata. So I toss "adagio
+sequence" into the incinerator of my brain that's combusting on the last ashes
+of the gallops.
 
-This is hardly the first or the last time I'm left plumflutterated at the use of
-a dance term that I have no idea what it means.
+You might have noticed that I keep accosting Allie with my obtuse queries. That's
+because she's drawn the short straw of slotting behind me in the line. Due to
+nothing other than geographic proximity I converse mostly with Allie, Cate, and
+Renay. Cate & Renay have the slightly less irritating position in front of me;
+Cate for the first half of the performance & Renay for the second after we pull
+a switcheroo on the audience.
 
-When exhibiting the posture and facial expression Mark is looking for in one
-section of the piece he exclaims,
+But since Allie is behind me the whole time and the fact that when I turn
+around she is likely to be facing right at me, she is the subject of the majority
+of my maddening volleys. But she's perhaps the best suited to my buffoonery,
+seeing as Brace described her as "effervescently direct". She's not afraid to
+tell me I'm a dumbass and that's whats I appreciates abouts her.
 
-"I feel like Monica Bill Barnes!!"
-
-I lean over to Allie, "who's Monica Bill Barnes?"
-
-She looks at me like I asked who Michael Jordan was at a basketball camp. "She's
-a choreographer in New York."
-
-"Ah ok, got it."
-
-So Monica Bill Barnes is a choreographer in New York. But I still have no idea
-what Mark meant. I hope my MBB energy came through my performance nonetheless.
-
-*We need less Lim&oacute;n overcurve*
-
-*Really emphasize the contrapposto*
-
-*The maxi slowly evolves with a turnout where you end up in second position*
-
-I'm listening but nothing is registering.
-
-
+<figure class="figure d-table mx-auto">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-squirrely_dan.gif" alt="Squirrely Dan">
+  <figcaption class="figure-caption" style="display:table-caption;caption-side:bottom;">
+		<span style="color:red">&hearts;</span> you Allie</figcaption>
+</figure>
 
 <h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
 At the start of rehearsals Mark instructed us to write our name on a few of our
@@ -538,11 +565,10 @@ in our very beings
 
 
 <h4 class="article-subheader">Catharsis</h4>
-With the amount of time we're spending together shallow, silly discussions of
-nonsense and frivolity.
-
-One day during a lull I wander into a conversation between Matt & Renay 
-regarding their preferred method of holding hands. After some wrangling
+With the amount of time we're spending together our discourse inevitably
+devolves into shallow, silly discussions of nonsense and frivolity.
+One such day I wander into a conversation between Matt & Renay 
+regarding their preferred hand holding position. After some wrangling
 of mitts Matt ends up in front and Renay in back. They each recall holding hands
 in the alternate position but for whatever reason this feels right. I reach out
 a paw and find that I fit best in front with both of my colleagues. Matt tries
@@ -551,21 +577,19 @@ person goes in front.
 
 Which makes sense to me because I think I've only assumed the forward station
 and can't remember holding the hand of someone taller than me. Which leads us
-to the inevitable conclusion that I'll have to try it with Brace. We present our
-theory to Brace, who reaches down from the heights of his 6'7" frame and
+to the logical conclusion that I'll have to try it with Brace. We present our
+theory and Brace reaches down from the heights of his 6'7" frame and
 confirms our hypothesis. Taller person goes in front. If not the shorter
-person's wrist wrenches forward uncomfortably.
+person's wrist wrenches forward uncomfortably. Answering the most world's most
+pressing questions here at ADF.
 
-In addition to silly discussions of nonsense and frivolity the captivity of
-rehearsals can also play with your emotions in unexpected ways.
-
-There's something about being cooped up in the same room with the same people
-performing the same movements to the same songs that can play with your emotions
-in unexpected ways. During the last rehearsal of our first week Mark introduces
+But the captivity does not just engender nonsense and frivolity; it can also
+play with your emotions in unexpected ways. During the last rehearsal of our
+first week Mark introduces
 a new section of the performance that's an homage to the Covid pandemic. It's
 simple, it's moving, it's beautiful.
 
-After our first *pandemic* runthrough the collective dam holding
+After our first *pandemic* run-through the collective dam holding
 everyone's emotional reservoir bursts, releasing a tsunami of
 sentimental feelings that leaves nary a dry eye in the studio. Each of us
 experiences our own unique, personal emotional journey, expressed
@@ -583,6 +607,7 @@ I wipe way the tears thinking how I just wish I could hear him say, "why the
 hell do you want walk around naked in front of a bunch of people."
 
 Because that's exactly what he would say.
+
 
 <h4 class="article-subheader">Andy, You Shit!</h4>
 As rehearsals continue we get more comfortable with each run under our belt.
@@ -602,20 +627,21 @@ notebook,
 
 "Andy, you fuck!"
 
-When Mark read his notes for me on this run I *literally* rolled around
-on the floor laughing. A little bit of levity is warranted as we approach 60
+When Mark reads his notes after this run I *literally* roll around on the floor
+laughing. I reckon a little bit of levity is warranted as we approach 60
 hours of rehearsal time. As Mark said, "I didn't want
 anybody in this piece who took themselves too seriously." Well, brother, you
 got what you asked for with Uncle Andy.
 
 That isn't to say we're unprofessional. Each one of us realize we're here
 to do a job and to express Mark's creative vision to the best of our ability.
-Throughout each rehearsal we are constantly talking among ourselves, comparing
+Throughout the course of each rehearsal we're constantly talking among ourselves,
+comparing
 notes, ironing out steps, perfecting hand positions, trying out facial
 expressions. It's a remarkably collaborative and supportive environment.
 
-I never felt reticent to ask a stupid question and if Mark or my compatriots
-grew weary of my inane inquiries they did a masterful job hiding it. A typical
+I never feel reticent to ask a stupid question; if anyone grows weary of my
+inane inquiries they do a masterful job hiding it. A typical
 sample of a conversation we would have during rehearsal,
 
 "Ok so, Cate, you're high claw leaving pink?"
@@ -626,8 +652,8 @@ sample of a conversation we would have during rehearsal,
 
 "I think you should be fully high claw leaving blue."
 
-"Leaving blue? Ohhh ok, that makes sense, that way I have two laps to neutral
-when I get to green"
+"Leaving blue? Let me see.... Ohhh ok, that makes sense, that way I have two
+laps to neutral when I get to green"
 
 "Yes, I'll be neutral just as I'm leaving the stage."
 
