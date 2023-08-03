@@ -232,9 +232,10 @@ Renay. Cate & Renay have the slightly less irritating position in front of me;
 Cate for the first half of the performance & Renay for the second after we pull
 a switcheroo on the audience.
 
-But since Allie is behind me the whole time and the fact that when I turn
-around she is likely to be facing right at me, she is the subject of the majority
-of my maddening volleys. But she's perhaps the best suited to my buffoonery,
+But dear Allie is beside me start to finish. And since she's *behind* me that
+means she's facing right at me each time I load another shell of obtuse ordnance
+into my half-wit howitzer. But she's perhaps the best suited of all the
+performers to deal with my buffoonery,
 seeing as Brace described her as "effervescently direct". She's not afraid to
 tell me I'm a dumbass and that's whats I appreciates abouts her.
 
@@ -261,7 +262,7 @@ One day Alexandra asks me, "Do you prefer Andrew or Andy?"
 
 "I don't really care, either works."
 
-Alexandra then gives me a look of someone who's been called "Alex",
+Alexandra vexedly glares at me as someone who's been called "Alex",
 "Allie", "Alexandria", and any number of creative or otherwise head-scratching
 names that suggests *no seriously, what do you like to be called?*
 
