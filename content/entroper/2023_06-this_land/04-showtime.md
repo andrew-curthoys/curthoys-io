@@ -59,7 +59,7 @@ At least that's my conclusion.
 <h4 class="article-subheader">Dress Rehearsal</h4>
 On opening night eve we mosey over to the Nasher for a full dress rehearsal in
 the *interactive viewing experience*. I've yet to grace the halls of the
-Nasher Museum of Art and when I stroll into its capacious atrium I'm blown away by the
+Nasher and when I stroll into its capacious atrium I'm blown away by the
 asymmetrical 5-sided glass roof. The most marvelous aspect is the fact that
 the load is shared by 5 beams conjointly supporting a web of glass and steel
 without any beams spanning the full breadth of the room. It's somewhat like
@@ -94,7 +94,7 @@ choreography. I'm fully discombobulated. It certainly doesn't help that the
 floor tiles are slanted at an angle oblique to our walking path.
 
 After the run through I ask my fellow performers if they had similar
-tribulations and they confirm as much.
+struggles and they confirm as much.
 
 "Every time you rehearse at a new place that will happen. You'll be alright,
 that's why we did this."
@@ -194,7 +194,48 @@ I take a step up to my mark at the edge of the curtain.
 *1 - 2 - 3 - 4*
 
 And on the 5 I take my first step onto the stage in my inaugural performance as
-a dancer. The first of what will be over 2500 steps in this performance.
+a dancer.
+
+
+<h4 class="article-subheader">Quick Change</h4>
+Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
+require a full outfit change, some are just an accessory here, new top there,
+different pair of jeans. But a substantial wardrobe to keep track of nonetheless.
+Before each performance I neatly stack each article of clothing in reverse order
+of their appearance.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_before.jpeg" alt="Before">
+</figure>
+
+And each costume change I frantically tear off my clothes & throw them into a
+pile. Entropy increasing with every pass.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_after.jpeg" alt="After">
+</figure>
+
+If only the audience could see the organized chaos unfolding backstage. A
+sweaty maelstrom of flying blouses, jettisoned jeans, and the occasional mad
+dash to get in position just before your entrance. Your mind is an absolute
+hurricane trying to get everything just right, then you pause, take a breath,
+and step into the spotlight.
+
+It took a few rehearsals for everyone to get the hang of it. During one
+rehearsal Alyce partakes wisdom that could only have been acquired through
+years of dance to the group,
+
+"If you coat the inside of your jeans with baby powder it helps get them on
+when you're sweaty!"
+
+I look at her with 
+
+
+Much like Rabbit's maps in Twister I've found that the most effective way to
+prepare my socks is to roll them.
+
+<div class="tenor-gif-embed mb-2" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 During my first pass I'm acutely focused on locking my
 gaze above the heads of the audience, staring off into that deep blue lake. I do
@@ -252,45 +293,10 @@ Seeing as this is my first performance (have I mentioned that yet?) my fellow
 dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
 it. I should be nervous but for reasons I can't explain I'm not.
 
-In the second performance I completely lost my count on one of my sideways
-passes with skips and just had to wing it. I lost my instruments and just had
-to go on feel. Since we had run it through so many times I had gotten a good
-feel for my steps and skips. Each skip I had a pretty good feel for when to
-fire it off, but luckily I had Renay next to me who really loaded up for each
-skip so I could confirm my hunch that it was time for a skip by looking at my
-peripherals.
-
-
-<h4 class="article-subheader">Quick Change</h4>
-Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
-require a full outfit change, some are just an accessory here, new top there,
-different pair of jeans. But a substantial wardrobe to keep track of nonetheless.
-Before each performance I neatly stack each article of clothing in reverse order
-of their appearance.
-
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_before.jpeg" alt="Before">
-</figure>
-
-And each costume change I frantically tear off my clothes & throw them into a
-pile. Entropy increasing with every pass.
-
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_after.jpeg" alt="After">
-</figure>
-
-Much like Rabbit's maps in Twister I've found that the most effective way to
-prepare my socks is to roll them.
-
-<div class="tenor-gif-embed mb-2" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
-<h4 class="article-subheader">Ovation</h4>
-I didn't know what to expect as I walked off the stage to finish my first ever
-performance. I gave it a 50-50 shot
-that I'd get emotional backstage and tear up. But when it was all said and done
-the only emotion I feel is pure, unadulterated bliss. My smile spans the full
-distance from ear to ear.
+As I walk off the stage to close out my first ever performance I don't know what
+to expect. I gave it a 50-50 shot that I'd get emotional backstage and tear up.
+But when it's all said and done the only emotion I feel is pure, unadulterated
+bliss. My smile spans the full distance from ear to ear.
 
 As we're hugging backstage I realize that I might not be the only one with first
 show jitters. Our curtain call song, a delightful honky tonk swing ditty from
@@ -314,7 +320,7 @@ aren't I?
 
 "The talkback, Mark is going to talk about the piece & do a Q&A"
 
-"Y'all have terms like *adagio* and *pli&eacute;* but the forum where a
+"Y'all have terms like *adagio* but the forum where a
 choreographer discusses their art and creative process is called a talkback?"
 
 *annoyed glares*
@@ -342,6 +348,9 @@ eyes are on them."
 To further my earlier point about differing audience experiences some
 participants during the Q&A remarked how individualistic the performance was,
 while others were amazed by the cohesive community.
+
+
+
 
 
 <h4 class="article-subheader">About That Whole Nudity Thing</h4>
@@ -469,6 +478,15 @@ Aaron
 But most of all I want to thank Mark Haim for taking a chance on a hayseed from
 Oklahoma with no dane experience to participate in a piece that's so meaningful
 to him.
+
+
+In the second performance I completely lost my count on one of my sideways
+passes with skips and just had to wing it. I lost my instruments and just had
+to go on feel. Since we had run it through so many times I had gotten a good
+feel for my steps and skips. Each skip I had a pretty good feel for when to
+fire it off, but luckily I had Renay next to me who really loaded up for each
+skip so I could confirm my hunch that it was time for a skip by looking at my
+peripherals.
 
 
 <h4 class="article-subheader">One-Two-Three-Four</h4>
