@@ -262,21 +262,21 @@ One day Alexandra asks me, "Do you prefer Andrew or Andy?"
 
 "I don't really care, either works."
 
-Alexandra vexedly glares at me as someone who's been called "Alex",
+Alexandra vexedly stares at me with a look of someone who's been called "Alex",
 "Allie", "Alexandria", and any number of creative or otherwise head-scratching
 names that suggests *no seriously, what do you like to be called?*
 
 But I really don't have a preference. I've been called *much* worse than Andy, I
 can assure you of that. Among my friends back home I'm almost exclusively
-called "Toys". This curious cognomen was a natural evolution of a high school
-milieu in which we all called each other by our last names. Curthoys soon became
-CarToys, which, in a stroke of ruthless syllabic economy simply became "Toys."
+called "Toys". This curious cognomen arose within a high school milieu in which
+everyone was referred to by their last name. Curthoys soon became
+CarToys, which, in a display of ruthless syllabic economy simply became "Toys."
 The moniker was passed down like a pair of worn out sneakers to my younger
 brothers, who are known by my friends as Allie (Alex) Toy, Timmy Toy, & Johnny
 Toy. Naturally, I'm known to all their friends as Andy Toy.
 
 This did have the concomitant effect that during rehearsals, in an effort to
-emphasize that the prop guns used during the performance were not real weapons
+emphasize that the prop guns used during the performance were not real weapons,
 Mark encouraged us to call them "toys" instead of "guns." So every time someone
 referenced the prop guns my head instinctively popped up like a meerkat.
 
@@ -285,7 +285,7 @@ referenced the prop guns my head instinctively popped up like a meerkat.
 </div>
 <figcaption class="figure-caption mb-2">Did someone say toys?</figcaption>
 
-
+After a few days of rehearsals we started to figure out our costumes.
 
 Everyone is having a great time. Exchanging outfits, trying out looks,
 pilfering through the offerings on display at Boutique Alyce, the miniature
@@ -293,8 +293,8 @@ emporium of all things fashion set up by Alyce in a corner of the studio. It's
 the dance equivalent of a general store selling picks and shovels during the
 California gold rush.
 
-My sartorial selection falls somewhere near the very end of the dance wardrobe
-spectrum just this side
+My sartorial selection falls near the very end of the dance wardrobe
+spectrum, just this side
 of "dad clothes." So while everyone is flitting around exchanging outfits and
 trying new looks I mostly just mill about and admire everyone else's duds.
 Once everyone has showcased their looks for Mark he eyes my Sunday afternoon
@@ -316,11 +316,16 @@ shopping on Friday so we'll look for something for you too."
 
 "Okie doke."
 
-Brace & Hendri are two performers from Seattle who have been requisitioned to
-join the Carolina contingent. They were a part of
-the original cast and have performed it multiple times
-over the years. They come prepared with notes from their previous performances
-and help alleviate the burden from Mark as the sole expert on the piece.
+Brace & Hendri are the newcomers to our crew, but old hats when it comes to the
+piece. They were part of the original cast and have stepped these
+steps dozens of times over the years. They live in Seattle and Mark called on
+them to even out the number of men and presumably add a little diversity to my
+fellow white guys, Johnathan & Matt. During the first week we often
+rehearsed with them as "holes" in the lineup, but increasingly Aaron stepped in
+to fill the gaps. Aaron lives in San Antonio (just a few miles from my old house
+we later found out) and is working at ADF for the summer. He has also performed
+the piece in the past, bringing three experienced performers to help alleviate
+the burden from Mark as the sole expert on the piece.
 
 <figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-lunch.jpeg" alt="Lunch">

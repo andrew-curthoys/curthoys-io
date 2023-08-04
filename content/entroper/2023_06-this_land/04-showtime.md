@@ -20,22 +20,23 @@ cackling idiots
 
 <h4 class="article-subheader">It's Art, Get It?</h4>
 Art is by its very nature a subjective human pursuit. There's no one way, no
-right way, no wrong way to create, consume, or appreciate art. It's intimately
+right way, no wrong way to create, consume, or appreciate it. Art is intimately
 individual and that's where it derives its beauty. Y'know, the eye of the
 beholder and whatnot.
 
-*This Land Is Your Land* is an extreme exercise in subjectivity. The piece is so
+Mark Haim's *This Land Is Your Land* is an extreme exercise in subjective
+interpretation. The piece is so
 unique and captivating that no two audience members will walk out of
 the Nasher with the same perspective. And each perspective is perfectly valid.
 
-Even the stage is set up to encourage unique experiences. Surrounding the stage
-on three sides, the audience is seated in a configuration that I just learned is
-called a "thrust stage." Personally, I'd call it the "Easy Company" but Mark
-calls it an
+Even the stage is set up to encourage unique experiences. Arranged in a
+configuration that I just learned is called a "thrust stage," the audience
+surrounds the stage on three sides. Personally, I'd call it the "Easy Company"
+but Mark calls it an
 *interactive viewing experience*. Audience members who are seated directly
 facing the stage are treated to a completely different show than those on
-the flanks. So even the same person watching the show from two different seats
-may draw differing conclusions.
+the flanks. So even the same person watching the same show from two different
+seats may interpret it differently.
 
 <figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage1.jpg" alt="Stage">
@@ -43,13 +44,13 @@ may draw differing conclusions.
 </figure>
 
 The first time I watched the Paris recording I made an immediate connection
-between Woody Guthrie's *This Land Is Your Land* and a section of Mark Haim's
-*TLIYL* that I considered to be the most powerful part of the piece. But that's
-just the Oklahoma in me. Everybody else will surely make a connection that feels
+between Woody Guthrie's *This Land Is Your Land* and what I considered to be the
+most powerful section Mark's *TLIYL*. But that's just the Oklahoma in me.
+Everyone who watches will surely make a connection that feels
 just as profound to them as my Woody Guthrie connection did to me.
 
-The most wonderful part of Mark's piece is the fact that there's no message.
-There's no agenda. He simply presents the world the way he sees it and allows
+The most wonderful part of the piece is the fact that there's no message.
+There's no agenda. Mark simply presents the world the way he sees it and allows
 the audience to come to their own conclusion.
 
 At least that's my conclusion.
@@ -58,11 +59,12 @@ At least that's my conclusion.
 <h4 class="article-subheader">Dress Rehearsal</h4>
 On opening night eve we mosey over to the Nasher for a full dress rehearsal in
 the *interactive viewing experience*. I've yet to grace the halls of the
-museum so I'm blown away by the asymmetrical 5-sided glass roof. I stand and
-stare at the beams that conjointly support the roof without any spanning the
-full distance of the atrium. It's somewhat like
+Nasher Museum of Art and when I stroll into its capacious atrium I'm blown away by the
+asymmetrical 5-sided glass roof. The most marvelous aspect is the fact that
+the load is shared by 5 beams conjointly supporting a web of glass and steel
+without any beams spanning the full breadth of the room. It's somewhat like
 that classic dad trick of folding the flaps of a cardboard box to stay shut
-without tape. It's a beautiful piece of engineering.
+without tape. I ogle until my neck hurts. It's a beautiful piece of engineering.
 
 In the words of Rafael Vi&ntilde;oly, the Uruguayan-born architect, the Nasher
 was designed as
@@ -84,15 +86,15 @@ systems.
   <figcaption class="figure-caption">Look at that roof! Vertiginous geometries!</figcaption>
 </figure>
 
-It's a truly magical venue. It's also my first introduction to the complete
-bewilderment that comes with rehearsing in a new space. During our first dress
+It's a truly magical venue. It's also my first introduction to the bewildering
+experience of rehearsing in a new space. During our first dress
 at the Nasher I make mistakes I haven't made in over a week. I can't keep my
 count. I can't remember my
 choreography. I'm fully discombobulated. It certainly doesn't help that the
 floor tiles are slanted at an angle oblique to our walking path.
 
 After the run through I ask my fellow performers if they had similar
-misfortunes and they confirm as much.
+tribulations and they confirm as much.
 
 "Every time you rehearse at a new place that will happen. You'll be alright,
 that's why we did this."
@@ -257,6 +259,7 @@ feel for my steps and skips. Each skip I had a pretty good feel for when to
 fire it off, but luckily I had Renay next to me who really loaded up for each
 skip so I could confirm my hunch that it was time for a skip by looking at my
 peripherals.
+
 
 <h4 class="article-subheader">Quick Change</h4>
 Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
