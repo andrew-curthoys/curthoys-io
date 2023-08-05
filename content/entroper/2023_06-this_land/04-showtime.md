@@ -229,12 +229,16 @@ years of dance to the group,
 when you're sweaty!"
 
 I look at her with 
+"If you would have told me on New Year's Eve that I would hear 'if you coat the
+inside of your jeans with baby powder' in 2023 I would have thought 'well 2023
+is gonna be a weird year."
 
+The trickiest part of my costume changes is the socks. It took me a couple
+rehearsals to discover that much like Rabbit's maps in Twister I've found that
+the most effective way to prepare my socks is to roll them.
 
-Much like Rabbit's maps in Twister I've found that the most effective way to
-prepare my socks is to roll them.
+<div class="tenor-gif-embed mb-3" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-<div class="tenor-gif-embed mb-2" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 During my first pass I'm acutely focused on locking my
