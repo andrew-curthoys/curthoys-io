@@ -30,7 +30,7 @@ unique and captivating that no two audience members will walk out of
 the Nasher with the same perspective. And each perspective is perfectly valid.
 
 Even the stage is set up to encourage unique experiences. Arranged in a
-configuration that I just learned is called a "thrust stage," the audience
+configuration that I just learned is known as a "thrust stage," the audience
 surrounds the stage on three sides. Personally, I'd call it the "Easy Company"
 but Mark calls it an
 *interactive viewing experience*. Audience members who are seated directly
@@ -217,25 +217,21 @@ pile. Entropy increasing with every pass.
 
 If only the audience could see the organized chaos unfolding backstage. A
 sweaty maelstrom of flying blouses, jettisoned jeans, and the occasional mad
-dash to get in position just before your entrance. Your mind is an absolute
-hurricane trying to get everything just right, then you pause, take a breath,
-and step into the spotlight.
-
-It took a few rehearsals for everyone to get the hang of it. During one
-rehearsal Alyce partakes wisdom that could only have been acquired through
-years of dance to the group,
+dash to get in position just before your entrance. It took a few rehearsals for
+everyone to get the hang of it. During one rehearsal Alyce doles out a nugget of
+wisdom that could only have been acquired through years of dance,
 
 "If you coat the inside of your jeans with baby powder it helps get them on
 when you're sweaty!"
 
-I look at her with 
-"If you would have told me on New Year's Eve that I would hear 'if you coat the
-inside of your jeans with baby powder' in 2023 I would have thought 'well 2023
+I look at her with a bemused smirk,
+"If you would have told me on New Year's Eve that in 2023 I would hear 'if you
+coat the inside of your jeans with baby powder' I would have thought 'well 2023
 is gonna be a weird year."
 
 The trickiest part of my costume changes is the socks. It took me a couple
-rehearsals to discover that much like Rabbit's maps in Twister I've found that
-the most effective way to prepare my socks is to roll them.
+rehearsals to discover that much like Rabbit's maps in Twister the most
+effective way to prepare my socks is to roll them.
 
 <div class="tenor-gif-embed mb-3" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
@@ -252,9 +248,8 @@ I summoned every ounce of concentration in my body to maintain a stoic stare,
 but going back I had to crush the grassroots campaign of a grin starting to
 organize on my face.
 
-My first two passes contain pretty subtle choreography that I was able to get
-the hang of relatively quickly.
-On my third pass I'm supposed to do a single skip on each of the first two laps
+My first two passes contain pretty subtle choreography that help get us in a
+groove. My third pass calls for a single skip on each of the first two laps
 then three skips each on the next two. First lap I nail it. The best skip you've
 ever laid eyes on. No notes. The second lap, however, I get a little
 overexuberant and hit the three skips one lap too early. I try to play it off as
@@ -339,15 +334,41 @@ During the talkback we learn about the story of how the piece came to be. Our
 current hour-long iteration was incrementally developed over time, with the
 original spanning a much more modest 20 minutes.
 
+"The piece is so much about the performing non-performance. Everyone is trying
+to look as if they're not aware that people are looking at them even though all
+eyes are on them."
 
 "It's based on a very simple pattern that keeps mutating for 14 performers that
 also involves about 200 Starbucks cups, 14 rifles, 14 pistols, 15 cell phones,
 17 beer cans, and a whole bunch of costumes set to a whole bunch of country
 music."
 
-"The piece is so much about the performing non-performance. Everyone is trying
-to look as if they're not aware that people are looking at them even though all
-eyes are on them."
+"It developed from an initial urge to play with time
+The back and forth wave has a mesmerizing quality that can lull the audience
+into a ________ then we change up the pattern and it throws them for a loop.
+I want something where the audience is just feeling bored before we change it
+up."
+
+During the Q&A my friend Sean asks Mark about his thought process behind using
+country music as the soundtrack for the piece.
+
+"Honestly, before this piece I HATED country music! I couldn't stand it! But
+after going through and listening to hundreds of songs I have to say it grew on
+me and now I love country music. I was just looking for songs with good time
+signatures for the walking pattern and country music just seemed to work out
+well for that. And there's something about country music that speaks to the
+heart of this crazy experiment we have been living in this country"
+
+"People think I'm teasing people with the country music, criticizing America,
+saying that I hate this country. But I love this country, we have a lot of great
+things going for us, we definitely have our flaws, but 
+
+"Sometimes as artists we can take ourselves & our work too seriously. I'm not
+changing the world with this piece. I think that art can make positive changes
+in the world but I'm not going to think that everything that I create is going
+to change the world. I just wanted to make a piece that was *fun* and I hope that
+everyone had fun."
+
 
 To further my earlier point about differing audience experiences some
 participants during the Q&A remarked how individualistic the performance was,
@@ -360,7 +381,7 @@ while others were amazed by the cohesive community.
 <h4 class="article-subheader">About That Whole Nudity Thing</h4>
 I'll admit, when I first saw the video of the Paris performance with *full
 nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
-trepidation. The trepidation quickly evolved into a buzz of immature
+trepidation. The trepidation quickly evolved into a silly buzz of immature
 mirthfulness. I dispatched a flurry of text messages to my similarly puerile pals
 full of cosmopolitan aphorisms such as "hanging dong" in an attempt to encourage
 their attendance. My only preparation for the nudity was a strict diet
@@ -379,14 +400,34 @@ directed at women in our society. I don't know everybody's story, but I have to
 assume that each of the women in the company has endured unwanted abuses
 however large or small that weighed on their decision to perform this piece.
 
-A few times during breaks the topic of nudity would get brought up.
-Each woman had a different perspective, a different mindset,
-a different journey. And each time this topic was broached, I realized it was
-time for me to shut the fuck up and listen and learn.
-
 I'm not brave for walking naked in a room full of people. Alexandra and Renay
 and Cate and Allie and McKelynn and Carrie and Alyce and Dana and Linda are.
 And I respect and admire them for it.
+
+Throughout the rehearsal process we naturally discussed the nudity from
+time to time.  Each woman had a different perspective, a different mindset,
+a different journey. And each time this topic was broached, I realized it was
+time for me to shut the fuck up and listen and learn.
+
+The most difficult part for most of the women was separating the nudity from
+sexuality. Because of what I would argue is a puritanical societal viewpoint,
+nudity & sexuality are intimately intertwined. Untying that Gordian knot is the
+most difficult part for the women in the performance. But once they were able to
+make that cognitive transition it took some of the power from the nudity. When
+everybody fosters a desexualized environment it allows us to recognize that
+we're simply expressing ourselves with our *bodies*.
+
+Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
+creak and groan and grow hair in the worst places and lose hair in the best.
+
+The collective agreement to foster an open-minded environment quickly led to the
+nude section, at least in my opinion, being pretty matter-of-fact. I'm sure the
+fact that we are scrambling to rip off all our clothes as quickly as humanly
+possible while remembering our steps for the next pass has at least something
+to to with it. But as I stated earlier,
+everybody comported themselves in the most professional way possible. The nudity
+was always going to be as big or small of a deal as we made it. And we
+approached it with a matter-of-fact pragmatism that took the power away from it.
 
 Circling back to
 <a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
@@ -397,33 +438,13 @@ Looking back on the role (which required her to learn dance (link)), Lawrence
 reflected, “It took a while to say yes – and the night before I didn’t sleep at
 all... But then after I finished the scene, I felt empowered.”
 
-Similarly to Lawrence's experience, every woman in the company remarked that the
-most difficult part about the nudity was separating it from sexuality. But once
-they were able to make that cognitive transition it took some of the power from
-the nudity. Nearly every woman remarked that they were much more comfortable
-when they  it was a de-sexualized environment where everybody
-agrees that we're just expressing ourselves with our *bodies*.
-
-Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
-creak and groan and grow hair in the worst places and lose hair in the best.
-
-
-
-I can't speak for the other members of the cast but I was slightly surprised how
-quickly the nudity became, for lack of a better word, *meh*. I'm sure it had
-something to do with us scrambling to rip off all our clothes as quickly as
-possible while remembering our steps for the next pass. But as I stated earlier,
-everybody comported themselves in the most professional way possible. The nudity
-was always going to be as big or small of a deal as we made it. And we
-approached it with a matter-of-fact pragmatism that took the power away from the
-milieu of undress.
-
 When we strip ourselves of the carapace of modern society we cease to become
 Democrats or Republicans, Christians or Jews, citizens or immigrants. Whichever
 artificial tribal identity we cling to melts away to reveal that we are
 simply *humans*. A condition that does not know national borders, does not
 know ethnic divisions, does not know religious rivalries. The more we strip away
 the more we realize how similar we all are.
+
 
 I couldn't resist the urge to shoehorn a Carl Sagan quote here, in his iconic
 *Pale Blue Dot* Sagan poetically remarked,
@@ -442,10 +463,21 @@ Am I saying the world would be a better place if we all walked around stark
 naked in front of a group of strangers? Maybe. Maybe not. But I'd be willing to
 give it a shot.
 
-<h4 class="article-subheader">"Holy Shit"</h4>
-"You totally undersold it," was the most common refrain I heard from my friends
-after viewing the piece.
 
+<h4 class="article-subheader">"Holy Shit"</h4>
+After the first show of the second night I meet up with a group of friends in
+the atrium. Everyone looks totally blown away.
+
+"You totally undersold it, that was amazing!"
+
+"Undersell & overdeliver is what I always say"
+
+"It was so detailed, I was amazed y'all could remember everything, did you have
+a system for that?
+
+"Of course, I made a spreadsheet!"
+
+I grab my marked up spreadsheet and show them my system.
 
 <h4 class="article-subheader">Well What Now?</h4>
 All of my fellow performers are curious as to my future in the dancing arts.
