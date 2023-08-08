@@ -538,20 +538,23 @@ explanation given."
 </p>
 </div>
 
-I'll use this last little tidbit to segue back into our story. Because the
-song that precedes Adkins's in our performance was sung by none other than Ronnie
-Milsap. Originally penned by Burt Bacharach, *Any Day Now*, opens Milsap's 1982
+I'll use that last little tidbit to fling a lasso 'round the horns of the
+runaway steer that this story has become. Because the song that precedes
+Adkins's in our performance was sung by none other than Ronnie Milsap.
+Originally penned by Burt Bacharach, the song *Any Day Now*, opens Milsap's 1982
 album *Inside*. In a stark juxtaposition to Adkins's objectifying anthem,
 Milsap tenderly sings about that hollow feeling deep down in your gut when you
 know your sweetheart is about to break your heart,
 
 <div class="text-muted fst-italic mx-3 mb-3">
-Any day now<br>
+Any day now<br><br>
 I will hear you say<br>
 Good bye, my love<br>
 And you'll be on your way<br>
-Then my wild beautiful bird, you will have flown<br>
-Any day now, I'll be all alone<br>
+Then my wild beautiful bird<br>
+You will have flown<br><br>
+Any day now<br>
+I'll be all alone
 </div>
 
 Despite the heart wrenching lyrics Milsap's velvety smooth treatment somehow lulls
@@ -565,9 +568,11 @@ Frankie Valli, Luther Vandross, James Brown, and Eddie Kendricks of The
 Temptations. You might have heard of them.
 
 The soundtrack also includes favorites from Eric Church, (fellow Oklahoman) Toby
-Keith, Martina McBride, and the Indian Outlaw Time McGraw, among others. During
-rehearsals we listen to the soundtrack so many times that it becomes ingrained
-in our very beings
+Keith, Martina McBride, and the Indian Outlaw Tim McGraw, among others. We
+listen to the soundtrack so many times that it worms its way into our
+subconsciousness. Any time I hear one of the songs from the performance my
+brain instinctively starts waiting for the fade-in to the next song in the
+piece. It's the same affliction I suffer with *Rumours*.
 
 
 <h4 class="article-subheader">Catharsis</h4>
@@ -686,6 +691,9 @@ person goes in front.
 Which makes sense to me because I think I've only assumed the forward station
 and can't remember holding the hand of someone taller than me. Which leads us
 to the inevitable conclusion that I'll have to try it with Brace.
+
+
+
 
 <h4 class="article-subheader">Seattle Steppers</h4>
 In addition to our complement of a dozen North Carolina-based dancers Mark has

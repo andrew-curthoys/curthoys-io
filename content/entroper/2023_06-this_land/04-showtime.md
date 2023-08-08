@@ -389,11 +389,11 @@ and maniacal workout program. Because who would know about vainglorious pursuits
 more than a man who built an entire website to write about himself.
 
 But I don't want to breeze over the nudity. I'm fully aware that my societal
-standing as a man dominates every aspect of how I feel about it. I've
-never felt overtly sexualized by another person. I've never been catcalled. I've
-never been told I need to *smile more*. I've never felt unsafe walking home at
-night. I've never carried pepper spray. I've never been uncomfortable in a room
-full of men. I've never been sexually assaulted.
+standing as a man dominates every aspect of how I feel about it. I've never been
+catcalled. I've never been told I need to *smile more*. I've never felt unsafe
+walking home at night. I've never carried pepper spray. I've never been
+uncomfortable in a room full of men. I've never been sexually harassed. I've
+never been sexually assaulted.
 
 I've never experienced the innumerable unfortunate and inexcusable incidents
 directed at women in our society. I don't know everybody's story, but I have to
@@ -437,6 +437,9 @@ when I didn't want to be seen sexually and I didn't want anybody to see my flesh
 Looking back on the role (which required her to learn dance (link)), Lawrence
 reflected, “It took a while to say yes – and the night before I didn’t sleep at
 all... But then after I finished the scene, I felt empowered.”
+
+I obviously can't speak for Jennifer Lawrence but I'd venture a guess that
+My body my terms.
 
 When we strip ourselves of the carapace of modern society we cease to become
 Democrats or Republicans, Christians or Jews, citizens or immigrants. Whichever
