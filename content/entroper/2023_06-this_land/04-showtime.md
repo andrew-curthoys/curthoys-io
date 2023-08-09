@@ -194,12 +194,12 @@ I take a step up to my mark at the edge of the curtain.
 *1 - 2 - 3 - 4*
 
 And on the 5 I take my first step onto the stage in my inaugural performance as
-a dancer.
+a dancer...
 
 
 <h4 class="article-subheader">Quick Change</h4>
 Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
-require a full outfit change, some are just an accessory here, new top there,
+require a full outfit change; some are just an accessory here, new top there,
 different pair of jeans. But a substantial wardrobe to keep track of nonetheless.
 Before each performance I neatly stack each article of clothing in reverse order
 of their appearance.
@@ -217,28 +217,121 @@ pile. Entropy increasing with every pass.
 
 If only the audience could see the organized chaos unfolding backstage. A
 sweaty maelstrom of flying blouses, jettisoned jeans, and the occasional mad
-dash to get in position just before your entrance. It took a few rehearsals for
-everyone to get the hang of it. During one rehearsal Alyce doles out a nugget of
-wisdom that could only have been acquired through years of dance,
+dash to get in position just before your entrance. It took a few rehearsals to
+find out where we had a little buffer to take a breath and where we really
+needed to hustle. And which articles were the trickiest. For me it was my socks.
+It took a couple rehearsals to discover that much like Rabbit's maps in Twister
+the most effective way to prepare my socks is to roll them.
+
+<div class="tenor-gif-embed mb-3" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+Tight fitting jeans proved to be challenge for many others in the company.
+During a particularly stuffy day in the rehearsal studios Alyce proffered a
+remedy to the denim dilemma,
 
 "If you coat the inside of your jeans with baby powder it helps get them on
 when you're sweaty!"
 
-I look at her with a bemused smirk,
-"If you would have told me on New Year's Eve that in 2023 I would hear 'if you
-coat the inside of your jeans with baby powder' I would have thought 'well 2023
-is gonna be a weird year."
+I take a moment to appreciate the simultaneous absurdity and sensibleness of the
+previous statement. I look at Alyce with a bemused smirk,
 
-The trickiest part of my costume changes is the socks. It took me a couple
-rehearsals to discover that much like Rabbit's maps in Twister the most
-effective way to prepare my socks is to roll them.
+"If you would have told me on New Year's Eve that I'd hear 'if you coat the
+inside of your jeans with baby powder' this year I'd have thought 'well 2023
+is gonna be a weird year.'"
 
-<div class="tenor-gif-embed mb-3" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+Well... Now that you mention it...
 
 
+<h4 class="article-subheader">About That Whole Nudity Thing</h4>
+I'll admit, when I first saw the video of the Paris performance with *full
+nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
+trepidation. The trepidation, a fleeting visceral reaction, quickly gave way to
+a tumult of immature mirthfulness. In short order I dispatched a flurry of text
+messages to my similarly puerile pals inviting them to the performance; texts
+riddled with cosmopolitan aphorisms such as "hanging dong." My only preparation
+for struttin' my stuff was a strict diet and maniacal workout program. Because
+who would know about vainglorious pursuits
+more than a man who built an entire website to write about himself.
 
-During my first pass I'm acutely focused on locking my
-gaze above the heads of the audience, staring off into that deep blue lake. I do
+But I don't want to breeze over the nudity. I'm fully aware that my societal
+standing as a man allows a much more carefree approach. Because I've never been
+catcalled. I've never been told I need to *smile more*. I've never felt unsafe
+walking home at night. I've never carried pepper spray. I've never been
+uncomfortable in a room full of men. I've never been sexually harassed. I've
+never been sexually assaulted.
+
+I've never experienced the innumerable unfortunate and inexcusable incidents
+directed at women in our society. 
+
+During rehearsals the nudity was a frequent topic of discussion during breaks.
+
+Each woman had a different perspective, a different mindset,
+a different journey. And each time this topic was broached, I realized it was
+time for me to shut the fuck up and listen and learn.
+
+Alexandra and Renay and Cate and Allie and McKelynn and Carrie and Alyce and
+Dana and Linda are 
+And I respect and admire them for it.
+
+
+The most difficult part for most of the women was separating the nudity from
+sexuality. Because of what I would argue is a puritanical societal viewpoint,
+nudity & sexuality are intimately intertwined. Untying that Gordian knot is the
+most difficult part for the women in the performance. But once they were able to
+make that cognitive transition it took some of the power from the nudity. When
+everybody fosters a desexualized environment it allows us to recognize that
+we're simply expressing ourselves with our *bodies*.
+
+Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
+creak and groan and grow hair in the worst places and lose hair in the best.
+
+The collective agreement to foster an open-minded environment quickly led to the
+nude section, at least in my opinion, being pretty matter-of-fact. I'm sure the
+fact that we are scrambling to rip off all our clothes as quickly as humanly
+possible while remembering our steps for the next pass has at least something
+to to with it. But as I stated earlier,
+everybody comported themselves in the most professional way possible. The nudity
+was always going to be as big or small of a deal as we made it. And we
+approached it with a matter-of-fact pragmatism that took the power away from it.
+
+
+
+When we strip ourselves of the carapace of modern society we cease to become
+Democrats or Republicans, Christians or Jews, citizens or immigrants. Whichever
+artificial tribal identity we cling to melts away to reveal that we are
+simply *humans*. A condition that does not know national borders, does not
+know ethnic divisions, does not know religious rivalries. The more we strip away
+the more we realize how similar we all are.
+
+
+I couldn't resist the urge to shoehorn a Carl Sagan quote here, in his iconic
+*Pale Blue Dot* Sagan poetically remarked,
+
+<div class="quote">
+The Earth is a very small stage in a vast cosmic arena. Think of the endless
+cruelties visited by the inhabitants of one corner of this pixel on the scarcely
+distinguishable inhabitants of some other corner, how frequent their
+misunderstandings, how eager they are to kill one another, how fervent their
+hatreds. Think of the rivers of blood spilled by all those generals and emperors
+so that, in glory and triumph, they could become the momentary masters of a
+fraction of a dot.
+</div>
+
+Am I saying the world would be a better place if we all walked around stark
+naked in front of a group of strangers? Maybe. Maybe not. But I'd be willing to
+give it a shot.
+
+
+
+
+
+During rehearsals Mark instructed us to envision staring off into a deep blue
+lake
+
+During my first pass I'm acutely focused on locking my gaze above the heads of
+the audience, staring off into a deep blue lake as Mark told us during
+rehearsals. During rehearsals Mark told us to envision we were staring off
+into a deep blue lake. I do
 this because it's what Mark told us to do, but mostly because I know if I make
 eye contact with a friend I'll immediately crack up.
 
@@ -378,93 +471,6 @@ while others were amazed by the cohesive community.
 
 
 
-<h4 class="article-subheader">About That Whole Nudity Thing</h4>
-I'll admit, when I first saw the video of the Paris performance with *full
-nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
-trepidation. The trepidation quickly evolved into a silly buzz of immature
-mirthfulness. I dispatched a flurry of text messages to my similarly puerile pals
-full of cosmopolitan aphorisms such as "hanging dong" in an attempt to encourage
-their attendance. My only preparation for the nudity was a strict diet
-and maniacal workout program. Because who would know about vainglorious pursuits
-more than a man who built an entire website to write about himself.
-
-But I don't want to breeze over the nudity. I'm fully aware that my societal
-standing as a man dominates every aspect of how I feel about it. I've never been
-catcalled. I've never been told I need to *smile more*. I've never felt unsafe
-walking home at night. I've never carried pepper spray. I've never been
-uncomfortable in a room full of men. I've never been sexually harassed. I've
-never been sexually assaulted.
-
-I've never experienced the innumerable unfortunate and inexcusable incidents
-directed at women in our society. I don't know everybody's story, but I have to
-assume that each of the women in the company has endured unwanted abuses
-however large or small that weighed on their decision to perform this piece.
-
-I'm not brave for walking naked in a room full of people. Alexandra and Renay
-and Cate and Allie and McKelynn and Carrie and Alyce and Dana and Linda are.
-And I respect and admire them for it.
-
-Throughout the rehearsal process we naturally discussed the nudity from
-time to time.  Each woman had a different perspective, a different mindset,
-a different journey. And each time this topic was broached, I realized it was
-time for me to shut the fuck up and listen and learn.
-
-The most difficult part for most of the women was separating the nudity from
-sexuality. Because of what I would argue is a puritanical societal viewpoint,
-nudity & sexuality are intimately intertwined. Untying that Gordian knot is the
-most difficult part for the women in the performance. But once they were able to
-make that cognitive transition it took some of the power from the nudity. When
-everybody fosters a desexualized environment it allows us to recognize that
-we're simply expressing ourselves with our *bodies*.
-
-Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
-creak and groan and grow hair in the worst places and lose hair in the best.
-
-The collective agreement to foster an open-minded environment quickly led to the
-nude section, at least in my opinion, being pretty matter-of-fact. I'm sure the
-fact that we are scrambling to rip off all our clothes as quickly as humanly
-possible while remembering our steps for the next pass has at least something
-to to with it. But as I stated earlier,
-everybody comported themselves in the most professional way possible. The nudity
-was always going to be as big or small of a deal as we made it. And we
-approached it with a matter-of-fact pragmatism that took the power away from it.
-
-Circling back to
-<a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
-Jennifer Lawrence grappled with accepting the role, knowing it called for nudity.
-Her trepidation stemmed from a nude photo leak that sent her into a "long period
-when I didn't want to be seen sexually and I didn't want anybody to see my flesh."
-Looking back on the role (which required her to learn dance (link)), Lawrence
-reflected, “It took a while to say yes – and the night before I didn’t sleep at
-all... But then after I finished the scene, I felt empowered.”
-
-I obviously can't speak for Jennifer Lawrence but I'd venture a guess that
-My body my terms.
-
-When we strip ourselves of the carapace of modern society we cease to become
-Democrats or Republicans, Christians or Jews, citizens or immigrants. Whichever
-artificial tribal identity we cling to melts away to reveal that we are
-simply *humans*. A condition that does not know national borders, does not
-know ethnic divisions, does not know religious rivalries. The more we strip away
-the more we realize how similar we all are.
-
-
-I couldn't resist the urge to shoehorn a Carl Sagan quote here, in his iconic
-*Pale Blue Dot* Sagan poetically remarked,
-
-<div class="quote">
-The Earth is a very small stage in a vast cosmic arena. Think of the endless
-cruelties visited by the inhabitants of one corner of this pixel on the scarcely
-distinguishable inhabitants of some other corner, how frequent their
-misunderstandings, how eager they are to kill one another, how fervent their
-hatreds. Think of the rivers of blood spilled by all those generals and emperors
-so that, in glory and triumph, they could become the momentary masters of a
-fraction of a dot.
-</div>
-
-Am I saying the world would be a better place if we all walked around stark
-naked in front of a group of strangers? Maybe. Maybe not. But I'd be willing to
-give it a shot.
 
 
 <h4 class="article-subheader">"Holy Shit"</h4>
@@ -628,3 +634,21 @@ last one is me again).
   </div>
   <figcaption class="figure-caption">Mark called it an interactive viewing experience</figcaption>
 </figure>
+
+
+
+I obviously don't know everyone's story but I
+have to imagine that each of the women in the company has endured unwanted
+abuses however large or small. that weighed on their decision to perform this piece.
+
+Circling back to
+<a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
+Jennifer Lawrence grappled with accepting the role, knowing it called for nudity.
+Her trepidation stemmed from a nude photo leak that sent her into a "long period
+when I didn't want to be seen sexually and I didn't want anybody to see my flesh."
+Looking back on the role (which required her to learn dance (link)), Lawrence
+reflected, “It took a while to say yes – and the night before I didn’t sleep at
+all... But then after I finished the scene, I felt empowered.”
+
+I obviously can't speak for Jennifer Lawrence but I'd venture a guess that
+My body my terms.

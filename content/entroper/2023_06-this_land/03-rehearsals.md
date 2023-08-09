@@ -641,8 +641,9 @@ notebook,
 When Mark reads his notes after this run I *literally* roll around on the floor
 laughing. I reckon a little bit of levity is warranted as we approach 60
 hours of rehearsal time. As Mark said, "I didn't want
-anybody in this piece who took themselves too seriously." Well, brother, you
-got what you asked for with Uncle Andy.
+anybody in this piece who took themselves too seriously."
+
+Well, brother, you got what you asked for here.
 
 That isn't to say we're unprofessional. Each one of us realize we're here
 to do a job and to express Mark's creative vision to the best of our ability.
