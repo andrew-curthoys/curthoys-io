@@ -140,7 +140,7 @@ marginally presentable level. I guess that will have to do.
 
 
 <h4 class="article-subheader">Pythagoras</h4>
-During our first rehearsal Mark gives us a tip to help keep our lines
+During our first rehearsal Mark offers a tip to help keep our lines
 straight, "make sure your steps are a little longer on the way back because
 you have to walk farther since it's on an angle."
 
@@ -158,10 +158,10 @@ At the next break I grab my phone.
 $\sqrt{65} = 8.0623$.
 
 Which means the distance we would have to walk upstage is 0.778% longer than the
-distance we walk downstage\*. If we assume an average stride distance of 2.5 ft
-that means we'd walk 20 feet downstage and to account for the angle we'd need
-to walk 20 feet 1.87 inches on the way back. Or an extra 0.23 inches per step.
-We're good but I don't think we're *that* good.
+distance we walk downstage\*. If we assume an average stride length of 2.5 ft
+our downstage stroll totals 20. In order to account for the angle that means
+we'd need to walk 20 feet 1.87 inches on the way back. Or an extra 0.23 inches
+per step.  We're good but I don't think we're *that* good.
 
 *\*I just learned what upstage & downstage meant during rehearsal today. I'm only
 77.8% sure I'm using it correctly here.*
@@ -180,7 +180,7 @@ on counting and trigonometry. Perhaps.
 </figure>
 
 
-<h4 class="article-subheader">A-What Now?</h4>
+<h4 class="article-subheader">Adagi-what Now?</h4>
 During one of the rehearsals, Mark exhibits the posture and facial expression
 he's is looking for and exclaims,
 
@@ -210,7 +210,7 @@ a dance term or reference.
 
 "The maxi starts with a turnout then slowly evolves until you end up in second position"
 
-"Linda Belans!\* You are going to come out during the adagio sequence."
+"McKelynn You are going to come out during the adagio sequence."
 
 I whisper to Allie, "the what sequence?"
 
@@ -221,12 +221,10 @@ I whisper to Allie, "the what sequence?"
 "It's a dance term that means..... actually you don't have to do it so don't
 worry about it"
 
-Ahhhh what a wonderful phrase. The dancer's hakuna matata. So I toss "adagio
-sequence" into the incinerator of my brain that's combusting on the last ashes
-of the gallops.
+Ahhhh what a wonderful phrase. The dancer's hakuna matata. 
 
-You might have noticed that I keep accosting Allie with my obtuse queries. That's
-because she's drawn the short straw of slotting behind me in the line. Due to
+It's no coincidence that Allie is preferentially shelled by my obtuse ordnance.
+She's drawn the short straw of slotting behind me in the line. Due to
 nothing other than geographic proximity I converse mostly with Allie, Cate, and
 Renay. Cate & Renay have the slightly less irritating position in front of me;
 Cate for the first half of the performance & Renay for the second after we pull
@@ -245,6 +243,7 @@ tell me I'm a dumbass and that's whats I appreciates abouts her.
 		<span style="color:red">&hearts;</span> you Allie</figcaption>
 </figure>
 
+
 <h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
 At the start of rehearsals Mark instructed us to write our name on a few of our
 props. Since I routinely wake up in the morning and choose silliness
@@ -262,7 +261,7 @@ One day Alexandra asks me, "Do you prefer Andrew or Andy?"
 
 "I don't really care, either works."
 
-Alexandra vexedly stares at me with a look of someone who's been called "Alex",
+Alexandra stares at me with a look of someone who's been called "Alex",
 "Allie", "Alexandria", and any number of creative or otherwise head-scratching
 names that suggests *no seriously, what do you like to be called?*
 
@@ -285,16 +284,20 @@ referenced the prop guns my head instinctively popped up like a meerkat.
 </div>
 <figcaption class="figure-caption mb-2">Did someone say toys?</figcaption>
 
-After a few days of rehearsals we started to figure out our costumes.
+After a few days of rehearsals we're tasked with working out our costumes. Mark
+gave us a few ideas of characters he typically likes to see and outfits that
+might work. Everyone rummages through their closet and brings a menagerie of
+clothes, hats, bags, and accessories for consideration.
 
-Everyone is having a great time. Exchanging outfits, trying out looks,
-pilfering through the offerings on display at Boutique Alyce, the miniature
-emporium of all things fashion set up by Alyce in a corner of the studio. It's
-the dance equivalent of a general store selling picks and shovels during the
-California gold rush.
+It shouldn't stretch the imagination that a roomful of dancers let loose on
+costumes is a giddy bunch. Everyone is having a great time. Exchanging outfits,
+trying out looks, pilfering through the offerings on display at Boutique Alyce,
+the miniature emporium of all things fashion set up by Alyce in a corner of the
+studio. It's the dance equivalent of a general store selling picks and
+shovels during the California gold rush.
 
-My sartorial selection falls near the very end of the dance wardrobe
-spectrum, just this side
+Unfortunately my sartorial selection falls near the very end of the dance
+wardrobe spectrum, just this side
 of "dad clothes." So while everyone is flitting around exchanging outfits and
 trying new looks I mostly just mill about and admire everyone else's duds.
 Once everyone has showcased their looks for Mark he eyes my Sunday afternoon
@@ -316,8 +319,8 @@ shopping on Friday so we'll look for something for you too."
 
 "Okie doke."
 
-Brace & Hendri are the newcomers to our crew, but old hats when it comes to the
-piece. They were part of the original cast and have stepped these
+Brace & Hendri are the newcomers to our crew. They were part of the original
+cast and have stepped these
 steps dozens of times over the years. They live in Seattle and Mark called on
 them to even out the number of men and presumably add a little diversity to my
 fellow white guys, Johnathan & Matt. During the first week we often
@@ -325,7 +328,7 @@ rehearsed with them as "holes" in the lineup, but increasingly Aaron stepped in
 to fill the gaps. Aaron lives in San Antonio (just a few miles from my old house
 we later found out) and is working at ADF for the summer. He has also performed
 the piece in the past, bringing three experienced performers to help alleviate
-the burden from Mark as the sole expert on the piece.
+the pedagogical burden from Mark alone.
 
 <figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-lunch.jpeg" alt="Lunch">
@@ -457,13 +460,16 @@ Shut my mouth<br>
 Slap your grandma<br>
 </div>
 
-Now the first time that Linda Belans, a proud grandmother, hears the bard of 
-Sarepta, Louisiana suggest said matriarchal thwacking her face turns red. 
+Poetry. Simple as that.
+
+So the first time that Linda Belans, a proud grandmother, hears the bard of 
+Sarepta, Louisiana suggest such a brutish act of matriarchal thwacking her face
+turns red. 
 
 "SLAP YOUR GRANDMA!!??"
 
 If Trace Adkins had a grandma the caliber of Linda Belans he wouldn't even think
-of such a calamatous feat of skullduggery.
+of such a calamitous feat of skullduggery.
 
 was not nonplussed with the suggestion. As you can imagine it became a running
 joke during rehearsals. The timing worked out that Mr Adkins's advocation for

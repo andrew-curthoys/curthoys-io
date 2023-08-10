@@ -173,7 +173,7 @@ in 5. And in 5 minutes I'm greeted, once again, by that familiar contralto,
 I go out walkin' after midnight...
 </div>
 
-I relax on my chair for a few minutes, observing the organized chaos backstage.
+I take a load off and watch the organized chaos unfold around me.
 For each of their early passes, Alexandra, Renay, Matt, Cate, Allie, Hendri, and
 McKelynn are forced to make a frantic backstage scramble. They have 12 counts to
 make it from one edge of the curtain to the other, lest they miss their mark for
@@ -189,7 +189,7 @@ And Cate is off.
 
 *5 - 6 - 7 - 8*
 
-I take a step up to my mark at the edge of the curtain.
+I step up to my mark at the edge of the curtain.
 
 *1 - 2 - 3 - 4*
 
@@ -198,8 +198,8 @@ a dancer...
 
 
 <h4 class="article-subheader">Quick Change</h4>
-Throughout the course of the 1 hour piece I have 13 different looks. Each doesn't
-require a full outfit change; some are just an accessory here, new top there,
+Throughout the course of the 1 hour piece I have 13 different looks. They don't
+all require a full outfit change; some are just an accessory here, new top there,
 different pair of jeans. But a substantial wardrobe to keep track of nonetheless.
 Before each performance I neatly stack each article of clothing in reverse order
 of their appearance.
@@ -215,19 +215,18 @@ pile. Entropy increasing with every pass.
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_after.jpeg" alt="After">
 </figure>
 
-If only the audience could see the organized chaos unfolding backstage. A
+If only the audience could take a peek behind the curtain. A
 sweaty maelstrom of flying blouses, jettisoned jeans, and the occasional mad
 dash to get in position just before your entrance. It took a few rehearsals to
 find out where we had a little buffer to take a breath and where we really
 needed to hustle. And which articles were the trickiest. For me it was my socks.
-It took a couple rehearsals to discover that much like Rabbit's maps in Twister
-the most effective way to prepare my socks is to roll them.
+With time I discovered that the secret was known by Rabbit from Twister all
+along: Roll The Maps (Socks).
 
 <div class="tenor-gif-embed mb-3" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-Tight fitting jeans proved to be challenge for many others in the company.
-During a particularly stuffy day in the rehearsal studios Alyce proffered a
-remedy to the denim dilemma,
+For many others, tight fitting jeans proved to be their nemesis. During a
+particularly stuffy day in the studio Alyce proposed a remedy to the denim dilemma,
 
 "If you coat the inside of your jeans with baby powder it helps get them on
 when you're sweaty!"
