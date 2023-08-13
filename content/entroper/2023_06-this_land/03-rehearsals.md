@@ -25,12 +25,11 @@ animated corpse.
 I peel open an eyelid and muster the strength for a mumbled "yeah."
 
 "Sorry, but it's time to start rehearsal," Mark coyly remarks behind a Cheshire
-cat smile that I will become intimately familiar with over the course of the
-next two weeks.
+cat smile that I'll soon become intimately familiar with.
 
 I scrape myself off the floor, still reeling from
 <a href="/traveler/2023_05-scandinavia.html" target="_blank" rel="noopener noreferrer">3 weeks in Scandinavia</a>.
-I just flew into Durham late last night and worked all day today so my batteries
+I landed in Durham late last night and worked all day today so my batteries
 are are running on emergency reserve.
 
 During the two months between the audition and the start of rehearsals Mark sent
@@ -41,16 +40,21 @@ the Paris video to study. I drew Jurg:
 9. Andrew (JURG)- orange T shirt, light grey pants. ENTRANCE IS AT 4:24
 </div>
 
-When I watch the video I'm struck by a euphoric realization - all the
+As I watch the video I'm struck by a euphoric realization - all the
 gallops occur in the first 3 minutes. Since Jurg doesn't come on till 4:24
-I won't be doing any gallops! Praise be!!! Based on my complete galloptrical
-ineptitude during the audition I'd say Mark's decision to spare me
-from gallop duty is wise and prudent.
+I won't be doing any gallops!
 
-During the first few rehearsals the majority of our time is spent learning the
-choreography of the separate segments that make up the whole of the performance.
+Praise be!!!
+
+Based on my complete galloptrical ineptitude during the audition I'd say Mark's
+decision to spare me from gallop duty is wise and prudent.
+
+During the first few rehearsals we learn the choreography for each of the
+separate segments that make up the whole of the performance.
 Each has its own name that Mark has informally conferred over the years and each
-has its own flavor.
+has its own flavor. *The Claw* is centered around hand movements. *Mona Lisa*
+emphasizes our facial expression. Our old friends *Sally* and *Lewiston*
+express themselves through their gait.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-notes1.jpg" alt="Notes">
@@ -58,13 +62,12 @@ has its own flavor.
 	<figcaption class="figure-caption">The gang gets notes</figcaption>
 </figure>
 
-As Mark teaches us each individual part I get the hang of them relatively quickly.
-It's when we start to link 3 or 4 sections together that my head starts to spin.
-I quickly follow the lead of the more seasoned dancers and begin to write it all
-down in a notebook.
+As Mark works through the parts I get the hang of them *individually*. 
+Unfortunately we'll need to link them all together and that's where
+my head starts to spin. I quickly follow the lead of the more seasoned dancers
+and begin to write it all down in a notebook.
 
-For example, this is what I jot down for the pass called "Plastic
-Surgery"
+For example, this is what I jot down for *Plastic Surgery*
 
 <div class="text-muted fst-italic mx-3 mb-3">
 Start with head cocked to the right, left hand on hip, straw in mouth<br>
@@ -81,9 +84,8 @@ Start with head cocked to the right, left hand on hip, straw in mouth<br>
 1/2 lap to get left hand to hip
 </div>
 
-And that's just one pass. I have over 20 passes. After just a few
-rehearsals the bewildering complexity overwhelms me and I
-retreat back to my comfort zone,
+And that's just one pass. After just a few rehearsals the bewildering complexity
+overwhelms me and I retreat back to my comfort zone,
 
 "Ok that's it, I'm gonna need to make a spreadsheet."
 
@@ -92,12 +94,6 @@ each with a different outfit, prop, step sequence, step direction, posture,
 hand movement, facial expression, or other some such choreographic flourish.
 Once we start full start-to-finish run-throughs I print out my
 sheet and cross out each pass as I complete it.
-
-I don't trust myself to go to the grocery store without a list so
-there's no way I'm going to be comfortable memorizing intricate
-choreography for 24 passes. Especially with the added adrenaline that's likely
-to come with a live audience. But one pass at a time I can manage. At least I
-hope I can.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-spreadsheets.jpeg" alt="Spreadsheets">
@@ -137,6 +133,137 @@ Andy.*
 
 By the time we finish rehearsals I believe I've dragged my maxi skip to a
 marginally presentable level. I guess that will have to do.
+
+
+<h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
+At the start of rehearsals Mark instructs us to write our name on a few of our
+props. Since I routinely wake up in the morning and choose silliness
+I write A<span class="flip-h">N</span>DY like our best good pal Woody
+brandishes 'neath his cowboy boot.
+
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-andy_cup.jpeg" alt="Andy">
+	<figcaption class="figure-caption">Somebody's poisoned the waterhole!</figcaption>
+</figure>
+
+And this is how I inadvertently adopted Andy as my stage name.
+
+One day Alexandra asks me, "Do you prefer Andrew or Andy?"
+
+"I don't really care, either works."
+
+Alexandra stares at me with a look of someone who's been called "Alex",
+"Allie", "Alexandria", and any number of creative or otherwise head-scratching
+names that suggests *no seriously, what do you like to be called?*
+
+But I really don't have a preference. I've been called *much* worse than Andy, I
+can assure you of that. Among my friends back home I'm almost exclusively
+called "Toys". This curious cognomen arose within a high school milieu where
+everyone was called by their last name. Curthoys soon became
+CarToys, which, in a display of ruthless syllabic economy simply became "Toys."
+The moniker was passed down like a pair of worn out sneakers to my younger
+brothers, who are known by my friends as Allie (Alex) Toy, Timmy Toy, & Johnny
+Toy. Naturally, I'm known to all their friends as Andy Toy.
+
+This did have the concomitant effect that during rehearsals, in an effort to
+emphasize that the prop guns used during the performance were not real weapons,
+Mark encouraged us to call them "toys" instead of "guns." So every time someone
+referenced the prop guns my head instinctively popped up like a meerkat.
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+		<iframe src="https://giphy.com/embed/6pUBXVTai18Iw" width="100%" height="100%" style="position:absolute;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<figcaption class="figure-caption mb-2">Did someone say toys?</figcaption>
+
+After a few days of rehearsals we're tasked with building our costumes. Mark
+gave us a few ideas of characters he typically likes to see and outfits that
+might work. In advance of costume day everyone rummages through their closet and
+brings a menagerie of clothes, hats, bags, and accessories for consideration.
+
+It shouldn't stretch the imagination that a roomful of dancers let loose on
+costumes makes for a gleeful atmosphere. The cast is buzzing, exchanging outfits,
+trying out looks, channeling Tim Gunn. The star of costume day is Boutique Alyce,
+the miniature emporium of all things fashion set up by Alyce in a corner of the
+studio. It's the dance equivalent of a general store selling picks and
+shovels during the California gold rush.
+
+Unfortunately my sartorial selection falls at the very end of the dance
+wardrobe spectrum, just this side
+of "dad clothes." So while everyone is flitting around exchanging outfits and
+trying new looks I mostly just mill about and admire everyone else's duds.
+Once everyone has showcased their looks for Mark he eyes my Sunday afternoon
+middle manager in a suburban McMansion golf attire and sarcastically pans,
+
+"Well *Andy's* made my job easy, you haven't even changed!"
+
+"I don't really have anything that fun, what angle were you thinking for me?"
+
+"I'm thinking a granola, hippie co-op barista type. Birkenstocks, maybe a chunky
+sweater, sarong? Do you have any of that?"
+
+"Uhhh no."
+
+I don't admit that I don't know what a sarong is.
+
+"Ok ask around if you can borrow something. Brace, Hendri, and I are going
+shopping on Friday so we'll look for something for you too."
+
+"Okie doke."
+
+Brace & Hendri are the newcomers to our crew. They were part of the original
+cast and have stepped these
+steps dozens of times over the years. They live in Seattle and Mark called on
+them to even out the number of men and presumably add a little diversity to my
+fellow white guys, Johnathan & Matt. During the first week we often
+rehearsed with them as "holes" in the lineup, but increasingly Aaron stepped in
+to fill the gaps. Aaron is another transplant who hails from San Antonio (just a
+few miles from my old house we later found out) working at ADF for the summer.
+He has also performed the piece in the past, bringing three experienced
+performers to help alleviate the pedagogical burden from Mark.
+
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-lunch.jpg" alt="Lunch">
+	<figcaption class="figure-caption">Enjoying lunch with Hendri & Brace ahead
+	of night 2</figcaption>
+</figure>
+
+After the Seattle crew returns from their shopping spree I'm provisioned with
+a deep-V crop top sweater, a high slit sarong, and a colorful over
+the shoulder bag. I borrow some Birkenstocks from a friend in my building and
+dig up a green scuba diving headband that I stole from my brother who stole
+it from my mom. I decide to call this crunchy character "Aspen."
+
+Something about this outfit really causes my Shirley strut to pop.
+
+<photo the evolution of Aspen>
+
+My final outfit, a cowboy ensemble, is completely supplied by yours truly.
+As I'm headed out for the day Brace hollers to me,
+
+"Hey, bring your cowboy hat tomorrow."
+
+"10-4, should I bring my shitkickers too?"
+
+"Yes."
+
+"You got it partner."
+
+So I show up the next day with a pair of cowboy boots, blue jeans, a pearl snap
+shirt from a
+<a href="https://www.instagram.com/shinyribs/" target="_blank" rel="noopener noreferrer">Shinyribs</a> concert in San Antonio, a bolo tie from Montana, and a
+cowboy hat I requisitioned at the Houston rodeo.
+
+When I'm adorned in full cowboy regalia Mark looks at me, "oh we need a name for
+this cowboy...... I'm going to call you 'Zane'".
+
+The Durham Herald Sun ran a story on Zane the next day,
+
+<div class="text-muted fst-italic mx-3 mb-3">
+A tall handsome stranger rode into town<br>
+With fire in his eyes burning red as sundown<br>
+His boots were all dusty, his coat open wide<br>
+Six ways of dying hung low on his side
+</div>
 
 
 <h4 class="article-subheader">Pythagoras</h4>
@@ -181,7 +308,7 @@ on counting and trigonometry. Perhaps.
 
 
 <h4 class="article-subheader">Adagi-what Now?</h4>
-During one of the rehearsals, Mark exhibits the posture and facial expression
+During one rehearsal, Mark exhibits the posture and facial expression
 he's is looking for and exclaims,
 
 "I feel like Monica Bill Barnes!!"
@@ -206,7 +333,7 @@ a dance term or reference.
 
 "Really emphasize the contrapposto"
 
-"Can you do a tandu?"
+"Just imagine you're doing a tandu"
 
 "The maxi starts with a turnout then slowly evolves until you end up in second position"
 
@@ -244,133 +371,55 @@ tell me I'm a dumbass and that's whats I appreciates abouts her.
 </figure>
 
 
-<h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
-At the start of rehearsals Mark instructed us to write our name on a few of our
-props. Since I routinely wake up in the morning and choose silliness
-I write A<span class="flip-h">N</span>DY like our best good pal Woody
-sports 'neath his cowboy boot.
+While Allie receives a disproportionate share of my neophytic interrogation she's
+not the sole recipient. After one particularly shambolic rehearsal
+I exasperatedly look at Dana,
 
-<figure class="figure container-fluid">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-andy_cup.jpeg" alt="Andy">
-	<figcaption class="figure-caption">There's a snake in my boots!</figcaption>
-</figure>
+"Is it normal to feel like you've got it one day then feel like you don't know a
+damn thing the next?"
 
-And this is how I inadvertently adopted Andy as my stage name.
+"Of course, it happens every time. Rehearsals are like a roller coaster and
+everyone is on a different part of the ride. Then somehow it all just clicks."
 
-One day Alexandra asks me, "Do you prefer Andrew or Andy?"
+"Alright I'll take your word for it. Right now it feels like I could do 1000
+rehearsals and it wouldn't click."
 
-"I don't really care, either works."
+"You'll be fine."
 
-Alexandra stares at me with a look of someone who's been called "Alex",
-"Allie", "Alexandria", and any number of creative or otherwise head-scratching
-names that suggests *no seriously, what do you like to be called?*
+This is a common theme during rehearsals. Unconditional support and reassurance
+are seemingly inexhaustible resources at the Samuel H. Scripps Studio.I never
+feel reticent to ask a stupid question, I never feel ostracized 
 
-But I really don't have a preference. I've been called *much* worse than Andy, I
-can assure you of that. Among my friends back home I'm almost exclusively
-called "Toys". This curious cognomen arose within a high school milieu in which
-everyone was referred to by their last name. Curthoys soon became
-CarToys, which, in a display of ruthless syllabic economy simply became "Toys."
-The moniker was passed down like a pair of worn out sneakers to my younger
-brothers, who are known by my friends as Allie (Alex) Toy, Timmy Toy, & Johnny
-Toy. Naturally, I'm known to all their friends as Andy Toy.
+And I 100% believe that starts with Mark. He fosters a positive environment where
+the only criticism is positive. Even when giving notes he 
 
-This did have the concomitant effect that during rehearsals, in an effort to
-emphasize that the prop guns used during the performance were not real weapons,
-Mark encouraged us to call them "toys" instead of "guns." So every time someone
-referenced the prop guns my head instinctively popped up like a meerkat.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-		<iframe src="https://giphy.com/embed/6pUBXVTai18Iw" width="100%" height="100%" style="position:absolute;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<figcaption class="figure-caption mb-2">Did someone say toys?</figcaption>
 
-After a few days of rehearsals we're tasked with working out our costumes. Mark
-gave us a few ideas of characters he typically likes to see and outfits that
-might work. Everyone rummages through their closet and brings a menagerie of
-clothes, hats, bags, and accessories for consideration.
+Throughout rehearsals the vibe is playful yet professional. Each one of us
+realize we're here
+to do a job and to express Mark's creative vision to the best of our ability.
+Throughout the course of each rehearsal we're constantly talking among ourselves,
+comparing
+notes, ironing out steps, perfecting hand positions, trying out facial
+expressions. It's a remarkably collaborative and supportive environment.
 
-It shouldn't stretch the imagination that a roomful of dancers let loose on
-costumes is a giddy bunch. Everyone is having a great time. Exchanging outfits,
-trying out looks, pilfering through the offerings on display at Boutique Alyce,
-the miniature emporium of all things fashion set up by Alyce in a corner of the
-studio. It's the dance equivalent of a general store selling picks and
-shovels during the California gold rush.
+A typical sample of a conversation during rehearsal,
 
-Unfortunately my sartorial selection falls near the very end of the dance
-wardrobe spectrum, just this side
-of "dad clothes." So while everyone is flitting around exchanging outfits and
-trying new looks I mostly just mill about and admire everyone else's duds.
-Once everyone has showcased their looks for Mark he eyes my Sunday afternoon
-golf attire and sarcastically pans,
+"Ok so, Cate, you're high claw leaving pink?"
 
-"Well *Andy's* made my job easy, you haven't even changed!"
+"No I'm halfway."
 
-"I don't really have anything that fun, what angle were you thinking for me?"
+"Wait... then where should I be?"
 
-"I'm thinking a granola, hippie co-op barista type. Birkenstocks, maybe a chunky
-sweater, sarong? Do you have any of that?"
+"I think you should be fully high claw leaving blue."
 
-"Uhhh no."
+"Leaving blue? Really? I thought it was... Well, let me see.... Ohhhhh *leaving
+blue*!... Ok now that makes sense, that way I have two laps to neutral when I
+get to green"
 
-I don't admit that I don't know what a sarong is.
+"Yes, I'll be neutral just as I'm leaving the stage."
 
-"Ok ask around if you can borrow something. Brace, Hendri, and I are going
-shopping on Friday so we'll look for something for you too."
-
-"Okie doke."
-
-Brace & Hendri are the newcomers to our crew. They were part of the original
-cast and have stepped these
-steps dozens of times over the years. They live in Seattle and Mark called on
-them to even out the number of men and presumably add a little diversity to my
-fellow white guys, Johnathan & Matt. During the first week we often
-rehearsed with them as "holes" in the lineup, but increasingly Aaron stepped in
-to fill the gaps. Aaron lives in San Antonio (just a few miles from my old house
-we later found out) and is working at ADF for the summer. He has also performed
-the piece in the past, bringing three experienced performers to help alleviate
-the pedagogical burden from Mark alone.
-
-<figure class="figure container-fluid">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-lunch.jpeg" alt="Lunch">
-	<figcaption class="figure-caption">Enjoying lunch with Hendri & Brace ahead
-	of night 2</figcaption>
-</figure>
-
-When the Seattle crew returns from their Friday shopping spree they have found
-me a crop top sweater with a deep V, a high slit sarong, and a colorful over
-the shoulder bag. I borrow some Birkenstocks from a friend in my apartment and
-add dig up a green scuba diving headband that I stole from my brother who stole
-it from my mom. This crunchy character I decide to call "Aspen."
-
-Something about this outfit really causes my Shirley strut to pop.
-
-My final outfit is completely supplied by yours truly. One day while leaving
-rehearsals Brace hollers, "hey, bring your cowboy hat tomorrow."
-
-"10-4, should I bring my shitkickers too?"
-
-"Yes."
-
-"You got it partner."
-
-So I show up the next day with a pair of cowboy boots, blue jeans, a pearl snap
-shirt from a
-<a href="https://www.instagram.com/shinyribs/" target="_blank" rel="noopener noreferrer">Shinyribs</a> concert in San Antonio, a bolo tie from Montana, and a
-cowboy hat I requisitioned at the Houston rodeo.
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6sRkHPQBlJiwsj2ekw7L34?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-When I'm adorned in full cowboy regalia Mark looks at me, "oh we need a name for
-this cowboy...... I'm going to call you 'Zane'".
-
-The Durham Herald Sun ran a story on Zane the next day,
-
-<div class="text-muted fst-italic mx-3 mb-3">
-A tall handsome stranger rode into town<br>
-With fire in his eyes burning red as sundown<br>
-His boots were all dusty, his coat open wide<br>
-Six ways of dying hung low on his side
-</div>
+"Got it, thanks."
 
 
 <h4 class="article-subheader">Headshot Redux</h4>
@@ -482,13 +531,13 @@ shooting me a glare so as to suggest *if you know what's best for your health,
 young man, you better not even think about it*. I would never, Linda Belans, I
 would never.
 
-<figure class="figure">
+<figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-linda.jpg" alt="Linda">
 	<figcaption class="figure-caption">Linda Belans is a treasure</figcaption>
 </figure>
 
 A quick detour: I have discovered that the Trace Adkins Wikipedia page is a
-stream-of-consciousness minefield, littered with the wreckage of broken body
+stream-of-consciousness masterpiece, littered with the wreckage of broken body
 parts, broken marriages, and broken sequiturs. A few selections:
 
 <div class="text-muted fst-italic mx-3 mb-3">
@@ -571,14 +620,14 @@ rock will understand the how much I adore this song.
 
 The song has also been covered by the likes of Elvis Presley, Percy Sledge,
 Frankie Valli, Luther Vandross, James Brown, and Eddie Kendricks of The
-Temptations. You might have heard of them.
+Temptations. Pretty decent company I reckon.
 
-The soundtrack also includes favorites from Eric Church, (fellow Oklahoman) Toby
-Keith, Martina McBride, and the Indian Outlaw Tim McGraw, among others. We
+The soundtrack also includes favorites from Eric Church, fellow Okie Toby
+Keith, Martina McBride, and the Indian Outlaw hisself Tim McGraw. We
 listen to the soundtrack so many times that it worms its way into our
 subconsciousness. Any time I hear one of the songs from the performance my
-brain instinctively starts waiting for the fade-in to the next song in the
-piece. It's the same affliction I suffer with *Rumours*.
+brain instinctively starts waiting for the fade-in to the next song. A life-long
+gift that will forever remind me of two of the most fun weeks of my life.
 
 
 <h4 class="article-subheader">Catharsis</h4>
@@ -601,18 +650,17 @@ person's wrist wrenches forward uncomfortably. Answering the most world's most
 pressing questions here at ADF.
 
 But the captivity does not just engender nonsense and frivolity; it can also
-play with your emotions in unexpected ways. During the last rehearsal of our
-first week Mark introduces
-a new section of the performance that's an homage to the Covid pandemic. It's
-simple, it's moving, it's beautiful.
+play with your emotions in unexpected ways. During the last rehearsal of week 1
+Mark introduces a brand new section of the performance as an homage to the Covid
+pandemic. It's simple, it's moving, it's beautiful.
 
 After our first *pandemic* run-through the collective dam holding
 everyone's emotional reservoir bursts, releasing a tsunami of
 sentimental feelings that leaves nary a dry eye in the studio. Each of us
 experiences our own unique, personal emotional journey, expressed
 through the shared language of weepy hugs. For me, it's as simple as remembering
-riding in the car with my dad, listening to country music on 95.5 FM. It's such
-a simple memory that carries the weight of the memories of a man whose
+riding in the car with my old man, listening to country music on 95.5 FM. It's
+such a simple memory that carries the weight of memories of a man whose
 personality was so enormous everyone called him Big Daddy.
 
 <figure class="figure">
@@ -620,8 +668,8 @@ personality was so enormous everyone called him Big Daddy.
 	<figcaption class="figure-caption">I'm just a carefree range-ridin' driftin' cowpoke</figcaption>
 </figure>
 
-I wipe way the tears thinking how I just wish I could hear him say, "why the
-hell do you want walk around naked in front of a bunch of people."
+I wipe way the tears thinking how I just wish I could hear him say,
+"why the hell do you want walk around naked in front of a bunch of people."
 
 Because that's exactly what he would say.
 
@@ -651,53 +699,20 @@ anybody in this piece who took themselves too seriously."
 
 Well, brother, you got what you asked for here.
 
-That isn't to say we're unprofessional. Each one of us realize we're here
-to do a job and to express Mark's creative vision to the best of our ability.
-Throughout the course of each rehearsal we're constantly talking among ourselves,
-comparing
-notes, ironing out steps, perfecting hand positions, trying out facial
-expressions. It's a remarkably collaborative and supportive environment.
+The favor is returned on our last run-through of rehearsals - as we emerge for
+our curtain call we see Mark in the back corner of the studio completely naked
+doing a ho-down. I mean he's really getting into it, feet flying, arms flailing,
+junk flapping. I just wish I could have seen the reaction of the runners on the
+East Campus trail across the street when they saw Mark Haim's bare ass bouncing
+in the window.
 
-I never feel reticent to ask a stupid question; if anyone grows weary of my
-inane inquiries they do a masterful job hiding it. A typical
-sample of a conversation we would have during rehearsal,
+We've reached the naked goofin' part of rehearsals. That surely means we're
+ready for the real thing.
 
-"Ok so, Cate, you're high claw leaving pink?"
-
-"No I'm halfway."
-
-"Wait... then where should I be?"
-
-"I think you should be fully high claw leaving blue."
-
-"Leaving blue? Let me see.... Ohhh ok, that makes sense, that way I have two
-laps to neutral when I get to green"
-
-"Yes, I'll be neutral just as I'm leaving the stage."
-
-"Got it, thanks."
+There's only one way to find out.
 
 
 
-
-
-
-<h4 class="article-subheader">How Do You Hold Hands?</h4>
-The captivity of rehearsals, in addition to sparking deep, contemplative
-discussions of nudity and sexuality, also sparks shallow, silly discussions of
-nonsense and frivolity.
-
-One day during a lull I wander into a conversation that Matt & Renay are
-having regarding their preferred method of holding hands. After some wrangling
-of mitts Matt ends up in front and Renay in back. They each recall holding hands
-in the alternate position but for whatever reason this feels right. I reach out
-a paw and find that I fit best in front with both of my colleagues. Matt tries
-the frontward position and works out a theory of hand holding logistics: taller
-person goes in front.
-
-Which makes sense to me because I think I've only assumed the forward station
-and can't remember holding the hand of someone taller than me. Which leads us
-to the inevitable conclusion that I'll have to try it with Brace.
 
 
 
