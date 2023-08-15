@@ -523,6 +523,9 @@ But most of all I want to thank Mark Haim for taking a chance on a hayseed from
 Oklahoma with no dane experience to participate in a piece that's so meaningful
 to him.
 
+I've been agonizing how to end this essay but maybe it's not the end. Maybe this
+is just the beginning of my journey in the wonderful world of dance.
+
 
 In the second performance I completely lost my count on one of my sideways
 passes with skips and just had to wing it. I lost my instruments and just had

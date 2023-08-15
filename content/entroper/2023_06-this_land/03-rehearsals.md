@@ -34,13 +34,50 @@ My flight landed late last night so my energy levels are dangerously depleted.
 
 This should go well.
 
-As we work through a few cycles Mark says the deal about walking back farther
+As we work through a few cycles *one-two-three-four-five-six-seven-eight-pivot*
+*one-two-three-four-five-six-seven-eight-pivot*
+Mark offers a tip to keep our lines
+straight, "make sure your steps are a little longer on the way back because
+you have to walk farther since it's on an angle."
 
-THis is when the emergency FEMA workers in my brain get to work
+At this point my brain starts calculating. I'm so tired I can barely stand up
+but the "well actually" center of my brain is running full steam ahead. It's
+like the rich part of town during "rolling blackouts."
 
-Put Pythagoras here?
+<div class="text-muted fst-italic mx-3 mb-3">
+Ok so we take 8 steps out, and if we assume it's one step over on the way back,
+Pythagoras tells us our hypotenuse would be $\sqrt{65}$ steps. That
+can't possibly be <b>that</b> much bigger than 8 right?
+</div>
+
+At the next break I grab my phone.
+
+$\sqrt{65} = 8.0623$.
+
+Which means the distance we would have to walk upstage is 0.778% longer than the
+distance we walk downstage\*. If we assume an average stride length of 2.5 ft
+our downstage stroll totals 20. In order to account for the angle that means
+we'd need to walk 20 feet 1.87 inches on the way back. Or an extra 0.23 inches
+per step.  We're good but I don't think we're *that* good.
+
+*\*I just learned what upstage & downstage meant during rehearsal today. I'm only
+77.8% sure I'm using it correctly here.*
+
+I'm not saying there's a psychological difference in how far it *feels*.
+
+I'm just saying the *actual* distance is pretty negligible. I'm also saying that
+I'm a pedantic asshole whose brain doesn't have an off switch.
+
+But then again that might be why I'm able to understand a dance performance
+based on counting and trigonometry. Perhaps.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-step_graph.png" alt="Step Graph">
+	<figcaption class="figure-caption">Of course I made a graph. Pedantic asshole indeed.</figcaption>
+</figure>
 
 
+<h4 class="article-subheader">Install</h4>
 During the two months between the audition and the start of rehearsals Mark sent
 us an email with our order in the lineup. He assigned each of us a performer from
 the Paris video to study. I drew Jurg:
@@ -145,17 +182,17 @@ marginally presentable level. I guess that will have to do.
 
 
 <h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
-At the start of rehearsals Mark instructs us to write our name on a few of our
-props. Since I routinely wake up in the morning and choose silliness
-I write A<span class="flip-h">N</span>DY like our best good pal Woody
-brandishes 'neath his cowboy boot.
+Once we graduate to props Mark instructs us to write our name on a handful of
+cups to keep everything organized. Since I routinely wake up in the morning and
+choose silliness I write A<span class="flip-h">N</span>DY like our best good pal
+Woody brandishes 'neath his cowboy boot.
 
 <figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-andy_cup.jpeg" alt="Andy">
 	<figcaption class="figure-caption">Somebody's poisoned the waterhole!</figcaption>
 </figure>
 
-And this is how I inadvertently adopted Andy as my stage name.
+And this is how I inadvertently adopt Andy as my stage name.
 
 One day Alexandra asks me, "Do you prefer Andrew or Andy?"
 
@@ -275,6 +312,59 @@ Six ways of dying hung low on his side
 </div>
 
 
+<h4 class="article-subheader">Adagi-what Now?</h4>
+"Linda Belans!!\* You are going to come out during the adagio sequence."
+
+\*Mark always referred to Linda by her full name. It became a running gag with
+the company.
+
+I whisper to Allie, "the what sequence?"
+
+"Adagio"
+
+*blank stare*
+
+"It's a dance term that means..... actually you don't have to do it so don't
+worry about it"
+
+Ahhhh what a wonderful phrase! The dancer's hakuna matata. 
+
+This is hardly the first or the last time I'm left plumflutterated at the use of
+a dance term or reference.
+
+"We need less Lim&oacute;n overcurve"
+
+"Really emphasize the contrapposto"
+
+"Just imagine you're doing a tandu"
+
+"The maxi starts with a turnout then slowly evolves until you end up in second
+position"
+
+"I feel like Monica Bill Barnes!! During this sequence I want everyone to
+pretend they are Monica Bill Barnes!!"
+
+I lean over to Allie, "who?"
+
+"Monica Bill Barnes"
+
+"Who's Monica Bilbarns?"
+
+She looks at me like I asked who Michael Jordan was at a basketball camp.
+
+"She's a choreographer in New York."
+
+Choreographer in New York. Got it. That should narrow it down. I pretend like
+the answer sates my curiosity but I really have no idea what Monica Bill Barnes
+should look like. Guess I'll just have to resort to my strategy that has gotten
+me this far: fake it till you make it.
+
+Monica, if you're reading this can you send me a headshot? I need to see how
+accurate my impersonation was.
+
+Speaking of headshots...
+
+
 <h4 class="article-subheader">Headshot Redux</h4>
 <div class="text-muted fst-italic mx-3 mb-3">
 Greetings Dancers!<br><br>
@@ -284,17 +374,17 @@ bios is June 8th and when you all get the chance, please email me your headshots
 along with your first and last name. 
 </div>
 
-Oh no, not this again. Headshots???
+Oh no, not this again. Headshots??? Is it too late to back out?
 
 At least this time I have the experience of a baker's
 dozen dancers that I can lean on. I ask the crew if they will help me write a
 bio and take a headshot and they of course agree. We plan to huddle up at the
 next rehearsal, where I summarily forget. And continue to forget each of the
 next three rehearsals until the deadline day. I hastily scribble something down
-and send it to Destinee, I'll have to figure something out for this headshot.
+and send it to Destinee. Headshot still pending.
 
-Today is our day off so Dana agrees to meet me at Daily Beer Bar to punch up
-my bio & take a headshot for me. Seeing as we're planning to sip some suds from
+We've reached our day off so Dana agrees to meet me at Daily Beer Bar to punch up
+my bio & snap a headshot. Seeing as we're planning to sip some suds from
 my favorite beer bar in Durham I throw on a shirt from
 <a href="https://www.instagram.com/americansolera/" target="_blank" rel="noopener noreferrer">my favorite brewery</a>.
 
@@ -303,7 +393,7 @@ my favorite beer bar in Durham I throw on a shirt from
 	<figcaption class="figure-caption">Meet Beyonce the brewery cat</figcaption>
 </figure>
 
-As I stroll up to the bar Dana sees me and immediately exclaims, "Oh my god,
+As I stroll up to the bar Dana sees me and shouts across the street, "Oh my god,
 you're NOT wearing that for your headshot!"
 
 "What?"
@@ -317,14 +407,15 @@ you're NOT wearing that for your headshot!"
 "Why does my shirt matter? It's a HEADshot not a HEADANDSHIRTshot"
 
 The look on Dana's face is a mixture of disappointment, resignation, and a
-heavy dose of "*you're an idiot*".
+heavy dose of *you're an idiot*.
 
 So I guess we're not getting a head(and shirt apparently)shot today. I'm
 stressing out because it's already past the deadline and we're getting close
 to opening day. Dana assures me that the programs are all digital so my worries
 about getting the headshot and bio submitted before "it goes to print" are unfounded.
 
-We spend about a beer and a half mulling over the wording of my bio, cutting
+Seeing as we're already here we spend about a beer and a half mulling over the
+wording of my bio, cutting
 this, tightening that, rewording here. Once we're satisfied I send over the
 final copy to Desinee and agree to bring a plain, unmarked (boring) shirt to
 rehearsals tomorrow for my headshot. We each vow to not forget tomorrow.
@@ -336,9 +427,9 @@ way home. I commandeer Allie to serve as photographer, who surely would prefer
 to do *anything* else after 6 hours of rehearsing. But she agrees because she's
 a wonderful human. We make a whirlwind tour of the studios looking for an
 appropriate backdrop and lighting. We find a spot in the main rehearsal space
-and Allie snaps a series of photos while Brace cracks me up by just being Brace.
+and Allie snaps a series of photos while Brace cracks me up by... just being Brace.
 
-An artist is only as good as her tools and despite Allie's best efforts I...
+An artist is only as good as her tools and despite Allie's best efforts I still
 look like a dweeb. I wouldn't recommend a photoshoot while exhausted and sweaty
 from a full day of rehearsing. Whatever, I send the photo and put the whole
 headshot hardship behind me.
@@ -349,89 +440,6 @@ headshot hardship behind me.
 </figure>
 
 
-<h4 class="article-subheader">Pythagoras</h4>
-During our first rehearsal Mark offers a tip to help keep our lines
-straight, "make sure your steps are a little longer on the way back because
-you have to walk farther since it's on an angle."
-
-At this point my brain starts calculating. It's a subconscious reaction that I
-have no control over.
-
-<div class="text-muted fst-italic mx-3 mb-3">
-Ok so we take 8 steps out, and if we assume it's one step over on the way back,
-Pythagoras tells us our hypotenuse would be $\sqrt{65}$ steps. That
-can't possibly be <b>that</b> much bigger than 8 right?
-</div>
-
-At the next break I grab my phone.
-
-$\sqrt{65} = 8.0623$.
-
-Which means the distance we would have to walk upstage is 0.778% longer than the
-distance we walk downstage\*. If we assume an average stride length of 2.5 ft
-our downstage stroll totals 20. In order to account for the angle that means
-we'd need to walk 20 feet 1.87 inches on the way back. Or an extra 0.23 inches
-per step.  We're good but I don't think we're *that* good.
-
-*\*I just learned what upstage & downstage meant during rehearsal today. I'm only
-77.8% sure I'm using it correctly here.*
-
-I'm not saying there's a psychological difference in how far it *feels*.
-
-I'm just saying the *actual* distance is pretty negligible. I'm also saying that
-I'm a pedantic asshole whose brain doesn't have an off switch.
-
-But then again that might be why I'm able to understand a dance performance
-based on counting and trigonometry. Perhaps.
-
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-step_graph.png" alt="Step Graph">
-	<figcaption class="figure-caption">Of course I made a graph. Pedantic asshole indeed.</figcaption>
-</figure>
-
-
-<h4 class="article-subheader">Adagi-what Now?</h4>
-During one rehearsal, Mark exhibits the posture and facial expression
-he's is looking for and exclaims,
-
-"I feel like Monica Bill Barnes!!"
-
-I lean over to Allie, "who's Monica Bill Barnes?"
-
-She looks at me like I asked who Michael Jordan was at a basketball camp.
-
-"She's a choreographer in New York."
-
-"Ah ok, got it."
-
-So Monica Bill Barnes is a choreographer in New York. I pretend like this answer
-sates my curiosity but I still have no idea what Monica Bill Barnes should look
-like. I'll just have to resort to my strategy that has gotten me this far: fake
-it till you make it.
-
-This is hardly the first or the last time I'm left plumflutterated at the use of
-a dance term or reference.
-
-"We need less Lim&oacute;n overcurve"
-
-"Really emphasize the contrapposto"
-
-"Just imagine you're doing a tandu"
-
-"The maxi starts with a turnout then slowly evolves until you end up in second position"
-
-"McKelynn You are going to come out during the adagio sequence."
-
-I whisper to Allie, "the what sequence?"
-
-"Adagio"
-
-*blank stare*
-
-"It's a dance term that means..... actually you don't have to do it so don't
-worry about it"
-
-Ahhhh what a wonderful phrase. The dancer's hakuna matata. 
 
 It's no coincidence that Allie is preferentially shelled by my obtuse ordnance.
 She's drawn the short straw of slotting behind me in the line. Due to
@@ -522,11 +530,10 @@ turns red.
 
 "SLAP YOUR GRANDMA!!??"
 
-If Trace Adkins had a grandma the caliber of Linda Belans he wouldn't even think
-of such a calamitous feat of skullduggery.
+If Trace Adkins had a grandma the caliber of Linda Belans he wouldn't think of
+such a thing.
 
-was not nonplussed with the suggestion. As you can imagine it became a running
-joke during rehearsals. The timing worked out that Mr Adkins's advocation for
+The timing worked out that Mr. Adkins's advocation for
 familial violence coincided with my stage exit. And who's seat was
 right there at the edge of the stage was none other than the incomparable Linda
 Belans.
@@ -541,7 +548,9 @@ would never.
 	<figcaption class="figure-caption">Linda Belans is a treasure</figcaption>
 </figure>
 
-A quick detour: I have discovered that the Trace Adkins Wikipedia page is a
+If Trace Adkins knew what was good for his health he'd definitely wouldn't slap
+Linda Belans. But then again, it seems he doesn't care too much for his health
+from reading his Wikipedia page. It's a
 stream-of-consciousness masterpiece, littered with the wreckage of broken body
 parts, broken marriages, and broken sequiturs. A few selections:
 
