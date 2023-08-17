@@ -1,5 +1,5 @@
 title: Rehearsals
-subtitle: Part 1 <i>and</i> 2 <i>and</i> 3: Rehearsals
+subtitle: <span style="font-size:1.3rem;">Part One <sub>and</sub> Two <sub>and</sub> Three: </span><span style="font-size:1.5rem;">Rehearsals</span>
 slug: entroper/2023_06-this_land/03-rehearsals
 slug_base: entroper/2023_06-this_land
 day_alias: Rehearsals
@@ -517,6 +517,8 @@ In the 2005 rhapsodic ode to healthy backsides, "Honky Tonk Badonkadonk,"
 Trace Adkins croons,
 
 <div class="text-muted fst-italic mx-3 mb-3">
+Got it goin' on<br>
+Like Donkey Kong<br>
 And ooh-wee<br>
 Shut my mouth<br>
 Slap your grandma<br>
@@ -528,31 +530,41 @@ So the first time that Linda Belans, a proud grandmother, hears the bard of
 Sarepta, Louisiana suggest such a brutish act of matriarchal thwacking her face
 turns red. 
 
-"SLAP YOUR GRANDMA!!??"
+"SLAP YOUR GRANDMA!!?? Who does this guy think he is??"
 
-If Trace Adkins had a grandma the caliber of Linda Belans he wouldn't think of
-such a thing.
+"You don't know Trace Adkins, Linda?"
 
-The timing worked out that Mr. Adkins's advocation for
-familial violence coincided with my stage exit. And who's seat was
-right there at the edge of the stage was none other than the incomparable Linda
-Belans.
+"No and I don't care to"
 
-Each time her reaction would fall somewhere between covering her face with her hands and
-shooting me a glare so as to suggest *if you know what's best for your health,
-young man, you better not even think about it*. I would never, Linda Belans, I
-would never.
+"You're really missing out, he has an entire catalog of songs he didn't
+write"
+
+For example: *Songs About Me*, written by Shayne Smith and Ed Hill.
+
+The timing works out with our ambulatory pattern that Mr. Adkins's advocation
+for familial violence occurs just as I exit the stage. And whose chair is
+perched right at the edge of the curtain?
+
+The incomparable Linda Belans.
+
+Each time I pass by I shoot her a Ralph Kramden "*why I oughta*" look. Her
+reaction always falls somewher between "*ahhh shaddup*" and "*if you
+know what's best for your health, young man, you better not even think about
+it*".
+
+<!-- I would never, Linda Belans! I would never! -->
 
 <figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-linda.jpg" alt="Linda">
 	<figcaption class="figure-caption">Linda Belans is a treasure</figcaption>
 </figure>
 
-If Trace Adkins knew what was good for his health he'd definitely wouldn't slap
-Linda Belans. But then again, it seems he doesn't care too much for his health
-from reading his Wikipedia page. It's a
-stream-of-consciousness masterpiece, littered with the wreckage of broken body
-parts, broken marriages, and broken sequiturs. A few selections:
+Which makes sense that Trace Adkins would suggest slappin' your grandma because
+it seems he cares little for his health. A perusal of his Wikipedia page
+revealed a stream-of-consciousness masterpiece, littered with the wreckage of
+broken body parts, broken marriages, and broken sequiturs.
+
+From the "*the last sentence was written by someone else*" department:
 
 <div class="text-muted fst-italic mx-3 mb-3">
 <p>
@@ -573,7 +585,11 @@ of the 2011 World Series in St. Louis."
 (a first-person account of a fictional soldier who was about to be buried in
 Arlington National Cemetery). It was followed by 'Honky Tonk Badonkadonk.'"
 </p>
+</div>
 
+The "*my body my corpse*" corps:
+
+<div class="text-muted fst-italic mx-3 mb-3">
 <p>
 "In 2001, Adkins was injured in a tractor accident and had to cancel touring
 temporarily."
@@ -584,7 +600,12 @@ temporarily."
 bucket, and asked doctors to reattach the finger at an angle so that he could
 continue to play guitar."
 </p>
+</div>
 
+Which overlaps with the "*how many crazy ex wives does it take to realize maybe
+you're the problem*" squadron:
+
+<div class="text-muted fst-italic mx-3 mb-3">
 <p>
 "He has also experienced a number of serious injuries as an adult, including
 being shot by his second ex-wife Julie Curtis in 1994. The bullet went
@@ -598,7 +619,11 @@ irreconcilable differences. Rhonda dismissed her divorce petition in June 2015.
 Despite rumors of reconciliation, Adkins re-filed for divorce less than a month
 later."
 </p>
+</div>
 
+And finally, from the ministry of "*how can we shoehorn this back into my story*":
+
+<div class="text-muted fst-italic mx-3 mb-3">
 <p>
 "Adkins recorded a duet with country legend Ronnie Milsap called "My First Ride"
 to benefit fire-fighters and police officers in the U.S. and Canada. Then, after
@@ -607,11 +632,13 @@ explanation given."
 </p>
 </div>
 
-I'll use that last little tidbit to fling a lasso 'round the horns of the
-runaway steer that this story has become. Because the song that precedes
-Adkins's in our performance was sung by none other than Ronnie Milsap.
+Because the song that precedes *Honky Tonk Badonkadonk* in our performance was
+sung by none other than Ronnie Milsap.
 Originally penned by Burt Bacharach, the song *Any Day Now*, opens Milsap's 1982
 album *Inside*. In a stark juxtaposition to Adkins's objectifying anthem,
+*Any Day Now* pokes at that raw nerve deep in your gut
+
+a relationship on the rocks and a sweetie who's gonna break your heart.
 Milsap tenderly sings about that hollow feeling deep down in your gut when you
 know your sweetheart is about to break your heart,
 
@@ -626,20 +653,22 @@ Any day now<br>
 I'll be all alone
 </div>
 
-Despite the heart wrenching lyrics Milsap's velvety smooth treatment somehow lulls
+<iframe class="mb-2" style="border-radius:12px" src="https://open.spotify.com/embed/track/30upl1YT1suEgSDpIopSky?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+Somehow Milsap's velvety smooth treatment of gut wrenching lyrics lulls
 you into its captivating trance just like the devilish grin of your former flame.
-The song falls squarely in the subgenre of Yacht Rock that I just invented
-called *Pontoon DockRock*. As anyone who knows how much I love pontoons and yacht
-rock will understand the how much I adore this song.
+It's a song that falls squarely in the subgenre of Yacht Rock that I just invented
+called *Pontoon DockRock*. As anyone who knows my adoration for pontoons and
+yacht rock will understand my level of obsession with this song.
 
 The song has also been covered by the likes of Elvis Presley, Percy Sledge,
 Frankie Valli, Luther Vandross, James Brown, and Eddie Kendricks of The
 Temptations. Pretty decent company I reckon.
 
-The soundtrack also includes favorites from Eric Church, fellow Okie Toby
-Keith, Martina McBride, and the Indian Outlaw hisself Tim McGraw. We
-listen to the soundtrack so many times that it worms its way into our
-subconsciousness. Any time I hear one of the songs from the performance my
+Our soundtrack also includes favorites from Eric Church, fellow Okie Toby
+Keith, Martina McBride, and the Indian Outlaw hisself Tim McGraw. We listen to
+the same songs over and over and over and over and over - so many times they
+worm their way into our subconsciousness. Any time I hear one of these songs my
 brain instinctively starts waiting for the fade-in to the next song. A life-long
 gift that will forever remind me of two of the most fun weeks of my life.
 
@@ -682,14 +711,14 @@ personality was so enormous everyone called him Big Daddy.
 	<figcaption class="figure-caption">I'm just a carefree range-ridin' driftin' cowpoke</figcaption>
 </figure>
 
-I wipe way the tears thinking how I just wish I could hear him say,
+I wipe away the tears thinking how I just wish I could hear him say,
 "why the hell do you want walk around naked in front of a bunch of people."
 
 Because that's exactly what he would say.
 
 
 <h4 class="article-subheader">Andy, You Shit!</h4>
-As rehearsals continue we get more comfortable with each run under our belt.
+As rehearsals continue we get more comfortable with each run.
 Less thinking and more emoting.
 
 On the Saturday before the shows I was feeling really comfortable.
@@ -707,7 +736,7 @@ notebook,
 "Andy, you fuck!"
 
 When Mark reads his notes after this run I *literally* roll around on the floor
-laughing. I reckon a little bit of levity is warranted as we approach 60
+laughing. I suppose a little bit of levity is warranted as we approach 60
 hours of rehearsal time. As Mark said, "I didn't want
 anybody in this piece who took themselves too seriously."
 
@@ -724,7 +753,7 @@ in the window.
 We've reached the naked goofin' part of rehearsals. That surely means we're
 ready for the real thing.
 
-There's only one way to find out.
+Now, there's only one way to find out.
 
 
 

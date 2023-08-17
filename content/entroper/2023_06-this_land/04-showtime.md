@@ -1,5 +1,5 @@
 title: Showtime
-subtitle: Part 1 <i>and</i> 2 <i>and</i> 3 <i>and</i> 4: Showtime
+subtitle: <span style="font-size:1.2rem;">Part One <sub>and</sub> Two <sub>and</sub> Three <sub>and</sub> Four: </span><span style="font-size:1.5rem;">Showtime</span>
 slug: entroper/2023_06-this_land/04-showtime
 slug_base: entroper/2023_06-this_land
 day_alias: Showtime
@@ -17,6 +17,21 @@ summary:
 
 Recently on one of my favorite podcasts, *Penpals* hosted by my two favorite
 cackling idiots
+
+<h4 class="article-subheader">Any Day Now</h4>
+*Five - Six - Seven - Eight*
+
+Love Will Let You Down
+
+*One - Two - Three - Four*
+
+I step up to my mark at the edge of the curtain.
+
+*1 - 2 - 3 - 4*
+
+And on the 5 I take my first step onto the stage in my inaugural performance as
+a dancer...
+
 
 <h4 class="article-subheader">It's Art, Get It?</h4>
 Art is by its very nature a subjective human pursuit. There's no one way, no
@@ -57,28 +72,30 @@ At least that's my conclusion.
 
 
 <h4 class="article-subheader">Dress Rehearsal</h4>
-On opening night eve we mosey over to the Nasher for a full dress rehearsal in
+On the eve of opening night we mosey over to the Nasher for a full dress rehearsal in
 the *interactive viewing experience*. I've yet to grace the halls of the
 Nasher and when I stroll into its capacious atrium I'm blown away by the
 asymmetrical 5-sided glass roof. The most marvelous aspect is the fact that
 the load is shared by 5 beams conjointly supporting a web of glass and steel
-without any beams spanning the full breadth of the room. It's somewhat like
+without any beams spanning its full breadth. It's somewhat like
 that classic dad trick of folding the flaps of a cardboard box to stay shut
 without tape. I ogle until my neck hurts. It's a beautiful piece of engineering.
 
 In the words of Rafael Vi&ntilde;oly, the Uruguayan-born architect, the Nasher
 was designed as
 <div class="text-muted fst-italic mx-3 mb-3">
-A collection of five separate, rectangular volumes arranged in a loose radial
-pattern near the top of a gentle slope define an irregular, pentagonal central
-courtyard topped by a glass roof. The complex, almost vertiginous geometries of
-the atrium roof are formed by a hierarchy of structural systems, all supported
-on five primary beams.
-<br><br>
-This seemingly simple network of structural supports adds
-rhythm, lightness, scale, and openness to the column-free public lobby and event
-space at the heart of the museum and also incorporates the building’s mechanical
-systems.
+<p>
+  A collection of five separate, rectangular volumes arranged in a loose radial
+  pattern near the top of a gentle slope define an irregular, pentagonal central
+  courtyard topped by a glass roof. The complex, almost vertiginous geometries of
+  the atrium roof are formed by a hierarchy of structural systems, all supported
+  on five primary beams.
+</p>
+<p>
+  This seemingly simple network of structural supports adds rhythm, lightness,
+  scale, and openness to the column-free public lobby and event space at the
+  heart of the museum and also incorporates the building’s mechanical systems.
+</p>
 </div>
 
 <figure class="figure">
@@ -320,10 +337,7 @@ Am I saying the world would be a better place if we all walked around stark
 naked in front of a group of strangers? Maybe. Maybe not. But I'd be willing to
 give it a shot.
 
-
-
-
-
+<h4 class="article-subheader">Performance Placeholder</h4>
 During rehearsals Mark instructed us to envision staring off into a deep blue
 lake
 
