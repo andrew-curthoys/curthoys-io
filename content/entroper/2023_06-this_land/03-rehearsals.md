@@ -15,8 +15,7 @@ photo:
 short_sum: Who ever knew so much work could be so much fun?
 summary: 
 
-*\*Mark always referred to Linda by her full name. The rest of the company
-naturally followed suit.*
+Musical cues
 
 <h4 class="article-subheader">"Jetlagged?"</h4>
 Mark asks with a slight kick to the left foot of my vaguely

@@ -18,26 +18,71 @@ summary:
 Recently on one of my favorite podcasts, *Penpals* hosted by my two favorite
 cackling idiots
 
-<h4 class="article-subheader">Any Day Now</h4>
-*Five - Six - Seven - Eight*
+<h4 class="article-subheader">Five - Six - Seven - Eight</h4>
 
-Love Will Let You Down
+&emsp;1<br>
+&emsp;&emsp;&emsp;2<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;3<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;7<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8<br>
+<i>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
+&emsp;&emsp;&emsp;7<br>
+&emsp;8<br>
+</i>
+&emsp;1<br>
+&emsp;&emsp;&emsp;2<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;3<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<i>skip</i><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;7<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8<br>
+<i>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;skip<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
+&emsp;&emsp;&emsp;7<br>
+&emsp;8<br>
+</i>
+&emsp;1<br>
+&emsp;&emsp;&emsp;2<br>
+&emsp;&emsp;&emsp;&emsp;&ensp;<span style="color:red; font-style:italic;">skip</span><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<span style="color:red; font-style:italic;">skip</span><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<span style="color:red; font-style:italic;">skip</span><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;7<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8<br>
+<i>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;skip<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
+&emsp;&emsp;&emsp;7<br>
+&emsp;8
+</i>
 
-*One - Two - Three - Four*
-
-I step up to my mark at the edge of the curtain.
-
-*1 - 2 - 3 - 4*
-
-And on the 5 I take my first step onto the stage in my inaugural performance as
-a dancer...
+Well we're 5 minutes in and I already fucked up. This should go well.
 
 
 <h4 class="article-subheader">It's Art, Get It?</h4>
-Art is by its very nature a subjective human pursuit. There's no one way, no
-right way, no wrong way to create, consume, or appreciate it. Art is intimately
-individual and that's where it derives its beauty. Y'know, the eye of the
-beholder and whatnot.
+Art is by its very nature a subjective human pursuit. A pursuit with no one way,
+no right way, no wrong way to create, consume, or appreciate it. An intimately
+individual expression. And that's where it derives its beauty. Y'know, the eye
+of the beholder and whatnot.
 
 Mark Haim's *This Land Is Your Land* is an extreme exercise in subjective
 interpretation. The piece is so
