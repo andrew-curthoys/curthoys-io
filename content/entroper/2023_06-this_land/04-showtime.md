@@ -375,22 +375,26 @@ Dana and Linda are. And I respect and admire them for it.
 
 
 
-<h4 class="article-subheader">Performance Placeholder</h4>
-During rehearsals Mark instructed us to envision staring off into a deep blue
-lake
+<h4 class="article-subheader">Deep Blue Lake</h4>
+During rehearsals Mark provided a note that is so nonsensical it makes sense.
+For all of our passes with a "neutral" facial expression, i.e. no smiling,
+scowling, or sneering, he instructs us to envision staring off into a deep blue
+lake. Which, on the face of it, doesn't seem to mean anything. But for whatever
+reason we all know *exactly* what he means. So nonsensical it makes sense.
+Make sense?
 
-During my first pass I'm acutely focused on locking my gaze above the heads of
-the audience, staring off into a deep blue lake as Mark told us during
-rehearsals. During rehearsals Mark told us to envision we were staring off
-into a deep blue lake. I do
-this because it's what Mark told us to do, but mostly because I know if I make
-eye contact with a friend I'll immediately crack up.
+So my first few passes I'm locked in on
+<a href="/traveler/2022_01-ski_trip/03-wine.html?id=crater" target="_blank" rel="noopener noreferrer">Crater Lake</a>,
+the deepest lake in the United States filled with pristine Pacific Northwest
+precipitation. That deep and blue enough for ya?
 
-One performance when I knew I had friends in the audience I did catch myself
-smothering a smirk during the nude section. As I strode out towards the audience
-I summoned every ounce of concentration in my body to maintain a stoic stare;
-on the way back I had to crush the grassroots campaign of a grin starting to
-organize on my face.
+The note is most useful for me for the fact that I know if I make
+eye contact with a friend I'll immediately crack up. The first performance of
+day 2 I know I have friends in the audience and I catch myself
+smothering a smirk during the nude section. As I stride out towards the audience
+I summon every ounce of concentration in my body to maintain a stoic stare;
+on the way back I have to ruthlessly crush the grassroots campaign of a grin
+organizing a jocund labor movement on my face.
 
 My first two passes contain pretty subtle choreography that help get us in a
 groove. My third pass calls for a single skip on each of the first two laps

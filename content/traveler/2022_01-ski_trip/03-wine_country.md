@@ -629,8 +629,8 @@ we hit the sack early, alarms set for the first train bound for the Beaver State
 
 As always seems to be the case, said alarms squawk much, much too soon and we're
 on the road chasing that red compass needle. Our final destination is Bend,
-home base for the next few days of skiing, however I have scheduled a
-detour to Crater Lake, which I have
+Oregon, our home base for the next few days of skiing. However we have scheduled
+a detour to Crater Lake, which I have
 <a href="/traveler/2021_04-ski_trip/wp/day_4.html?id=crater" target="_blank" rel="noopener noreferrer">seen from a plane</a>
 and need to see in person.
 
@@ -643,15 +643,15 @@ our left & the Sierra Nevada to our right. Speaking of pistachios, Josh Allen's
 family's pistachio farm is just 2 hours south of here... Not that I looked that
 up or anything...
 
-About 2 hours into the drive, right when we're in the middle of the valley, the crest of
+About 2 hours into the drive, smack in the middle of the valley, the crest of
 Mt Shasta pokes over the horizon. I was not expecting to see his snow covered
-dome so soon, we're still 150 miles away, but his presence is welcomed more
+dome so soon,- we're still 150 miles away - but his presence is welcomed more
 favorably than any unexpected guest I've ever encountered. As we continue our
-trek north the mountain ridges on either side close in, until we reach the
+trek North the mountain ridges on either side close in, until we reach the
 town of Redding, perched in the foothills of the Cascade Range.
 
-The road begins its slow, winding journey up the spine of the Cascades, around
-the western shoulder of Mt Shasta happening upon the town of Weed, California.
+Here the road begins its slow, winding journey up the spine of the Cascades, around
+the western shoulder of Mt Shasta, where we happen upon the town of Weed, California.
 It's as kitschy as you'd imagine. The signs, the shops, the paraphernalia. It's all about
 weeeeeeeeeed. Thankfully I don't touch the stuff. We pass through town without
 fanfare and continue our journey northward.
@@ -662,7 +662,7 @@ fanfare and continue our journey northward.
 </figure>
 
 We drive through an hour of high desert before reaching the road that guides us
-to Crater Lake, a meandering two lane road through snow covered fields. It's hard to
+to Crater Lake, a meandering two lane stretch through snow covered fields. It's hard to
 tell which peak the lake resides upon, however it appears that fog is smothering
 any of the peaks that
 it could possibly be. We still have another half hour to the rim, if we turn
@@ -714,7 +714,7 @@ seen in my entire life. Not one of the most miraculous views. **The** most
 miraculous view. I feel a bit like a fraud even sharing photos. It's less of a
 view than an experience.
 
-<figure class="figure">
+<figure id="crater" class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2022_01-ski_trip/sf_crater.jpeg" alt="Crater Lake">
   <figcaption class="figure-caption">It's glorious</figcaption>
 </figure>
@@ -722,11 +722,11 @@ view than an experience.
 Crater Lake is the world's timeline cleanser.
 
 We might have just stayed there, lived off the land, been citizens of Crater
-Lake. It's the most beautiful place I've ever seen. Just as we considered the
-life we'd have to lead if we became volcano people the fog rolls through.
+Lake. It's the most beautiful place I've ever experienced. Just as we considered
+the life we'd lead if we became volcano people the fog rolls through.
 Our timing was incredible.
 
-Speaking of time, we're behind schedule to Bend
+Speaking of time, we're behind schedule to Bend.
 
 <h4 class="article-subheader">Bend</h4>
 
