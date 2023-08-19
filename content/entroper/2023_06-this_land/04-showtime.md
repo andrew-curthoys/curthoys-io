@@ -18,7 +18,7 @@ summary:
 Recently on one of my favorite podcasts, *Penpals* hosted by my two favorite
 cackling idiots
 
-<h4 class="article-subheader">Five - Six - Seven - Eight</h4>
+<h4 class="article-subheader">Five<br>Six<br>Seven<br>Eight</h4>
 
 &emsp;1<br>
 &emsp;&emsp;&emsp;2<br>
@@ -64,22 +64,30 @@ cackling idiots
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;7<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8<br>
-<i>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;skip<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
-&emsp;&emsp;&emsp;7<br>
-&emsp;8
-</i>
 
-Well we're 5 minutes in and I already fucked up. This should go well.
+Welp it only took till my 3rd pass for my first screw up. That set of three
+skips should have been another single skip - the triple skips shouldn't come
+until the *next* lap. I mean I was bound to mess *something* up, just didn't
+think it would happen so quickly. We'll just say I got it out of the way early.
 
+Behind the curtain I look at Cate,
+
+"Ugh I accidentally started the 3-skips a lap early. Whoops!"
+
+"OMG I did too!"
+
+"Ha! Seriously? I guess we're just a little over excited for opening night."
+
+"Definitely."
+
+Seeing as we were in the middle of the line when we committed our faux pas it
+very well could have looked intentional. At least that's what we tell ourselves
+as we prepare for our next pass. No time to dwell on the past.
+
+<photo of me & Cate skipping early>
 
 <h4 class="article-subheader">It's Art, Get It?</h4>
-Art is by its very nature a subjective human pursuit. A pursuit with no one way,
+Art is a uniquely subjective human pursuit. A pursuit with no one way,
 no right way, no wrong way to create, consume, or appreciate it. An intimately
 individual expression. And that's where it derives its beauty. Y'know, the eye
 of the beholder and whatnot.
@@ -309,8 +317,8 @@ nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
 trepidation. The trepidation, a fleeting visceral reaction, quickly gave way to
 a tumult of immature mirthfulness. In short order I dispatched a flurry of text
 messages to my similarly puerile pals inviting them to the performance; texts
-riddled with cosmopolitan aphorisms such as "hanging dong." My only preparation
-for struttin' my stuff was a strict diet and maniacal workout program. Because
+riddled with cosmopolitan aphorisms such as "hanging dong." My main preparation
+for struttin' my stuff was a diet and workout program. Because
 who would know about vainglorious pursuits
 more than a man who built an entire website to write about himself.
 
@@ -330,14 +338,13 @@ Each woman had a different perspective, a different mindset,
 a different journey. And each time this topic was broached, I realized it was
 time for me to shut the fuck up and listen and learn.
 
-Alexandra and Renay and Cate and Allie and McKelynn and Carrie and Alyce and
-Dana and Linda are 
-And I respect and admire them for it.
 
-
-The most difficult part for most of the women was separating the nudity from
-sexuality. Because of what I would argue is a puritanical societal viewpoint,
-nudity & sexuality are intimately intertwined. Untying that Gordian knot is the
+The most difficult part, from what I gathered, was separating the nudity from
+sexuality. Because of our puritanical societal norms, nudity is intimately
+intertwined with sexuality and sexuality is something to be ashamed of. It's the
+  always present but never talked about in "polite company." are
+intimately intertwined, lurking just below the surface of our social
+consciousness. Untying that Gordian knot is the
 most difficult part for the women in the performance. But once they were able to
 make that cognitive transition it took some of the power from the nudity. When
 everybody fosters a desexualized environment it allows us to recognize that
@@ -355,8 +362,6 @@ everybody comported themselves in the most professional way possible. The nudity
 was always going to be as big or small of a deal as we made it. And we
 approached it with a matter-of-fact pragmatism that took the power away from it.
 
-
-
 When we strip ourselves of the carapace of modern society we cease to become
 Democrats or Republicans, Christians or Jews, citizens or immigrants. Whichever
 artificial tribal identity we cling to melts away to reveal that we are
@@ -364,23 +369,11 @@ simply *humans*. A condition that does not know national borders, does not
 know ethnic divisions, does not know religious rivalries. The more we strip away
 the more we realize how similar we all are.
 
+I'm not brave for walking around naked in front of a group of strangers.
+Alexandra and Renay and Cate and Allie and McKelynn and Carrie and Alyce and
+Dana and Linda are. And I respect and admire them for it.
 
-I couldn't resist the urge to shoehorn a Carl Sagan quote here, in his iconic
-*Pale Blue Dot* Sagan poetically remarked,
 
-<div class="quote">
-The Earth is a very small stage in a vast cosmic arena. Think of the endless
-cruelties visited by the inhabitants of one corner of this pixel on the scarcely
-distinguishable inhabitants of some other corner, how frequent their
-misunderstandings, how eager they are to kill one another, how fervent their
-hatreds. Think of the rivers of blood spilled by all those generals and emperors
-so that, in glory and triumph, they could become the momentary masters of a
-fraction of a dot.
-</div>
-
-Am I saying the world would be a better place if we all walked around stark
-naked in front of a group of strangers? Maybe. Maybe not. But I'd be willing to
-give it a shot.
 
 <h4 class="article-subheader">Performance Placeholder</h4>
 During rehearsals Mark instructed us to envision staring off into a deep blue
@@ -395,8 +388,8 @@ eye contact with a friend I'll immediately crack up.
 
 One performance when I knew I had friends in the audience I did catch myself
 smothering a smirk during the nude section. As I strode out towards the audience
-I summoned every ounce of concentration in my body to maintain a stoic stare,
-but going back I had to crush the grassroots campaign of a grin starting to
+I summoned every ounce of concentration in my body to maintain a stoic stare;
+on the way back I had to crush the grassroots campaign of a grin starting to
 organize on my face.
 
 My first two passes contain pretty subtle choreography that help get us in a
@@ -406,19 +399,6 @@ ever laid eyes on. No notes. The second lap, however, I get a little
 overexuberant and hit the three skips one lap too early. I try to play it off as
 best I can and finish out the pass hoping nobody saw that.
 
-Behind the curtain I look to Cate,
-
-"Ugh I accidentally did 3 skips on the second lap. Whoops!"
-
-"OMG I did too!"
-
-"Ha! No way! I guess we're just a little over excited for our first performance"
-
-"Definitely"
-
-Seeing as we were in the middle of the line when we committed our faux pas it
-very well could have looked intentional. At least that's what we tell ourselves
-as we prepare for our next pass. No time to dwell on the past.
 
 With my gaffe in the rearview we're soon to my absolute favorite part of the piece,
 *the pouty pause*. On my last lap of "plastic surgery" we stop for a 4 count at the
@@ -713,3 +693,22 @@ all... But then after I finished the scene, I felt empowered.”
 
 I obviously can't speak for Jennifer Lawrence but I'd venture a guess that
 My body my terms.
+
+
+
+I couldn't resist the urge to shoehorn a Carl Sagan quote here, in his iconic
+*Pale Blue Dot* Sagan poetically remarked,
+
+<div class="quote">
+The Earth is a very small stage in a vast cosmic arena. Think of the endless
+cruelties visited by the inhabitants of one corner of this pixel on the scarcely
+distinguishable inhabitants of some other corner, how frequent their
+misunderstandings, how eager they are to kill one another, how fervent their
+hatreds. Think of the rivers of blood spilled by all those generals and emperors
+so that, in glory and triumph, they could become the momentary masters of a
+fraction of a dot.
+</div>
+
+Am I saying the world would be a better place if we all walked around stark
+naked in front of a group of strangers? Maybe. Maybe not. But I'd be willing to
+give it a shot.
