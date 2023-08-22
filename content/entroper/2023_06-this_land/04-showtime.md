@@ -275,69 +275,53 @@ Well... Now that you mention it...
 <h4 class="article-subheader">About That Whole Nudity Thing</h4>
 I'll admit, when I first saw the video of the Paris performance with *full
 nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
-trepidation. The trepidation, a fleeting visceral reaction, quickly gave way to
-a tumult of immature mirthfulness. In short order I dispatched a flurry of text
-messages to my similarly puerile pals inviting them to the performance. Texts
-riddled with cosmopolitan aphorisms such as "hanging dong." My main preparation
-for struttin' my stuff was a diet and workout program. Because
+trepidation. The trepidation quickly gave way to
+a tumult of immature mirthfulness. In short order I dispatched a flurry of texts
+to my similarly puerile pals inviting them to the performance. Texts
+riddled with cosmopolitan aphorisms such as "hanging dong." The only preparation
+I made was a diet and workout program, because
 who would know about vainglorious pursuits
 more than a man who built an entire website to write about himself.
 
 But I don't want to breeze over the nudity. Because I'm fully aware that the
-fact that I'm a man allows a much more carefree approach. I've never been
+simple fact that I'm a man affords me the luxury of such a carefree approach.
+It's all cheeky and fun for me. But I've never been
 catcalled. I've never been told I need to *smile more*. I've never felt unsafe
 walking home at night. I've never carried pepper spray. I've never been
 uncomfortable in a room full of men. I've never been sexually harassed. I've
 never been sexually assaulted.
 
 I've never experienced the innumerable unfortunate and inexcusable incidents
-directed at women in our society. I'm not brave for walking around naked in
-front of a group of strangers. Alexandra and Renay and Cate and Allie and
-McKelynn and Carrie and Alyce and Dana and Linda are. And I respect and admire
-them for it.
+directed at women in our society.
 
-As you can imagine the topic of nudity frequently arose during rehearsal breaks.
+So I have no idea how scary it must be to be *that* vulnerable in front of
+*that* many people. I'm not brave. Alexandra and Renay and Cate
+and Allie and McKelynn and Carrie and Alyce and Dana and Linda are. And I
+respect and admire them for it.
+
+Unsurprisingly the topic of nudity would often arise during our long hours
+of rehearsing.
 Each woman had a different perspective, a different mindset,
-a different journey. And each time this topic was broached, I realized it was
-time for me to shut the fuck up and listen and learn.
+a different journey. And each time the topic was broached, I realized it was
+time for me to shut up and listen and learn.
 
 The most difficult part it seems was separating the nudity from sexuality.
-Because of our puritanical societal norms, nudity is intimately intertwined with
-sexuality and sexuality is intimately intertwined with shame. It's always
-present, lurking in the shadows of our social consciousness, but never talked
-about in "polite company." Untying that thorny knot requires patience and an
-otherworldly level of self-awareness. But once each woman was able to
-make that cognitive transition it took the power away from the nudity.
+Because of our puritanical societal norms there exists an implicit
+assumption that nudity is intertwined with sexuality and sexuality is
+intertwined with shame and judgement. The ability to untie that
+tangled knot requires transcendent levels of patience, confidence, and
+self-awareness. But each woman in the company was able to make that cognitive
+dissociation and it seemed to deprive the nudity of all its power.
 
-Circling back to
-<a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
-Jennifer Lawrence grappled with accepting the role, knowing it called for nudity.
-Her trepidation stemmed from a nude photo leak that sent her into a "long period
-when I didn't want to be seen sexually and I didn't want anybody to see my flesh."
-Looking back on the role (which required her to learn dance (link)), Lawrence
-reflected, “It took a while to say yes – and the night before I didn’t sleep at
-all... But then after I finished the scene, I felt empowered.”
-
-The collective agreement to foster an open-minded environment quickly led to the
-nude section, at least in my opinion, being pretty matter-of-fact. I'm sure the
-fact that we are scrambling to rip off all our clothes as quickly as humanly
-possible while remembering our steps for the next pass has at least something
-to to with it. But as I stated earlier,
-everybody comported themselves in the most professional way possible. The nudity
-was always going to be as big or small of a deal as we made it. And we
-approached it with a matter-of-fact pragmatism that took the power away from it.
-
-When
-everybody fosters a desexualized environment it allows us to recognize that
-we're simply expressing ourselves with our *bodies*.
-
+Because all we're doing is expressing ourselves with our *bodies*.
 Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
 creak and groan and grow hair in the worst places and lose hair in the best.
 
-Stripping ourselves of the carapace of modern society we cease to become
-Democrats or Republicans, Christians or Jews, citizens or immigrants. Whichever
-artificial tribal identity we cling to melts away to reveal that we are
-simply *humans*. A condition that does not know national borders, does not
+The carapace of modern society distracts us from the fact that we're all just
+*bodies*. When we strip everything away we cease to become Democrats or
+Republicans, Christians or Jews, citizens or immigrants. Whichever
+artificial tribal identity we cling to melts away to reveal our humanity. A
+condition that does not know national borders, does not
 know ethnic divisions, does not know religious rivalries. The more we strip away
 the more we realize how similar we all are.
 
@@ -715,3 +699,12 @@ give it a shot.
 
 Recently on one of my favorite podcasts, *Penpals* hosted by my two favorite
 cackling idiots
+
+Circling back to
+<a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
+Jennifer Lawrence grappled with accepting the role, knowing it called for nudity.
+Her trepidation stemmed from a nude photo leak that sent her into a "long period
+when I didn't want to be seen sexually and I didn't want anybody to see my flesh."
+Looking back on the role (which required her to learn dance (link)), Lawrence
+reflected, “It took a while to say yes – and the night before I didn’t sleep at
+all... But then after I finished the scene, I felt empowered.”

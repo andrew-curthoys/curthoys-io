@@ -155,9 +155,9 @@ nonetheless. Norwegian gjestfrihet at its finest.
 <h4 class="article-subheader">Gratuler Med Dagen</h4>
 The day started earlier this afternoon at Oslo Gardermoen Airport. After
 enduring the disorganized mayhem of Norse Atlantic, I was quickly introduced to
-the nonchalant efficiency of Norwegian transit. $20, 30 minutes, and 30 miles
+the nonchalant efficiency of Norwegian transit. \$20, 30 minutes, and 30 miles
 of impossibly smooth track were all that separated me from the Nationaltheateret
-station in downtown Oslo. A far cry from the $60 and 45
+station in downtown Oslo. A far cry from the \$60 and 45
 minutes-to-an-hour-depending-on-traffic 9 mile Uber ride I took to JFK.
 
 When I emerge from the subway station I'm greeted by a panoply of colorful
@@ -666,4 +666,4 @@ revelry and hop on the bus back to his apartment. I've powered through my jet
 lag & I'm livin' on Oslo time. Just two days of grindin' then
 we're onto Constitution Day.
 
-Giddy up
+Giddy up -->
