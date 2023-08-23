@@ -85,21 +85,60 @@ as we prepare for our next pass. No time to dwell on the past.
 <photo of me & Cate skipping early>
 
 
+<h4 class="article-subheader">It's Art, Get It?</h4>
+Art is a uniquely subjective human pursuit. A human pursuit with no one way,
+no right way, no wrong way to create, consume, or appreciate. And that's where
+it derives its beauty. Y'know, the eye of the beholder and whatnot.
+
+So if art is predicated on subjective interpretation then Mark Haim's *This Land
+Is Your Land* is an extreme exercise on the matter. The piece is so
+unfailingly unique that no two audience members will walk out of
+the Nasher with the same perspective. And each perspective is perfectly valid.
+
+Even the stage is set up to encourage unique experiences. Arranged in a
+configuration that (I just learned) is known as a "thrust stage," the audience
+surrounds us on three sides. Personally, I'd call it the "Easy Company"
+but Mark calls it an
+*interactive viewing experience*. Audience members who are seated directly
+facing the stage are treated to a completely different show than those on
+the flanks. So even the same person watching the same show from two different
+seats may interpret it differently.
+
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage1.jpg" alt="Stage">
+  <figcaption class="figure-caption">The view from house right</figcaption>
+</figure>
+
+During my first viewing of the Paris recording I was gobsmacked by a connection
+between Woody Guthrie's *This Land Is Your Land* and what I considered to be the
+most powerful section Mark's *TLIYL*. But that's just the Oklahoma in me.
+Everybody else will surely make a connection that feels
+just as profound to them as my Woody Guthrie connection did to me.
+
+The piece weaves through some of the more salient aspects of our culture, but
+the most wonderful part is the fact that there's no message. There's no agenda.
+It's simply Mark presenting the world the way he sees it and allows
+the audience to come to their own conclusions.
+
+At least that's my conclusion.
+
+
 <h4 class="article-subheader">Dress Rehearsal</h4>
 The day before opening night we mosey over to the Nasher for a full dress
-rehearsal in the performance space. I've yet to grace the halls of the
-Nasher and when I stroll into its capacious atrium I'm blown away. The most
-marvelous aspect is the roof, whose 5 beams conjointly support a web of
-glass and steel
-without any beams spanning its full breadth. It's somewhat like
+rehearsal in the *interactive viewing experience*. When I stroll into the
+capacious atrium of the museum my jaw drops to the green slate floor. 45 feet
+overhead a web of glass and steel envelop the 13,000 square foot Great Hall.
+The load of the roof is conjointly supported by 5 great beams, none of which
+span the room's full breadth. It's somewhat like
 that classic dad trick of folding the flaps of a cardboard box to stay shut
-without tape. I ogle until my neck hurts. It's a beautiful piece of engineering.
+without tape. It's a beautiful piece of engineering.
 
-In the words of Rafael Vi&ntilde;oly, the Uruguayan-born architect, the Nasher
-was designed as
+In the words of Rafael Vi&ntilde;oly, the Uruguayan-born architect, he
+conceived of the the Nasher as a
+
 <div class="text-muted fst-italic mx-3 mb-3">
 <p>
-  A collection of five separate, rectangular volumes arranged in a loose radial
+  Collection of five separate, rectangular volumes arranged in a loose radial
   pattern near the top of a gentle slope define an irregular, pentagonal central
   courtyard topped by a glass roof. The complex, almost vertiginous geometries of
   the atrium roof are formed by a hierarchy of structural systems, all supported
@@ -124,7 +163,7 @@ count. I can't remember my
 choreography. I'm fully discombobulated. It certainly doesn't help that the
 floor tiles are slanted at an angle oblique to our walking path.
 
-After the run through I ask my fellow performers if they had similar
+After the run-through I ask my fellow performers if they had similar
 struggles and they confirm as much.
 
 "Every time you rehearse at a new place that will happen. You'll be alright,
@@ -133,9 +172,8 @@ that's why we did this."
 Phew. Did I mention my co-performers are fabulous people?
 
 For our second dress rehearsal we are graced with an audience. Members of the
-ADF staff and
-participants in the summer dance intensive who have schedule conflicts with the
-nights of the performance are offered the opportunity to see our final dress.
+ADF staff and participants in the summer dance intensive who have schedule
+conflicts fill the Great Hall for our last run-through before the big day.
 Much the same as the venue adds a new layer to the performance, a live audience
 significantly changes the dynamic. I'm grateful that we are able to rehearse in
 the Nasher with an audience before opening night. As an engineer I'm always on
@@ -153,10 +191,9 @@ with absolutely no dance experience who'd be more comfortable hitting a
 "Yeah, no problem," I say with a false confidence that hopefully hides the fact
 that it's at the very least a small problem.
 
-So I practice
-the spear handoff a few times with Cate, a move that requires a pirouette
-in the opposite direction of what we've been practicing the last couple weeks.
-And of course a last minute scribble on my spreadsheet.
+So I practice the spear handoff a few times with Cate, a move that requires a
+pirouette opposite of our normal direction. And of course a last minute
+scribble on my spreadsheet.
 
 
 <h4 class="article-subheader">Let's Get On With It</h4>
@@ -164,13 +201,13 @@ Outside of the 11th hour spearouette addition I feel ready. Rehearsals have
 worn me down and I'm ready for the real thing. I've got my
 system down. I'm prepared. Calm. Confident.
 
-That night I sleep like a damn baby. When I arise
-I find a ladybug on my pillow - that's gotta be good luck right? But then again,
-maybe I
+That night I sleep like a damn baby. When I arise the morning of our first
+performance I find a ladybug on my pillow - that's gotta be good luck right? But
+then again, maybe I
 <a href="https://dancespirit.com/history-of-merde/" target="_blank" rel="noopener no referrer">don't want good luck</a>?
 I'm not really sure what to make of dancer superstitions.
 
-I arrive to the Nasher a couple hours ahead of our 6:30 PM show. Around 4:30
+I arrive to the Nasher a few hours ahead of our 6:30 PM show. Around 4:30
 we do a tech rehearsal, which I learn is just a breezy run-through with the
 music but no costumes or props. Like a Thursday football practice with no pads.
 
@@ -180,7 +217,7 @@ music but no costumes or props. Like a Thursday football practice with no pads.
   the task at hand whilst yours truly sticks his tongue out at the camera</figcaption>
 </figure>
 
-The time between tech & the performance is filled with much milling
+The time between tech & performance is filled with much milling
 about and nonsensical banter. Our heroic stage manager, Gabby, has the
 unenviable job of appeasing contingents from the Nasher, ADF, and the
 security detail, all while wrangling a group of nervy performers.
@@ -224,7 +261,7 @@ I step up to my mark at the edge of the curtain.
 
 ***One - Two - Three - Four***
 
-On the 5 I take my first step onto the stage in my inaugural performance as
+And on the 5 I take my first step onto the stage in my inaugural performance as
 a dancer...
 
 
@@ -275,13 +312,13 @@ Well... Now that you mention it...
 <h4 class="article-subheader">About That Whole Nudity Thing</h4>
 I'll admit, when I first saw the video of the Paris performance with *full
 nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
-trepidation. The trepidation quickly gave way to
-a tumult of immature mirthfulness. In short order I dispatched a flurry of texts
-to my similarly puerile pals inviting them to the performance. Texts
-riddled with cosmopolitan aphorisms such as "hanging dong." The only preparation
-I made was a diet and workout program, because
-who would know about vainglorious pursuits
-more than a man who built an entire website to write about himself.
+trepidation. The trepidation quickly gave way to a rolling cascade of immature
+mirthfulness. In short order I dispatched a flurry of texts to my similarly
+puerile pals riddled with cosmopolitan aphorisms such as "hanging dong" and
+"cock out walk out." My only
+preparation, mental or otherwise, was a diet and workout program - because
+who would know about vainglorious pursuits more than a man who built an entire
+website to write about himself?
 
 But I don't want to breeze over the nudity. Because I'm fully aware that the
 simple fact that I'm a man affords me the luxury of such a carefree approach.
@@ -289,51 +326,52 @@ It's all cheeky and fun for me. But I've never been
 catcalled. I've never been told I need to *smile more*. I've never felt unsafe
 walking home at night. I've never carried pepper spray. I've never been
 uncomfortable in a room full of men. I've never been sexually harassed. I've
-never been sexually assaulted.
+never been sexually assaulted. I've never experienced the countless
+inexcusable behaviors directed at women in our society.
 
-I've never experienced the innumerable unfortunate and inexcusable incidents
-directed at women in our society.
+So I have no idea what these women must grapple with to
+be *that* vulnerable in front of *that* many people. I've written at length
+in this story about getting out of my comfort zone. But I'm not brave. Alexandra
+and Renay and Cate and Allie and McKelynn and Carrie and Alyce and Dana and
+Linda are. And I respect and admire them for it.
 
-So I have no idea how scary it must be to be *that* vulnerable in front of
-*that* many people. I'm not brave. Alexandra and Renay and Cate
-and Allie and McKelynn and Carrie and Alyce and Dana and Linda are. And I
-respect and admire them for it.
+<p class="section-divider my-4">&#11044;&emsp;&ensp;&#11044;&emsp;&ensp;&#11044;</p>
 
 Unsurprisingly the topic of nudity would often arise during our long hours
-of rehearsing.
+of rehearsals.
 Each woman had a different perspective, a different mindset,
 a different journey. And each time the topic was broached, I realized it was
 time for me to shut up and listen and learn.
 
-The most difficult part it seems was separating the nudity from sexuality.
-Because of our puritanical societal norms there exists an implicit
-assumption that nudity is intertwined with sexuality and sexuality is
+The most difficult part, it seems, was separating the nudity from sexuality.
+Because our puritanical societal norms impose an implicit
+belief that nudity is intertwined with sexuality and sexuality is
 intertwined with shame and judgement. The ability to untie that
 tangled knot requires transcendent levels of patience, confidence, and
-self-awareness. But each woman in the company was able to make that cognitive
-dissociation and it seemed to deprive the nudity of all its power.
+self-awareness. But once each woman in the company was able to make that
+cognitive dissociation it seemed to deprive the nudity of all its power.
 
-Because all we're doing is expressing ourselves with our *bodies*.
+Because at the end of the day we're all just *bodies*.
 Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
 creak and groan and grow hair in the worst places and lose hair in the best.
 
-The carapace of modern society distracts us from the fact that we're all just
-*bodies*. When we strip everything away we cease to become Democrats or
+When we strip away the carapace of modern society we cease to become Democrats or
 Republicans, Christians or Jews, citizens or immigrants. Whichever
-artificial tribal identity we cling to melts away to reveal our humanity. A
+artificial tribal identity we cling to. And what's left is our humanity. A
 condition that does not know national borders, does not
 know ethnic divisions, does not know religious rivalries. The more we strip away
 the more we realize how similar we all are.
 
+And I think we could all use a little reminder of that from time to time.
 
 <h4 class="article-subheader">Deep Blue Lake</h4>
 For our passes with a "neutral" facial expression, i.e. no smiling, scowling,
-or sneering, Mark instructed us to imagine we're staring off into a deep blue
-lake past the heads of the seated audience. Which, on the face of it, sounds
-like nonsense. But for whatever reason we all know *exactly* what he means. So
-nonsense it makes sense.
+or sneering, Mark instructs us to imagine we're staring off into a deep blue
+lake, past the heads of the seated audience. Which, on the face of it, sounds
+like nonsense. But for whatever reason we all know *exactly* what he means. It's
+so nonsense that it makes sense.
 
-So my first few passes I'm locked in on
+So during these passes my mind's eye is locked in on
 <a href="/traveler/2022_01-ski_trip/03-wine.html?id=crater" target="_blank" rel="noopener noreferrer">Crater Lake</a>,
 the deepest lake in the United States filled with pristine Pacific Northwest
 precipitation. That deep and blue enough for ya?
@@ -346,13 +384,9 @@ I summon every ounce of concentration in my body to maintain a stoic stare;
 on the way back I have to ruthlessly crush the grassroots campaign of a grin
 organizing a jocund labor movement on my face.
 
-Right after the nude section comes the spear handoff. The only part I haven't
-rehearsed.
-As I reach the yellow panel I snag the spear from Cate and collect 11 rubles
-with a flawless pirouette that could only be described as Baryshnikovian. The
-quality of the pirouette is only surpassed by my immense modesty.
 
-Gaffe in the rearview we're soon to my absolute favorite part of the piece,
+<h4 class="article-subheader">The Show Must Go On</h4>
+With my skipping gaffe in the rearview we're soon to my absolute favorite part of the piece,
 *the pouty pause*. On my last lap of "plastic surgery" we stop for a 4 count at the
 end of the stage and give the audience the look of petulant child who
 was just told they couldn't have ice cream. "You're a bratty kid who didn't get
@@ -360,8 +394,33 @@ their way and you want to stare at them like you're parents are the worst." I
 have a lot of fun with this one & really lean into it. *But I* ***REALLY***
 *want ice cream!!! Ughhhhhhhhhhhhhhh*.
 
-Outside of my early skipping miscue the rest of the show goes off without a
-hitch. No more flubs, goofs, or blunders. My final pass comes as the music
+Right after the nude section comes the spear handoff. The only part I haven't
+rehearsed.
+As I reach the yellow panel I snag the spear from Cate and collect 11 rubles
+with a flawless pirouette that could only be described as Baryshnikovian. The
+quality of the pirouette is only surpassed by my immense modesty.
+
+It wasn't long before I goofed again, just a couple passes later during the
+military marching sequence. This section features a completely different
+walking pattern that the audience has been lulled into expecting for the last
+half hour. I make it through the first couple laps just fine then on the third
+lap, for whatever reason, my brain lapses and I forget the (Nutcracker/step
+together/9-step/whatever name we feel like that day), which throws off my steps
+from my comrades. But thankfully we've rehearsed this so many dang times that I
+keep my composure and take a little stutter step before our skip and get back
+on schedule.
+
+But since all my mental energy was focused on fixing my gaffe, I have completely
+lost my count. And as I mentioned this section has a skip on the 4-count. Again,
+we've rehearsed this so many times I have a pretty good *feel* for where the
+skip should go but I also have Renay next to me in line to confirm my feelings.
+Because each time Renay goes for a skip she *really* loads up for it - it's like
+she's practicing for the triple jump at the Olympics. And I can catch her in my
+peripherals just to make sure I'm skipping on the right count for the rest of
+that pass. Love you Renay <span style="color:red">&hearts;</span>.
+
+
+My final pass of the performance comes as the music
 fades out to silence. 96 steps with no soundtrack but our footsteps. I'm
 the very last in the line so my final lap is all alone. No music to keep my
 count. No comrades to distract the audience's gaze.
@@ -455,105 +514,62 @@ participants during the Q&A remarked how individualistic the performance was,
 while others were amazed by the cohesive community.
 
 
-<h4 class="article-subheader">It's Art, Get It?</h4>
-Art is a uniquely subjective human pursuit. A pursuit with no one way,
-no right way, no wrong way to create, consume, or appreciate it. An intimately
-individual expression. And that's where it derives its beauty. Y'know, the eye
-of the beholder and whatnot.
-
-Mark Haim's *This Land Is Your Land* is an extreme exercise in subjective
-interpretation. The piece is so
-unique and captivating that no two audience members will walk out of
-the Nasher with the same perspective. And each perspective is perfectly valid.
-
-Even the stage is set up to encourage unique experiences. Arranged in a
-configuration that I just learned is known as a "thrust stage," the audience
-surrounds the stage on three sides. Personally, I'd call it the "Easy Company"
-but Mark calls it an
-*interactive viewing experience*. Audience members who are seated directly
-facing the stage are treated to a completely different show than those on
-the flanks. So even the same person watching the same show from two different
-seats may interpret it differently.
-
-<figure class="figure container-fluid">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage1.jpg" alt="Stage">
-  <figcaption class="figure-caption">The view from house right</figcaption>
-</figure>
-
-The first time I watched the Paris recording I made an immediate connection
-between Woody Guthrie's *This Land Is Your Land* and what I considered to be the
-most powerful section Mark's *TLIYL*. But that's just the Oklahoma in me.
-Everyone who watches will surely make a connection that feels
-just as profound to them as my Woody Guthrie connection did to me.
-
-The most wonderful part of the piece is the fact that there's no message.
-There's no agenda. Mark simply presents the world the way he sees it and allows
-the audience to come to their own conclusion.
-
-At least that's my conclusion.
-
-
-
-
-
-
-
-<h4 class="article-subheader">"Holy Shit"</h4>
-After the first show of the second night I meet up with a group of friends in
-the atrium. Everyone looks completely blown away.
-
-"You totally undersold it, that was amazing!"
-
-"Undersell & overdeliver, that's what I always say"
-
-"It was so detailed, how did you remember all that?"
-
-"I made a spreadsheet of course!"
-
-I grab my marked up spreadsheet and show them my system.
 
 <h4 class="article-subheader">Well What Now?</h4>
 I've had many friends ask why I wanted to do this. Friends who understand all
-the sports references I've made and couldn't tell you the difference between
-Monica Bill Barnes & Monica Mason.
-
-(I just googled "dancer Monica" so I had no idea who Monica Mason was 30
-seconds ago to be fair)
+the sports references I've made and haven't a clue who Monica Bill Barnes is.
+And I don't have a satisfactory answer for them.
 
 All of my fellow performers are curious as to my future in the dancing arts.
-
-
-Do I feel brave?
-No
-Do I feel proud?
-Absolutely
-
-When people ask me how the performance went I say the same thing every time, "it
-was one of the most fun experiences of my life." From the moment I walked through
-the door for the audition to the moment we took our final bow it was an
-unrelenting torrent of joy. A ton of work. But a ton of fun.
+I've enrolled in some dance classes. I've learned what second position is. I can
+(kinda?) do a tandu. We're still working on my flexibility but it's been a blast.
+I'm open to any and all performances that require little to no dance experience
+and/or clothing. I would do this performance again in a heartbeat.
 
 I want to thank all my fellow performers for their patience putting up with my
 asinine questions and inane jokes of mediocre quality:
+
 Alexandra
+
 Renay
+
 Matt
+
 Cate
+
 Allie
+
 Hendri
+
 McKelynn
+
 Carrie
-Andy
+
 Alyce
+
 Jonathan
+
 Brace
+
 Dana
+
 Linda Belans
+
 Aaron
 
-But most of all I want to thank Mark Haim for taking a chance on a hayseed from
-Oklahoma with no dane experience to participate in a piece that's so meaningful
-to him.
+But most of all I want to thank Mark Haim for taking a chance on an inexperienced
+hayseed from Oklahoma to participate in a piece that's so meaningful to him.
+
+When people ask me how the performance went I say the same thing every time, "it
+was one of the most fun experiences I've ever been a part of." From the moment I
+walked through
+the door for the audition to the moment we took our final bow it was an
+unrelenting torrent of joy. A ton of work. But a ton of fun.
+
+And I'll never regret taking that blind pirouette into the unknown.
+
+
+
 
 I've been agonizing how to end this essay but maybe it's not the end. Maybe this
 is just the beginning of my journey in the wonderful world of dance.
@@ -708,3 +724,17 @@ when I didn't want to be seen sexually and I didn't want anybody to see my flesh
 Looking back on the role (which required her to learn dance (link)), Lawrence
 reflected, “It took a while to say yes – and the night before I didn’t sleep at
 all... But then after I finished the scene, I felt empowered.”
+
+<h4 class="article-subheader">"Holy Shit"</h4>
+After the first show of the second night I meet up with a group of friends in
+the atrium. Everyone looks completely blown away.
+
+"You totally undersold it, that was amazing!"
+
+"Undersell & overdeliver, that's what I always say"
+
+"It was so detailed, how did you remember all that?"
+
+"I made a spreadsheet of course!"
+
+I grab my marked up spreadsheet and show them my system.
