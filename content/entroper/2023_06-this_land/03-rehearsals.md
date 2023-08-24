@@ -18,14 +18,13 @@ summary:
 Musical cues
 
 <h4 class="article-subheader">"Jetlagged?"</h4>
-Mark asks with a slight kick to the left foot of my vaguely
-animated corpse.
+Mark asks with a slight kick to the left foot of my vaguely animated corpse.
 
 I peel open an eyelid and muster the strength for a mumbled "yeah."
 
 "Sorry, but it's time to start rehearsal," Mark coyly remarks behind a Cheshire
-cat smile that my brain files under the heading of "ornery." An impish grin
-I'll be intimately familiar with over the next two weeks.
+cat smile. An impish grin I'll become intimately familiar with over the next two
+weeks.
 
 I scrape myself off the floor, still reeling from
 <a href="/traveler/2023_05-scandinavia.html" target="_blank" rel="noopener noreferrer">3 weeks in Scandinavia</a>.
@@ -33,8 +32,26 @@ My flight landed late last night so my energy levels are dangerously depleted.
 
 This should go well.
 
-As we work through a few cycles *one-two-three-four-five-six-seven-eight-pivot*
-*one-two-three-four-five-six-seven-eight-pivot*
+As we work through a few cycles
+
+<span style="display:inline-block; width: 20px;"></span><i>one-two-three-four-five-six-seven-eight</i><br>
+<span style="display:inline-block; width: 290px;"></span><span class="flip-h"><b>pivot</b></span><br>
+<span style="display:inline-block; width: 20px;"></span><span class="flip-h"><i>one-two-three-four-five-six-seven-eight</i></span><br>
+<b>pivot</b><br>
+<span style="display:inline-block; width: 20px;"></span><i>one-two-three-four-five-six-seven-eight</i><br>
+<span style="display:inline-block; width: 290px;"></span><span class="flip-h"><b>pivot</b></span><br>
+<span style="display:inline-block; width: 20px;"></span><span class="flip-h"><i>one-two-three-four-five-six-seven-eight</i></span><br>
+<b>pivot</b><br>
+<span style="display:inline-block; width: 20px;"></span><i>one-two-three-four-five-six-seven-eight</i><br>
+<span style="display:inline-block; width: 290px;"></span><span class="flip-h"><b>pivot</b></span><br>
+<span style="display:inline-block; width: 20px;"></span><span class="flip-h"><i>one-two-three-four-five-six-seven-eight</i></span><br>
+
+
+
+
+
+
+
 Mark offers a tip to keep our lines
 straight, "make sure your steps are a little longer on the way back because
 you have to walk farther since it's on an angle."

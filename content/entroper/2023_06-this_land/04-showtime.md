@@ -18,50 +18,34 @@ summary:
 
 <h4 class="article-subheader">Five<br>Six<br>Seven<br>Eight</h4>
 
-&emsp;1<br>
-&emsp;&emsp;&emsp;2<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;3<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;7<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8<br>
-<i>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
-&emsp;&emsp;&emsp;7<br>
-&emsp;8<br>
-</i>
-&emsp;1<br>
-&emsp;&emsp;&emsp;2<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;3<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<i>skip</i><br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;7<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8<br>
-<i>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;skip<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
-&emsp;&emsp;&emsp;7<br>
-&emsp;8<br>
-</i>
-&emsp;1<br>
-&emsp;&emsp;&emsp;2<br>
-&emsp;&emsp;&emsp;&emsp;&ensp;<span style="color:red; font-style:italic;">skip</span><br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<span style="color:red; font-style:italic;">skip</span><br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<span style="color:red; font-style:italic;">skip</span><br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;7<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8<br>
+{% set pad = 15 %}
+{% set space = 20 %}
+{% for i in range(1, 9) %}
+  <span style="display:inline-block; width: {{ space*(i+1) }}px;"></span>{{ i }}<br>
+{% endfor %}
+{% for i, j in range(1, 9)|reverse|zip(range(1, 9)) %}
+  <span style="display:inline-block; width: {{ space*(i) }}px;"></span><i>{{ j }}</i><br>
+{% endfor %}
+{% for i, j in range(1, 9)|zip(range(1, 9)) %}
+	{% if i == 4 %}
+    {% set j = 'skip' %}
+  {% endif %}
+  <span style="display:inline-block; width: {{ space*(i+1) }}px;"></span>{{ j }}<br>
+{% endfor %}
+{% for i, j in range(1, 9)|reverse|zip(range(1, 9)) %}
+	{% if j == 4 %}
+    {% set j = 'skip' %}
+  {% endif %}
+  <span style="display:inline-block; width: {{ space*(i) }}px;"></span><i>{{ j }}</i><br>
+{% endfor %}
+{% for i, j in range(1, 9)|zip(range(1, 9)) %}
+  {% set color = 'black' %}
+	{% if i in (3, 4, 5) %}
+    {% set j = 'skip' %}
+    {% set color = 'red' %}
+  {% endif %}
+  <span style="display:inline-block; width: {{ space*(i+1) }}px;"></span><span style="color: {{ color }}">{{ j }}</span><br>
+{% endfor %}
 
 Welp it only took till my 3rd pass for my first screw up. That set of three
 skips should have been another single skip - the triple skips shouldn't come
@@ -564,7 +548,11 @@ When people ask me how the performance went I say the same thing every time, "it
 was one of the most fun experiences I've ever been a part of." From the moment I
 walked through
 the door for the audition to the moment we took our final bow it was an
-unrelenting torrent of joy. A ton of work. But a ton of fun.
+unrelenting torrent of joy.
+
+A ton of work.
+
+But a ton of fun.
 
 And I'll never regret taking that blind pirouette into the unknown.
 

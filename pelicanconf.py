@@ -34,6 +34,7 @@ ARTICLE_URL = '{slug}.html'
 PAGE_PATHS = ['career']
 PAGE_SAVE_AS = '{slug}.html'
 PAGE_URL = '{slug}.html'
+JINJA2CONTENT_TEMPLATES = ['content']
 USE_FOLDER_AS_CATEGORY = True
 DIRECT_TEMPLATES = ['index',
                     'eater/index',
@@ -87,4 +88,5 @@ def filter_shuffle(seq):
     except:
         return seq
 
-JINJA_FILTERS = {'shuffle': filter_shuffle}
+JINJA_FILTERS = {'shuffle': filter_shuffle,
+                 'zip': zip}
