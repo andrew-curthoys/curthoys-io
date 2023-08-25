@@ -15,6 +15,8 @@ photo:
 short_sum: Who ever knew so much work could be so much fun?
 summary: 
 
+{% import 'macros.html' as m %}
+
 Musical cues
 
 <h4 class="article-subheader">"Jetlagged?"</h4>
@@ -46,19 +48,14 @@ As we work through a few cycles
 <span style="display:inline-block; width: 290px;"></span><span class="flip-h"><b>pivot</b></span><br>
 <span style="display:inline-block; width: 20px;"></span><span class="flip-h"><i>one-two-three-four-five-six-seven-eight</i></span><br>
 
-
-
-
-
-
-
 Mark offers a tip to keep our lines
 straight, "make sure your steps are a little longer on the way back because
 you have to walk farther since it's on an angle."
 
 At this point my brain starts calculating. I'm so tired I can barely stand up
-but the "well actually" center of my brain is running full steam ahead. It's
-like the rich part of town during "rolling blackouts."
+but the *Well....Actually* center of my brain is running full steam ahead. It's
+like the rich part of town during "rolling blackouts." (Can you tell I'm still
+bitter about the Houston ice storm of 2021?)
 
 <div class="text-muted fst-italic mx-3 mb-3">
 Ok so we take 8 steps out, and if we assume it's one step over on the way back,
@@ -72,7 +69,7 @@ $\sqrt{65} = 8.0623$.
 
 Which means the distance we would have to walk upstage is 0.778% longer than the
 distance we walk downstage\*. If we assume an average stride length of 2.5 ft
-our downstage stroll totals 20. In order to account for the angle that means
+our downstage stroll totals 20 ft. In order to account for the angle that means
 we'd need to walk 20 feet 1.87 inches on the way back. Or an extra 0.23 inches
 per step.  We're good but I don't think we're *that* good.
 
@@ -94,7 +91,7 @@ based on counting and trigonometry. Perhaps.
 
 
 <h4 class="article-subheader">Install</h4>
-During the two months between the audition and the start of rehearsals Mark sent
+During the two months between auditions and the start of rehearsals Mark sent
 us an email with our order in the lineup. He assigned each of us a performer from
 the Paris video to study. I drew Jurg:
 
@@ -102,17 +99,24 @@ the Paris video to study. I drew Jurg:
 9. Andrew (JURG)- orange T shirt, light grey pants. ENTRANCE IS AT 4:24
 </div>
 
-As I watch the video I'm struck by a euphoric realization - all the
-gallops occur in the first 3 minutes. Since Jurg doesn't come on till 4:24
-I won't be doing any gallops!
+As I watch the video I realize the gallops occur very early in the piece.
+Gallops come. Gallops go. And when the gallops are said and done the clock reads
+just a shade over 3 minutes. Which means we still have a full minute & a half
+till we're introduced to our friend in the orange T-shirt & light grey pants. I
+keep my eye out for more gallops to break out but it seems the horses are in the
+stables for good. 
 
-Praise be!!!
+And I'm overwhelmed by an intoxicating wave of relief.
 
-Based on my complete galloptrical ineptitude during the audition I'd say Mark's
-decision to spare me from gallop duty is wise and prudent.
+No gallops!! Be gone you vile equine ambulation!!
 
-The first few rehearsals are mostly spent learning the choreography for each of
-the individual segments that make up the whole of the performance.
+Honestly, based on my complete galloptrical ineptitude during the audition I'd
+say Mark's decision to spare me from gallop duty is wise and prudent.
+
+{{ m.divider() }}
+
+Our first few rehearsals are spent learning the choreography of the
+individual segments that make up the whole of the performance.
 Each has its own name that Mark has informally conferred over the years and each
 has its own flavor. *The Claw* is centered around hand movements. *Mona Lisa*
 emphasizes our facial expression. Our old friends *Sally* and *Lewiston*
@@ -618,8 +622,8 @@ continue to play guitar."
 </p>
 </div>
 
-Which overlaps with the "*how many crazy ex wives does it take to realize maybe
-you're the problem*" squadron:
+And of course the "<i>how many crazy ex-wives does it take to realize maybe
+<b>you're</b> the problem</i>" squadron:
 
 <div class="text-muted fst-italic mx-3 mb-3">
 <p>
@@ -649,10 +653,9 @@ explanation given."
 </div>
 
 Because the song that precedes *Honky Tonk Badonkadonk* in our performance was
-sung by none other than Ronnie Milsap.
-Originally penned by Burt Bacharach, the song *Any Day Now*, opens Milsap's 1982
-album *Inside*. In a stark juxtaposition to Adkins's objectifying anthem,
-*Any Day Now* pokes at that raw nerve deep in your gut
+sung by none other than... Ronnie Milsap. The opener to Milsap's 1982
+album *Inside*, it's a stark juxtaposition to Adkins's objectifying anthem that
+pokes at that raw nerve deep in your gut
 
 a relationship on the rocks and a sweetie who's gonna break your heart.
 Milsap tenderly sings about that hollow feeling deep down in your gut when you
