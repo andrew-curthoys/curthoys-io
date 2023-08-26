@@ -34,8 +34,7 @@ My flight landed late last night so my energy levels are dangerously depleted.
 
 This should go well.
 
-As we work through a few cycles
-
+<h4 class="article-subheader">Five-Six-Seven-Eight</h4>
 <span style="display:inline-block; width: 20px;"></span><i>one-two-three-four-five-six-seven-eight</i><br>
 <span style="display:inline-block; width: 290px;"></span><span class="flip-h"><b>pivot</b></span><br>
 <span style="display:inline-block; width: 20px;"></span><span class="flip-h"><i>one-two-three-four-five-six-seven-eight</i></span><br>
@@ -47,7 +46,20 @@ As we work through a few cycles
 <span style="display:inline-block; width: 20px;"></span><i>one-two-three-four-five-six-seven-eight</i><br>
 <span style="display:inline-block; width: 290px;"></span><span class="flip-h"><b>pivot</b></span><br>
 <span style="display:inline-block; width: 20px;"></span><span class="flip-h"><i>one-two-three-four-five-six-seven-eight</i></span><br>
+<b>pivot</b><br>
+<span style="display:inline-block; width: 20px;"></span><i>one-two-three-four-five-six-seven-eight</i><br>
+<span style="display:inline-block; width: 290px;"></span><span class="flip-h"><b>pivot</b></span><br>
+<span style="display:inline-block; width: 20px;"></span><span class="flip-h"><i>one-two-three-four-five-six-seven-eight</i></span><br>
+<b>pivot</b><br>
+<span style="display:inline-block; width: 20px;"></span><i>one-two-three-four-five-six-seven-eight</i><br>
+<span style="display:inline-block; width: 290px;"></span><span class="flip-h"><b>pivot</b></span><br>
+<span style="display:inline-block; width: 20px;"></span><span class="flip-h"><i>one-two-three-four-five-six-seven-eight</i></span><br>
+<b>pivot</b><br>
+<span style="display:inline-block; width: 20px;"></span><i>one-two-three-four-five-six-seven-eight</i><br>
+<span style="display:inline-block; width: 290px;"></span><span class="flip-h"><b>pivot</b></span><br>
+<span style="display:inline-block; width: 20px;"></span><span class="flip-h"><i>one-two-three-four-five-six-seven-eight</i></span><br>
 
+<h4 class="article-subheader">Pythagoras</h4>
 Mark offers a tip to keep our lines
 straight, "make sure your steps are a little longer on the way back because
 you have to walk farther since it's on an angle."
@@ -652,14 +664,16 @@ explanation given."
 </p>
 </div>
 
-Because the song that precedes *Honky Tonk Badonkadonk* in our performance was
-sung by none other than... Ronnie Milsap. The opener to Milsap's 1982
-album *Inside*, it's a stark juxtaposition to Adkins's objectifying anthem that
-pokes at that raw nerve deep in your gut
+My explanation for including this final nonsense narrative is the fact that
+the song that precedes *Honky Tonk Badonkadonk* in our performance was sung by
+none other than... Ronnie Milsap. *Any Day Now*, The opener to Milsap's 1982
+album *Inside*, is a stark juxtaposition to Adkins's objectifying anthem. It's a
+song that pokes at that raw nerve deep in your gut that can't be described but
+everyone who's felt it knows the feeling. The feeling in the dying stages of a
+relationship when you're clinging the idea of what once was.
 
-a relationship on the rocks and a sweetie who's gonna break your heart.
-Milsap tenderly sings about that hollow feeling deep down in your gut when you
-know your sweetheart is about to break your heart,
+But you know. You tell yourself everything is ok. But you know. One of these
+days the hammer will drop and shatter your heart into a million pieces.
 
 <div class="text-muted fst-italic mx-3 mb-3">
 Any day now<br><br>
@@ -674,20 +688,25 @@ I'll be all alone
 
 <iframe class="mb-2" style="border-radius:12px" src="https://open.spotify.com/embed/track/30upl1YT1suEgSDpIopSky?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-Somehow Milsap's velvety smooth treatment of gut wrenching lyrics lulls
-you into its captivating trance just like the devilish grin of your former flame.
-It's a song that falls squarely in the subgenre of Yacht Rock that I just invented
-called *Pontoon DockRock*. As anyone who knows my adoration for pontoons and
-yacht rock will understand my level of obsession with this song.
+Somehow Milsap's velvety smooth treatment lulls you into its captivating trance -
+just like the devilish grin of your soon-to-be-former lover. If you're not
+paying attention you just might miss the devastating lyrics. I certainly did the
+first few times I heard it. It's a song I've decided to categorize, at the
+behest of no one, into a subgenre of Yacht Rock I just invented called
+*Pontoon DockRock*. As anyone who knows my dual obsession with pontoons and
+yacht rock will understand my infatuation with this song.
 
-The song has also been covered by the likes of Elvis Presley, Percy Sledge,
-Frankie Valli, Luther Vandross, James Brown, and Eddie Kendricks of The
-Temptations. Pretty decent company I reckon.
+Ol' Ronnie's version is actually a cover, the original penned by Burt Bacharach,
+whose organ-heavy arrangement sounds like something you'd hear at a
+non-denominational Sunday service in the 70s. Which makes it all the more
+curious that it has also has been covered by the likes of Elvis Presley, Percy
+Sledge, Frankie Valli, Luther Vandross, James Brown, and Eddie Kendricks of The
+Temptations.
 
-Our soundtrack also includes favorites from Eric Church, fellow Okie Toby
+The soundtrack also includes favorites from Eric Church, fellow Okie Toby
 Keith, Martina McBride, and the Indian Outlaw hisself Tim McGraw. We listen to
 the same songs over and over and over and over and over - so many times they
-worm their way into our subconsciousness. Any time I hear one of these songs my
+worm their way into our subconsciousness. Any time I hear one of these ditties my
 brain instinctively starts waiting for the fade-in to the next song. A life-long
 gift that will forever remind me of two of the most fun weeks of my life.
 
@@ -695,7 +714,7 @@ gift that will forever remind me of two of the most fun weeks of my life.
 <h4 class="article-subheader">Catharsis</h4>
 With the amount of time we're spending together our discourse inevitably
 devolves into shallow, silly discussions of nonsense and frivolity.
-One such day I wander into a conversation between Matt & Renay 
+I stumble into one such discussion between Matt & Renay 
 regarding their preferred hand holding position. After some wrangling
 of mitts Matt ends up in front and Renay in back. They each recall holding hands
 in the alternate position but for whatever reason this feels right. I reach out
@@ -704,14 +723,25 @@ the frontward position and works out a theory of hand holding logistics: taller
 person goes in front.
 
 Which makes sense to me because I think I've only assumed the forward station
-and can't remember holding the hand of someone taller than me. Which leads us
-to the logical conclusion that I'll have to try it with Brace. We present our
-theory and Brace reaches down from the heights of his 6'7" frame and
-confirms our hypothesis. Taller person goes in front. If not the shorter
-person's wrist wrenches forward uncomfortably. Answering the most world's most
-pressing questions here at ADF.
+and can't remember holding the hand of someone taller than me. But remembering
+isn't science. And we're here to perform rigorous science.
 
-But the captivity does not just engender nonsense and frivolity; it can also
+"Brace!"
+
+"Yeah?"
+
+"Come hold my hand"
+
+*pregnant pause and a pursed lips stare that if you know Brace you know it*
+
+"I don't know what y'all are doing but *fine*"
+
+And Brace reaches down from the heights of his 6'7" frame and confirms our
+hypothesis (*p < 0.001*). Taller person goes in front. If not the shorter
+person's wrist wrenches forward uncomfortably. Answering the most world's
+most pressing questions here at ADF.
+
+But the captivity does not *just* engender nonsense and frivolity; it can also
 play with your emotions in unexpected ways. During the last rehearsal of week 1
 Mark introduces a brand new section of the performance as an homage to the Covid
 pandemic. It's simple, it's moving, it's beautiful.

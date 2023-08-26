@@ -39,6 +39,12 @@
     font-style: italic !important;
     margin-bottom: 0.5rem !important;
 }
+.article-subheader-anysize {
+    color: #4B739A !important;
+    font-variant: small-caps !important;
+    font-style: italic !important;
+    margin-bottom: 0.5rem !important;
+}
 .video-div {
     height: calc(200px + 14vw) !important;
 }
