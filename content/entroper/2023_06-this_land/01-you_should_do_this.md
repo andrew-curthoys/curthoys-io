@@ -48,7 +48,7 @@ Land,' an evening-long dance based entirely on walking."
 
 Well, now that you mention it, "based entirely on walking" feels right in my
 wheelhouse, hell I walk every day. Plus, "This Land Is Your Land" slides
-right into a cozy pair of and cowboy boots and blue jeans hanging in the closet
+right into a cozy pair of cowboy boots and blue jeans hanging in the closet
 of my Oklahoma pride. My childhood home sits just up the road a piece from the
 Woody Guthrie Center, which itself is located a mere 60 miles Northeast of
 Woodrow Wilson Guthrie's hometown of Okemah. How 'bout that lil deal?
@@ -170,12 +170,12 @@ Headshot &square;
 
 That unchecked box gnaws at me.
 
-My internal *Minister of "Be Comfortable Being Uncomfortable"*,
-who I've been grooming the past few years for situations just like this, pipes
-up - *it's not that big of a deal, just get a serviceable headshot and we'll head
+My internal *Minister of "Be Comfortable Being Uncomfortable"* -
+who I've been grooming the past few years for situations just like this - pipes
+up, *it's not that big of a deal, just get a serviceable headshot and we'll head
 to the airport and worry about the rest later*.
 
-So I do the most logical thing I can think of - I wheel my bicycle around to the
+So I channel my inner MacGyver and wheel my bicycle around to the
 brick wall, balance the pizza box on the handlebars, sit on the floor, and snap
 the most *serviceable* headshot in the history of headshots.
 
@@ -213,7 +213,8 @@ Excludes nudity
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Celebrates nudity  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Overdoes nudity
 
-So... I stroll down to the Durham Public Library to see if I can find some answers.
+So I do the most logical thing I can think of... I stroll down to the Durham
+Public Library to see if I can find some answers.
 
 On the top floor of the DPL I find the 20 volume collection of The Oxford
 English Dictionary Second Edition, published Clarendon Press, Oxford 1989. I
@@ -264,8 +265,9 @@ The night before the application deadline I navigate the USS Procrastination
 through roiling seas in the ominous shadow of Responsibility Island's
 craggy coastline.
 
-I've been agonizing over two simple prompts for weeks. I have a rough
-outline of a biography written in fits and starts. Then there's the matter of
+I've been agonizing over two simple prompts for weeks. I've eked out a rough
+outline of a biography written in fits and starts that may suffice. But then
+there's the matter of
 "why you would like to participate in this process and perform this piece?" The
 more I think about it the less I know why.
 
@@ -284,9 +286,11 @@ couch with LaGayle's 4 tiny dogs.
 </figure>
 
 <div id="red-sparrow" class="mb-3">
-LaGayle fires up the 2018 Jennifer Lawrence & Joel Edgerton dark spy thriller
-<i>Red Sparrow</i> and I grab my laptop. I click, I clack, I make final cuts
-of the words that auditioned for inclusion in my bio. Five minutes into the flick
+I snag my laptop as LaGayle fires up the 2018 Jennifer Lawrence & Joel Edgerton
+dark spy thriller <i>Red Sparrow</i>. I click, I clack, I make final cuts
+of the words that auditioned for inclusion in my bio. I'm only casually paying
+attention to the opening scenes of the movie but I can't help but look up from
+my computer when
 Jennifer Lawrence pirouettes onto the stage of the Bolshoi in a red and gold
 tutu & bodice. I don't realize it at the time, but the background ballet ambience
 while I complete my application now feels like kismet.
@@ -322,8 +326,8 @@ of the audition. More information regarding the audition will be shared
 following your confirmation.
 </div>
 
-Alright, let's give it a look. I open the link to a video of a previous
-performance of the piece in Paris in 2013. I press play & start scrolling to
+Alright, let's give it a look. I open the link to find a video of a previous
+performance in Paris from 2013. I press play & start scrolling to
 finally complete my quest to find the meaning of "contains". We start fully
 clothed, cycle through a few wardrobe changes, then BAM! Full on, ass out,
 flappin' in the breeze nudity. So THAT'S what *contains* means.
@@ -340,8 +344,8 @@ But first I have some more skiing to do.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/aud-twister.jpeg" alt="twister">
-	<figcaption class="figure-caption">as an oklahoman i'm morally obligated to
-	ski a run named "twister"</figcaption>
+	<figcaption class="figure-caption">As an Oklahoman I'm morally obligated to
+	ski a run named "Twister"</figcaption>
 </figure>
 
 <div class="tenor-gif-embed mb-3" data-postid="7754384" data-share-method="host" data-aspect-ratio="2.38095" data-width="100%"><a href="https://tenor.com/view/twister-nature-philip-seymour-hoffman-gif-7754384">Twister Nature GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>

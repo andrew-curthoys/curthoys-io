@@ -501,7 +501,8 @@ while others were amazed by the cohesive community.
 
 <h4 class="article-subheader">Well What Now?</h4>
 I've had many friends ask why I wanted to do this. Friends who understand all
-the sports references I've made and haven't a clue who Monica Bill Barnes is.
+the sports references I've made and wouldn't know Monica Bill Barnes if she
+came in the room and did her best Monica Bill Barnes impression.
 And I don't have a satisfactory answer for them.
 
 All of my fellow performers are curious as to my future in the dancing arts.

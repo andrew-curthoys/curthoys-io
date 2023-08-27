@@ -59,8 +59,7 @@ This should go well.
 <span style="display:inline-block; width: 290px;"></span><span class="flip-h"><b>pivot</b></span><br>
 <span style="display:inline-block; width: 20px;"></span><span class="flip-h"><i>one-two-three-four-five-six-seven-eight</i></span><br>
 
-<h4 class="article-subheader">Pythagoras</h4>
-Mark offers a tip to keep our lines
+In the midst of our peregrinations to and fro Mark offers a tip to keep our lines
 straight, "make sure your steps are a little longer on the way back because
 you have to walk farther since it's on an angle."
 
@@ -115,10 +114,8 @@ As I watch the video I realize the gallops occur very early in the piece.
 Gallops come. Gallops go. And when the gallops are said and done the clock reads
 just a shade over 3 minutes. Which means we still have a full minute & a half
 till we're introduced to our friend in the orange T-shirt & light grey pants. I
-keep my eye out for more gallops to break out but it seems the horses are in the
-stables for good. 
-
-And I'm overwhelmed by an intoxicating wave of relief.
+keep my eye out for more gallops to break out but an intoxicating wave of relief
+washes over me as I realize the horses are in the stables for good. 
 
 No gallops!! Be gone you vile equine ambulation!!
 
@@ -141,7 +138,7 @@ express themselves through their gait.
 </figure>
 
 As Mark works through the parts I get the hang of them *individually*. 
-Unfortunately we'll need to link them all together and that's where
+When he starts to link 2 and 3 segments together is where
 my head starts to spin. I quickly follow the lead of the more seasoned dancers
 and begin to write it all down in a notebook.
 
@@ -213,7 +210,7 @@ By the time we finish rehearsals I believe I've dragged my maxi skip to a
 marginally presentable level. I guess that will have to do.
 
 
-<h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
+<h4 class="article-subheader">Do You Prefer Andrew or Andy?</h4>
 Once we graduate to props Mark instructs us to write our name on a handful of
 cups to keep everything organized. Since I routinely wake up in the morning and
 choose silliness I write A<span class="flip-h">N</span>DY like our best good pal
@@ -237,7 +234,7 @@ names that suggests *no seriously, what do you like to be called?*
 But I really don't have a preference. I've been called *much* worse than Andy, I
 can assure you of that. Among my friends back home I'm almost exclusively
 called "Toys". This curious cognomen arose within a high school milieu where
-everyone was called by their last name. Curthoys soon became
+everyone was known by their last name. Curthoys soon became
 CarToys, which, in a display of ruthless syllabic economy simply became "Toys."
 The moniker was passed down like a pair of worn out sneakers to my younger
 brothers, who are known by my friends as Allie (Alex) Toy, Timmy Toy, & Johnny
@@ -253,6 +250,8 @@ referenced the prop guns my head instinctively popped up like a meerkat.
 </div>
 <figcaption class="figure-caption mb-2">Did someone say toys?</figcaption>
 
+
+<h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
 After a few days of rehearsals we're tasked with building our costumes. Mark
 gave us a few ideas of characters he typically likes to see and outfits that
 might work. In advance of costume day everyone rummages through their closet and
@@ -261,16 +260,17 @@ brings a menagerie of clothes, hats, bags, and accessories for consideration.
 It shouldn't stretch the imagination that a roomful of dancers let loose on
 costumes makes for a gleeful atmosphere. The cast is buzzing, exchanging outfits,
 trying out looks, channeling Tim Gunn. The star of costume day is Boutique Alyce,
-the miniature emporium of all things fashion set up by Alyce in a corner of the
+a miniature emporium of all things fashion set up by Alyce in a corner of the
 studio. It's the dance equivalent of a general store selling picks and
 shovels during the California gold rush.
 
-Unfortunately my sartorial selection falls at the very end of the dance
-wardrobe spectrum, just this side
+Unfortunately my sartorial selection falls at the wrong end of the
+dance wardrobe spectrum, just this side
 of "dad clothes." So while everyone is flitting around exchanging outfits and
-trying new looks I mostly just mill about and admire everyone else's duds.
-Once everyone has showcased their looks for Mark he eyes my Sunday afternoon
-middle manager in a suburban McMansion golf attire and sarcastically pans,
+trying new looks I mostly just mill about and admire their duds.
+Once everyone has showcased their looks for Mark he eyes my
+Sunday-afternoon-middle-manager-in-a-suburban-McMansion golf attire and
+sarcastically pans,
 
 "Well *Andy's* made my job easy, you haven't even changed!"
 
@@ -288,12 +288,12 @@ shopping on Friday so we'll look for something for you too."
 
 "Okie doke."
 
-Brace & Hendri are the newcomers to our crew. They were part of the original
-cast and have stepped these
-steps dozens of times over the years. They live in Seattle and Mark called on
-them to even out the number of men and presumably add a little diversity to my
-fellow white guys, Johnathan & Matt. During the first week we often
-rehearsed with them as "holes" in the lineup, but increasingly Aaron stepped in
+Newcomers to our crew, Brace & Hendri were part of the original *This Land Is
+Your Land* cast and have stepped these steps dozens of times over the years.
+They live in Seattle and Mark called on them to even out the number of men and
+presumably add a little diversity to my similarly melanin challenged male
+participants, Johnathan & Matt. During the first week we often rehearsed with
+Brace & Hendri as "holes" in the lineup, but increasingly Aaron stepped in
 to fill the gaps. Aaron is another transplant who hails from San Antonio (just a
 few miles from my old house we later found out) working at ADF for the summer.
 He has also performed the piece in the past, bringing three experienced

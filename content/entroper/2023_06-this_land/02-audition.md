@@ -25,10 +25,10 @@ The only guidance from the email was a "clean pair of
 white-soled sneakers". It also said there will be no nudity in the audition so
 I should probably wear some clothes too. I opt for a pair of
 breathable trousers and a plain dark v-neck. For the clean white-soled sneakers
-I choose my white Asics that I wore to officiate my good friends Brady &
+I choose the white pair of Asics that I wore to officiate my good friends Brady &
 Shelby's wedding last summer. Maybe they got some magic in them yet.
 
-I arrive at ADF's Samuel H. Scripps Studios at quarter to 6 and check in
+I arrive to ADF's Samuel H. Scripps Studios at quarter to 6 and check in
 with Kelsey, who hands me number 170 to pin to my
 shirt. Which can only mean one thing: I'm going to be the dancing equivalent of
 Josh Allen, only 10 times better. They snap a quick picture,
