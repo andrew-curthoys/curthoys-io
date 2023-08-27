@@ -2,3 +2,32 @@
 {% macro divider() -%}
 	<p class="section-divider my-4">&#11044;&emsp;&ensp;&#11044;&emsp;&ensp;&#11044;</p>
 {%- endmacro %}
+
+
+{% macro photo(vertical=True) -%}
+
+{% if True %}
+
+{% endif %}
+<p class="section-divider my-4">&#11044;&emsp;&ensp;&#11044;&emsp;&ensp;&#11044;</p> }}
+
+
+{%- endmacro %}
+
+
+{% macro placeholder() -%}
+	{% if vertical %}
+
+	{% endif %}
+	{% if vertical %}
+		{% set fig_class = "figure" %}
+	{% endif %}
+
+src, alt, caption, vertical=False
+
+
+	<figure class="fig_class">
+		<img class="figure-img img-fluid mt-2 rounded" src={{ src }} alt=alt>
+		<figcaption class="figure-caption">caption</figcaption>
+	</figure>
+{%- endmacro %}

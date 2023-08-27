@@ -276,9 +276,9 @@ uncomfortable in a room full of men. I've never been sexually harassed. I've
 never been sexually assaulted. I've never experienced the countless
 inexcusable behaviors directed at women in our society.
 
-So I have no idea what these women must grapple with to
-be *that* vulnerable in front of *that* many people. I've written at length
-in this story about getting out of my comfort zone. But I'm not brave. Alexandra
+So I have no idea what these women must grapple with to be *that* vulnerable in
+front of *that* many people. I've written at length in this story about getting
+out of my comfort zone. But I'm not brave. Alexandra
 and Renay and Cate and Allie and McKelynn and Carrie and Alyce and Dana and
 Linda are. And I respect and admire them for it.
 
@@ -288,6 +288,11 @@ Unsurprisingly the topic of nudity often arose during our long hours of
 rehearsals. Each woman had a different perspective, a different mindset,
 a different journey. And each time the topic was broached, I knew it was
 time for me to shut up and listen and learn.
+
+But I didn't have to consult with my partner about
+exposing myself to a group of strangers. I didn't have to discuss nudity and
+sexuality with my kids. Or my grandkids. I'm not a member of the dance community
+who will I'm not
 
 The most difficult part, it seems, was separating the nudity from sexuality.
 Because our puritanical societal norms impose an implicit

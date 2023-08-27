@@ -376,7 +376,7 @@ position"
 "I feel like Monica Bill Barnes!! During this sequence I want everyone to
 pretend they are Monica Bill Barnes!!"
 
-I lean over to Allie, "who?"
+Once again I lean over to Allie, "who?"
 
 "Monica Bill Barnes"
 
@@ -473,7 +473,8 @@ headshot hardship behind me.
 
 
 
-It's no coincidence that Allie is preferentially shelled by my obtuse ordnance.
+It's no coincidence that Allie is preferentially assaulted with my questions of
+questionable quality.
 She's drawn the short straw of slotting behind me in the line. Due to
 nothing other than geographic proximity I converse mostly with Allie, Cate, and
 Renay. Cate & Renay have the slightly less irritating position in front of me;
@@ -509,11 +510,17 @@ rehearsals and it wouldn't click."
 "You'll be fine."
 
 This is a common theme during rehearsals. Unconditional support and reassurance
-are seemingly inexhaustible resources at the Samuel H. Scripps Studio.I never
-feel reticent to ask a stupid question, I never feel ostracized 
+are seemingly inexhaustible resources at the Samuel H. Scripps Studios. I never
+feel reticent to ask a stupid question, I never feel ostracized for being the
+token non-dancer. This wonderful environment is a natural outgrowth from sharing
+the studio with the kindest, warmest, most generous people I have ever met.
+Every single one of my co-performers has a heart of gold and I would give them
+the shirt off my back
+(assuming I'm wearing a shirt and not, y'know, fully nude).
 
-And I 100% believe that starts with Mark. He fosters a positive environment where
-the only criticism is positive. Even when giving notes he 
+This wonderful environment is fostered by Mark, who exudes positivity and
+respect. Negativity has no business in a room with Mark Haim. Even when critique
+is warranted it's always given with a smile.
 
 
 
