@@ -264,6 +264,11 @@ a miniature emporium of all things fashion set up by Alyce in a corner of the
 studio. It's the dance equivalent of a general store selling picks and
 shovels during the California gold rush.
 
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-alyce.jpg" alt="Alyce">
+	<figcaption class="figure-caption">Hangin' with the proprietor</figcaption>
+</figure>
+
 Unfortunately my sartorial selection falls at the wrong end of the
 dance wardrobe spectrum, just this side
 of "dad clothes." So while everyone is flitting around exchanging outfits and
@@ -520,17 +525,18 @@ the shirt off my back
 
 This wonderful environment is fostered by Mark, who exudes positivity and
 respect. Negativity has no business in a room with Mark Haim. Even when critique
-is warranted it's always given with a smile.
+is warranted it's always given with a smile. I ask the other dancers if this is
+normal from their experience and they relay that while asshole is not the norm,
+they have worked with plenty of assholes. But to a person they say this is the
+most fun they've had at a rehearsal.
 
-
-
-Throughout rehearsals the vibe is playful yet professional. Each one of us
-realize we're here
-to do a job and to express Mark's creative vision to the best of our ability.
-Throughout the course of each rehearsal we're constantly talking among ourselves,
-comparing
+Fun, but professional. We all realize we're here to do a job expressing Mark's
+creative vision to the best of our ability. We respect him and the feeling is
+mutual. He affords us plenty of leeway to goof off (which we do in spades) but
+we also take it upon ourselves to continuously improve. Throughout the course of
+each rehearsal we're constantly talking among ourselves, comparing
 notes, ironing out steps, perfecting hand positions, trying out facial
-expressions. It's a remarkably collaborative and supportive environment.
+expressions. It's a delightfully collaborative and supportive environment.
 
 A typical sample of a conversation during rehearsal,
 
@@ -575,7 +581,7 @@ turns red.
 
 "No and I don't care to"
 
-"You're really missing out, he has an entire catalog of songs he didn't
+"You're really missing out, he has an entire catalog of other songs he didn't
 write"
 
 For example: *Songs About Me*, written by Shayne Smith and Ed Hill.
@@ -591,19 +597,19 @@ reaction always falls somewher between "*ahhh shaddup*" and "*if you
 know what's best for your health, young man, you better not even think about
 it*".
 
-<!-- I would never, Linda Belans! I would never! -->
+I would never, Linda Belans! I would never!
 
 <figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-linda.jpg" alt="Linda">
 	<figcaption class="figure-caption">Linda Belans is a treasure</figcaption>
 </figure>
 
-Which makes sense that Trace Adkins would suggest slappin' your grandma because
+But Trace Adkins may not be deterred from slappin' your grandma because
 it seems he cares little for his health. A perusal of his Wikipedia page
-revealed a stream-of-consciousness masterpiece, littered with the wreckage of
+reveals a stream-of-consciousness masterpiece, littered with the wreckage of
 broken body parts, broken marriages, and broken sequiturs.
 
-From the "*the last sentence was written by someone else*" department:
+From the "*we'll have everybody write their own sentence*" department:
 
 <div class="text-muted fst-italic mx-3 mb-3">
 <p>
@@ -671,7 +677,7 @@ explanation given."
 </p>
 </div>
 
-My explanation for including this final nonsense narrative is the fact that
+This final nonsense narrative ties back into the story at hand because`
 the song that precedes *Honky Tonk Badonkadonk* in our performance was sung by
 none other than... Ronnie Milsap. *Any Day Now*, The opener to Milsap's 1982
 album *Inside*, is a stark juxtaposition to Adkins's objectifying anthem. It's a
@@ -710,7 +716,7 @@ curious that it has also has been covered by the likes of Elvis Presley, Percy
 Sledge, Frankie Valli, Luther Vandross, James Brown, and Eddie Kendricks of The
 Temptations.
 
-The soundtrack also includes favorites from Eric Church, fellow Okie Toby
+Our performance soundtrack also includes favorites from Eric Church, fellow Okie Toby
 Keith, Martina McBride, and the Indian Outlaw hisself Tim McGraw. We listen to
 the same songs over and over and over and over and over - so many times they
 worm their way into our subconsciousness. Any time I hear one of these ditties my

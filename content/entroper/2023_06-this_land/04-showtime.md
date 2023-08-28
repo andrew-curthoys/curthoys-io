@@ -72,8 +72,13 @@ Seeing as we were in the middle of the line when we committed our faux pas it
 very well could have looked intentional. At least that's what we tell ourselves
 as we prepare for our next pass. No time to dwell on the past.
 
-<photo of me & Cate skipping early>
-
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-skip_bad.jpg" alt="Bad skip">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-skip_good.jpg" alt="Good skip">
+  <figcaption class="figure-caption">Top photo: Cate & me skipping one lap too
+  early (sorry Cate &#x1F62C;)<br>Bottom photo: skipping when skipping should
+  be skippy'd</figcaption>
+</figure>
 
 <h4 class="article-subheader">It's Art, Get It?</h4>
 Artistic expression is a human pursuit unique in its subjectivity. There's no
