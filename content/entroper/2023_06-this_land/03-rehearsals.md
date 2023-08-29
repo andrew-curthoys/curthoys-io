@@ -64,7 +64,7 @@ straight, "make sure your steps are a little longer on the way back because
 you have to walk farther since it's on an angle."
 
 At this point my brain starts calculating. I'm so tired I can barely stand up
-but the *Well....Actually* center of my brain is running full steam ahead. It's
+but the "*Well....Actually*" center of my brain is running full steam ahead. It's
 like the rich part of town during "rolling blackouts." (Can you tell I'm still
 bitter about the Houston ice storm of 2021?)
 
@@ -92,13 +92,13 @@ I'm not saying there's a psychological difference in how far it *feels*.
 I'm just saying the *actual* distance is pretty negligible. I'm also saying that
 I'm a pedantic asshole whose brain doesn't have an off switch.
 
-But then again that might be why I'm able to understand a dance performance
-based on counting and trigonometry. Perhaps.
-
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-step_graph.png" alt="Step Graph">
 	<figcaption class="figure-caption">Of course I made a graph. Pedantic asshole indeed.</figcaption>
 </figure>
+
+But then again that might be why I'm able to understand a dance performance
+based on counting and trigonometry. Perhaps.
 
 
 <h4 class="article-subheader">Install</h4>
@@ -477,10 +477,10 @@ headshot hardship behind me.
 </figure>
 
 
-
+<h4 class="article-subheader">You Won't Be My Neighbor?</h4>
 It's no coincidence that Allie is preferentially assaulted with my questions of
-questionable quality.
-She's drawn the short straw of slotting behind me in the line. Due to
+questionable quality -
+she's drawn the short straw of slotting behind me in the line. Due to
 nothing other than geographic proximity I converse mostly with Allie, Cate, and
 Renay. Cate & Renay have the slightly less irritating position in front of me;
 Cate for the first half of the performance & Renay for the second after we pull
@@ -490,7 +490,7 @@ But dear Allie is beside me start to finish. And since she's *behind* me that
 means she's facing right at me each time I load another shell of obtuse ordnance
 into my half-wit howitzer. But she's perhaps the best suited of all the
 performers to deal with my buffoonery,
-seeing as Brace described her as "effervescently direct". She's not afraid to
+seeing as Brace described her as "effervescently direct." She's not afraid to
 tell me I'm a dumbass and that's whats I appreciates abouts her.
 
 <figure class="figure d-table mx-auto">
@@ -523,7 +523,7 @@ Every single one of my co-performers has a heart of gold and I would give them
 the shirt off my back
 (assuming I'm wearing a shirt and not, y'know, fully nude).
 
-This wonderful environment is fostered by Mark, who exudes positivity and
+This vibe is bolstered by Mark, who exudes positivity and
 respect. Negativity has no business in a room with Mark Haim. Even when critique
 is warranted it's always given with a smile. I ask the other dancers if this is
 normal from their experience and they relay that while asshole is not the norm,

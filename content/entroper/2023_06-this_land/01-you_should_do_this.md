@@ -172,10 +172,10 @@ That unchecked box gnaws at me.
 
 My internal *Minister of "Be Comfortable Being Uncomfortable"* -
 who I've been grooming the past few years for situations just like this - pipes
-up, *it's not that big of a deal, just get a serviceable headshot and we'll head
-to the airport and worry about the rest later*.
+up, "*it's not that big of a deal, just get a serviceable headshot and we'll head
+to the airport and worry about the rest later*."
 
-So I channel my inner MacGyver and wheel my bicycle around to the
+So I improvise and wheel my bicycle around to the
 brick wall, balance the pizza box on the handlebars, sit on the floor, and snap
 the most *serviceable* headshot in the history of headshots.
 

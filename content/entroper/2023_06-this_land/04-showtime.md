@@ -80,6 +80,39 @@ as we prepare for our next pass. No time to dwell on the past.
   be skippy'd</figcaption>
 </figure>
 
+With my skipping gaffe in the rearview we're soon to my absolute favorite part of the piece,
+*the pouty pause*. On my last lap of "plastic surgery" we stop for a 4 count at the
+end of the stage and give the audience the look of petulant child who
+was just told they couldn't have ice cream. "You're a bratty kid who didn't get
+their way and you want to stare at them like you're parents are the worst." I
+have a lot of fun with this one & really lean into it. *But I* ***REALLY***
+*want ice cream!!! Ughhhhhhhhhhhhhhh*.
+
+Then comes the spear handoff. The only part I haven't rehearsed.
+As I reach the yellow panel I snag the spear from Cate and collect 11 rubles
+with a flawless pirouette that could only be described as Baryshnikovian. The
+quality of the pirouette is only surpassed by my immense modesty.
+
+It wasn't long before I goofed again, just a couple passes later during the
+military marching sequence. This section features a completely different
+walking pattern that the audience has been lulled into expecting for the last
+half hour. I make it through the first couple laps just fine then on the third
+lap, for whatever reason, my brain lapses and I forget the (Nutcracker/step
+together/9-step/whatever name we feel like that day), which throws off my steps
+from my comrades. But thankfully we've rehearsed this so many dang times that I
+keep my composure and take a little stutter step before our skip and get back
+on schedule.
+
+But since all my mental energy was focused on fixing my mistake, I have completely
+lost my count. And as I mentioned this section has a skip on the 4-count. Again,
+we've rehearsed this so many times I have a pretty good *feel* for where the
+skip should go but my ace in the hole is walking right next to me. Renay, I
+find, attacks the skip with an aggressiveness that could likely qualify her for
+the triple jump at the Olympics. I mean she *really* loads up for it. And I
+catch her forceful bounds in my peripherals just to make sure I'm skipping on
+the right count for the rest of that pass. Love you Renay <span style="color:red">&hearts;</span>.
+
+
 <h4 class="article-subheader">It's Art, Get It?</h4>
 Artistic expression is a human pursuit unique in its subjectivity. There's no
 one way, no right way, no wrong way to create, consume, or appreciate art. And
@@ -110,9 +143,14 @@ most powerful section of Mark's. But that's just the Oklahoma in me.
 Each audience member will surely make a connection that feels
 just as profound to them as my Woody Guthrie connection did to me.
 
+Bryon Woods, the theater & dance critic for INDY Week, a Durham-based
+independent newspaper, wrote of the piece, "flashy movers on a serpentine
+catwalk execute a slow pan across a landscape of mindless consumerism in Mark
+Haim’s roast, 'This Land Is Your Land,' at the Nasher Museum." It's unclear
+
 It's a piece that weaves through some of the more salient aspects of our
 culture, but the most wonderful part is the fact that there's no message.
-There's no agenda.  It's simply Mark presenting the world the way he sees it and
+There's no agenda. It's simply Mark presenting the world the way he sees it and
 allowing the audience to come to their own conclusions.
 
 At least that's my conclusion.
@@ -179,11 +217,10 @@ Then right before the first performance Mark adds another variable.
 "Andy, I know we haven't practiced this but I want you to grab the spear from
 Cate and carry it offstage."
 
-<i>Sure thing, Mark, let's just throw a last minute curveball to the only dancer
-with no dance experience who'd be more comfortable hitting a
-<b>literal</b> curveball. No way that could possibly end up in disaster.</i>
+<i>Sure thing, Mark, let's just throw a last minute curveball to the dancer
+who'd be more comfortable hitting a <b>literal</b> curveball.</i>
 
-"Yeah, no problem," I say with a false confidence that hopefully hides the fact
+"Yeah, no problem," I say with a false confidence that hopefully belies the fact
 that it's at the very least a small problem.
 
 So I practice the spear handoff a few times with Cate, a move that requires a
@@ -357,6 +394,34 @@ previous statement. I look at Alyce with a bemused smirk,
 inside of your jeans with baby powder' this year I'd have thought 'well 2023
 is gonna be a weird year.'"
 
+<div id="sallyCarousel" class="carousel carousel-traveler slide" data-bs-ride="carousel" data-bs-interval="3000">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#sallyCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#sallyCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#sallyCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner" style="text-align:center;">
+    <div class="carousel-item active">
+      <img src="/theme/images/entroper/2023_06-this_land/perf-sally1.jpg">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/entroper/2023_06-this_land/perf-sally2.jpg">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/entroper/2023_06-this_land/perf-sally3.jpg">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#sallyCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#sallyCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </button>
+<figcaption class="figure-caption text-start bg-body">The evolution of the Sally</figcaption>
+</div>
+
 
 <h4 class="article-subheader">Deep Blue Lake</h4>
 For our passes with a "neutral" facial expression, i.e. no smiling, scowling,
@@ -378,42 +443,31 @@ I summon every ounce of concentration in my body to maintain a stoic stare;
 on the way back I have to ruthlessly crush the grassroots campaign of a grin
 organizing a jocund labor movement on my face.
 
+During another section Mark gave his note for our facial expression thusly, "I
+want you to convince yourself you are the front line in the war for Democracy,
+dammit!"
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-rifle.jpg" alt="Rifles">
+  <figcaption class="figure-caption">Did someone say dead inside?</figcaption>
+</figure>
+
+A few passes later we're carrying pistols Mark instructs us to wear
+a dead-eyed thousand yard stare. A catatonic numbness so deep we don't even
+realize we're carrying a pistol. Which comes naturally to me - I was raised
+Catholic.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-pistol.jpg" alt="Pistols">
+  <figcaption class="figure-caption">Did someone say dead inside?</figcaption>
+</figure>
+
 
 <h4 class="article-subheader">The Show Must Go On</h4>
-With my skipping gaffe in the rearview we're soon to my absolute favorite part of the piece,
-*the pouty pause*. On my last lap of "plastic surgery" we stop for a 4 count at the
-end of the stage and give the audience the look of petulant child who
-was just told they couldn't have ice cream. "You're a bratty kid who didn't get
-their way and you want to stare at them like you're parents are the worst." I
-have a lot of fun with this one & really lean into it. *But I* ***REALLY***
-*want ice cream!!! Ughhhhhhhhhhhhhhh*.
-
-Right after the nude section comes the spear handoff. The only part I haven't
-rehearsed.
-As I reach the yellow panel I snag the spear from Cate and collect 11 rubles
-with a flawless pirouette that could only be described as Baryshnikovian. The
-quality of the pirouette is only surpassed by my immense modesty.
-
-It wasn't long before I goofed again, just a couple passes later during the
-military marching sequence. This section features a completely different
-walking pattern that the audience has been lulled into expecting for the last
-half hour. I make it through the first couple laps just fine then on the third
-lap, for whatever reason, my brain lapses and I forget the (Nutcracker/step
-together/9-step/whatever name we feel like that day), which throws off my steps
-from my comrades. But thankfully we've rehearsed this so many dang times that I
-keep my composure and take a little stutter step before our skip and get back
-on schedule.
-
-But since all my mental energy was focused on fixing my gaffe, I have completely
-lost my count. And as I mentioned this section has a skip on the 4-count. Again,
-we've rehearsed this so many times I have a pretty good *feel* for where the
-skip should go but I also have Renay next to me in line to confirm my feelings.
-Because each time Renay goes for a skip she *really* loads up for it - it's like
-she's practicing for the triple jump at the Olympics. And I can catch her in my
-peripherals just to make sure I'm skipping on the right count for the rest of
-that pass. Love you Renay <span style="color:red">&hearts;</span>.
 
 
+
+<h4 class="article-subheader">Solo Time</h4>
 My final pass of the performance comes as the music
 fades out to silence. 96 steps with no soundtrack but our footsteps. I'm
 the very last in the line so my final lap is all alone. No music to keep my
