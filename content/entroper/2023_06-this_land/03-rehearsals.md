@@ -293,14 +293,14 @@ shopping on Friday so we'll look for something for you too."
 
 "Okie doke."
 
-Newcomers to our crew, Brace & Hendri were part of the original *This Land Is
+Brace & Hendri, the newcomers to our crew, were part of the original *This Land Is
 Your Land* cast and have stepped these steps dozens of times over the years.
 They live in Seattle and Mark called on them to even out the number of men and
 presumably add a little diversity to my similarly melanin challenged male
 participants, Johnathan & Matt. During the first week we often rehearsed with
 Brace & Hendri as "holes" in the lineup, but increasingly Aaron stepped in
 to fill the gaps. Aaron is another transplant who hails from San Antonio (just a
-few miles from my old house we later found out) working at ADF for the summer.
+few miles from my old house we later find out) working at ADF for the summer.
 He has also performed the piece in the past, bringing three experienced
 performers to help alleviate the pedagogical burden from Mark.
 
@@ -318,9 +318,7 @@ it from my mom. I decide to call this crunchy character "Aspen."
 
 Something about this outfit really causes my Shirley strut to pop.
 
-<photo the evolution of Aspen>
-
-My final outfit, a cowboy ensemble, is completely supplied by yours truly.
+My final outfit, a cowboy ensemble, is entirely supplied by yours truly.
 As I'm headed out for the day Brace hollers to me,
 
 "Hey, bring your cowboy hat tomorrow."
@@ -555,6 +553,35 @@ get to green"
 "Yes, I'll be neutral just as I'm leaving the stage."
 
 "Got it, thanks."
+
+
+<h4 class="article-subheader">Guns</h4>
+"I just got off the phone and we have an issue. I don't know where the decision
+came from but we are currently banned from using the prop guns."
+
+"So what are we going to do?"
+
+"I don't know, I've been on the phone with 10 different people this morning and
+feel like I'm going to tear my hair out. Let's just start rehearsal & we can
+figure it out later."
+
+So we decamp from our seated positions 'round a pile of plastic guns that would
+really tie the room together of a kingpin dealing in Colombian marching orders
+and begin rehearsal.
+
+The next day Mark reports that (whoever is in charge) suggested Nerf guns
+instead of our current lifelike facsimiles. But Nerf guns, would cheapen the
+(message). It would make it seem like we were making light of the situation.
+Because whatever you think of the situation
+the facts are that there are an estimated 400 million guns in the United States,
+meaning there are more guns than people. In addition there are 20 million
+assault style weapons meaning, which is more than the number of people in
+Australia.
+
+
+
+The shade of orange that was selected actually made them look more menacing
+than cartoonish.
 
 
 <h4 class="article-subheader">Slap Your Grandma</h4>
@@ -816,6 +843,8 @@ We've reached the naked goofin' part of rehearsals. That surely means we're
 ready for the real thing.
 
 Now, there's only one way to find out.
+
+
 
 
 

@@ -158,15 +158,24 @@ most powerful section of Mark's. But that's just the Oklahoma in me.
 Each audience member will surely make a connection that feels
 just as profound to them as my Woody Guthrie connection did to me.
 
-Bryon Woods, the theater & dance critic for INDY Week, a Durham-based
+Byron Woods, the theater & dance critic for INDY Week, a Durham-based
 independent newspaper, wrote of the piece, "flashy movers on a serpentine
 catwalk execute a slow pan across a landscape of mindless consumerism in Mark
-Haim’s roast, 'This Land Is Your Land,' at the Nasher Museum." It's unclear
+Haim’s roast, 'This Land Is Your Land,' at the Nasher Museum."
 
-It's a piece that weaves through some of the more salient aspects of our
+Audience members after the show commented on the sense of isolation in the
+piece. The lack of connection between the six dancers on stage, each weaving
+their own way through the world. Then others remarked on the feeling of
+community woven throughout the piece. It's individualistic. But it's also
+community. A dance. But also not a dance. A statement. But not a statement.
+
+It's an artistic expression that exposes salient aspects of our
 culture, but the most wonderful part is the fact that there's no message.
-There's no agenda. It's simply Mark presenting the world the way he sees it and
-allowing the audience to come to their own conclusions.
+There's consumerism but it's not a comment on consumerism. There's 
+There are guns but it's not a piece about guns. The guns are simply *there*.
+Each audience member can decide how that makes them feel and what it means to
+them. In this piece there's no agenda. It's simply Mark presenting the world the
+way he sees it and allowing the audience to come to their own conclusions.
 
 At least that's my conclusion.
 
@@ -174,9 +183,9 @@ At least that's my conclusion.
 <h4 class="article-subheader">Dress Rehearsal</h4>
 The day before opening night we mosey over to the Nasher for a full dress
 rehearsal in the *interactive viewing experience*. When I stroll into the
-capacious atrium of the museum my jaw drops. 45 feet overhead a web of glass and
-steel gracefully hovers above the 13,000 square foot Great Hall.
-The roof load is conjointly supported by 5 immense beams, none of which
+capacious atrium of the museum my jaw drops to the floor. 45 feet overhead a
+web of glass and steel gracefully hovers above the 13,000 square foot Great Hall.
+The ferrosilicate web is conjointly supported by 5 immense beams, none of which
 span the room's full breadth. It's somewhat like
 that classic dad trick of folding the flaps of a cardboard box to stay shut
 without tape. It's a beautiful piece of engineering.
@@ -486,6 +495,8 @@ count. No comrades to distract the audience's gaze.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-cowboy_solo.jpg" alt="Solo">
+  <figcaption class="figure-caption">Hardly spoke to folks around him, didn't
+  have too much to say</figcaption>
 </figure>
 
 Seeing as this is my first performance (have I mentioned that yet?) my fellow
