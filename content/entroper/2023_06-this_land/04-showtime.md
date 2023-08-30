@@ -88,6 +88,21 @@ their way and you want to stare at them like you're parents are the worst." I
 have a lot of fun with this one & really lean into it. *But I* ***REALLY***
 *want ice cream!!! Ughhhhhhhhhhhhhhh*.
 
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-interstellar.jpg" alt="Crazy Eyes">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-interstellar_matt.jpg" alt="Interstellar">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Trying to envision my reaction if they tell
+  me I can't have ice cream</figcaption>
+</figure>
+
+
+
 Then comes the spear handoff. The only part I haven't rehearsed.
 As I reach the yellow panel I snag the spear from Cate and collect 11 rubles
 with a flawless pirouette that could only be described as Baryshnikovian. The
@@ -242,7 +257,7 @@ I arrive to the Nasher a few hours ahead of our 6:30 PM show. Around 4:30
 we do a tech rehearsal, which I learn is just a breezy run-through with the
 music but no costumes or props. Like a Thursday football practice with no pads.
 
-<figure class="figure container-fluid">
+<figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-dress1.jpg" alt="Dress rehearsal">
   <figcaption class="figure-caption">Notice how everyone else is focused on
   the task at hand whilst yours truly sticks his tongue out at the camera</figcaption>
@@ -255,7 +270,7 @@ manager, Gabby, has the
 unenviable job of appeasing contingents from the Nasher, ADF, and the
 security detail, all while wrangling a group of nervy performers.
 
-<figure class="figure container-fluid">
+<figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-album.JPG" alt="Green room">
   <figcaption class="figure-caption">Durham Dance Mafia album cover</figcaption>
 </figure>
@@ -463,21 +478,21 @@ Catholic.
 </figure>
 
 
-<h4 class="article-subheader">The Show Must Go On</h4>
-
-
-
-<h4 class="article-subheader">Solo Time</h4>
+<h4 class="article-subheader">Ovation</h4>
 My final pass of the performance comes as the music
 fades out to silence. 96 steps with no soundtrack but our footsteps. I'm
 the very last in the line so my final lap is all alone. No music to keep my
 count. No comrades to distract the audience's gaze.
 
-<photo all alone>
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-cowboy_solo.jpg" alt="Solo">
+</figure>
 
 Seeing as this is my first performance (have I mentioned that yet?) my fellow
 dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
 it. I should be nervous but for reasons I can't explain I'm not.
+
+
 
 As I walk off the stage to close out my first ever performance I don't know what
 to expect. I gave it a 50-50 shot that I'd get emotional backstage and tear up.
