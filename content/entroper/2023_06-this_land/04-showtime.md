@@ -97,11 +97,9 @@ have a lot of fun with this one & really lean into it. *But I* ***REALLY***
       <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-interstellar_matt.jpg" alt="Interstellar">
     </div>
   </div>
-  <figcaption class="figure-caption">Trying to envision my reaction if they tell
-  me I can't have ice cream</figcaption>
+  <figcaption class="figure-caption">Seconds before the pouty pause I'm apparently
+  coked out McConaughey</figcaption>
 </figure>
-
-
 
 Then comes the spear handoff. The only part I haven't rehearsed.
 As I reach the yellow panel I snag the spear from Cate and collect 11 rubles
@@ -129,16 +127,17 @@ the right count for the rest of that pass. Love you Renay <span style="color:red
 
 
 <h4 class="article-subheader">It's Art, Get It?</h4>
-Artistic expression is a human pursuit unique in its subjectivity. There's no
+On the spectrum of human pursuits artistic expression is unique in its
+subjectivity. There's no
 one way, no right way, no wrong way to create, consume, or appreciate art. And
 that's where it derives its beauty. Y'know, the eye of the beholder and whatnot.
 
-In terms of subjective interpretation Mark Haim's *This Land Is Your Land* is an
+In terms of subjectivity Mark Haim's *This Land Is Your Land* is an
 extreme exercise on the matter. The piece is so
 unfailingly unique that no two audience members will walk out of
 the Nasher with the same perspective. And each perspective is perfectly valid.
 
-Even the stage is set up to encourage unique experiences. Arranged in a
+Even the stage is set up to encourage novel experiences. Arranged in a
 configuration that (I just learned) is known as a "thrust stage," the audience
 surrounds us on three sides. Personally, I'd call it the "Easy Company"
 but Mark calls it an
@@ -332,6 +331,11 @@ puerile pals riddled with cosmopolitan aphorisms such as "hanging dong" and
 preparation, mental or otherwise, was a diet and workout program - because
 who would know about vainglorious pursuits more than a man who built an entire
 website to write about himself?
+
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-nekked_eggplant.jpg" alt="Eggplant">
+  <figcaption class="figure-caption">Just like Dolph Lundgren in Thundergun 4</figcaption>
+</figure>
 
 But I don't want to breeze over the nudity. Because I'm fully aware that the
 simple fact that I'm a man affords me the luxury of such a carefree approach.
@@ -558,7 +562,7 @@ music."
 
 "It developed from an initial urge to play with time
 The back and forth wave has a mesmerizing quality that can lull the audience
-into a ________ then we change up the pattern and it throws them for a loop.
+into a trance then we change up the pattern and it throws them for a loop.
 I want something where the audience is just feeling bored before we change it
 up."
 
@@ -645,7 +649,8 @@ A ton of work.
 
 But a ton of fun.
 
-And I'll never regret taking that blind pirouette into the unknown.
+And I'll never regret taking that blind pirouette into the unknown. The Latin
+for "why not" is curnon, perhaps I should rename this site Curnonthoys.io.
 
 
 

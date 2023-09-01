@@ -304,13 +304,14 @@ few miles from my old house we later find out) working at ADF for the summer.
 He has also performed the piece in the past, bringing three experienced
 performers to help alleviate the pedagogical burden from Mark.
 
-<figure class="figure container-fluid">
+<figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-lunch.jpg" alt="Lunch">
-	<figcaption class="figure-caption">Enjoying lunch with Hendri & Brace ahead
-	of night 2</figcaption>
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-seattle.jpg" alt="Seattle crew">
+	<figcaption class="figure-caption">Top photo: Enjoying lunch with Hendri & Brace ahead
+	of night 2<br>Bottom photo: The Seattle crew.</figcaption>
 </figure>
 
-After the Seattle crew returns from their shopping spree I'm provisioned with
+After the Seattle steppers return from their shopping spree I'm provisioned with
 a deep-V crop top sweater, a high slit sarong, and a colorful over
 the shoulder bag. I borrow some Birkenstocks from a friend in my building and
 dig up a green scuba diving headband that I stole from my brother who stole
@@ -520,6 +521,13 @@ the studio with the kindest, warmest, most generous people I have ever met.
 Every single one of my co-performers has a heart of gold and I would give them
 the shirt off my back
 (assuming I'm wearing a shirt and not, y'know, fully nude).
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-gang.jpg" alt="The gang">
+	<figcaption class="figure-caption">Clockwise from selfie taker: Matt, Dana,
+	Carrie, Jonathan, Allie, some Jesus lookin' fella, Brace, Hendri, Alyce, Cate,
+	Alexandra, & Renay with Mark in the middle of the dancer donut.</figcaption>
+</figure>
 
 This vibe is bolstered by Mark, who exudes positivity and
 respect. Negativity has no business in a room with Mark Haim. Even when critique
