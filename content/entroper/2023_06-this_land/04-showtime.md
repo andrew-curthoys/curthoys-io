@@ -477,7 +477,7 @@ dammit!"
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-rifle.jpg" alt="Rifles">
-  <figcaption class="figure-caption">Did someone say dead inside?</figcaption>
+  <figcaption class="figure-caption">Come get some Putin</figcaption>
 </figure>
 
 A few passes later we're carrying pistols Mark instructs us to wear
@@ -551,6 +551,12 @@ During the talkback we learn about the story of how the piece came to be. Our
 current hour-long iteration was incrementally developed over time, with the
 original spanning a much more modest 20 minutes.
 
+"It developed from an initial urge to play with time.
+The back and forth wave has a mesmerizing quality that lulls the audience
+into a trance then we change up the pattern and it .
+I want something where the audience is just feeling bored before we change it
+up."
+
 "The piece is so much about the performing non-performance. Everyone is trying
 to look as if they're not aware that people are looking at them even though all
 eyes are on them."
@@ -559,12 +565,6 @@ eyes are on them."
 also involves about 200 Starbucks cups, 14 rifles, 14 pistols, 15 cell phones,
 17 beer cans, and a whole bunch of costumes set to a whole bunch of country
 music."
-
-"It developed from an initial urge to play with time
-The back and forth wave has a mesmerizing quality that can lull the audience
-into a trance then we change up the pattern and it throws them for a loop.
-I want something where the audience is just feeling bored before we change it
-up."
 
 During the Q&A my friend Sean asks Mark about his thought process behind using
 country music as the soundtrack for the piece.
@@ -587,17 +587,11 @@ to change the world. I just wanted to make a piece that was *fun* and I hope tha
 everyone had fun."
 
 
-To further my earlier point about differing audience experiences some
-participants during the Q&A remarked how individualistic the performance was,
-while others were amazed by the cohesive community.
-
-
-
 <h4 class="article-subheader">Well What Now?</h4>
 I've had many friends ask why I wanted to do this. Friends who understand all
-the sports references I've made and wouldn't know Monica Bill Barnes if she
-came in the room and did her best Monica Bill Barnes impression.
-And I don't have a satisfactory answer for them.
+the sports references I've made and none of the dance ones. Friends who wouldn't
+know Monica Bill Barnes if she walked in the room and did her best Monica Bill
+Barnes impression. And I don't have a satisfactory answer for them.
 
 All of my fellow performers are curious as to my future in the dancing arts.
 I've enrolled in some dance classes. I've learned what second position is. I can
@@ -649,10 +643,7 @@ A ton of work.
 
 But a ton of fun.
 
-And I'll never regret taking that blind pirouette into the unknown. The Latin
-for "why not" is curnon, perhaps I should rename this site Curnonthoys.io.
-
-
+And I'll never regret taking that blind pirouette into the unknown.
 
 
 I've been agonizing how to end this essay but maybe it's not the end. Maybe this

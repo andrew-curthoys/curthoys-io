@@ -524,12 +524,12 @@ the shirt off my back
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-gang.jpg" alt="The gang">
-	<figcaption class="figure-caption">Clockwise from selfie taker: Matt, Dana,
+	<figcaption class="figure-caption">Clockwise from selfie snapper: Matt, Dana,
 	Carrie, Jonathan, Allie, some Jesus lookin' fella, Brace, Hendri, Alyce, Cate,
 	Alexandra, & Renay with Mark in the middle of the dancer donut.</figcaption>
 </figure>
 
-This vibe is bolstered by Mark, who exudes positivity and
+This supportive environment is championed by Mark, who exudes positivity and
 respect. Negativity has no business in a room with Mark Haim. Even when critique
 is warranted it's always given with a smile. I ask the other dancers if this is
 normal from their experience and they relay that while asshole is not the norm,
@@ -563,9 +563,9 @@ get to green"
 "Got it, thanks."
 
 
-<h4 class="article-subheader">Guns</h4>
+<h4 class="article-subheader">Toys</h4>
 "I just got off the phone and we have an issue. I don't know where the decision
-came from but we are currently banned from using the prop guns."
+came from but as of now we're banned from using the prop guns."
 
 "So what are we going to do?"
 
@@ -573,23 +573,34 @@ came from but we are currently banned from using the prop guns."
 feel like I'm going to tear my hair out. Let's just start rehearsal & we can
 figure it out later."
 
-So we decamp from our seated positions 'round a pile of plastic guns that would
-really tie the room together of a kingpin dealing in Colombian marching orders
-and begin rehearsal.
-
+So we decamp from our seated positions 'round an arsenal of plastic <s>guns</s>
+toys that feels like it should be stacked on a powdery mountain of
+Colombian marching orders.
 The next day Mark reports that (whoever is in charge) suggested Nerf guns
 instead of our current lifelike facsimiles. But Nerf guns, would cheapen the
 (message). It would make it seem like we were making light of the situation.
-Because whatever you think of the situation
-the facts are that there are an estimated 400 million guns in the United States,
-meaning there are more guns than people. In addition there are 20 million
-assault style weapons meaning, which is more than the number of people in
-Australia.
+Because whatever you think of the situation the facts are that there are an
+estimated 400 million guns in the United States, 70 million more than we have
+people. Of those 400 million, 20 million are assault style weapons, around the
+population of Australia.
 
+Whatever your position on guns you can't deny that when it comes to firearms
+America is the exception. Whether that's exceptionally admirable or
+exceptionally abominable depends on your definition of a well trained militia.
 
+The most frustrating part of this whole ordeal is the late notice. We're less
+than a week away from the performance and they're springing this on us now? They
+can't say they didn't know, this has been in the works for nearly a year. And
+Mark has previously staged *this exact same piece in this exact same venue*.
+To be fair the world is a different place than it was 10 years ago.
 
-The shade of orange that was selected actually made them look more menacing
-than cartoonish.
+Eventually, after what must have been a thousand phone calls, Mark has secured
+a compromise. We will use our current allotment of toys but will paint them
+orange. As an enthusiast of Oklahoma Crimson & Cornell Big Red, orange is not my
+favorite color.
+
+But when we see the finished product I'm actually surprised with the result.
+The shade of orange actually makes the toys look more menacing than cartoonish.
 
 
 <h4 class="article-subheader">Slap Your Grandma</h4>
