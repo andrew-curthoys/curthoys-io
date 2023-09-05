@@ -11,7 +11,7 @@ category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
 status: draft
-photo: 
+photo: aud-accordion.jpeg
 short_sum: Right foot odd, left foot even. Until it isn't.
 summary: 
 
@@ -140,7 +140,7 @@ terrifying line that sends shivers down my spine,
 this but we want to get some more looks at a smaller group."
 
 This is the moment that I realize what an unbelievable opportunity I have. I
-can see the genuine pain in Mark's face when he has to tell people they've
+can see the anguish in Mark's face when he has to tell people they've
 been cut. He's genuinely uncomfortable. The choreographer could be an asshole.
 The choreographer could have taken glee in cutting people. But each number he
 reads *pains* him.
@@ -190,7 +190,7 @@ are coming. It's a great dive bar, I know all the bartenders."
 
 "Oh I'm *very* familiar with Accordion Club. I love that place! See you there!"
 
-Anticipating my condition I hitch up my 6 cylinder steed at my apartment
+Anticipating my condition I hitch up my 6 cylinder steed
 and set off to the saloon on foot. By the time I belly up to the rail my new
 friends Dana, Renay, and Matt halfway through their first sarsparilla. I
 order up a Fairground Balloons Pale Ale for a little catch up.
@@ -283,7 +283,7 @@ invited to attend the callback.</b>
 I'll be honest I didn't expect to reach feelings of dread & relief regarding the
 fate of my participation in this performance. When I decided to apply it was
 with a feeling of *sure why not?* I think there was just something about the
-audition that captivated me. A little magic
+audition that captivated me. Have I caught the dance bug?
 
 My alarm squawks the next morning and I feel bleary eyed and cranky. About
 halfway through preparing my morning coffee I realize I'm dealing with
@@ -292,7 +292,7 @@ all allowed to happen in the Year of Our Lord 2023. Hopefully this pot of Little
 Waves Dinkinesh: Yukro Ethiopian medium roast jitter juice puts a little pep in
 my step.
 
-Back at the studio where work through all the hits again. After about an hour we
+Back at the studio we work through all the hits again. After about an hour we
 take a break and while we're all relaxing on the
 benches in the reception area Marks strides in with an
 announcement he delivers in the most understated tone possible,

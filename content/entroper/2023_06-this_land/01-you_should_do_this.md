@@ -15,7 +15,7 @@ photo: aud-insta_message.jpeg
 short_sum: Comfort zone? We don't need no stinking comfort zone!
 summary: 
 
-I'm minding my own business on a nondescript January morning when I notice a
+I'm minding my business on a nondescript January morning when I notice a
 little red notification on my Instagram app. I pop it open expecting to see what
 I typically see when I notice a little red notification on my Instagram app: an
 epic guitar solo or mind bending soccer goal sent from the small group of
@@ -63,11 +63,11 @@ Welp....
 It was fun while it lasted.
 
 Of the nearly half-million words in the English language, the descriptor
-"diverse" would be near the bottom of the list for a mid-30s straight white
+"diverse" would be nowhere near the top of the list for a mid-30s straight white
 guy from Oklahoma.
 
-However, you'd surely find "misplaced confidence" near the top of the same list
-so I decide to apply anyway ¯\\_(ツ)_/¯
+However, what you *would* find near the top of the list is "misplaced
+confidence" so I decide to apply anyway ¯\\_(ツ)_/¯
 
 My 7 word response to Laura initiated the fueling procedures for a Saturn V
 rocket programmed to launch me out of my comfort zone and into another galaxy.
@@ -289,8 +289,7 @@ couch with LaGayle's 4 tiny dogs.
 I snag my laptop as LaGayle fires up the 2018 Jennifer Lawrence & Joel Edgerton
 dark spy thriller <i>Red Sparrow</i>. I click, I clack, I make final cuts
 of the words that auditioned for inclusion in my bio. I'm only casually paying
-attention to the opening scenes of the movie but I can't help but look up from
-my computer when
+attention to the opening scenes of the movie when my gaze is drawn to the TV as
 Jennifer Lawrence pirouettes onto the stage of the Bolshoi in a red and gold
 tutu & bodice. I don't realize it at the time, but the background ballet ambience
 while I complete my application now feels like kismet.

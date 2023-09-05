@@ -11,7 +11,7 @@ category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
 status: draft
-photo:
+photo: hearsals-gang.jpg
 short_sum: Who ever knew so much work could be so much fun?
 summary: 
 
@@ -185,7 +185,7 @@ experience this is it.
 
 <div class="mb-3" style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/85cXrCIHjraRa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
-Mark, while trying to smother a watching-a-car-wreck-in-slow-motion grimace,
+Mark, while trying to smother a *watching-a-car-wreck-in-slow-motion* grimace,
 enlists the expertise of Alexandra for some personal coaching. She does a
 few skips with a lithe, effortless nonchalance that implies this should be easy.
 
@@ -254,8 +254,8 @@ referenced the prop guns my head instinctively popped up like a meerkat.
 <h4 class="article-subheader">Andy Meet Aspen, Aspen Meet Zane</h4>
 After a few days of rehearsals we're tasked with building our costumes. Mark
 gave us a few ideas of characters he typically likes to see and outfits that
-might work. In advance of costume day everyone rummages through their closet and
-brings a menagerie of clothes, hats, bags, and accessories for consideration.
+might work. In advance of costume day everyone rummaged through their closet and
+brought a menagerie of clothes, hats, bags, and accessories for consideration.
 
 It shouldn't stretch the imagination that a roomful of dancers let loose on
 costumes makes for a gleeful atmosphere. The cast is buzzing, exchanging outfits,
@@ -266,14 +266,14 @@ shovels during the California gold rush.
 
 <figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-alyce.jpg" alt="Alyce">
-	<figcaption class="figure-caption">Hangin' with the proprietor</figcaption>
+	<figcaption class="figure-caption">The proprietor herself</figcaption>
 </figure>
 
-Unfortunately my sartorial selection falls at the wrong end of the
+Unfortunately my sartorial selection falls at the boring end of the
 dance wardrobe spectrum, just this side
 of "dad clothes." So while everyone is flitting around exchanging outfits and
 trying new looks I mostly just mill about and admire their duds.
-Once everyone has showcased their looks for Mark he eyes my
+After all my compatriots showcase their looks for Mark he eyes my
 Sunday-afternoon-middle-manager-in-a-suburban-McMansion golf attire and
 sarcastically pans,
 
@@ -297,7 +297,9 @@ Brace & Hendri, the newcomers to our crew, were part of the original *This Land 
 Your Land* cast and have stepped these steps dozens of times over the years.
 They live in Seattle and Mark called on them to even out the number of men and
 presumably add a little diversity to my similarly melanin challenged male
-participants, Johnathan & Matt. During the first week we often rehearsed with
+participants, Johnathan & Matt.
+
+During the first week we often rehearsed with
 Brace & Hendri as "holes" in the lineup, but increasingly Aaron stepped in
 to fill the gaps. Aaron is another transplant who hails from San Antonio (just a
 few miles from my old house we later find out) working at ADF for the summer.
@@ -419,7 +421,9 @@ next rehearsal, where I summarily forget. And continue to forget each of the
 next three rehearsals until the deadline day. I hastily scribble something down
 and send it to Destinee. Headshot still pending.
 
-We've reached our day off so Dana agrees to meet me at Daily Beer Bar to punch up
+At the end of week 1 we're afforded an off-day, so Dana agrees to meet me at
+<a href="http://www.thedailybeerbar.com/" target="_blank" rel="noopener noreferrer">
+Daily Beer Bar</a> to punch up
 my bio & snap a headshot. Seeing as we're planning to sip some suds from
 my favorite beer bar in Durham I throw on a shirt from
 <a href="https://www.instagram.com/americansolera/" target="_blank" rel="noopener noreferrer">my favorite brewery</a>.
@@ -564,6 +568,9 @@ get to green"
 
 
 <h4 class="article-subheader">Toys</h4>
+Halfway through week 2 and just a few days before opening night Mark shows up to
+rehearsal wearing a look of exasperation.
+
 "I just got off the phone and we have an issue. I don't know where the decision
 came from but as of now we're banned from using the prop guns."
 
@@ -577,30 +584,29 @@ So we decamp from our seated positions 'round an arsenal of plastic <s>guns</s>
 toys that feels like it should be stacked on a powdery mountain of
 Colombian marching orders.
 The next day Mark reports that (whoever is in charge) suggested Nerf guns
-instead of our current lifelike facsimiles. But Nerf guns, would cheapen the
-(message). It would make it seem like we were making light of the situation.
-Because whatever you think of the situation the facts are that there are an
-estimated 400 million guns in the United States, 70 million more than we have
-people. Of those 400 million, 20 million are assault style weapons, around the
-population of Australia.
+instead of our current lifelike facsimiles. But Nerf guns would make it seem
+like we were making light of the situation.
 
-Whatever your position on guns you can't deny that when it comes to firearms
-America is the exception. Whether that's exceptionally admirable or
+Because whatever you think of the situation the facts are that there are an
+estimated 400 million guns in the United States. 20 million of which are assault
+style weapons, or one for every inhabitant of Australia. When it comes to
+firearms America is the exception. Whether that's exceptionally admirable or
 exceptionally abominable depends on your definition of a well trained militia.
 
-The most frustrating part of this whole ordeal is the late notice. We're less
-than a week away from the performance and they're springing this on us now? They
+The most frustrating part of this whole ordeal is the late notice. Why are
+they're springing this on us now? They
 can't say they didn't know, this has been in the works for nearly a year. And
 Mark has previously staged *this exact same piece in this exact same venue*.
-To be fair the world is a different place than it was 10 years ago.
 
 Eventually, after what must have been a thousand phone calls, Mark has secured
-a compromise. We will use our current allotment of toys but will paint them
-orange. As an enthusiast of Oklahoma Crimson & Cornell Big Red, orange is not my
-favorite color.
+a compromise. We will use our current armory of props but will paint them
+orange. As an enthusiast of Oklahoma Crimson & Cornell Big Red, I must say
+orange is not my favorite color.
 
 But when we see the finished product I'm actually surprised with the result.
-The shade of orange actually makes the toys look more menacing than cartoonish.
+The shade of orange actually makes the guns look more menacing than cartoonish.
+It's a reasonable compromise that I feel doesn't cheapen Mark's vision. It's not
+perfect but all things considered it's better than many of the worse alternatives.
 
 
 <h4 class="article-subheader">Slap Your Grandma</h4>
@@ -727,12 +733,12 @@ This final nonsense narrative ties back into the story at hand because`
 the song that precedes *Honky Tonk Badonkadonk* in our performance was sung by
 none other than... Ronnie Milsap. *Any Day Now*, The opener to Milsap's 1982
 album *Inside*, is a stark juxtaposition to Adkins's objectifying anthem. It's a
-song that pokes at that raw nerve deep in your gut that can't be described but
-everyone who's felt it knows the feeling. The feeling in the dying stages of a
-relationship when you're clinging the idea of what once was.
+song that pokes at the raw nerve deep in your gut that shows up during one of
+the most painful aspects of the human experience. The feeling that looms over
+the dying stages of a relationship as you cling the idea of what once was.
 
-But you know. You tell yourself everything is ok. But you know. One of these
-days the hammer will drop and shatter your heart into a million pieces.
+But you know. You tell yourself everything is ok. But you know. Any day now the
+hammer will drop and shatter your heart into a million pieces.
 
 <div class="text-muted fst-italic mx-3 mb-3">
 Any day now<br><br>
@@ -749,7 +755,7 @@ I'll be all alone
 
 Somehow Milsap's velvety smooth treatment lulls you into its captivating trance -
 just like the devilish grin of your soon-to-be-former lover. If you're not
-paying attention you just might miss the devastating lyrics. I certainly did the
+paying attention you just might miss the heart-wrenching lyrics. I certainly did the
 first few times I heard it. It's a song I've decided to categorize, at the
 behest of no one, into a subgenre of Yacht Rock I just invented called
 *Pontoon DockRock*. As anyone who knows my dual obsession with pontoons and
@@ -757,10 +763,11 @@ yacht rock will understand my infatuation with this song.
 
 Ol' Ronnie's version is actually a cover, the original penned by Burt Bacharach,
 whose organ-heavy arrangement sounds like something you'd hear at a
-non-denominational Sunday service in the 70s. Which makes it all the more
-curious that it has also has been covered by the likes of Elvis Presley, Percy
+non-denominational Sunday service in the 70s. It's a song with no shortage of
+cover versions, having been recorded by the likes of Elvis Presley, Percy
 Sledge, Frankie Valli, Luther Vandross, James Brown, and Eddie Kendricks of The
-Temptations.
+Temptations. Pretty insane company for a song I had never heard before two weeks
+ago.
 
 Our performance soundtrack also includes favorites from Eric Church, fellow Okie Toby
 Keith, Martina McBride, and the Indian Outlaw hisself Tim McGraw. We listen to
@@ -783,7 +790,7 @@ person goes in front.
 
 Which makes sense to me because I think I've only assumed the forward station
 and can't remember holding the hand of someone taller than me. But remembering
-isn't science. And we're here to perform rigorous science.
+isn't science. And we're here for rigorous, fact-based science.
 
 "Brace!"
 
@@ -791,13 +798,13 @@ isn't science. And we're here to perform rigorous science.
 
 "Come hold my hand"
 
-*pregnant pause and a pursed lips stare that if you know Brace you know it*
+*pregnant pause and a pursed lips stare that if you know Brace you know*
 
 "I don't know what y'all are doing but *fine*"
 
 And Brace reaches down from the heights of his 6'7" frame and confirms our
 hypothesis (*p < 0.001*). Taller person goes in front. If not the shorter
-person's wrist wrenches forward uncomfortably. Answering the most world's
+person's wrist wrenches forward uncomfortably. We're answering the most world's
 most pressing questions here at ADF.
 
 But the captivity does not *just* engender nonsense and frivolity; it can also
@@ -862,68 +869,3 @@ We've reached the naked goofin' part of rehearsals. That surely means we're
 ready for the real thing.
 
 Now, there's only one way to find out.
-
-
-
-
-
-
-
-
-
-<h4 class="article-subheader">Seattle Steppers</h4>
-In addition to our complement of a dozen North Carolina-based dancers Mark has
-arranged to supplement the company with a couple performers from Seattle who
-have performed the piece in the past. Since they have performed the piece before
-and live 3 timezones away they are only participating in the second week of
-rehearsals.
-
-
-<h4 class="article-subheader">Markisms</h4>
-Throughout the course of rehearsals, Mark would sometimes blurt out something
-that was so funny, kooky, or poetically nonsensical I had to jot it down. A few
-favorites:
-
-*After our lunch break from our first Sunday rehearsal:*
-
-“Mark was tired & he went home. I showed up and I’m a bitch!”
-
-*On the look he wants us to show during our "neutral" passes*
-
-"I want your face to look like you're staring off into a deep blue lake"
-
-*On the look he wants us to have during "plastic surgery"*
-
-"I want your face to have no expression, like an LA socialite whose face is
-paralyzed from her last botox injection."
-
-*On the way we need to walk to look relaxed and not stiff*
-
-"I want you to imagine your body is a million tiny little pieces and each piece
-moves independent of one another."
-
-*On the character he wanted us to embody during a section of the piece:*
-
-“I want you to be Tuesday from then Addams Family”
-
-“Do you mean Wednesday!?"
-
-"I only shot a gun when I was a kid at sleepaway camp and I was like this is so stupid! So I went and did arts & crafts! Making structures out of popsicle sticks"
-
-And I think my favorite,
-
-"Linda Belans!"
-
-For whatever reason Mark always referred to Linda by her full name, a practice
-that was adopted by the rest of the company.
-
-
-
-
-"Who is the first one to come out with the straw cup?"
-
-"Right here! Uncle Andy!"
-
-Allie asks, "are you actually an uncle?"
-
-"To my friends' pets I am"

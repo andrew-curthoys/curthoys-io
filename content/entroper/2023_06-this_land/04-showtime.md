@@ -11,8 +11,8 @@ category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
 status: draft
-photo:
-short_sum: This is it, don't get scared now
+photo: perf-sally3.jpg
+short_sum: This is it, don't get scared now!
 summary: 
 
 
@@ -54,7 +54,7 @@ summary:
 Welp, it only took till my 3rd pass for my first blunder. That set of three
 skips you see up there in red? That should have been another single skip - the
 triple skips don't come until the *next* lap. Well, *shouldn't* come until the
-next lap if we're being pedantic. I know I was bound to mess *something*
+next lap if we're being pedantic. I know I was bound to mess something
 up, just didn't think it would happen so quickly. We'll just say I got it out of
 the way early.
 
@@ -79,51 +79,6 @@ as we prepare for our next pass. No time to dwell on the past.
   early (sorry Cate &#x1F62C;)<br>Bottom photo: skipping when skipping should
   be skippy'd</figcaption>
 </figure>
-
-With my skipping gaffe in the rearview we're soon to my absolute favorite part of the piece,
-*the pouty pause*. On my last lap of "plastic surgery" we stop for a 4 count at the
-end of the stage and give the audience the look of petulant child who
-was just told they couldn't have ice cream. "You're a bratty kid who didn't get
-their way and you want to stare at them like you're parents are the worst." I
-have a lot of fun with this one & really lean into it. *But I* ***REALLY***
-*want ice cream!!! Ughhhhhhhhhhhhhhh*.
-
-<figure class="figure">
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-interstellar.jpg" alt="Crazy Eyes">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-interstellar_matt.jpg" alt="Interstellar">
-    </div>
-  </div>
-  <figcaption class="figure-caption">Seconds before the pouty pause I'm apparently
-  coked out McConaughey</figcaption>
-</figure>
-
-Then comes the spear handoff. The only part I haven't rehearsed.
-As I reach the yellow panel I snag the spear from Cate and collect 11 rubles
-with a flawless pirouette that could only be described as Baryshnikovian. The
-quality of the pirouette is only surpassed by my immense modesty.
-
-It wasn't long before I goofed again, just a couple passes later during the
-military marching sequence. This section features a completely different
-walking pattern that the audience has been lulled into expecting for the last
-half hour. I make it through the first couple laps just fine then on the third
-lap, for whatever reason, my brain lapses and I forget the (Nutcracker/step
-together/9-step/whatever name we feel like that day), which throws off my steps
-from my comrades. But thankfully we've rehearsed this so many dang times that I
-keep my composure and take a little stutter step before our skip and get back
-on schedule.
-
-But since all my mental energy was focused on fixing my mistake, I have completely
-lost my count. And as I mentioned this section has a skip on the 4-count. Again,
-we've rehearsed this so many times I have a pretty good *feel* for where the
-skip should go but my ace in the hole is walking right next to me. Renay, I
-find, attacks the skip with an aggressiveness that could likely qualify her for
-the triple jump at the Olympics. I mean she *really* loads up for it. And I
-catch her forceful bounds in my peripherals just to make sure I'm skipping on
-the right count for the rest of that pass. Love you Renay <span style="color:red">&hearts;</span>.
 
 
 <h4 class="article-subheader">It's Art, Get It?</h4>
@@ -225,7 +180,7 @@ struggles and they confirm as much.
 "Every time you rehearse at a new place that will happen. You'll be alright,
 that's why we did this."
 
-Phew. Did I mention my co-performers are fabulous people?
+Phew.
 
 For our second dress rehearsal we are graced with an audience. Members of the
 ADF staff and participants in the summer dance intensive who have schedule
@@ -321,64 +276,44 @@ And on the 5 I take my first step onto the stage in my inaugural performance as
 a dancer...
 
 
-<h4 class="article-subheader">About That Whole Nudity Thing</h4>
-I'll admit, when I first saw the video of the Paris performance with *full
-nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
-trepidation. The trepidation quickly gave way to a rolling cascade of immature
-mirthfulness. In short order I dispatched a flurry of texts to my similarly
-puerile pals riddled with cosmopolitan aphorisms such as "hanging dong" and
-"cock out walk out." My only
-preparation, mental or otherwise, was a diet and workout program - because
-who would know about vainglorious pursuits more than a man who built an entire
-website to write about himself?
+<h4 class="article-subheader">Deep Blue Lake</h4>
+For our passes with a "neutral" facial expression, i.e. no smiling, scowling,
+or sneering, Mark instructs us to imagine we're staring off into a deep blue
+lake, past the heads of the seated audience. Which, on the face of it, sounds
+like nonsense. But for whatever reason we all know *exactly* what he means. It's
+so nonsense that it makes sense.
 
-<figure class="figure container-fluid">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-nekked_eggplant.jpg" alt="Eggplant">
-  <figcaption class="figure-caption">Just like Dolph Lundgren in Thundergun 4</figcaption>
+So during these passes my mind's eye is locked in on
+<a href="/traveler/2022_01-ski_trip/03-wine.html?id=crater" target="_blank" rel="noopener noreferrer">Crater Lake</a>,
+the deepest lake in the United States filled with pristine Pacific Northwest
+precipitation. That deep and blue enough for ya?
+
+The most useful part of the note for me is the fact that making eye contact with
+a friend in the audience will immediately cause me to crack up. The first
+performance of day 2 I catch myself smothering a smirk during the nude section
+because I know my friends are in attendance. As I stride out towards the audience
+I summon every ounce of concentration in my body to maintain a stoic stare;
+on the way back I have to ruthlessly crush the grassroots campaign of a grin
+organizing a jocund labor movement on my face.
+
+During another section Mark gave his note for our facial expression thusly, "I
+want you to convince yourself you are the front line in the war for Democracy,
+dammit!"
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-rifle.jpg" alt="Rifles">
+  <figcaption class="figure-caption">Come get some Putin</figcaption>
 </figure>
 
-But I don't want to breeze over the nudity. Because I'm fully aware that the
-simple fact that I'm a man affords me the luxury of such a carefree approach.
-It's all cheeky and fun for me. But I've never been
-catcalled. I've never been told I need to *smile more*. I've never felt unsafe
-walking home at night. I've never carried pepper spray. I've never been
-uncomfortable in a room full of men. I've never been sexually harassed. I've
-never been sexually assaulted. I've never experienced the countless
-inexcusable behaviors directed at women in our society.
+A few passes later we're carrying pistols Mark instructs us to wear
+a dead-eyed thousand yard stare. A catatonic numbness so deep we don't even
+realize we're carrying a pistol. Which comes naturally to me - I was raised
+Catholic.
 
-So I have no idea what these women must grapple with to be *that* vulnerable in
-front of *that* many people. I've written at length in this story about getting
-out of my comfort zone. But I'm not brave. Alexandra
-and Renay and Cate and Allie and McKelynn and Carrie and Alyce and Dana and
-Linda are. And I respect and admire them for it.
-
-<p class="section-divider my-4">&#11044;&emsp;&ensp;&#11044;&emsp;&ensp;&#11044;</p>
-
-Unsurprisingly the topic of nudity often arose during our long hours of
-rehearsals. Each woman had a different perspective, a different mindset,
-a different journey. And each time the topic was broached, I knew it was
-time for me to shut up and listen and learn.
-
-But I didn't have to consult with my partner about
-exposing myself to a group of strangers. I didn't have to discuss nudity and
-sexuality with my kids. Or my grandkids. I'm not a member of the dance community
-who will I'm not
-
-The most difficult part, it seems, was separating the nudity from sexuality.
-Because our puritanical societal norms impose an implicit
-belief that nudity is intertwined with sexuality and sexuality is
-intertwined with shame and judgement. The ability to untie that
-tangled knot requires transcendent levels of patience, confidence, and
-self-awareness. But once each woman in the company was able to make that
-cognitive dissociation it seemed to deprive the nudity of all its power.
-
-Because at the end of the day we're all just *bodies*.
-Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
-creak and groan and grow hair in the worst places and lose hair in the best.
-
-The more we strip away the more we realize how similar we all are.
-
-And I think we could all use a little reminder of that from time to time.
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-pistol.jpg" alt="Pistols">
+  <figcaption class="figure-caption">Did someone say dead inside?</figcaption>
+</figure>
 
 
 <h4 class="article-subheader">Quick Change</h4>
@@ -418,9 +353,9 @@ when you're sweaty!"
 I take a moment to appreciate the simultaneous absurdity and sensibleness of the
 previous statement. I look at Alyce with a bemused smirk,
 
-"If you would have told me on New Year's Eve that I'd hear 'if you coat the
-inside of your jeans with baby powder' this year I'd have thought 'well 2023
-is gonna be a weird year.'"
+"If you would have told me on New Year's Eve that I'd hear '*if you coat the
+inside of your jeans with baby powder*' this year I'd have thought '*well 2023
+is gonna be a weird year.*'"
 
 <div id="sallyCarousel" class="carousel carousel-traveler slide" data-bs-ride="carousel" data-bs-interval="3000">
   <div class="carousel-indicators">
@@ -451,44 +386,158 @@ is gonna be a weird year.'"
 </div>
 
 
-<h4 class="article-subheader">Deep Blue Lake</h4>
-For our passes with a "neutral" facial expression, i.e. no smiling, scowling,
-or sneering, Mark instructs us to imagine we're staring off into a deep blue
-lake, past the heads of the seated audience. Which, on the face of it, sounds
-like nonsense. But for whatever reason we all know *exactly* what he means. It's
-so nonsense that it makes sense.
+<h4 class="article-subheader">About That Whole Nudity Thing</h4>
+I'll admit when I first saw the video of the Paris performance with *full
+nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
+trepidation. The trepidation quickly gave way to a rolling cascade of immature
+mirthfulness. In short order, I dispatched a flurry of texts to my similarly
+puerile pals riddled with cosmopolitan aphorisms such as "hanging dong" and
+"cock out walk out." My only
+preparation, mental or otherwise, was a diet and workout program - because
+who would know about vainglorious pursuits more than a man who built an entire
+website to write about himself?
 
-So during these passes my mind's eye is locked in on
-<a href="/traveler/2022_01-ski_trip/03-wine.html?id=crater" target="_blank" rel="noopener noreferrer">Crater Lake</a>,
-the deepest lake in the United States filled with pristine Pacific Northwest
-precipitation. That deep and blue enough for ya?
-
-The most useful part of the note for me is the fact that making eye contact with
-a friend in the audience will immediately cause me to crack up. The first
-performance of day 2 I catch myself smothering a smirk during the nude section
-because I know my friends are in attendance. As I stride out towards the audience
-I summon every ounce of concentration in my body to maintain a stoic stare;
-on the way back I have to ruthlessly crush the grassroots campaign of a grin
-organizing a jocund labor movement on my face.
-
-During another section Mark gave his note for our facial expression thusly, "I
-want you to convince yourself you are the front line in the war for Democracy,
-dammit!"
-
-<figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-rifle.jpg" alt="Rifles">
-  <figcaption class="figure-caption">Come get some Putin</figcaption>
+<figure class="figure container-fluid">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-nekked_eggplant.jpg" alt="Eggplant">
+  <figcaption class="figure-caption">Just like Dolph Lundgren in Thundergun 4</figcaption>
 </figure>
 
-A few passes later we're carrying pistols Mark instructs us to wear
-a dead-eyed thousand yard stare. A catatonic numbness so deep we don't even
-realize we're carrying a pistol. Which comes naturally to me - I was raised
-Catholic.
+But I don't want to breeze over the nudity. Because it's such an integral part
+to the piece's bold creativity and my experience as a straight white male
+non-dancer is not representative of the rest of the company. As I listened to
+discussions of the nudity during rehearsal breaks I decided that I'd like to
+share a more diverse breadth of experiences than my own.
+
+Spanning a wide range of backgrounds and 5 decades in age, the cast's journey of
+acceptance with the nudity was not uniform. While it was a completely novel
+experience for me, some of my co-performers had performed nude in
+the past. Most had attended performances with nudity. All understood that nudity
+is a form of artistic expression that has been around as long as dance has been
+around. As Dana put it, with nudity comes "something intimate that cannot be
+denied… A trust that exists when we reveal ourselves whether physically or
+emotionally - and dance includes both."
+
+Each member came to the piece with their own level of comfort with nudity. Some
+were completely fine with it. Some were still on the fence as late as the
+audition. The mental hurdle we all needed to clear was not comfort with our own
+bodies (that was just the start) but comfort with *others* seeing our nude
+bodies. And because of society's varying expectations based on age, gender,
+race, or sexual orientation that was easier for some than others.
+
+A further challenge for those active in the North Carolina dance scene (which
+was most of the dancers) was confronting the anxiety of performing in front of
+colleagues, collaborators, community leaders, mentors, teachers, students. An
+anxiety I avoided because I emphatically told my coworkers not to come. When I
+chatted with Dana about this aspect she relayed that it "was a question of
+making sure the people in my life and in my community who know me
+professionally, and outside of the dance sphere, were going to be ok with seeing
+me naked... Will they still respect me? Will they see me from now on in a work
+or other public event setting and imagine me naked?"
+
+Another performer discussed a time when she and her husband told a group of
+friends about the piece and when the topic of nudity arose all their friends
+looked to her husband as if it was some sort of infidelity. Because our
+puritanical societal norms conflate nudity with sexuality. We rarely see nudity
+in a non-sexual manner. Nudity is taboo because sexuality is taboo.
+
+But there's nothing inherently sexual about nudity. And there's nothing
+inherently wrong about sexuality (but that's another discussion altogether).
+
+
+
+But with this piece there's nothing sexual about it.
+
+As the youngest member of the company, Cate grappled with the nudity.
+Cate "it's only a big deal if you make it a big deal, and nobody was making it
+a big deal"
+
+"The professionalism & maturity of everyone involved was what was very helpful
+to me"
+unsure of the nudity were positive environment centered on
+professionalism and respect that Mark fostered at the audition and the use of
+the nudity in the Paris performance contributed to their acceptance.
+
+
+
+This experience has certainly opened my eyes to the fatuity of our societal
+obsession with nudity. Because at the end of the day we're all just *bodies*.
+Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
+creak and groan and grow hair in the worst places and lose hair in the best.
+
+The more we strip away the more we realize how similar we all are.
+
+And I think we could all use a little reminder of that from time to time.
+
+
+As we worked through the audition everyone could feel the level of respect and
+professionalism that Mark
+
+In our society we rarely, if ever, see nudity in a non-sexual manner.
+
+
+
+
+Once we met Mark we felt comfortable that it was going to be a safe & respectful
+environment.
+
+In our society we never see non-sexualized nudity.
+
+It's only a big deal if you make it a big deal.
+
+Cate mentioned that as intuitive as it sounds, the nude section felt less
+intimate than other sections of the piece.
+
+
+
+
+
+
+
+<h4 class="article-subheader">Pouty Pause</h4>
+With my skipping gaffe in the rearview we're soon to my favorite part of the piece,
+*the pouty pause*. On my last lap of "plastic surgery" we stop for a 4 count at the
+end of the stage and give the audience the look of petulant child who
+was just told they couldn't have ice cream. "You're a bratty kid who didn't get
+their way and you want to stare at them like you're parents are the worst." I
+have a lot of fun with this one & really lean into it. *But I* ***REALLY***
+*want ice cream!!! Ughhhhhhhhhhhhhhh*.
 
 <figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-pistol.jpg" alt="Pistols">
-  <figcaption class="figure-caption">Did someone say dead inside?</figcaption>
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-interstellar.jpg" alt="Crazy Eyes">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-interstellar_matt.jpg" alt="Interstellar">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Seconds before the pouty pause I'm apparently
+  coked out McConaughey</figcaption>
 </figure>
+
+Then comes the spear handoff. The only part I haven't rehearsed.
+As I reach the yellow panel I snag the spear from Cate and collect 11 rubles
+with a flawless pirouette that could only be described as Baryshnikovian. The
+quality of the pirouette is only surpassed by my immense modesty.
+
+It wasn't long before I goofed again, just a couple passes later during the
+military marching sequence. This section features a completely different
+walking pattern from the past
+half hour. I make it through the first couple laps just fine then on the third
+lap, for whatever reason, my brain lapses and I forget the (Nutcracker/step
+together/9-step/whatever name we feel like that day), which throws off my steps
+from my comrades. But thankfully we've rehearsed this so many dang times that I
+keep my composure and take a little stutter step before our skip and get back
+on schedule.
+
+But since all my mental energy was focused on fixing my mistake, I have completely
+lost my count. And as I mentioned this section has a skip on the 4-count. Again,
+we've rehearsed this so many times I have a pretty good *feel* for where the
+skip should go but my ace in the hole is walking right next to me. Renay, I
+find, attacks the skip with an aggressiveness that could likely qualify her for
+the triple jump at the Olympics. I mean she *really* loads up for it. And I
+catch her forceful bounds in my peripherals just to make sure I'm skipping on
+the right count for the rest of that pass. Love you Renay <span style="color:red">&hearts;</span>.
 
 
 <h4 class="article-subheader">Ovation</h4>
@@ -821,3 +870,39 @@ Republicans, Christians or Jews, citizens or immigrants. Whichever
 artificial tribal identity we cling to. And what's left is our humanity. A
 condition that does not know national borders, does not
 know ethnic divisions, does not know religious rivalries. 
+
+
+So I have no idea what these women must grapple with to be *that* vulnerable in
+front of *that* many people. I've written at length in this story about getting
+out of my comfort zone. But I'm not brave. Alexandra
+and Renay and Cate and Allie and McKelynn and Carrie and Alyce and Dana and
+Linda are. And I respect and admire them for it.
+
+ Because I'm fully aware that
+societal position as a straight man affords me the luxury of such a carefree
+approach. It's all cheeky and fun for me. But I've never been
+catcalled. I've never been told I need to *smile more*. I've never felt unsafe
+walking home at night. I've never carried pepper spray. I've never been sexually
+harassed. I've never been sexually assaulted. I've never experienced the
+countless inexcusable behaviors directed at women in our society.
+
+
+The most challenging part, it seems, was separating the nudity from sexuality.
+Because our puritanical societal norms impose an implicit
+belief that nudity is intertwined with sexuality and sexuality is
+intertwined with shame and judgement. The ability to untie that
+tangled knot requires transcendent levels of patience, confidence, and
+self-awareness. But once each member of the company was able to make that
+cognitive dissociation it seemed to deprive the nudity of all its power.
+
+
+
+One way to 
+
+To further complicate things our puritanical societal norms impose an
+implicit belief that nudity is intertwined with sexuality. In this country we
+rarely see nudity when it's not sexualized in some form. Which, in and of itself,
+is unnecessary, there's no need to conflate sexuality with nudity. But what's
+subtly hidden in this association is that society  sexuality is
+intertwined with shame and judgement. 
+
