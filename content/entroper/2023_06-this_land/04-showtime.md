@@ -15,6 +15,7 @@ photo: perf-sally3.jpg
 short_sum: This is it, don't get scared now!
 summary: 
 
+{% import 'macros.html' as m %}
 
 <h4 class="article-subheader">Five<br>Six<br>Seven<br>Eight</h4>
 
@@ -288,27 +289,32 @@ So during these passes my mind's eye is locked in on
 the deepest lake in the United States filled with pristine Pacific Northwest
 precipitation. That deep and blue enough for ya?
 
-The most useful part of the note for me is the fact that making eye contact with
-a friend in the audience will immediately cause me to crack up. The first
+Mark expressed his vision in an interview before showcasing the piece at the
+Nasher 10 years ago, "the piece is so much about the performing non-performance.
+Everyone is trying to look as if they're not aware that people are looking at
+them even though all eyes are on them."
+
+The most useful part of this for me stems from my inability to keep a straight
+face if I make eye contact with friend in the audience. During the first
 performance of day 2 I catch myself smothering a smirk during the nude section
-because I know my friends are in attendance. As I stride out towards the audience
+because I know my friends are in the crowd. As I stride out towards the audience
 I summon every ounce of concentration in my body to maintain a stoic stare;
 on the way back I have to ruthlessly crush the grassroots campaign of a grin
 organizing a jocund labor movement on my face.
 
-During another section Mark gave his note for our facial expression thusly, "I
-want you to convince yourself you are the front line in the war for Democracy,
-dammit!"
+During another section Mark provided his note for our facial expression thusly,
+"I want you to convince yourself you are the last line of defense in the war for
+Democracy, dammit!"
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-rifle.jpg" alt="Rifles">
   <figcaption class="figure-caption">Come get some Putin</figcaption>
 </figure>
 
-A few passes later we're carrying pistols Mark instructs us to wear
+Thena few passes later, while we're carrying pistols Mark instructs us to wear
 a dead-eyed thousand yard stare. A catatonic numbness so deep we don't even
-realize we're carrying a pistol. Which comes naturally to me - I was raised
-Catholic.
+realize we're carrying a pistol. It's a feeling that comes naturally to me - I
+was raised Catholic.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-pistol.jpg" alt="Pistols">
@@ -402,95 +408,92 @@ website to write about himself?
   <figcaption class="figure-caption">Just like Dolph Lundgren in Thundergun 4</figcaption>
 </figure>
 
-But I don't want to breeze over the nudity. Because it's such an integral part
-to the piece's bold creativity and my experience as a straight white male
+But I don't want to breeze over the nudity because it's such an integral part
+to the piece's bold creativity. And my experience as a straight white male
 non-dancer is not representative of the rest of the company. As I listened to
 discussions of the nudity during rehearsal breaks I decided that I'd like to
 share a more diverse breadth of experiences than my own.
 
-Spanning a wide range of backgrounds and 5 decades in age, the cast's journey of
-acceptance with the nudity was not uniform. While it was a completely novel
-experience for me, some of my co-performers had performed nude in
+Spanning over 5 decades in age and a wide variety of backgrounds, the cast's
+journey to acceptance with the nudity was anything but uniform. While it was a
+completely novel experience for me, some of my co-performers had performed nude in
 the past. Most had attended performances with nudity. All understood that nudity
 is a form of artistic expression that has been around as long as dance has been
-around. As Dana put it, with nudity comes "something intimate that cannot be
-denied… A trust that exists when we reveal ourselves whether physically or
-emotionally - and dance includes both."
+around.
 
-Each member came to the piece with their own level of comfort with nudity. Some
-were completely fine with it. Some were still on the fence as late as the
-audition. The mental hurdle we all needed to clear was not comfort with our own
-bodies (that was just the start) but comfort with *others* seeing our nude
-bodies. And because of society's varying expectations based on age, gender,
-race, or sexual orientation that was easier for some than others.
+But how do you have that conversation with your partner? With your children?
+With your grandchildren? How do you draw the discussion from the realm of taboo
+to the realm of artistic expression? And why is nudity taboo to begin with?
 
-A further challenge for those active in the North Carolina dance scene (which
-was most of the dancers) was confronting the anxiety of performing in front of
-colleagues, collaborators, community leaders, mentors, teachers, students. An
-anxiety I avoided because I emphatically told my coworkers not to come. When I
+{{ m.divider() }}
+
+The most significant mental hurdle was not comfort with our own bodies (that was
+just the start) but comfort with *others* seeing our bodies. Comfort with their
+gaze. Comfort with their judgement. Because of
+society's varying body image expectations based on age, gender,
+race, or sexual orientation that was an easier journey for some than others.
+
+The performers active in the North Carolina dance scene (which was most of the
+dancers) were further confronted with the anxiety of performing nude in front of
+colleagues, collaborators, community leaders, mentors, teachers, or students (an
+anxiety I avoided because I emphatically told my coworkers not to come). When I
 chatted with Dana about this aspect she relayed that it "was a question of
 making sure the people in my life and in my community who know me
 professionally, and outside of the dance sphere, were going to be ok with seeing
 me naked... Will they still respect me? Will they see me from now on in a work
 or other public event setting and imagine me naked?"
 
-Another performer discussed a time when she and her husband told a group of
-friends about the piece and when the topic of nudity arose all their friends
-looked to her husband as if it was some sort of infidelity. Because our
-puritanical societal norms conflate nudity with sexuality. We rarely see nudity
-in a non-sexual manner. Nudity is taboo because sexuality is taboo.
+But when she brought it up with these same people nobody took issue with it. "It
+gave me the courage to be vulnerable and embrace my racing thoughts and fears as
+informative steps towards self-awareness rather than be paralyzed by them."
+Because through nudity we share "a trust that exists when we reveal ourselves
+whether physically or emotionally - and dance includes both." 
 
+One performer mentioned that her friends, when she told them about the nude
+section, all looked at her husband, *what do you think about that?* As if it was
+an act of infidelity. Because our society has so strongly linked nudity with
+sexuality it's hard to dissociate the two. It's rare in this country to see
+nudity in a non-sexual setting.
 But there's nothing inherently sexual about nudity. And there's nothing
 inherently wrong about sexuality (but that's another discussion altogether).
 
+Other performers discussed the counterintuitive concept that the nude section
+actually felt the least *intimate* section of the piece. For Cate, an action as
+simple as smiling during our Sally passes felt more intimate than the nudity.
+"During that section we're sharing a part of ourselves, whereas the nude
+section we're just bodies... it felt empowering because my body just existed,
+free from all our societal expectations." This realization helped her, along
+with a number of other performers, mentally prepare for the nudity and deprive
+it of its power.
 
+Going full circle back to to
+<a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
+Jennifer Lawrence grappled with accepting the role, knowing it called for nudity.
+Her trepidation stemmed from a nude photo leak that sent her into a "long period
+when I didn't want to be seen sexually and I didn't want anybody to see my flesh."
+Looking back on the role (which required her to learn dance (link)), Lawrence
+reflected, “It took a while to say yes – and the night before I didn’t sleep at
+all... But then after I finished the scene, I felt empowered.”
 
-But with this piece there's nothing sexual about it.
+For us, we felt empowered because we saw the mastery in the way Mark crafted the
+piece. Nobody was ashamed of the unbelievable opportunity we had to participate
+in such a wonderfully provocative piece. Furthermore, Mark set a tone that
+carried through from the audition to the final performance that emphasized
+comfort and acceptance. Reflecting on our first nude-involved rehearsal, Cate explained,
+"that was the day I was like 'ok this is going to be fine,' because everybody
+was just very professional and very chill. It's only a big deal if you make it
+a big deal, and nobody was making it a big deal."
 
-As the youngest member of the company, Cate grappled with the nudity.
-Cate "it's only a big deal if you make it a big deal, and nobody was making it
-a big deal"
+And when you think about it, it's really not that big of a deal.
 
-"The professionalism & maturity of everyone involved was what was very helpful
-to me"
-unsure of the nudity were positive environment centered on
-professionalism and respect that Mark fostered at the audition and the use of
-the nudity in the Paris performance contributed to their acceptance.
+Because at the end of the day we're all just *bodies*.
 
-
-
-This experience has certainly opened my eyes to the fatuity of our societal
-obsession with nudity. Because at the end of the day we're all just *bodies*.
 Bodies that shit and piss and sweat and fart and wrinkle and bleed and stink and
 creak and groan and grow hair in the worst places and lose hair in the best.
 
 The more we strip away the more we realize how similar we all are.
 
 And I think we could all use a little reminder of that from time to time.
-
-
-As we worked through the audition everyone could feel the level of respect and
-professionalism that Mark
-
-In our society we rarely, if ever, see nudity in a non-sexual manner.
-
-
-
-
-Once we met Mark we felt comfortable that it was going to be a safe & respectful
-environment.
-
-In our society we never see non-sexualized nudity.
-
-It's only a big deal if you make it a big deal.
-
-Cate mentioned that as intuitive as it sounds, the nude section felt less
-intimate than other sections of the piece.
-
-
-
-
-
 
 
 <h4 class="article-subheader">Pouty Pause</h4>
@@ -556,8 +559,6 @@ Seeing as this is my first performance (have I mentioned that yet?) my fellow
 dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
 it. I should be nervous but for reasons I can't explain I'm not.
 
-
-
 As I walk off the stage to close out my first ever performance I don't know what
 to expect. I gave it a 50-50 shot that I'd get emotional backstage and tear up.
 But when it's all said and done the only emotion I feel is pure, unadulterated
@@ -600,23 +601,21 @@ During the talkback we learn about the story of how the piece came to be. Our
 current hour-long iteration was incrementally developed over time, with the
 original spanning a much more modest 20 minutes.
 
-"It developed from an initial urge to play with time.
-The back and forth wave has a mesmerizing quality that lulls the audience
-into a trance then we change up the pattern and it .
+"It developed from an initial urge to play with time. The back and forth wave
+has a mesmerizing quality that lulls the audience into a trance before we change
+up the pattern and it throws them."
 I want something where the audience is just feeling bored before we change it
 up."
 
-"The piece is so much about the performing non-performance. Everyone is trying
-to look as if they're not aware that people are looking at them even though all
-eyes are on them."
+
 
 "It's based on a very simple pattern that keeps mutating for 14 performers that
 also involves about 200 Starbucks cups, 14 rifles, 14 pistols, 15 cell phones,
 17 beer cans, and a whole bunch of costumes set to a whole bunch of country
 music."
 
-During the Q&A my friend Sean asks Mark about his thought process behind using
-country music as the soundtrack for the piece.
+During the Q&A section my friend Sean asks Mark about his thought process behind
+using country music as the soundtrack for the piece.
 
 "Honestly, before this piece I HATED country music! I couldn't stand it! But
 after going through and listening to hundreds of songs I have to say it grew on
@@ -627,7 +626,8 @@ heart of this crazy experiment we have been living in this country"
 
 "People think I'm teasing people with the country music, criticizing America,
 saying that I hate this country. But I love this country, we have a lot of great
-things going for us, we definitely have our flaws, but 
+things going for us, we definitely have our flaws, but there's a lot to be
+proud of and a lot we can work on to get better."
 
 "Sometimes as artists we can take ourselves & our work too seriously. I'm not
 changing the world with this piece. I think that art can make positive changes
@@ -641,6 +641,9 @@ I've had many friends ask why I wanted to do this. Friends who understand all
 the sports references I've made and none of the dance ones. Friends who wouldn't
 know Monica Bill Barnes if she walked in the room and did her best Monica Bill
 Barnes impression. And I don't have a satisfactory answer for them.
+
+I've recently learned that the Latin for "why not" is "cur non," perhaps I'll
+just tell them my new stage name, Andy Curnonthoys.
 
 All of my fellow performers are curious as to my future in the dancing arts.
 I've enrolled in some dance classes. I've learned what second position is. I can
@@ -840,14 +843,7 @@ give it a shot.
 Recently on one of my favorite podcasts, *Penpals* hosted by my two favorite
 cackling idiots
 
-Circling back to
-<a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
-Jennifer Lawrence grappled with accepting the role, knowing it called for nudity.
-Her trepidation stemmed from a nude photo leak that sent her into a "long period
-when I didn't want to be seen sexually and I didn't want anybody to see my flesh."
-Looking back on the role (which required her to learn dance (link)), Lawrence
-reflected, “It took a while to say yes – and the night before I didn’t sleep at
-all... But then after I finished the scene, I felt empowered.”
+
 
 <h4 class="article-subheader">"Holy Shit"</h4>
 After the first show of the second night I meet up with a group of friends in
