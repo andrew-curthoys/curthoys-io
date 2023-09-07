@@ -15,8 +15,10 @@ photo: aud-accordion.jpeg
 short_sum: Right foot odd, left foot even. Until it isn't.
 summary: 
 
+{% import 'macros.html' as m %}
+
 <h4 class="article-subheader">Clean Pair Of White-Soled Sneakers</h4>
-It shouldn't surprise you that I have absolutely no idea what to expect for
+It shouldn't surprise you that I have *no idea* what to expect for
 the audition.
 
 I don't even know what to wear.
@@ -100,14 +102,14 @@ switching feet means we switch the direction of our pivot.
 
 I stand no chance.
 
-<figure class="figure">
-	<iframe src="https://giphy.com/embed/kzuNhxVf27plttAS7E" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<figure class="figure container-fluid">
+	<iframe src="https://giphy.com/embed/kzuNhxVf27plttAS7E" width="100%" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </figure>
 
 We do a few laps in our blobs before Mark lines us back up to do it in
 unison. I take one step and my brain freezes. I hop, I lurch, I trundle. But I
 sure as hell don't gallop. The once steady count in my head violently sublimates,
-forever lost to the steady, growing chaos of the universe. My grasp on the
+forever lost to the perpetual, growing chaos of the universe. My grasp on the
 very concept of numbers has become unsettlingly tenuous.
 
 After a few rounds of gallops I glance over at the woman who is galloping with
@@ -140,8 +142,8 @@ terrifying line that sends shivers down my spine,
 this but we want to get some more looks at a smaller group."
 
 This is the moment that I realize what an unbelievable opportunity I have. I
-can see the anguish in Mark's face when he has to tell people they've
-been cut. He's genuinely uncomfortable. The choreographer could be an asshole.
+can see the anguish on Mark's face when he has to deliver the bad news. He's
+genuinely uncomfortable. The choreographer could be an asshole.
 The choreographer could have taken glee in cutting people. But each number he
 reads *pains* him.
 
@@ -265,11 +267,15 @@ Good Morning, Thank you so much for attending the aud...
 
 I tap the email fully expecting to see a big fat **but** right after "audition."
 
-Thank you so much for attending the audition, **but** *we're looking for someone
-with a little more experience.*  
-Thank you so much for attending the audition, **but** *we've decided that your
-dancing was not up to par.*  
-Thank you so much for attending the audition, **but** *what the hell were you thinking?*
+<div class="mb-2">
+Thank you so much for attending the audition, <b>but</b> <i>we're looking for someone
+with a little more experience.</i>
+</div>
+<div class="mb-2">
+Thank you so much for attending the audition, <b>but</b> <i>we've decided that your
+dancing was not up to par.</i>
+</div>
+Thank you so much for attending the audition, <b>but</b> <i>what the hell were you thinking?</i>
 
 I open the email & I'm relieved to find not a **but** but an invitation to a
 callback. I think that's good?
@@ -284,6 +290,8 @@ I'll be honest I didn't expect to reach feelings of dread & relief regarding the
 fate of my participation in this performance. When I decided to apply it was
 with a feeling of *sure why not?* I think there was just something about the
 audition that captivated me. Have I caught the dance bug?
+
+{{ m.divider() }}
 
 My alarm squawks the next morning and I feel bleary eyed and cranky. About
 halfway through preparing my morning coffee I realize I'm dealing with
@@ -377,8 +385,8 @@ This year's festival is dedicated to Gerri Houlihan, a colossus in the world of
 dance who is celebrating her 40th season teaching at the ADF summer intensive.
 A graduate of The Julliard School and former Dean of the ADF School, her
 accomplishments and accolades are far too extensive to detail here, but I
-encourage everyone to read about her magnificent career
-<a href="https://americandancefestival.org/2023/05/03/adf-dedicates-its-90th-anniversary-season-to-gerri-houlihan/" target="_blank" rel="noopener noreferrer">here</a>,
+encourage everyone to read about her 
+<a href="https://americandancefestival.org/2023/05/03/adf-dedicates-its-90th-anniversary-season-to-gerri-houlihan/" target="_blank" rel="noopener noreferrer">magnificent career</a>,
 and if you have the means, consider donating a few shekels to the Gerri
 Houlihan Scholarship Fund. I had the
 pleasure to meet Gerri at one of our rehearsals and look forward to attending

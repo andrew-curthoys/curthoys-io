@@ -17,7 +17,6 @@ summary:
 
 {% import 'macros.html' as m %}
 
-Musical cues
 
 <h4 class="article-subheader">"Jetlagged?"</h4>
 Mark asks with a slight kick to the left foot of my vaguely animated corpse.
@@ -25,8 +24,8 @@ Mark asks with a slight kick to the left foot of my vaguely animated corpse.
 I peel open an eyelid and muster the strength for a mumbled "yeah."
 
 "Sorry, but it's time to start rehearsal," Mark coyly remarks behind a Cheshire
-cat smile. An impish grin I'll become intimately familiar with over the next two
-weeks.
+cat smile, an impish grin with which I'll become intimately familiar over the
+next two weeks.
 
 I scrape myself off the floor, still reeling from
 <a href="/traveler/2023_05-scandinavia.html" target="_blank" rel="noopener noreferrer">3 weeks in Scandinavia</a>.
@@ -125,8 +124,9 @@ say Mark's decision to spare me from gallop duty is wise and prudent.
 {{ m.divider() }}
 
 Our first few rehearsals are spent learning the choreography of the
-individual segments that make up the whole of the performance.
-Each has its own name that Mark has informally conferred over the years and each
+individual segments that make up the whole of the performance. Like we learned
+in the audition, each has its own name that Mark has informally conferred over
+the years and each
 has its own flavor. *The Claw* is centered around hand movements. *Mona Lisa*
 emphasizes our facial expression. Our old friends *Sally* and *Lewiston*
 express themselves through their gait.
@@ -173,6 +173,23 @@ sheet and cross out each pass as I complete it.
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-spreadsheets.jpeg" alt="Spreadsheets">
 	<figcaption class="figure-caption">The evolution of the spreadsheet</figcaption>
+</figure>
+
+Many of the other dancers develop "musical cues," which inform them when to
+emerge from behind the curtain. With my maniacal devotion to my spreadsheet and
+natural affinity for numbers I eschew with musical cues altogether and focus
+solely on my count. Everyone has their own system but the important part is that
+it works for you. Because we're popping out from behind the curtain blind. Brace,
+Hendri, and Aaron lets us know we can *kinda* see through the curtain from
+backstage but it's not worth trusting. The first few rehearsals we practiced
+with the curtain at waist height so we could see what was going on on-stage. It
+was a little nerve-racking when we graduated to the full curtain.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-half_curtain.jpg" alt="Half curtain">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-full_curtain.jpg" alt="Full curtain">
+	<figcaption class="figure-caption">Before & after. Looks like nothing's
+	clicking for that nimrod in the doorway.</figcaption>
 </figure>
 
 As rehearsals grind on my Sally eventually reaches a level that could
@@ -307,10 +324,19 @@ He has also performed the piece in the past, bringing three experienced
 performers to help alleviate the pedagogical burden from Mark.
 
 <figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-lunch.jpg" alt="Lunch">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-seattle.jpg" alt="Seattle crew">
-	<figcaption class="figure-caption">Top photo: Enjoying lunch with Hendri & Brace ahead
-	of night 2<br>Bottom photo: The Seattle crew.</figcaption>
+  <div class="row align-items-center">
+    <div class="col-6" style="padding-right:calc(var(--bs-gutter-x)/4);">
+			<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-lunch.jpg" alt="Lunch">
+			<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-seattle.jpg" alt="Seattle crew">
+    </div>
+    <div class="col-6" style="padding-left:calc(var(--bs-gutter-x)/4);">
+      <img class="figure-img img-fluid align-items-center mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-cantina.JPG" alt="Kelsey Aaron McKelynn">
+    </div>
+  </div>
+	<figcaption class="figure-caption">Top left: Enjoying lunch with Hendri & Brace ahead
+	of night 2<br>
+	Bottom left: The Seattle crew.<br>
+	Right: Kelsey, Aaron, & McKelynn</figcaption>
 </figure>
 
 After the Seattle steppers return from their shopping spree I'm provisioned with
@@ -321,8 +347,8 @@ it from my mom. I decide to call this crunchy character "Aspen."
 
 Something about this outfit really causes my Shirley strut to pop.
 
-My final outfit, a cowboy ensemble, is entirely supplied by yours truly.
-As I'm headed out for the day Brace hollers to me,
+My final outfit, a cowboy ensemble, begins to take shape as I'm headed out for
+the day. Brace hollers,
 
 "Hey, bring your cowboy hat tomorrow."
 
@@ -451,7 +477,7 @@ heavy dose of *you're an idiot*.
 
 So I guess we're not getting a head(and shirt apparently)shot today. I'm
 stressing out because it's already past the deadline and we're getting close
-to opening day. Dana assures me that the programs are all digital so my worries
+to opening night. Dana assures me that the programs are all digital so my worries
 about getting the headshot and bio submitted before "it goes to print" are unfounded.
 
 Seeing as we're already here we spend about a beer and a half mulling over the
@@ -769,7 +795,7 @@ Sledge, Frankie Valli, Luther Vandross, James Brown, and Eddie Kendricks of The
 Temptations. Pretty insane company for a song I had never heard before two weeks
 ago.
 
-Our performance soundtrack also includes favorites from Eric Church, fellow Okie Toby
+Joining Ronnie on our performance soundtrack are favorites from Eric Church, fellow Okie Toby
 Keith, Martina McBride, and the Indian Outlaw hisself Tim McGraw. We listen to
 the same songs over and over and over and over and over - so many times they
 worm their way into our subconsciousness. Any time I hear one of these ditties my
@@ -836,16 +862,16 @@ Because that's exactly what he would say.
 As rehearsals continue we get more comfortable with each run.
 Less thinking and more emoting.
 
-On the Saturday before the shows I was feeling really comfortable.
+On the Saturday before the shows I'm feeling really comfortable.
 
-During one pass of Lewistons I shot Mark a little wave. *Hey, how ya doin'*.
-He gave an eye-rolley smirk and wrote "Andy, you shit!" in his notebook.
+During one pass of Lewistons I shoot Mark a little wave. *Hey, how ya doin'*.
+He gives an eye-rolley smirk and writes "Andy, you shit!" in his notebook.
 
 And then on the first nude pass I hit Mark with a pec blast.
 
 <div class="tenor-gif-embed mb-3" data-postid="4754376" data-share-method="host" data-aspect-ratio="1.79856" data-width="100%"><a href="https://tenor.com/view/terry-crews-muscle-chest-pecs-move-gif-4754376">Terry Crews Pecs GIF</a>from <a href="https://tenor.com/search/terry+crews-gifs">Terry Crews GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-This resulted in what I have to imagine is a completely novel entry in Marks
+This results in what I have to imagine is a completely novel entry in Marks
 notebook,
 
 "Andy, you fuck!"

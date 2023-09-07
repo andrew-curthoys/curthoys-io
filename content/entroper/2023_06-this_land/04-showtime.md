@@ -4,7 +4,7 @@ slug: entroper/2023_06-this_land/04-showtime
 slug_base: entroper/2023_06-this_land
 day_alias: Showtime
 prev_day: 03-rehearsals
-next_day: /entroper/2023_06-this_land
+next_day: /drafts/entroper/2023_06-this_land
 date: 2023-06-13
 post_date: 2023-06-20
 category: entroper
@@ -107,29 +107,26 @@ seats may interpret it differently.
   <figcaption class="figure-caption">The view from house right</figcaption>
 </figure>
 
+Byron Woods, the theater & dance critic for INDY Week, a Durham-based
+independent newspaper, opined, "flashy movers on a serpentine
+catwalk execute a slow pan across a landscape of mindless consumerism in Mark
+Haim’s roast, 'This Land Is Your Land,' at the Nasher Museum."
+
 During my first viewing of the Paris recording I was floored by a connection
 between Woody Guthrie's *This Land Is Your Land* and what I considered to be the
 most powerful section of Mark's. But that's just the Oklahoma in me.
 Each audience member will surely make a connection that feels
 just as profound to them as my Woody Guthrie connection did to me.
 
-Byron Woods, the theater & dance critic for INDY Week, a Durham-based
-independent newspaper, wrote of the piece, "flashy movers on a serpentine
-catwalk execute a slow pan across a landscape of mindless consumerism in Mark
-Haim’s roast, 'This Land Is Your Land,' at the Nasher Museum."
-
 Audience members after the show commented on the sense of isolation in the
 piece. The lack of connection between the six dancers on stage, each weaving
 their own way through the world. Then others remarked on the feeling of
-community woven throughout the piece. It's individualistic. But it's also
+community shared between the dancers. It's individualistic. But it's also
 community. A dance. But also not a dance. A statement. But not a statement.
 
-It's an artistic expression that exposes salient aspects of our
-culture, but the most wonderful part is the fact that there's no message.
-There's consumerism but it's not a comment on consumerism. There's 
-There are guns but it's not a piece about guns. The guns are simply *there*.
-Each audience member can decide how that makes them feel and what it means to
-them. In this piece there's no agenda. It's simply Mark presenting the world the
+It's an artistic expression that exposes some of the most salient aspects of our
+culture; but the most wonderful part is the fact that there's no message.
+There's no agenda. It's simply Mark presenting the world the
 way he sees it and allowing the audience to come to their own conclusions.
 
 At least that's my conclusion.
@@ -138,19 +135,18 @@ At least that's my conclusion.
 <h4 class="article-subheader">Dress Rehearsal</h4>
 The day before opening night we mosey over to the Nasher for a full dress
 rehearsal in the *interactive viewing experience*. When I stroll into the
-capacious atrium of the museum my jaw drops to the floor. 45 feet overhead a
+museum's capacious atrium my jaw drops to the floor. 45 feet overhead a
 web of glass and steel gracefully hovers above the 13,000 square foot Great Hall.
 The ferrosilicate web is conjointly supported by 5 immense beams, none of which
 span the room's full breadth. It's somewhat like
 that classic dad trick of folding the flaps of a cardboard box to stay shut
 without tape. It's a beautiful piece of engineering.
 
-In the words of Rafael Vi&ntilde;oly, the Uruguayan-born architect, he
-conceived of the the Nasher as a
+In the words of Rafael Vi&ntilde;oly, the Uruguayan-born architect,
 
 <div class="text-muted fst-italic mx-3 mb-3">
 <p>
-  Collection of five separate, rectangular volumes arranged in a loose radial
+  A collection of five separate, rectangular volumes arranged in a loose radial
   pattern near the top of a gentle slope define an irregular, pentagonal central
   courtyard topped by a glass roof. The complex, almost vertiginous geometries of
   the atrium roof are formed by a hierarchy of structural systems, all supported
@@ -280,16 +276,22 @@ a dancer...
 <h4 class="article-subheader">Deep Blue Lake</h4>
 For our passes with a "neutral" facial expression, i.e. no smiling, scowling,
 or sneering, Mark instructs us to imagine we're staring off into a deep blue
-lake, past the heads of the seated audience. Which, on the face of it, sounds
+lake. Which, on the face of it, sounds
 like nonsense. But for whatever reason we all know *exactly* what he means. It's
 so nonsense that it makes sense.
 
 So during these passes my mind's eye is locked in on
 <a href="/traveler/2022_01-ski_trip/03-wine.html?id=crater" target="_blank" rel="noopener noreferrer">Crater Lake</a>,
 the deepest lake in the United States filled with pristine Pacific Northwest
-precipitation. That deep and blue enough for ya?
+precipitation. 
 
-Mark expressed his vision in an interview before showcasing the piece at the
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-crater.jpeg" alt="Crater Lake">
+  <figcaption class="figure-caption">That deep and blue enough for ya?</figcaption>
+</figure>
+
+Mark's vision for our deep-blue-lake-gaze was expressed in an interview before
+his first ADF performance of the piece at the
 Nasher 10 years ago, "the piece is so much about the performing non-performance.
 Everyone is trying to look as if they're not aware that people are looking at
 them even though all eyes are on them."
@@ -308,17 +310,19 @@ Democracy, dammit!"
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-rifle.jpg" alt="Rifles">
-  <figcaption class="figure-caption">Come get some Putin</figcaption>
+  <figcaption class="figure-caption">Come get some Putin<br>
+  <span class="fs-80">Photography by Ben McKeown, courtesy of the American Dance Festival.</span></figcaption>
 </figure>
 
-Thena few passes later, while we're carrying pistols Mark instructs us to wear
+Then a few passes later, while we're carrying pistols Mark instructs us to wear
 a dead-eyed thousand yard stare. A catatonic numbness so deep we don't even
 realize we're carrying a pistol. It's a feeling that comes naturally to me - I
 was raised Catholic.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-pistol.jpg" alt="Pistols">
-  <figcaption class="figure-caption">Did someone say dead inside?</figcaption>
+  <figcaption class="figure-caption">Did someone say dead inside?<br>
+  <span class="fs-80">Photography by Ben McKeown, courtesy of the American Dance Festival.</figcaption>
 </figure>
 
 
@@ -388,7 +392,8 @@ is gonna be a weird year.*'"
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </button>
-<figcaption class="figure-caption text-start bg-body">The evolution of the Sally</figcaption>
+<figcaption class="figure-caption text-start bg-body">The evolution of the Sally<br>
+  <span class="fs-80">Photography by Ben McKeown, courtesy of the American Dance Festival.</figcaption>
 </div>
 
 
@@ -471,12 +476,14 @@ Going full circle back to to
 Jennifer Lawrence grappled with accepting the role, knowing it called for nudity.
 Her trepidation stemmed from a nude photo leak that sent her into a "long period
 when I didn't want to be seen sexually and I didn't want anybody to see my flesh."
-Looking back on the role (which required her to learn dance (link)), Lawrence
+Looking back on the role
+(<a href="https://www.nytimes.com/2018/02/27/arts/dance/jennifer-lawrence-red-sparrow-kurt-froman-isabella-boylston.html" target="_blank" rel="noopener noreferrer">which required her to learn dance</a>),
+Lawrence
 reflected, “It took a while to say yes – and the night before I didn’t sleep at
 all... But then after I finished the scene, I felt empowered.”
 
 For us, we felt empowered because we saw the mastery in the way Mark crafted the
-piece. Nobody was ashamed of the unbelievable opportunity we had to participate
+piece. Nobody was ashamed of the opportunity we had to participate
 in such a wonderfully provocative piece. Furthermore, Mark set a tone that
 carried through from the audition to the final performance that emphasized
 comfort and acceptance. Reflecting on our first nude-involved rehearsal, Cate explained,
@@ -607,8 +614,6 @@ up the pattern and it throws them."
 I want something where the audience is just feeling bored before we change it
 up."
 
-
-
 "It's based on a very simple pattern that keeps mutating for 14 performers that
 also involves about 200 Starbucks cups, 14 rifles, 14 pistols, 15 cell phones,
 17 beer cans, and a whole bunch of costumes set to a whole bunch of country
@@ -624,7 +629,7 @@ signatures for the walking pattern and country music just seemed to work out
 well for that. And there's something about country music that speaks to the
 heart of this crazy experiment we have been living in this country"
 
-"People think I'm teasing people with the country music, criticizing America,
+"People think I'm teasing with the country music, criticizing America,
 saying that I hate this country. But I love this country, we have a lot of great
 things going for us, we definitely have our flaws, but there's a lot to be
 proud of and a lot we can work on to get better."
@@ -696,209 +701,3 @@ A ton of work.
 But a ton of fun.
 
 And I'll never regret taking that blind pirouette into the unknown.
-
-
-I've been agonizing how to end this essay but maybe it's not the end. Maybe this
-is just the beginning of my journey in the wonderful world of dance.
-
-
-In the second performance I completely lost my count on one of my sideways
-passes with skips and just had to wing it. I lost my instruments and just had
-to go on feel. Since we had run it through so many times I had gotten a good
-feel for my steps and skips. Each skip I had a pretty good feel for when to
-fire it off, but luckily I had Renay next to me who really loaded up for each
-skip so I could confirm my hunch that it was time for a skip by looking at my
-peripherals.
-
-
-<h4 class="article-subheader">One-Two-Three-Four</h4>
-
-<div class="container containter-fluid">
-  <iframe src="https://giphy.com/embed/c16VH0CFMh7gOqqXOM" width="100%" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-
-<p class="fs-5 fw-bond fst-italic">Five-Six-Seven-Eight</p>
-
-
-Typically I go out on the **five**. But this is the naked improv, I have one extra
-8 count behind the curtain.
-
-<i>One-Two-Three-Four</i>
-
-Deep breath
-
-<i>Five-Six-Seven-Eight</i>
-
-Naked improv. Naked improv. Naked improv.
-
-<i>One-Two-Three-Four</i>
-
-Right foot on the Five
-
-Left foot on the Six
-
-Birthday suit in the spotlight
-
-
-
-
-
-
-
-
-<h4 class="article-subheader">Security</h4>
-On the subject of those prop guns everyone calls "toys," we had a minor
-emergency in the days leading up to the performance. The toys we rehearsed with
-were relatively life-like rifles & pistols. Just a few days before opening
-night Mark received a call that the powers that be had decided to outlaw the
-guns from the performance. Whether that be the Nasher or Duke or the Durham
-police we don't know we just know that 
-
-About 20 minutes before one of the performances I was walking back to the
-green room 
-
-
-
-<h4 class="article-subheader">Nothin' To Say</h4>
-Art is by its very nature a subjective human pursuit. There's no one way, no
-right way, no wrong way to create, consume, or appreciate art. It's intimately
-individual and that's what makes it beautiful.
-
-In 1971's *Angel From Montgomery*, American mail carryer and lyrical poet John
-Prine croons,
-
-<div class="text-muted fst-italic mx-3 mb-3">
-How the hell can a person<br>
-Go to work in the morning<br>
-Then come home in the evening<br>
-And have nothing to say?
-</div>
-
-Which, on the face of it, is a perfectly reasonable question.
-
-But as an introverted young man I came home from school every day and had nothing
-to say. I spent hundreds of excruciating car rides dreading the inevitable "what
-did you learn in school today?" The thing is I learned plenty in school. I just
-wanted to be alone.
-
-But as I've matured and grown I've come to realize there's nothing wrong with
-that. There's nothing to be ashamed of. I can be comfortable with *who I am*.
-And if you're comfortable with who you are you can deal with uncomfortable
-situations. You can fly towards Mount Awkward instead of around it.
-
-So why in the hell am I telling you this?
-
-Because there's absolutely no way that John Prine, when writing about the
-failing marriage of a middle aged woman, thought about how the journey of a 35
-year man would color his interpretation of the song. It's my self-absorbed and
-convoluted way of observing that every single
-person who enjoys art brings their own life story to it.
-
-Maybe someone in the audience is related to an ex-wife of Trace Adkins.
-Maybe someone had their first kiss with Tim McGraw serenading in the background.
-Maybe someone really likes walking in zigzag patterns. Maybe someone texts
-all of his brothers every time he hears a Toby Keith song on the radio (ok that
-last one is me again).
-
-<figure class="figure">
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage1.jpg" alt="Nasher">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-stage2.jpg" alt="Nasher">
-    </div>
-  </div>
-  <figcaption class="figure-caption">Mark called it an interactive viewing experience</figcaption>
-</figure>
-
-
-
-I obviously don't know everyone's story but I
-have to imagine that each of the women in the company has endured unwanted
-abuses however large or small. that weighed on their decision to perform this piece.
-
-
-
-
-
-I couldn't resist the urge to shoehorn a Carl Sagan quote here, in his iconic
-*Pale Blue Dot* Sagan poetically remarked,
-
-<div class="quote">
-The Earth is a very small stage in a vast cosmic arena. Think of the endless
-cruelties visited by the inhabitants of one corner of this pixel on the scarcely
-distinguishable inhabitants of some other corner, how frequent their
-misunderstandings, how eager they are to kill one another, how fervent their
-hatreds. Think of the rivers of blood spilled by all those generals and emperors
-so that, in glory and triumph, they could become the momentary masters of a
-fraction of a dot.
-</div>
-
-Am I saying the world would be a better place if we all walked around stark
-naked in front of a group of strangers? Maybe. Maybe not. But I'd be willing to
-give it a shot.
-
-
-Recently on one of my favorite podcasts, *Penpals* hosted by my two favorite
-cackling idiots
-
-
-
-<h4 class="article-subheader">"Holy Shit"</h4>
-After the first show of the second night I meet up with a group of friends in
-the atrium. Everyone looks completely blown away.
-
-"You totally undersold it, that was amazing!"
-
-"Undersell & overdeliver, that's what I always say"
-
-"It was so detailed, how did you remember all that?"
-
-"I made a spreadsheet of course!"
-
-I grab my marked up spreadsheet and show them my system.
-
-
-
-When we strip away the carapace of modern society we cease to become Democrats or
-Republicans, Christians or Jews, citizens or immigrants. Whichever
-artificial tribal identity we cling to. And what's left is our humanity. A
-condition that does not know national borders, does not
-know ethnic divisions, does not know religious rivalries. 
-
-
-So I have no idea what these women must grapple with to be *that* vulnerable in
-front of *that* many people. I've written at length in this story about getting
-out of my comfort zone. But I'm not brave. Alexandra
-and Renay and Cate and Allie and McKelynn and Carrie and Alyce and Dana and
-Linda are. And I respect and admire them for it.
-
- Because I'm fully aware that
-societal position as a straight man affords me the luxury of such a carefree
-approach. It's all cheeky and fun for me. But I've never been
-catcalled. I've never been told I need to *smile more*. I've never felt unsafe
-walking home at night. I've never carried pepper spray. I've never been sexually
-harassed. I've never been sexually assaulted. I've never experienced the
-countless inexcusable behaviors directed at women in our society.
-
-
-The most challenging part, it seems, was separating the nudity from sexuality.
-Because our puritanical societal norms impose an implicit
-belief that nudity is intertwined with sexuality and sexuality is
-intertwined with shame and judgement. The ability to untie that
-tangled knot requires transcendent levels of patience, confidence, and
-self-awareness. But once each member of the company was able to make that
-cognitive dissociation it seemed to deprive the nudity of all its power.
-
-
-
-One way to 
-
-To further complicate things our puritanical societal norms impose an
-implicit belief that nudity is intertwined with sexuality. In this country we
-rarely see nudity when it's not sexualized in some form. Which, in and of itself,
-is unnecessary, there's no need to conflate sexuality with nudity. But what's
-subtly hidden in this association is that society  sexuality is
-intertwined with shame and judgement. 
-

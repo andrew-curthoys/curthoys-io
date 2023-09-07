@@ -3,7 +3,7 @@ subtitle: <span style="font-size:1.3rem;">Part One: </span><span style="font-siz
 slug: entroper/2023_06-this_land/01-you_should_do_this
 slug_base: entroper/2023-06_this_land
 day_alias: You Should Do This
-prev_day: /entroper/2023_06-this_land
+prev_day: /drafts/entroper/2023_06-this_land
 next_day: 02-audition
 date: 2023-03-06
 post_date: 2023-06-20
