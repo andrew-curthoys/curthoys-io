@@ -23,7 +23,8 @@ nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
 trepidation. The trepidation quickly gave way to a rolling cascade of immature
 mirthfulness. In short order, I dispatched a flurry of texts to my similarly
 puerile pals riddled with cosmopolitan aphorisms such as "hanging dong" and
-"cock out walk out." My only
+"cock out walk out." Hell we used to stage cock out rock out renditions of "Bohemian
+Rhapsody" in the high school football locker room after victories. My only
 preparation, mental or otherwise, was a diet and workout program - because
 who would know about vainglorious pursuits more than a man who built an entire
 website to write about himself?
@@ -53,16 +54,17 @@ to the realm of artistic expression? And why is nudity taboo to begin with?
 
 {{ m.divider() }}
 
-Each member of the cast has traveled their own body image journey to reach the
-point where we are today. We're all comfortable . But that's just the start.
-The most significant mental hurdle was not comfort with our own bodies
-but comfort with *others* seeing our bodies. Comfort with their
-gaze. Comfort with their judgement. Because of
-society's varying body image expectations based on age, gender,
-race, or sexual orientation that was an easier journey for some than others.
+Each member of the cast has dealt with their own body image challenges, however
+large or small, before arriving at our present level of comfort. But comfort
+with our own bodies is just the start. The most significant mental hurdle is comfort
+with *others* seeing our bodies. Comfort with their gaze. Comfort with their
+judgement. Because of our individual body image contentedness and society's
+varying expectations based on age, gender,
+race, or sexual orientation, th
+is has been an easier road for some than others.
 
-The performers active in the North Carolina dance scene (which was most of the
-dancers) were further confronted with the anxiety of performing nude in front of
+The performers who are active in the North Carolina dance scene (most of the
+cast) are further confronted with the anxiety of performing nude in front of
 colleagues, collaborators, community leaders, mentors, teachers, or students (an
 anxiety I avoided because I emphatically told my coworkers not to come). When I
 chatted with Dana about this aspect she relayed that it "was a question of
@@ -80,30 +82,38 @@ whether physically or emotionally - and dance includes both."
 One performer mentioned that her friends, when she told them about the nude
 section, all looked at her husband, *what do you think about that?* As if it was
 an act of infidelity. Because our society has so strongly linked nudity with
-sexuality it's hard to dissociate the two. It's rare in this country to see
-nudity in a non-sexual setting.
+sexuality it's hard to dissociate the two. Compared to some other, more
+more open-minded societies, it's rare we see nudity in a non-sexual setting.
 But there's nothing inherently sexual about nudity. And there's nothing
 inherently wrong about sexuality (but that's another discussion altogether).
 
-Alyce came to the piece with a combination of fear and excitement, "it started
-out as a challenge, can I really do this?" Writing in her
+When Alyce first learned of the piece she felt a nervous apprehension, "it
+started out as a challenge, can I really do this?" Writing in her
 <a href="https://view.flodesk.com/emails/6495a0b1d74d9c624c07fe81" target="_blank" rel="noopener noreferrer">
 newsletter</a>, she discussed her first screening of the Paris video, "there was
-an elegance of humanness in the vase range of bodies I observed on the screen.
-It was raw, real, it made my heart pound and my eyes were locked in." When
-considering committing to the piece she felt that if she said yes she could
-"honor the body and what it's capable of and what it was been capable of
+an elegance of humanness in the vast range of bodies I observed on the screen.
+It was raw, real, it made my heart pound and my eyes were locked in." Upon
+reflection she felt compelled to say yes so she could
+"honor my body and what it's capable of and what it was been capable of
 creating for my career and for my life."
 
-During the rehearsals and the performance Alyce felt a sense of calm, "I saw it
+Once we began rehearsals Alyce found a serenity in the nude section, "I saw it
 as a moving meditation. During that moment I felt so connected with the group
 even though we never really came in contact with each other. That just became
 a peaceful moment." Again, from her newsletter, "I gave myself permission to be
 me, in my skin, in my body. I celebrated each moment and each movement. I felt
 loved and seen. I fell in love with myself and the cast."
 
-Perhaps Alyce's proudest achievement from the piece is teaching these valuable
-lessons to her daughter Amelia. It was a valuable lesson to 
+But Alyce's proudest achievement has been teaching these valuable
+lessons to her daughter Amelia. "It was a powerful moment to share it
+with her. It was really special and I have reflected on that a lot, probably
+more than the actual performances. One of my values of being a mother has been
+to raise her without a lens of judgement, especially when it comes to our bodies
+because there's enough of that in the world." By confronting these complex
+experiences directly with Amelia, Alyce is providing the kind of emotionally
+mature guidance she is unlikely to get from her friends, school, or other
+elements of our society. It's what (I have to imagine) makes parenting
+such a challenging yet rewarding pursuit.
 
 Other performers discussed the counterintuitive concept that the nude section
 actually felt the least *intimate* section of the piece. For Cate, an action as
@@ -113,27 +123,6 @@ section we're just bodies... it felt empowering because my body just existed,
 free from all our societal expectations." This realization helped her, along
 with a number of other performers, mentally prepare for the nudity and deprive
 it of its power.
-
-
-1:45 Honoring the body and what it's capable of and what it has been capable of creating
-for my career for my life, I couldn't take my eyes off of it. It was just
-fascinating.
-
-2:50 I felt really called to challenge myself
-
-4:15 it started out as a challenge, can I really do this?
-
-6:05 I saw it as a moving meditation. During that moment I felt so connected
-with the group even though we never really come in contact with each other. That
-just became a peaceful moment.
-
-15:00 It was such a mental breakthrough for me to feel at ease in my body in that
-moment and it felt like an opportunity to open the door to change narratives.
-
-17:00 our spirits are not our bodies, they are just a vessel & they are vessels
-that do miraculous things, which is why we need to honor and respect that
-
-19:00 Mark is a magnetic spirit and the whole piece is *intentional*
 
 Going full circle back to to
 <a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
@@ -148,8 +137,8 @@ all... But then after I finished the scene, I felt empowered.”
 
 For us, we felt empowered because we had the privilege to participate in such a
 wonderfully provocative work of art. We all saw the mastery in the way Mark
-crafted the piece. Furthermore, Mark created a safe space with his tone that
-carried through from the audition to the final performance that emphasized
+crafted the performance. Furthermore, Mark created a safe space that carried
+through from the audition all the way to the final performance that emphasized
 comfort, calm, and acceptance. Alyce said she felt comfortable with the nudity
 because "Mark is a magnetic spirit and the whole piece is *intentional*."
 

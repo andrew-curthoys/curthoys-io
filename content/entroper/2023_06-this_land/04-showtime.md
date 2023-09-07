@@ -432,7 +432,7 @@ discussions of the nudity during rehearsal breaks I decided that I'd like to
 share a more diverse breadth of experiences than my own.
 
 Spanning over 5 decades in age and a wide variety of backgrounds, the cast's
-**journey** to acceptance with the nudity was anything but uniform. While it was a
+journey to acceptance with the nudity was anything but uniform. While it was a
 completely novel experience for me, some of my co-performers had performed nude in
 the past. Most had attended performances with nudity. All understood that nudity
 is a form of artistic expression that has been around as long as dance has been
@@ -448,9 +448,9 @@ Each member of the cast has dealt with their own body image challenges, however
 large or small, before arriving at our present level of comfort. But comfort
 with our own bodies is just the start. The most significant mental hurdle is comfort
 with *others* seeing our bodies. Comfort with their gaze. Comfort with their
-judgement. Because of our individual body image
-_______, combined with society's varying expectations based on age, gender,
-race, or sexual orientation, this has been an easier **journey** for some than others.
+judgement. Because of our individual body image contentedness and society's
+varying expectations based on age, gender,
+race, or sexual orientation, this has been an easier road for some than others.
 
 The performers who are active in the North Carolina dance scene (most of the
 cast) are further confronted with the anxiety of performing nude in front of
@@ -471,14 +471,13 @@ whether physically or emotionally - and dance includes both."
 One performer mentioned that her friends, when she told them about the nude
 section, all looked at her husband, *what do you think about that?* As if it was
 an act of infidelity. Because our society has so strongly linked nudity with
-sexuality it's hard to dissociate the two. Compared to some other developed
-countries, it's rare we see nudity in a non-sexual setting.
+sexuality it's hard to dissociate the two. Compared to some other, more
+more open-minded societies, it's rare we see nudity in a non-sexual setting.
 But there's nothing inherently sexual about nudity. And there's nothing
 inherently wrong about sexuality (but that's another discussion altogether).
 
-When Alyce learned of the piece she was struck with an initial feeling of **fear**
-coupled with **curiosity**, "it started
-out as a challenge, can I really do this?" Writing in her
+When Alyce first learned of the piece she felt a nervous apprehension, "it
+started out as a challenge, can I really do this?" Writing in her
 <a href="https://view.flodesk.com/emails/6495a0b1d74d9c624c07fe81" target="_blank" rel="noopener noreferrer">
 newsletter</a>, she discussed her first screening of the Paris video, "there was
 an elegance of humanness in the vast range of bodies I observed on the screen.
@@ -487,7 +486,7 @@ reflection she felt compelled to say yes so she could
 "honor my body and what it's capable of and what it was been capable of
 creating for my career and for my life."
 
-During the rehearsals and the performance Alyce felt a sense of **calm**, "I saw it
+Once we began rehearsals Alyce found a serenity in the nude section, "I saw it
 as a moving meditation. During that moment I felt so connected with the group
 even though we never really came in contact with each other. That just became
 a peaceful moment." Again, from her newsletter, "I gave myself permission to be
@@ -499,11 +498,11 @@ lessons to her daughter Amelia. "It was a powerful moment to share it
 with her. It was really special and I have reflected on that a lot, probably
 more than the actual performances. One of my values of being a mother has been
 to raise her without a lens of judgement, especially when it comes to our bodies
-because there's enough of that in the world." It's these ____________
-conversations and confronting _________ experiences that (I have to imagine) make parenting
-such a challenging yet rewarding pursuit. Amelia couldn't ask for a better
-mother and I can one day pass along a modicum of the maturity and wisdom Alyce
-has imparted on her.
+because there's enough of that in the world." By confronting these complex
+experiences directly with Amelia, Alyce is providing the kind of emotionally
+mature guidance she is unlikely to get from her friends, school, or other
+elements of our society. It's what (I have to imagine) makes parenting
+such a challenging yet rewarding pursuit.
 
 Other performers discussed the counterintuitive concept that the nude section
 actually felt the least *intimate* section of the piece. For Cate, an action as
@@ -527,8 +526,8 @@ all... But then after I finished the scene, I felt empowered.”
 
 For us, we felt empowered because we had the privilege to participate in such a
 wonderfully provocative work of art. We all saw the mastery in the way Mark
-crafted the piece. Furthermore, Mark created a safe space with his tone that
-carried through from the audition to the final performance that emphasized
+crafted the performance. Furthermore, Mark created a safe space that carried
+through from the audition all the way to the final performance that emphasized
 comfort, calm, and acceptance. Alyce said she felt comfortable with the nudity
 because "Mark is a magnetic spirit and the whole piece is *intentional*."
 
