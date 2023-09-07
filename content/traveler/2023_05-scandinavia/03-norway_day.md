@@ -8,9 +8,9 @@ date: 2023-05-17
 post_date: 2023-06-10
 category: traveler
 subcat: Gallivanting
-photo: 
+photo: 17-paddle3-tall.JPEG
 activity: 2023 Scandinavian Sk&oslash;yestreker
-short_sum: 
+short_sum: Another beer? Why not
 summary: 
 
 <h4 class="article-subheader">Let's Go Sing!</h4>
@@ -29,13 +29,20 @@ the Norwegian words that flash up on the screen. I jump up and down, I fist
 pump, I horrifically mangle words I don't
 know at the top of my lungs in unison with a few dozen of my newest friends.
 
-Welcome to Norway Day. Velkommen til Syttende Mai.
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-sing.JPEG" alt="Sing">
+  <figcaption class="figure-caption">Party time. Excellent.</figcaption>
+</figure>
+
+Welcome to Norway Day.
+
+Velkommen til Syttende Mai.
 
 <h4 class="article-subheader">Champagne Breakfast</h4>
 The day started the way nearly every day starts in Norway on the 17th of May,
 with a champagne breakfast.
 
-Starting at 10 AM a steady stream of co-conspirators begins to arrive: Joakim,
+Right at 10 AM a steady stream of co-conspirators begins to arrive: Joakim,
 Tobaias, Bj&oslash;rn, Thomas, Rolf, Sindre (not to be confused with Sondre) and
 of course Kristoffer and Kristoffer (not to be confused with Christoffer).
 
@@ -48,7 +55,7 @@ and for some reason, chicken wings. I've eaten hundreds, maybe thousands, of
 wings in my day, but this is the first time I've eaten them for breakfast.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_breakfast.JPEG" alt="Champagne Breakfast">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-breakfast.JPEG" alt="Champagne Breakfast">
   <figcaption class="figure-caption">That's how you start your damn day!</figcaption>
 </figure>
 
@@ -80,7 +87,7 @@ Day), or when you're talking to a Yank, "Norway Day".
 The day traces its roots back to the Constitution of Norway, signed on the 17th
 of May 1814 in the town of Eidsvoll 70 km to the Northeast of Oslo. The
 constitution declared Norway to be an independent kingdom to avoid being given
-to Sweden by Denmark
+to Sweden by Denmark. **And then was given to Sweden anyways??**
 
 
 One of the hallmarks of Constitution Day is the absence of military parades or
@@ -220,13 +227,13 @@ standing around.
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_paddle1.JPEG" alt="King of the Court">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-paddle1.JPEG" alt="King of the Court">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_paddle2.JPEG" alt="King of the Court">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-paddle2.JPEG" alt="King of the Court">
     </div>
   </div>
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_paddle3.JPEG" alt="King of the Court">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-paddle3.JPEG" alt="King of the Court">
   <figcaption class="figure-caption">Yellow ball tracking for Sondre's belly.<figcaption>
 </figure>
 
@@ -292,7 +299,7 @@ pass by the Royal Family who display the
 \*I just made that word up
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_royal_family.jpg" alt="Royal Family">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-royal_family.jpg" alt="Royal Family">
   <figcaption class="figure-caption">R&oslash;j&aelig;lw&aring;v&oslash;kk&aelig;r!</figcaption>
 </figure>
 
@@ -306,8 +313,8 @@ as a crown. That's it. The Norwegians know how to party but they also know how
 to leave it like ya found it.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_parade_route.jpeg" alt="Parade Route">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17_parade.jpeg" alt="Parade">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-parade_route.jpeg" alt="Parade Route">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-parade.jpeg" alt="Parade">
   <figcaption class="figure-caption">You can imagine what it'd be like though
 	right?</figcaption>
 </figure>

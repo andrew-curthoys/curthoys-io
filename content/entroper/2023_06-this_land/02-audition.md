@@ -124,7 +124,7 @@ the ease of Secretariat, my eyes as wide as saucers,
 "Oh my god, are you serious? How did you hear about this?"
 
 Before I can reply Mark rounds us up to explain a couple more maneuvers: the
-Sally - a jaunty, carefree
+Shirley - a jaunty, carefree
 frolic of a strut that's so fun to do you can't help but smile. The Lewiston -
 a stiff, lumbering gait that reminds me of a wrestling coach.
 
@@ -132,7 +132,7 @@ Mark colors each character with a story of an interaction with that individual
 or an archetype of the character. With each story I know exactly the person he's
 describing. If I can embody that person is another question.
 
-We do some Sallys, we do some Lewistons. Some good (Renay, et al.).
+We do some Shirleys, we do some Lewistons. Some good (Renay, et al.).
 Some not so good (me).
 
 Halfway through the audition Mark calls us all together again and drops a

@@ -11,7 +11,7 @@ category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
 status: draft
-photo: perf-sally3.jpg
+photo: perf-shirley.jpg
 short_sum: This is it, don't get scared now!
 summary: 
 
@@ -114,18 +114,22 @@ Haim’s roast, 'This Land Is Your Land,' at the Nasher Museum."
 
 During my first viewing of the Paris recording I was floored by a connection
 between Woody Guthrie's *This Land Is Your Land* and what I considered to be the
-most powerful section of Mark's. But that's just the Oklahoma in me.
-Each audience member will surely make a connection that feels
-just as profound to them as my Woody Guthrie connection did to me.
+most powerful section of Mark's. When I asked Mark about this connection he
+hadn't considered it when creating the piece. It's just a coincidence amplified
+by my Oklahoman-ness. Each audience member will surely make a connection that
+feels just as profound to them as my Woody Guthrie connection does to me.
 
-Audience members after the show commented on the sense of isolation in the
-piece. The lack of connection between the six dancers on stage, each weaving
-their own way through the world. Then others remarked on the feeling of
-community shared between the dancers. It's individualistic. But it's also
+After the show, audience members commented on the sense of isolation in the
+piece; the lack of connection between the six dancers on stage, each weaving
+their own way through the world. Then, just minutes later, others remarked on
+the feeling of community shared between the dancers.
+
+It's individualistic. But it's also
 community. A dance. But also not a dance. A statement. But not a statement.
 
-It's an artistic expression that exposes some of the most salient aspects of our
-culture; but the most wonderful part is the fact that there's no message.
+It's an artistic expression that can be viewed and interpreted an infinite
+number of ways. It's a piece exposes some of the most salient aspects of our
+culture, but the most wonderful part is the fact that there's no message.
 There's no agenda. It's simply Mark presenting the world the
 way he sees it and allowing the audience to come to their own conclusions.
 
@@ -242,6 +246,12 @@ road. 6:30 comes and goes.
 Dana reassures me, "these things never start on time, I'm sure there are still
 people shuffling in"
 
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-calm1.jpeg" alt="Pre Show">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-calm2.jpg" alt="Pre Show">
+  <figcaption class="figure-caption">The calm before the storm</figcaption>
+</figure>
+
 A few minutes later Gabby comes backstage and calmly tells us we'll be starting
 in 5. And in 5 minutes I'm greeted, once again, by that familiar contralto,
 
@@ -322,7 +332,7 @@ was raised Catholic.
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-pistol.jpg" alt="Pistols">
   <figcaption class="figure-caption">Did someone say dead inside?<br>
-  <span class="fs-80">Photography by Ben McKeown, courtesy of the American Dance Festival.</figcaption>
+  <span class="fs-80">Photography by Ben McKeown, courtesy of the American Dance Festival.</span></figcaption>
 </figure>
 
 
@@ -367,33 +377,33 @@ previous statement. I look at Alyce with a bemused smirk,
 inside of your jeans with baby powder*' this year I'd have thought '*well 2023
 is gonna be a weird year.*'"
 
-<div id="sallyCarousel" class="carousel carousel-traveler slide" data-bs-ride="carousel" data-bs-interval="3000">
+<div id="shirleyCarousel" class="carousel carousel-traveler slide" data-bs-ride="carousel" data-bs-interval="3000">
   <div class="carousel-indicators">
-    <button type="button" data-bs-target="#sallyCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#sallyCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#sallyCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#shirleyCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#shirleyCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#shirleyCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
   <div class="carousel-inner" style="text-align:center;">
     <div class="carousel-item active">
-      <img src="/theme/images/entroper/2023_06-this_land/perf-sally1.jpg">
+      <img src="/theme/images/entroper/2023_06-this_land/perf-shirley1.jpg">
     </div>
     <div class="carousel-item">
-      <img src="/theme/images/entroper/2023_06-this_land/perf-sally2.jpg">
+      <img src="/theme/images/entroper/2023_06-this_land/perf-shirley2.jpg">
     </div>
     <div class="carousel-item">
-      <img src="/theme/images/entroper/2023_06-this_land/perf-sally3.jpg">
+      <img src="/theme/images/entroper/2023_06-this_land/perf-shirley3.jpg">
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#sallyCarousel" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#shirleyCarousel" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#sallyCarousel" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#shirleyCarousel" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </button>
-<figcaption class="figure-caption text-start bg-body">The evolution of the Sally<br>
-  <span class="fs-80">Photography by Ben McKeown, courtesy of the American Dance Festival.</figcaption>
+<figcaption class="figure-caption text-start bg-body">The evolution of the Shirley<br>
+  <span class="fs-80">Photography by Ben McKeown, courtesy of the American Dance Festival.</span></figcaption>
 </div>
 
 
@@ -403,14 +413,16 @@ nudity* I felt an initial jolt of anxiety mixed with excitement mixed with
 trepidation. The trepidation quickly gave way to a rolling cascade of immature
 mirthfulness. In short order, I dispatched a flurry of texts to my similarly
 puerile pals riddled with cosmopolitan aphorisms such as "hanging dong" and
-"cock out walk out." My only
+"cock out walk out." Hell we used to stage cock out rock out renditions of "Bohemian
+Rhapsody" in the high school football locker room after victories. My only
 preparation, mental or otherwise, was a diet and workout program - because
 who would know about vainglorious pursuits more than a man who built an entire
 website to write about himself?
 
 <figure class="figure container-fluid">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-nekked_eggplant.jpg" alt="Eggplant">
-  <figcaption class="figure-caption">Just like Dolph Lundgren in Thundergun 4</figcaption>
+  <figcaption class="figure-caption">Just like Dolph Lundgren in Thundergun 4<br>
+  <span class="fs-80">Photography by Ben McKeown, courtesy of the American Dance Festival.</span></figcaption>
 </figure>
 
 But I don't want to breeze over the nudity because it's such an integral part
@@ -420,7 +432,7 @@ discussions of the nudity during rehearsal breaks I decided that I'd like to
 share a more diverse breadth of experiences than my own.
 
 Spanning over 5 decades in age and a wide variety of backgrounds, the cast's
-journey to acceptance with the nudity was anything but uniform. While it was a
+**journey** to acceptance with the nudity was anything but uniform. While it was a
 completely novel experience for me, some of my co-performers had performed nude in
 the past. Most had attended performances with nudity. All understood that nudity
 is a form of artistic expression that has been around as long as dance has been
@@ -432,14 +444,16 @@ to the realm of artistic expression? And why is nudity taboo to begin with?
 
 {{ m.divider() }}
 
-The most significant mental hurdle was not comfort with our own bodies (that was
-just the start) but comfort with *others* seeing our bodies. Comfort with their
-gaze. Comfort with their judgement. Because of
-society's varying body image expectations based on age, gender,
-race, or sexual orientation that was an easier journey for some than others.
+Each member of the cast has dealt with their own body image challenges, however
+large or small, before arriving at our present level of comfort. But comfort
+with our own bodies is just the start. The most significant mental hurdle is comfort
+with *others* seeing our bodies. Comfort with their gaze. Comfort with their
+judgement. Because of our individual body image
+_______, combined with society's varying expectations based on age, gender,
+race, or sexual orientation, this has been an easier **journey** for some than others.
 
-The performers active in the North Carolina dance scene (which was most of the
-dancers) were further confronted with the anxiety of performing nude in front of
+The performers who are active in the North Carolina dance scene (most of the
+cast) are further confronted with the anxiety of performing nude in front of
 colleagues, collaborators, community leaders, mentors, teachers, or students (an
 anxiety I avoided because I emphatically told my coworkers not to come). When I
 chatted with Dana about this aspect she relayed that it "was a question of
@@ -457,14 +471,43 @@ whether physically or emotionally - and dance includes both."
 One performer mentioned that her friends, when she told them about the nude
 section, all looked at her husband, *what do you think about that?* As if it was
 an act of infidelity. Because our society has so strongly linked nudity with
-sexuality it's hard to dissociate the two. It's rare in this country to see
-nudity in a non-sexual setting.
+sexuality it's hard to dissociate the two. Compared to some other developed
+countries, it's rare we see nudity in a non-sexual setting.
 But there's nothing inherently sexual about nudity. And there's nothing
 inherently wrong about sexuality (but that's another discussion altogether).
 
+When Alyce learned of the piece she was struck with an initial feeling of **fear**
+coupled with **curiosity**, "it started
+out as a challenge, can I really do this?" Writing in her
+<a href="https://view.flodesk.com/emails/6495a0b1d74d9c624c07fe81" target="_blank" rel="noopener noreferrer">
+newsletter</a>, she discussed her first screening of the Paris video, "there was
+an elegance of humanness in the vast range of bodies I observed on the screen.
+It was raw, real, it made my heart pound and my eyes were locked in." Upon
+reflection she felt compelled to say yes so she could
+"honor my body and what it's capable of and what it was been capable of
+creating for my career and for my life."
+
+During the rehearsals and the performance Alyce felt a sense of **calm**, "I saw it
+as a moving meditation. During that moment I felt so connected with the group
+even though we never really came in contact with each other. That just became
+a peaceful moment." Again, from her newsletter, "I gave myself permission to be
+me, in my skin, in my body. I celebrated each moment and each movement. I felt
+loved and seen. I fell in love with myself and the cast."
+
+But Alyce's proudest achievement has been teaching these valuable
+lessons to her daughter Amelia. "It was a powerful moment to share it
+with her. It was really special and I have reflected on that a lot, probably
+more than the actual performances. One of my values of being a mother has been
+to raise her without a lens of judgement, especially when it comes to our bodies
+because there's enough of that in the world." It's these ____________
+conversations and confronting _________ experiences that (I have to imagine) make parenting
+such a challenging yet rewarding pursuit. Amelia couldn't ask for a better
+mother and I can one day pass along a modicum of the maturity and wisdom Alyce
+has imparted on her.
+
 Other performers discussed the counterintuitive concept that the nude section
 actually felt the least *intimate* section of the piece. For Cate, an action as
-simple as smiling during our Sally passes felt more intimate than the nudity.
+simple as smiling during our Shirley passes felt more intimate than the nudity.
 "During that section we're sharing a part of ourselves, whereas the nude
 section we're just bodies... it felt empowering because my body just existed,
 free from all our societal expectations." This realization helped her, along
@@ -482,11 +525,14 @@ Lawrence
 reflected, “It took a while to say yes – and the night before I didn’t sleep at
 all... But then after I finished the scene, I felt empowered.”
 
-For us, we felt empowered because we saw the mastery in the way Mark crafted the
-piece. Nobody was ashamed of the opportunity we had to participate
-in such a wonderfully provocative piece. Furthermore, Mark set a tone that
+For us, we felt empowered because we had the privilege to participate in such a
+wonderfully provocative work of art. We all saw the mastery in the way Mark
+crafted the piece. Furthermore, Mark created a safe space with his tone that
 carried through from the audition to the final performance that emphasized
-comfort and acceptance. Reflecting on our first nude-involved rehearsal, Cate explained,
+comfort, calm, and acceptance. Alyce said she felt comfortable with the nudity
+because "Mark is a magnetic spirit and the whole piece is *intentional*."
+
+Reflecting on our first nude-involved rehearsal, Cate explained,
 "that was the day I was like 'ok this is going to be fine,' because everybody
 was just very professional and very chill. It's only a big deal if you make it
 a big deal, and nobody was making it a big deal."
@@ -522,7 +568,8 @@ have a lot of fun with this one & really lean into it. *But I* ***REALLY***
     </div>
   </div>
   <figcaption class="figure-caption">Seconds before the pouty pause I'm apparently
-  coked out McConaughey</figcaption>
+  coked out McConaughey<br>
+  <span class="fs-80">Photography by Ben McKeown, courtesy of the American Dance Festival.</span></figcaption>
 </figure>
 
 Then comes the spear handoff. The only part I haven't rehearsed.
@@ -559,7 +606,8 @@ count. No comrades to distract the audience's gaze.
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-cowboy_solo.jpg" alt="Solo">
   <figcaption class="figure-caption">Hardly spoke to folks around him, didn't
-  have too much to say</figcaption>
+  have too much to say<br>
+  <span class="fs-80">Photography by Ben McKeown, courtesy of the American Dance Festival.</span></figcaption>
 </figure>
 
 Seeing as this is my first performance (have I mentioned that yet?) my fellow
@@ -647,13 +695,20 @@ the sports references I've made and none of the dance ones. Friends who wouldn't
 know Monica Bill Barnes if she walked in the room and did her best Monica Bill
 Barnes impression. And I don't have a satisfactory answer for them.
 
-I've recently learned that the Latin for "why not" is "cur non," perhaps I'll
-just tell them my new stage name, Andy Curnonthoys.
+I really think it just boils down to two short words, "why not?" Seeing as the
+Latin for "why not" is "cur non," I have no choice but to change my stage name
+to Andy Curnonthoys.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-party.jpg" alt="Party">
+  <figcaption class="figure-caption">Curnonthoys, Haim, & Evans chillaxin at the
+  wrap party</figcaption>
+</figure>
 
 All of my fellow performers are curious as to my future in the dancing arts.
 I've enrolled in some dance classes. I've learned what second position is. I can
 (kinda?) do a tandu. We're still working on my flexibility but it's been a blast.
-I'm open to any and all performances that require little to no dance experience
+I'm open to any performances that require little to no dance experience
 and/or clothing. I would do this performance again in a heartbeat.
 
 I want to thank all my fellow performers for their patience putting up with my
@@ -701,3 +756,33 @@ A ton of work.
 But a ton of fun.
 
 And I'll never regret taking that blind pirouette into the unknown.
+
+
+
+7:15 "It was a really powerful moment to share it with her, that was really
+special and I have reflected on that a lot, probably more than the actual
+performances. One of my values of being a mother has been to raise her without
+a lens of judgement, especially when it comes to our bodies because there's
+enough of that in the world.
+
+One of my values of being a mother
+
+1:45 Honoring the body and what it's capable of and what it has been capable of creating
+for my career for my life, I couldn't take my eyes off of it. It was just
+fascinating.
+
+2:50 I felt really called to challenge myself
+
+4:15 it started out as a challenge, can I really do this?
+
+6:05 I saw it as a moving meditation. During that moment I felt so connected
+with the group even though we never really come in contact with each other. That
+just became a peaceful moment.
+
+15:00 It was such a mental breakthrough for me to feel at ease in my body in that
+moment and it felt like an opportunity to open the door to change narratives.
+
+17:00 our spirits are not our bodies, they are just a vessel & they are vessels
+that do miraculous things, which is why we need to honor and respect that
+
+19:00 Mark is a magnetic spirit and the whole piece is *intentional*

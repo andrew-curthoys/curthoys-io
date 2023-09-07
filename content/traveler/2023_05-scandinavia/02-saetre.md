@@ -8,7 +8,7 @@ date: 2023-05-13
 post_date: 2023-05-30
 category: Traveler
 subcat: Gallivanting
-photo: saetre_rooftop_night.jpeg
+photo: saetre-rooftop_night.jpeg
 activity: 2023 Scandinavian Sk&oslash;yestreker
 short_sum: Waiting sausages, steaks, and stunning views. And you're <b><i>sure</i></b> you've never heard of Cape Hatteras?
 summary: I'm enjoying a Rignes pilsner when 6 words strike my tympanic membrane that have since changed my perception of what it means to be alive... "Who's ready for some waiting sausages?" I have to say I've never been more ready for anything in my entire life. A subtlety of the query that I did not immediately realize was "who's ready for ***some*** waiting sausages?" is an entirely different question than "who's ready for ***a*** waiting sausage?" Because just as I finish my first *p&oslash;lse; med lompe* another magically appears in my mitts. Hell I might move to Norway just to wait around.
@@ -28,7 +28,7 @@ Because just as I finish my first *p&oslash;lse; med lompe* another magically
 appears in my waiting paws. Hell I might move to Norway just to wait around.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_rooftop_night.jpeg" alt="Rooftop">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-rooftop_night.jpeg" alt="Rooftop">
   <figcaption class="figure-caption">I could wait here all day.</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ the Dr&oslash;bak Sound, separates the Inner from the Outer Oslofjorden a mere
 5 km to the east.
  
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_map.JPEG" alt="Saetre">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-map.JPEG" alt="Saetre">
   <figcaption class="figure-caption">That's a mighty nice fjord ya got there.</figcaption>
 </figure>
 
@@ -115,8 +115,8 @@ that feels chic yet comfortable. And high tech toilets that I couldn't figure
 out how to use.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_house.JPEG" alt="Saetre house">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_rooftop_day.JPEG" alt="Saetre house">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-house.JPEG" alt="Saetre house">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-rooftop_day.JPEG" alt="Saetre house">
   <figcaption class="figure-caption">I could get used to this.</figcaption>
 </figure>
 
@@ -135,8 +135,8 @@ opposition to the development evaporated like the cares of a sunbather on
 a lovely Norwegian May morning.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_beach.JPEG" alt="Beach">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_city_center.JPEG" alt="City Center">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-beach.JPEG" alt="Beach">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-city_center.JPEG" alt="City Center">
   <figcaption class="figure-caption">One cannot overstate the amount of goodwill a public beach garners.</figcaption>
 </figure>
 
@@ -171,7 +171,7 @@ Per Aabel looking like he's having a great time. Sondre sends me a text.
 "Take a picture so I can see where you are"
 
 <figure class="figure container-fluid">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_per_aabel.jpg" alt="Per Aabel">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-per_aabel.jpg" alt="Per Aabel">
   <figcaption class="figure-caption">Found a better photo on the line without
 	all the people mulling about.</figcaption>
 </figure>
@@ -215,7 +215,7 @@ circling the automobile taking photos.
 you want."
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_car.JPEG" alt="Rental car">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-car.JPEG" alt="Rental car">
   <figcaption class="figure-caption">Your chariot awaits.</figcaption>
 </figure>
 
@@ -276,7 +276,7 @@ father's father & father's mother. Same for your maternal side: *morfar* &
 "Yeah I love it up here."
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_farfars_house.JPEG" alt="Farfar's house">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-farfars_house.JPEG" alt="Farfar's house">
   <figcaption class="figure-caption">Farfar's house.</figcaption>
 </figure>
 
@@ -296,7 +296,7 @@ a view all the way to downtown Oslo. To a hayseed from Oklahoma I'm in awe that
 a place like this even exists.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_farfars_view.JPEG" alt="Farfar's view">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-farfars_view.JPEG" alt="Farfar's view">
   <figcaption class="figure-caption">Unreal views from up here.</figcaption>
 </figure>
 
@@ -394,7 +394,7 @@ strawberries, and orange juice round out the feast. I have to imagine heaven is
 like the past 12 hours.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_brekky.JPEG" alt="Brekky">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-brekky.JPEG" alt="Brekky">
   <figcaption class="figure-caption">You'll never leave Monica & Tom's house
 	hungry.</figcaption>
 </figure>
@@ -409,7 +409,7 @@ the triangular cheese knife with the slit near the handle you've probably seen
 on a wedding registry.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_brunost.jpg" alt="Bunost">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-brunost.jpg" alt="Bunost">
   <figcaption class="figure-caption">Brunost & osteh&oslash;vel.</figcaption>
 </figure>
 
@@ -427,7 +427,7 @@ have soft hands and I'm still a bit jetlagged.
 Now that I think about it I would have just gotten in the way.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_dock.JPEG" alt="Dock">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-dock.JPEG" alt="Dock">
   <figcaption class="figure-caption">You got a great lookin' dock, Big Tom.</figcaption>
 </figure>
 
@@ -444,10 +444,10 @@ delicious cake that I want to try but can't ruin the decoration.
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_farmor_table.JPEG" alt="Norway table">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-farmor_table.JPEG" alt="Norway table">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_farmor_cake.JPEG" alt="Norway cake">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-farmor_cake.JPEG" alt="Norway cake">
     </div>
   </div>
   <figcaption class="figure-caption">Farmor is just the cutest.<figcaption>
@@ -531,10 +531,10 @@ wouldn't be as embarrassing if I didn't do it a dozen more times in the next wee
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_lincoln1.JPEG" alt="Lincoln pub">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-lincoln1.JPEG" alt="Lincoln pub">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_lincoln2.JPEG" alt="Lincoln pub">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-lincoln2.JPEG" alt="Lincoln pub">
     </div>
   </div>
   <figcaption class="figure-caption">The Linc<figcaption>
@@ -549,8 +549,8 @@ while the Munch museum is widely decried as the ugliest building in town. I
 think it looks like a casino. Which is not the highest praise.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_waterfront1.JPEG" alt="Waterfront">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_waterfront2.JPEG" alt="Waterfront">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-waterfront1.JPEG" alt="Waterfront">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-waterfront2.JPEG" alt="Waterfront">
   <figcaption class="figure-caption">Library & Opera House on top. Opera House
 	& Munch Museum on bottom.</figcaption>
 </figure>
@@ -571,7 +571,7 @@ As we're ambling to the pub I notice the word "barcode" on a lot of restaurant s
 look like a barcode from the water."
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_barcode.jpeg" alt="Barcode">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-barcode.jpeg" alt="Barcode">
   <figcaption class="figure-caption">I can see it.</figcaption>
 </figure>
 
@@ -588,7 +588,7 @@ when I discover that someone has walked off with my jacket that I set on a
 table.
 
 <figure class="figure container-fluid">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_sondre_sad.JPEG" alt="Arsenal">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-sondre_sad.JPEG" alt="Arsenal">
   <figcaption class="figure-caption">Pobrecito.</figcaption>
 </figure>
 
@@ -608,14 +608,14 @@ pain to report how many nonsensical bar snacks I consumed.
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_galliano.jpeg" alt="Galliano">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-galliano.jpeg" alt="Galliano">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_bacon_snacks.JPEG" alt="Bacon snacks">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-bacon_snacks.JPEG" alt="Bacon snacks">
     </div>
   </div>
   <div class="row">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_bangers.JPEG" alt="Harvey Wallbangers">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-bangers.JPEG" alt="Harvey Wallbangers">
 	</div>
   <figcaption class="figure-caption">Sunday Funday.<figcaption>
 </figure>
@@ -626,7 +626,7 @@ the Barcode district from the city center is a 13-lane train station transected
 by a beautiful pedestrian bridge called the Akrobaten.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_bridge1.JPEG" alt="Akrobaten">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-bridge1.JPEG" alt="Akrobaten">
   <figcaption class="figure-caption">Hey Brage.</figcaption>
 </figure>
 
@@ -638,7 +638,7 @@ the tubular steel truss that holds the suspenders is rotated off-center to
 balance the load. It's subtle but really clever engineering.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_bridge2.JPEG" alt="Akrobaten">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-bridge2.JPEG" alt="Akrobaten">
   <figcaption class="figure-caption">Say it with me: asymmetry!</figcaption>
 </figure>
 
@@ -655,7 +655,7 @@ Steel Bridges in 2012?
 Just like any other bridge. Smh.
 
 <figure class="figure container-fluid">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre_bridge3.JPEG" alt="Akrobaten">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-bridge3.JPEG" alt="Akrobaten">
   <figcaption class="figure-caption">But think of the forces!</figcaption>
 </figure>
 

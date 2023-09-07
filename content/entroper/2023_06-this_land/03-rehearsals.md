@@ -24,7 +24,7 @@ Mark asks with a slight kick to the left foot of my vaguely animated corpse.
 I peel open an eyelid and muster the strength for a mumbled "yeah."
 
 "Sorry, but it's time to start rehearsal," Mark coyly remarks behind a Cheshire
-cat smile, an impish grin with which I'll become intimately familiar over the
+cat smile; an impish grin with which I'll become intimately familiar over the
 next two weeks.
 
 I scrape myself off the floor, still reeling from
@@ -89,7 +89,7 @@ per step.  We're good but I don't think we're *that* good.
 I'm not saying there's a psychological difference in how far it *feels*.
 
 I'm just saying the *actual* distance is pretty negligible. I'm also saying that
-I'm a pedantic asshole whose brain doesn't have an off switch.
+I'm a pedantic asshat whose brain doesn't have an off switch.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-step_graph.png" alt="Step Graph">
@@ -128,7 +128,7 @@ individual segments that make up the whole of the performance. Like we learned
 in the audition, each has its own name that Mark has informally conferred over
 the years and each
 has its own flavor. *The Claw* is centered around hand movements. *Mona Lisa*
-emphasizes our facial expression. Our old friends *Sally* and *Lewiston*
+emphasizes our facial expression. Our old friends *Shirley* and *Lewiston*
 express themselves through their gait.
 
 <figure class="figure">
@@ -138,7 +138,7 @@ express themselves through their gait.
 </figure>
 
 As Mark works through the parts I get the hang of them *individually*. 
-When he starts to link 2 and 3 segments together is where
+When he starts to link 2 and 3 segments together
 my head starts to spin. I quickly follow the lead of the more seasoned dancers
 and begin to write it all down in a notebook.
 
@@ -182,17 +182,17 @@ solely on my count. Everyone has their own system but the important part is that
 it works for you. Because we're popping out from behind the curtain blind. Brace,
 Hendri, and Aaron lets us know we can *kinda* see through the curtain from
 backstage but it's not worth trusting. The first few rehearsals we practiced
-with the curtain at waist height so we could see what was going on on-stage. It
+with the curtain at waist height so we could see the onstage action. It
 was a little nerve-racking when we graduated to the full curtain.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-half_curtain.jpg" alt="Half curtain">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-full_curtain.jpg" alt="Full curtain">
 	<figcaption class="figure-caption">Before & after. Looks like nothing's
-	clicking for that nimrod in the doorway.</figcaption>
+	clicking for that nimrod in the doorway in the top photo.</figcaption>
 </figure>
 
-As rehearsals grind on my Sally eventually reaches a level that could
+As rehearsals grind on my Shirley eventually reaches a level that could
 generously be described as *adequate*. My next challenge is
 to master the "maxi" skip, so called because we are going to the max&trade;. The
 maxi is a mix between a skip and a speed skating lunge. My initial attempts are
@@ -548,6 +548,8 @@ are seemingly inexhaustible resources at the Samuel H. Scripps Studios. I never
 feel reticent to ask a stupid question, I never feel ostracized for being the
 token non-dancer. This wonderful environment is a natural outgrowth from sharing
 the studio with the kindest, warmest, most generous people I have ever met.
+Mark told us at the start of rehearsals we'd become a family and he couldn't
+have been more correct.
 Every single one of my co-performers has a heart of gold and I would give them
 the shirt off my back
 (assuming I'm wearing a shirt and not, y'know, fully nude).
@@ -556,19 +558,21 @@ the shirt off my back
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-gang.jpg" alt="The gang">
 	<figcaption class="figure-caption">Clockwise from selfie snapper: Matt, Dana,
 	Carrie, Jonathan, Allie, some Jesus lookin' fella, Brace, Hendri, Alyce, Cate,
-	Alexandra, & Renay with Mark in the middle of the dancer donut.</figcaption>
+	Alexandra, & Renay with Mark in the middle of the dancer donut. Linda Belans
+	must be doing something more important.</figcaption>
 </figure>
 
 This supportive environment is championed by Mark, who exudes positivity and
 respect. Negativity has no business in a room with Mark Haim. Even when critique
 is warranted it's always given with a smile. I ask the other dancers if this is
 normal from their experience and they relay that while asshole is not the norm,
-they have worked with plenty of assholes. But to a person they say this is the
-most fun they've had at a rehearsal.
+they have worked with plenty of assholes. Mark is as Alyce said, "a magnetic
+spirit," who encourages us to be ourselves.
 
-Fun, but professional. We all realize we're here to do a job expressing Mark's
-creative vision to the best of our ability. We respect him and the feeling is
-mutual. He affords us plenty of leeway to goof off (which we do in spades) but
+The vibe is fun yet professional. We all realize we're here to do a job. We're
+here to express Mark's creative vision to the best of our ability. We respect
+him and the captivating piece he has developed. We respect him and he respects
+us. He affords us plenty of leeway to goof off (which we do in spades) but
 we also take it upon ourselves to continuously improve. Throughout the course of
 each rehearsal we're constantly talking among ourselves, comparing
 notes, ironing out steps, perfecting hand positions, trying out facial
@@ -755,15 +759,21 @@ explanation given."
 </p>
 </div>
 
-This final nonsense narrative ties back into the story at hand because`
+This final nonsense narrative ties back into the story at hand because
 the song that precedes *Honky Tonk Badonkadonk* in our performance was sung by
 none other than... Ronnie Milsap. *Any Day Now*, The opener to Milsap's 1982
 album *Inside*, is a stark juxtaposition to Adkins's objectifying anthem. It's a
-song that pokes at the raw nerve deep in your gut that shows up during one of
-the most painful aspects of the human experience. The feeling that looms over
-the dying stages of a relationship as you cling the idea of what once was.
+song that touches on one of the most painful aspects of the human experience -
+that hollow feeling deep in your gut that looms over the dying stages of a
+relationship.
 
-But you know. You tell yourself everything is ok. But you know. Any day now the
+But you know.
+
+You tell yourself everything is ok. You cling the idea of what once was.
+
+But you know.
+
+You know that any day now the
 hammer will drop and shatter your heart into a million pieces.
 
 <div class="text-muted fst-italic mx-3 mb-3">
@@ -779,7 +789,7 @@ I'll be all alone
 
 <iframe class="mb-2" style="border-radius:12px" src="https://open.spotify.com/embed/track/30upl1YT1suEgSDpIopSky?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-Somehow Milsap's velvety smooth treatment lulls you into its captivating trance -
+Somehow Milsap's velvety smooth treatment lulls you into its captivating trance,
 just like the devilish grin of your soon-to-be-former lover. If you're not
 paying attention you just might miss the heart-wrenching lyrics. I certainly did the
 first few times I heard it. It's a song I've decided to categorize, at the

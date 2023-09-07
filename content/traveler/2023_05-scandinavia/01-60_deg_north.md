@@ -1,5 +1,5 @@
 title: Del En: 60 Degrees North
-slug: traveler/2022_05-scandinavia/01-60_deg_north
+slug: traveler/2022_05-scandinavia/01-60-deg_north
 slug_base: traveler/2023_05-scandinavia
 day_alias: 60 Degrees North
 prev_day: /traveler/2023_05-scandinavia
@@ -8,7 +8,7 @@ date: 2023-05-12
 post_date: 2023-05-23
 category: Traveler
 subcat: Gallivanting
-photo: 60_oslo_by_air.jpeg
+photo: 60-dog.jpeg
 activity: 2023 Scandinavian Sk&oslash;yestreker
 short_sum: We're losing the hot dog technology war.
 summary: This is a travel story, sure. But this is a story about much, *much* more. This is a story about cuisine. This is a story about creativity. This is a story about culture.
@@ -57,7 +57,7 @@ progenitors of the modern dog, we've become complacent and allowed Norway to
 surpass us in frankfurter technology.
 
 <figure class="figure container-fluid">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60_dog.jpeg" alt="Waiting Sausage">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60-dog.jpeg" alt="Waiting Sausage">
   <figcaption class="figure-caption">Behold, the waiting sausage. <b>Ventende
 	p&oslash;lse med lompe.</b></figcaption>
 </figure>
@@ -105,7 +105,7 @@ strollin' through a beautiful May evening to the Brooklyn Promenade overlooking
 lower Manhattan.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60_arthur_miller.JPEG" alt="Arthur Miller">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60-arthur_miller.JPEG" alt="Arthur Miller">
   <figcaption class="figure-caption">Passed Arthur Miller's digs on the way there. He lived here in the early 40s while writing & working at the Brooklyn Navy Yard.</figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ potato based liquor often flavored with caraway seeds. The drink is crisp,
 fresh, and deceptively boozy.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60_reykjavik.JPEG" alt="Reykjavik 101">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60-reykjavik.JPEG" alt="Reykjavik 101">
   <figcaption class="figure-caption">Lj&uacute;ffengur!</figcaption>
 </figure>
 
@@ -155,10 +155,10 @@ then used as a holding area for prisoners as they awaited their judgement.
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60_jefferson1.JPEG" alt="Jefferson Library">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60-jefferson1.JPEG" alt="Jefferson Library">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60_jefferson2.JPEG" alt="Jefferson Library">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60-jefferson2.JPEG" alt="Jefferson Library">
     </div>
   </div>
   <figcaption class="figure-caption">The library in the late 19th century and
@@ -189,10 +189,10 @@ breading that's not too greasy. A proper chippy, A Salt and Battery, that is.
 <figure class="figure">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60_chippy1.JPEG" alt="Chippy">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60-chippy1.JPEG" alt="Chippy">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60_chippy2.JPEG" alt="Chippy">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60-chippy2.JPEG" alt="Chippy">
     </div>
   </div>
   <figcaption class="figure-caption">God Save the Cod!</figcaption>
@@ -251,7 +251,7 @@ Norwegian saying that I later learned that could have been of good use here is
 "slather yourself with patience." I could use some SPF 100 patience right now.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60_norse_line.JPEG" alt="Norse Chaos">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60-norse_line.JPEG" alt="Norse Chaos">
   <figcaption class="figure-caption">You're doing great, Norse Atlantic.</figcaption>
 </figure>
 
@@ -267,7 +267,7 @@ tossing, squirming. I might have gotten 2 hours of sleep. But I had plenty of
 legroom and easy access to the lav so it could have been worse.
 
 <figure class="figure container-fluid">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60_norse_legroom.JPEG" alt="Legroom">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60-norse_legroom.JPEG" alt="Legroom">
   <figcaption class="figure-caption">I got hollered at by the flight attendant
 	for putting my feet up on that receptacle halfway through the flight.</figcaption>
 </figure>
@@ -280,7 +280,7 @@ Before I know it we're on the ground at Oslo Gardermoen Lufthavn running on
 fumes.
 
 <figure class="figure container-fluid">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60_oslo_by_air.jpeg" alt="Oslo">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/60-oslo_by_air.jpeg" alt="Oslo">
   <figcaption class="figure-caption">Hei Oslo!</figcaption>
 </figure>
 
