@@ -4,14 +4,13 @@ slug: entroper/2023_06-this_land/04-showtime
 slug_base: entroper/2023_06-this_land
 day_alias: Showtime
 prev_day: 03-rehearsals
-next_day: /drafts/entroper/2023_06-this_land
+next_day: /entroper/2023_06-this_land
 date: 2023-06-13
 post_date: 2023-06-20
 category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
-status: draft
-photo: perf-shirley.jpg
+photo: perf-shirley3.jpg
 short_sum: This is it, don't get scared now!
 summary: 
 
@@ -355,7 +354,7 @@ pile. Entropy increasing with every pass.
 </figure>
 
 Once we start the Shirleys our "high fashion" costume begins to take shape. We have
-4 passes to go from our casual outfit to full high fashion, which in my case is
+4 passes to metamorphose from our casual outfit to full high fashion, which in my case is
 our old friend Aspen down at the co-op. The first pass I put on my deep-V
 sweater. Second pass comes the sarong. Third pass is the purse. Fourth pass is
 the scuba headband, top knot, and colorful shawl lent by
@@ -454,13 +453,12 @@ to the realm of artistic expression? And why is nudity taboo to begin with?
 
 {{ m.divider() }}
 
-Each member of the cast has dealt with their own body image challenges, however
-large or small, before reaching a comfort level where they'd even consider
-auditioning for this piece. But comfort with our own bodies is just the start.
-The most significant mental hurdle is comfort with *others* seeing our bodies.
-Comfort with their gaze. Comfort with their judgement. Because each performer
-has their own relationship to their body and society's varying corpuscular
-expectations based on age, gender,
+In order to muster the courage to perform nude for an audience you must be
+comfortable in your own body. But that's just the start. The most significant
+mental hurdle is comfort with *others* seeing our bodies. Comfort with their
+gaze. Comfort with their judgement. Because each performer has their own
+relationship to their body and society's varying **corpuscular** expectations
+based on age, gender,
 race, or sexual orientation, this has been an easier road for some than others.
 
 The performers who are active in the North Carolina dance scene (most of the
@@ -535,11 +533,12 @@ Lawrence
 reflected, “It took a while to say yes – and the night before I didn’t sleep at
 all... But then after I finished the scene, I felt empowered.”
 
-For us, we felt empowered because we had the privilege to participate in such a
-wonderfully provocative work of art. Furthermore, Mark created a safe space that carried
-through from the audition all the way to the final performance that emphasized
-comfort and acceptance. Alyce said she felt comfortable with the nudity
-because "Mark is a magnetic spirit and the whole piece is *intentional*."
+For us, we felt empowered with the privilege to participate in this wonderfully
+provocative work of art. Provocative but not gratuitous. Provocative but not
+**obscene**. Provocative but, as Alyce said, *intentional*. The mastery with
+which Mark crafted the piece captivated us and made us feel like we were a part
+of something meaningful. Furthermore, Mark cultivated a safe space that
+emphasized positivity, professionalism, and acceptance.
 
 Reflecting on our first nude rehearsal, Cate explained,
 "that was the day I was like 'ok this is going to be fine,' because everybody
@@ -597,13 +596,15 @@ keep my composure and take a little stutter step before our skip and get back
 on schedule.
 
 But since all my mental energy was focused on fixing my mistake, I have completely
-lost my count. And as I mentioned this section has a skip on the 4-count. Again,
-we've rehearsed this so many times I have a pretty good *feel* for where the
-skip should go but my ace in the hole is walking right next to me. Renay, I
+lost my count. And as I mentioned this section has a skip on the 4-count.
+Because of our extensive rehearsals I have a pretty good *feel* for where the
+skip should go; but my ace in the hole is walking right next to me. Renay, I
 find, attacks the skip with an aggressiveness that could likely qualify her for
-the triple jump at the Olympics. I mean she *really* loads up for it. And I
-catch her forceful bounds in my peripherals just to make sure I'm skipping on
-the right count for the rest of that pass. Love you Renay <span style="color:red">&hearts;</span>.
+the triple jump at the Olympics. I mean she *really* loads up for it. These
+forceful bounds are caught in my peripherals to confirm I'm skipping on
+the right count for the rest of that pass.
+
+<span style="color:red">&hearts;</span> you Renay!
 
 
 <h4 class="article-subheader">Ovation</h4>
@@ -765,33 +766,3 @@ A ton of work.
 But a ton of fun.
 
 And I'll never regret taking that blind pirouette into the unknown.
-
-
-
-7:15 "It was a really powerful moment to share it with her, that was really
-special and I have reflected on that a lot, probably more than the actual
-performances. One of my values of being a mother has been to raise her without
-a lens of judgement, especially when it comes to our bodies because there's
-enough of that in the world.
-
-One of my values of being a mother
-
-1:45 Honoring the body and what it's capable of and what it has been capable of creating
-for my career for my life, I couldn't take my eyes off of it. It was just
-fascinating.
-
-2:50 I felt really called to challenge myself
-
-4:15 it started out as a challenge, can I really do this?
-
-6:05 I saw it as a moving meditation. During that moment I felt so connected
-with the group even though we never really come in contact with each other. That
-just became a peaceful moment.
-
-15:00 It was such a mental breakthrough for me to feel at ease in my body in that
-moment and it felt like an opportunity to open the door to change narratives.
-
-17:00 our spirits are not our bodies, they are just a vessel & they are vessels
-that do miraculous things, which is why we need to honor and respect that
-
-19:00 Mark is a magnetic spirit and the whole piece is *intentional*

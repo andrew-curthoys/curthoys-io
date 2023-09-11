@@ -3,17 +3,16 @@ subtitle: <span style="font-size:1.3rem;">Part One: </span><span style="font-siz
 slug: entroper/2023_06-this_land/01-you_should_do_this
 slug_base: entroper/2023-06_this_land
 day_alias: You Should Do This
-prev_day: /drafts/entroper/2023_06-this_land
+prev_day: /entroper/2023_06-this_land
 next_day: 02-audition
 date: 2023-03-06
 post_date: 2023-06-20
 category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
-status: draft
 photo: aud-insta_message.jpeg
 short_sum: Comfort zone? We don't need no stinking comfort zone!
-summary: 
+summary: I'm minding my business on a nondescript January morning when I notice a little red notification on my Instagram app. I pop it open expecting to see what I typically see when I notice a little red notification on my Instagram app: an epic guitar solo or mind bending soccer goal sent from the small group of friends who sends me these things. Instead it's a message from my cousin Laura, a NYC-based dancer who is 5 days older and 5 times more mature than I.
 
 I'm minding my business on a nondescript January morning when I notice a
 little red notification on my Instagram app. I pop it open expecting to see what

@@ -47,7 +47,7 @@ DIRECT_TEMPLATES = ['index',
                     'traveler/2021_09-costa_rica',
                     'traveler/2022_01-ski_trip',
                     'traveler/2023_05-scandinavia',
-                    # 'drafts/entroper/2023_06-this_land'
+                    'entroper/2023_06-this_land'
 ]
 DELETE_OUTPUT_DIRECTORY = True
 

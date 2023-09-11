@@ -10,7 +10,6 @@ post_date: 2023-06-20
 category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
-status: draft
 photo: hearsals-gang.jpg
 short_sum: Who ever knew so much work could be so much fun?
 summary: 
@@ -175,7 +174,8 @@ sheet and cross out each pass as I complete it.
 	<figcaption class="figure-caption">The evolution of the spreadsheet</figcaption>
 </figure>
 
-Many of the other dancers develop "musical cues," which inform them when to
+Many of the other dancers develop "musical cues," sections of a song that inform
+them when to
 emerge from behind the curtain. With my maniacal devotion to my spreadsheet and
 natural affinity for numbers I eschew with musical cues altogether and focus
 solely on my count. Everyone has their own system but the important part is that
@@ -195,8 +195,8 @@ was a little nerve-racking when we graduated to the full curtain.
 As rehearsals grind on my Shirley eventually reaches a level that could
 generously be described as *adequate*. My next challenge is
 to master the "maxi" skip, so called because we are going to the max&trade;. The
-maxi is a mix between a skip and a speed skating lunge. My initial attempts are
-a graceless cyclone of gangly appendages; the dancing equivalent a baby
+maxi is a mix between a skip and a speed skating lunge. My initial attempts
+resemble a graceless cyclone of gangly appendages; the dancing equivalent a baby
 giraffe learning to walk. If there was ever any evidence that I have no
 experience this is it.
 
@@ -524,8 +524,6 @@ tell me I'm a dumbass and that's whats I appreciates abouts her.
 
 <figure class="figure d-table mx-auto">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-squirrely_dan.gif" alt="Squirrely Dan">
-  <figcaption class="figure-caption" style="display:table-caption;caption-side:bottom;">
-		<span style="color:red">&hearts;</span> you Allie</figcaption>
 </figure>
 
 While Allie endures a disproportionate share of my neophytic interrogation she's
@@ -563,16 +561,15 @@ the shirt off my back
 </figure>
 
 This supportive environment is championed by Mark, who exudes positivity and
-respect. Negativity has no business in a room with Mark Haim. Even when critique
-is warranted it's always given with a smile. I ask the other dancers if this is
+respect. As Alyce said, Mark has a *magnetic spirit*. Negativity has no
+business in a room with Mark Haim. Even when critique is warranted it's always
+given with a gentle touch and a piquant smile. I ask the other dancers if this is
 normal from their experience and they relay that while asshole is not the norm,
-they have worked with plenty of assholes. Mark is as Alyce said, "a magnetic
-spirit," who encourages us to be ourselves.
+they have worked with plenty of assholes.
 
-The vibe is fun yet professional. We all realize we're here to do a job. We're
-here to express Mark's creative vision to the best of our ability. We respect
-him and the captivating piece he has developed. We respect him and he respects
-us. He affords us plenty of leeway to goof off (which we do in spades) but
+The vibe is fun yet professional. We all realize we're here to do a job, we're
+here to express Mark's creative vision to the best of our ability. He affords us
+plenty of leeway to goof off (which we do in spades) but
 we also take it upon ourselves to continuously improve. Throughout the course of
 each rehearsal we're constantly talking among ourselves, comparing
 notes, ironing out steps, perfecting hand positions, trying out facial
@@ -619,7 +616,7 @@ like we were making light of the situation.
 
 Because whatever you think of the situation the facts are that there are an
 estimated 400 million guns in the United States. 20 million of which are assault
-style weapons, or one for every inhabitant of Australia. When it comes to
+style weapons, or more than the populations of Australia. When it comes to
 firearms America is the exception. Whether that's exceptionally admirable or
 exceptionally abominable depends on your definition of a well trained militia.
 

@@ -10,7 +10,6 @@ post_date: 2023-06-20
 category: entroper
 subcat: Dancing
 activity: This Land Is Your Land
-status: draft
 photo: aud-accordion.jpeg
 short_sum: Right foot odd, left foot even. Until it isn't.
 summary: 
@@ -381,7 +380,7 @@ before she was Madonna - a dance student at ADF</a>
 	That's Madonna sitting on the stage in the white headband</figcaption>
 </figure>
 
-<div class="gerri">
+<p id="gerri">
 This year's festival is dedicated to Gerri Houlihan, a colossus in the world of
 dance who is celebrating her 40th season teaching at the ADF summer intensive.
 A graduate of The Julliard School and former Dean of the ADF School, her
@@ -392,7 +391,7 @@ and if you have the means, consider donating a few shekels to the Gerri
 Houlihan Scholarship Fund. I had the
 pleasure to meet Gerri at one of our rehearsals and look forward to attending
 one of her classes, where she continues to advance the mission of ADF.
-</div>
+</p>
 
 This season features two companies who performed at the inaugural Durham
 festival, the Paul Taylor Dance Company and Pilobolus, the latter of which
