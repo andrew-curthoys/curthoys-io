@@ -1,4 +1,4 @@
-title: Showtime
+title: Sidebar: Nudity
 subtitle: <span style="font-size:1.2rem;">Sidebar: </span><span style="font-size:1.5rem;">Nudity</span>
 slug: entroper/2023_06-this_land/00-nudity
 slug_base: entroper/2023_06-this_land
@@ -60,8 +60,7 @@ with our own bodies is just the start. The most significant mental hurdle is com
 with *others* seeing our bodies. Comfort with their gaze. Comfort with their
 judgement. Because of our individual body image contentedness and society's
 varying expectations based on age, gender,
-race, or sexual orientation, th
-is has been an easier road for some than others.
+race, or sexual orientation, this has been an easier road for some than others.
 
 The performers who are active in the North Carolina dance scene (most of the
 cast) are further confronted with the anxiety of performing nude in front of
@@ -139,8 +138,8 @@ For us, we felt empowered because we had the privilege to participate in such a
 wonderfully provocative work of art. We all saw the mastery in the way Mark
 crafted the performance. Furthermore, Mark created a safe space that carried
 through from the audition all the way to the final performance that emphasized
-comfort, calm, and acceptance. Alyce said she felt comfortable with the nudity
-because "Mark is a magnetic spirit and the whole piece is *intentional*."
+peacefulness, professionalism, and acceptance. Alyce's comfort with the nudity
+stemmed from Mark's "magnetic spirit and the *intentionality* of the whole piece."
 
 Reflecting on our first nude-involved rehearsal, Cate explained,
 "that was the day I was like 'ok this is going to be fine,' because everybody

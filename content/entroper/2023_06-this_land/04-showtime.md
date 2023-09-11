@@ -108,7 +108,7 @@ seats may interpret it differently.
 </figure>
 
 Byron Woods, the theater & dance critic for INDY Week, a Durham-based
-independent newspaper, opined, "flashy movers on a serpentine
+independent newspaper, in his review opined, "flashy movers on a serpentine
 catwalk execute a slow pan across a landscape of mindless consumerism in Mark
 Haim’s roast, 'This Land Is Your Land,' at the Nasher Museum."
 
@@ -184,7 +184,7 @@ that's why we did this."
 Phew.
 
 For our second dress rehearsal we are graced with an audience. Members of the
-ADF staff and participants in the summer dance intensive who have schedule
+ADF staff who have schedule
 conflicts fill the Great Hall for our last run-through before the big day.
 Much the same as the venue adds a new layer to the performance, a live audience
 significantly changes the dynamic. I'm grateful that we are able to rehearse
@@ -354,28 +354,13 @@ pile. Entropy increasing with every pass.
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-wardrobe_after.jpeg" alt="After">
 </figure>
 
-If only the audience could take a peek behind the curtain. A
-sweaty maelstrom of flying blouses, jettisoned jeans, and the occasional mad
-dash to get in position just before your entrance. It took a few rehearsals to
-find out where we had a little buffer to take a breath and where we really
-needed to hustle. And which articles were the trickiest. For me it was my socks.
-With time I discovered that the secret was known by Rabbit from Twister all
-along: Roll The Maps (Socks).
-
-<div class="tenor-gif-embed mb-3" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-For many others, tight fitting jeans proved to be their nemesis. During a
-particularly stuffy day in the studio Alyce proposed a remedy to the denim dilemma,
-
-"If you coat the inside of your jeans with baby powder it helps get them on
-when you're sweaty!"
-
-I take a moment to appreciate the simultaneous absurdity and sensibleness of the
-previous statement. I look at Alyce with a bemused smirk,
-
-"If you would have told me on New Year's Eve that I'd hear '*if you coat the
-inside of your jeans with baby powder*' this year I'd have thought '*well 2023
-is gonna be a weird year.*'"
+Once we start the Shirleys our "high fashion" costume begins to take shape. We have
+4 passes to go from our casual outfit to full high fashion, which in my case is
+our old friend Aspen down at the co-op. The first pass I put on my deep-V
+sweater. Second pass comes the sarong. Third pass is the purse. Fourth pass is
+the scuba headband, top knot, and colorful shawl lent by
+<a href="/entroper/2023_06-this_land/02-audition.html?id=gerri" target="_blank" rel="noopener noreferrer">Gerri Houlihan</a>
+herself.
 
 <div id="shirleyCarousel" class="carousel carousel-traveler slide" data-bs-ride="carousel" data-bs-interval="3000">
   <div class="carousel-indicators">
@@ -402,9 +387,34 @@ is gonna be a weird year.*'"
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </button>
-<figcaption class="figure-caption text-start bg-body">The evolution of the Shirley<br>
+<figcaption class="figure-caption text-start bg-body">The evolution of Aspen<br>
   <span class="fs-80">Photography by Ben McKeown, courtesy of the American Dance Festival.</span></figcaption>
 </div>
+
+If only the audience could take a peek behind the curtain. A
+sweaty maelstrom of flying blouses, jettisoned jeans, and the occasional mad
+dash to get in position just before your entrance. It took a few rehearsals to
+find out where we had a little buffer to take a breath and where we really
+needed to hustle. And which articles were the trickiest. For me it was my socks.
+With time I discovered that the secret was known by Rabbit from Twister all
+along: Roll The Maps (Socks).
+
+<div class="tenor-gif-embed mb-3" data-postid="14663539" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/twister-rabbit-wise-good-gif-14663539">Twister Rabbit GIF</a>from <a href="https://tenor.com/search/twister-gifs">Twister GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+For many others, tight fitting jeans proved to be their nemesis. During a
+particularly stuffy day in the studio Alyce proposed a remedy to the denim dilemma,
+
+"If you coat the inside of your jeans with baby powder it helps get them on
+when you're sweaty!"
+
+I take a moment to appreciate the simultaneous absurdity and sensibleness of the
+previous statement. I look at Alyce with a bemused smirk,
+
+"If you would have told me on New Year's Eve that I'd hear '*if you coat the
+inside of your jeans with baby powder*' this year I'd have thought '*well 2023
+is gonna be a weird year.*'"
+
+Speaking of...
 
 
 <h4 class="article-subheader">About That Whole Nudity Thing</h4>
@@ -445,11 +455,12 @@ to the realm of artistic expression? And why is nudity taboo to begin with?
 {{ m.divider() }}
 
 Each member of the cast has dealt with their own body image challenges, however
-large or small, before arriving at our present level of comfort. But comfort
-with our own bodies is just the start. The most significant mental hurdle is comfort
-with *others* seeing our bodies. Comfort with their gaze. Comfort with their
-judgement. Because of our individual body image contentedness and society's
-varying expectations based on age, gender,
+large or small, before reaching a comfort level where they'd even consider
+auditioning for this piece. But comfort with our own bodies is just the start.
+The most significant mental hurdle is comfort with *others* seeing our bodies.
+Comfort with their gaze. Comfort with their judgement. Because each performer
+has their own relationship to their body and society's varying corpuscular
+expectations based on age, gender,
 race, or sexual orientation, this has been an easier road for some than others.
 
 The performers who are active in the North Carolina dance scene (most of the
@@ -474,7 +485,7 @@ an act of infidelity. Because our society has so strongly linked nudity with
 sexuality it's hard to dissociate the two. Compared to some other, more
 more open-minded societies, it's rare we see nudity in a non-sexual setting.
 But there's nothing inherently sexual about nudity. And there's nothing
-inherently wrong about sexuality (but that's another discussion altogether).
+inherently wrong about sexuality (which is another discussion altogether).
 
 When Alyce first learned of the piece she felt a nervous apprehension, "it
 started out as a challenge, can I really do this?" Writing in her
@@ -525,13 +536,12 @@ reflected, “It took a while to say yes – and the night before I didn’t sle
 all... But then after I finished the scene, I felt empowered.”
 
 For us, we felt empowered because we had the privilege to participate in such a
-wonderfully provocative work of art. We all saw the mastery in the way Mark
-crafted the performance. Furthermore, Mark created a safe space that carried
+wonderfully provocative work of art. Furthermore, Mark created a safe space that carried
 through from the audition all the way to the final performance that emphasized
-comfort, calm, and acceptance. Alyce said she felt comfortable with the nudity
+comfort and acceptance. Alyce said she felt comfortable with the nudity
 because "Mark is a magnetic spirit and the whole piece is *intentional*."
 
-Reflecting on our first nude-involved rehearsal, Cate explained,
+Reflecting on our first nude rehearsal, Cate explained,
 "that was the day I was like 'ok this is going to be fine,' because everybody
 was just very professional and very chill. It's only a big deal if you make it
 a big deal, and nobody was making it a big deal."
@@ -551,7 +561,7 @@ And I think we could all use a little reminder of that from time to time.
 <h4 class="article-subheader">Pouty Pause</h4>
 With my skipping gaffe in the rearview we're soon to my favorite part of the piece,
 *the pouty pause*. On my last lap of "plastic surgery" we stop for a 4 count at the
-end of the stage and give the audience the look of petulant child who
+end of the stage and give the audience the look of a petulant child who
 was just told they couldn't have ice cream. "You're a bratty kid who didn't get
 their way and you want to stare at them like you're parents are the worst." I
 have a lot of fun with this one & really lean into it. *But I* ***REALLY***
@@ -600,7 +610,7 @@ the right count for the rest of that pass. Love you Renay <span style="color:red
 My final pass of the performance comes as the music
 fades out to silence. 96 steps with no soundtrack but our footsteps. I'm
 the very last in the line so my final lap is all alone. No music to keep my
-count. No comrades to distract the audience's gaze.
+count. No compatriots to distract the audience's gaze.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-cowboy_solo.jpg" alt="Solo">
@@ -613,7 +623,7 @@ Seeing as this is my first performance (have I mentioned that yet?) my fellow
 dancers ask if I'm nervous for my solo. I have a troubling sense of calm about
 it. I should be nervous but for reasons I can't explain I'm not.
 
-As I walk off the stage to close out my first ever performance I don't know what
+As I walk off the stage I don't know what
 to expect. I gave it a 50-50 shot that I'd get emotional backstage and tear up.
 But when it's all said and done the only emotion I feel is pure, unadulterated
 bliss. My smile spans the full distance from ear to ear.
@@ -624,7 +634,7 @@ Patsy, has not made its usual appearance. As we're pondering if we should
 just take our curtain call without music Patsy starts up. But it's not the right
 Patsy. It's *Walkin' After Midnight*, the opening song to the piece. It seems
 the technician in charge of the music ran into a snafu playing the song and
-made the tactical decision to just play the soundtrack from the piece. We shrug
+made the tactical decision to just play the main soundtrack. We shrug
 and run out for the curtain call just like we practiced.
 
 Backstage after we finish our bows McKelynn looks at me with a huge smile on her
@@ -692,11 +702,11 @@ everyone had fun."
 I've had many friends ask why I wanted to do this. Friends who understand all
 the sports references I've made and none of the dance ones. Friends who wouldn't
 know Monica Bill Barnes if she walked in the room and did her best Monica Bill
-Barnes impression. And I don't have a satisfactory answer for them.
+Barnes impression.
 
 I really think it just boils down to two short words, "why not?" Seeing as the
-Latin for "why not" is "cur non," I have no choice but to change my stage name
-to Andy Curnonthoys.
+Latin for "why not" is "cur non," I reckon I have no choice but to change my
+stage name to Andy Curnonthoys.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-party.jpg" alt="Party">
