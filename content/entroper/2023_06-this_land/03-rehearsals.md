@@ -555,7 +555,7 @@ the shirt off my back
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-gang.jpg" alt="The gang">
 	<figcaption class="figure-caption">Clockwise from selfie snapper: Matt, Dana,
-	Carrie, Jonathan, Allie, some Jesus lookin' fella, Brace, Hendri, Alyce, Cate,
+	Carrie, Jonathan, Allie, McKelynn, some Jesus lookin' fella, Brace, Hendri, Alyce, Cate,
 	Alexandra, & Renay with Mark in the middle of the dancer donut.</figcaption>
 </figure>
 
