@@ -106,11 +106,6 @@ seats may interpret it differently.
   <figcaption class="figure-caption">The view from house right</figcaption>
 </figure>
 
-Byron Woods, the theater & dance critic for INDY Week, a Durham-based
-independent newspaper, in his review opined, "flashy movers on a serpentine
-catwalk execute a slow pan across a landscape of mindless consumerism in Mark
-Haim’s roast, 'This Land Is Your Land,' at the Nasher Museum."
-
 During my first viewing of the Paris recording I was floored by a connection
 between Woody Guthrie's *This Land Is Your Land* and what I considered to be the
 most powerful section of Mark's. When I asked Mark about this connection he
@@ -126,8 +121,20 @@ the feeling of community shared between the dancers.
 It's individualistic. But it's also
 community. A dance. But also not a dance. A statement. But not a statement.
 
+In Mark's own words,
+
+<p class="text-muted fst-italic mx-3 mb-3">
+"It's based on a very simple pattern that keeps mutating for 14 performers that
+also involves about 200 Starbucks cups, 14 rifles, 14 pistols, 15 cell phones,
+17 beer cans, and a whole bunch of costumes set to a whole bunch of country
+music."
+</p>
+
 It's an artistic expression that can be viewed and interpreted an infinite
-number of ways. It's a piece exposes some of the most salient aspects of our
+number of ways. Byron Woods, the theater & dance critic for INDY Week, a
+Durham-based independent newspaper, opined in his review, "flashy movers on a
+serpentine catwalk execute a slow pan across a landscape of mindless
+consumerism." It certainly exposes some of the most salient aspects of our
 culture, but the most wonderful part is the fact that there's no message.
 There's no agenda. It's simply Mark presenting the world the
 way he sees it and allowing the audience to come to their own conclusions.
@@ -138,10 +145,10 @@ At least that's my conclusion.
 <h4 class="article-subheader">Dress Rehearsal</h4>
 The day before opening night we mosey over to the Nasher for a full dress
 rehearsal in the *interactive viewing experience*. When I stroll into the
-museum's capacious atrium my jaw drops to the floor. 45 feet overhead a
-web of glass and steel gracefully hovers above the 13,000 square foot Great Hall.
-The ferrosilicate web is conjointly supported by 5 immense beams, none of which
-span the room's full breadth. It's somewhat like
+museum's capacious atrium my jaw drops to the floor. Vaulted 45 feet overhead a
+stunning web of glass and steel envelops the 13,000 square foot Great Hall.
+The ferrosilicate structure is conjointly supported by 5 immense beams, none of
+which span the room's full breadth. It's somewhat like
 that classic dad trick of folding the flaps of a cardboard box to stay shut
 without tape. It's a beautiful piece of engineering.
 
@@ -226,7 +233,7 @@ music but no costumes or props. Like a Thursday football practice with no pads.
   the task at hand whilst yours truly sticks his tongue out at the camera</figcaption>
 </figure>
 
-The time between tech & performance is filled with much milling about and
+The time between tech & the performance is filled with much milling about and
 nonsensical banter. I'm confident but still stress eat about half of the
 potluck snacks. Thomas Earl Petty was right about The Waiting. Our heroic stage
 manager, Gabby, has the
@@ -251,7 +258,7 @@ people shuffling in"
   <figcaption class="figure-caption">The calm before the storm</figcaption>
 </figure>
 
-A few minutes later Gabby comes backstage and calmly tells us we'll be starting
+A few minutes later Gabby comes backstage and patiently tells us we'll be starting
 in 5. And in 5 minutes I'm greeted, once again, by that familiar contralto,
 
 <div class="text-muted fst-italic mx-3 mb-3">
@@ -306,7 +313,7 @@ Everyone is trying to look as if they're not aware that people are looking at
 them even though all eyes are on them."
 
 The most useful part of this for me stems from my inability to keep a straight
-face if I make eye contact with friend in the audience. During the first
+face if I make eye contact with friends in the audience. During the first
 performance of day 2 I catch myself smothering a smirk during the nude section
 because I know my friends are in the crowd. As I stride out towards the audience
 I summon every ounce of concentration in my body to maintain a stoic stare;
@@ -423,8 +430,8 @@ trepidation. The trepidation quickly gave way to a rolling cascade of immature
 mirthfulness. In short order, I dispatched a flurry of texts to my similarly
 puerile pals riddled with cosmopolitan aphorisms such as "hanging dong" and
 "cock out walk out." Hell we used to stage cock out rock out renditions of "Bohemian
-Rhapsody" in the high school football locker room after victories. My only
-preparation, mental or otherwise, was a diet and workout program - because
+Rhapsody" in the high school football locker room after victories. My main
+preparation was a diet and workout program - because
 who would know about vainglorious pursuits more than a man who built an entire
 website to write about himself?
 
@@ -457,12 +464,12 @@ In order to muster the courage to perform nude for an audience you must be
 comfortable in your own body. But that's just the start. The most significant
 mental hurdle is comfort with *others* seeing our bodies. Comfort with their
 gaze. Comfort with their judgement. Because each performer has their own
-relationship to their body and society's varying **corpuscular** expectations
+relationship to their body and society's varying anatomical expectations
 based on age, gender,
-race, or sexual orientation, this has been an easier road for some than others.
+race, or sexual orientation, this was an easier road for some than others.
 
 The performers who are active in the North Carolina dance scene (most of the
-cast) are further confronted with the anxiety of performing nude in front of
+cast) were further confronted with the anxiety of performing nude in front of
 colleagues, collaborators, community leaders, mentors, teachers, or students (an
 anxiety I avoided because I emphatically told my coworkers not to come). When I
 chatted with Dana about this aspect she relayed that it "was a question of
@@ -533,9 +540,9 @@ Lawrence
 reflected, “It took a while to say yes – and the night before I didn’t sleep at
 all... But then after I finished the scene, I felt empowered.”
 
-For us, we felt empowered with the privilege to participate in this wonderfully
+For us, we felt empowered by the privilege to participate such a wonderfully
 provocative work of art. Provocative but not gratuitous. Provocative but not
-**obscene**. Provocative but, as Alyce said, *intentional*. The mastery with
+indiscriminate. Provocative but, as Alyce said, *intentional*. The mastery with
 which Mark crafted the piece captivated us and made us feel like we were a part
 of something meaningful. Furthermore, Mark cultivated a safe space that
 emphasized positivity, professionalism, and acceptance.
@@ -585,19 +592,20 @@ As I reach the yellow panel I snag the spear from Cate and collect 11 rubles
 with a flawless pirouette that could only be described as Baryshnikovian. The
 quality of the pirouette is only surpassed by my immense modesty.
 
-It wasn't long before I goofed again, just a couple passes later during the
+But it wasn't long before I goofed again, just a couple passes later during the
 military marching sequence. This section features a completely different
 walking pattern from the past
 half hour. I make it through the first couple laps just fine then on the third
 lap, for whatever reason, my brain lapses and I forget the (Nutcracker/step
 together/9-step/whatever name we feel like that day), which throws off my steps
-from my comrades. But thankfully we've rehearsed this so many dang times that I
-keep my composure and take a little stutter step before our skip and get back
-on schedule.
+from my comrades. Thankfully we've rehearsed this so many dang times that I'm
+able to keep my composure and take a little stutter step before our skip to get
+back on schedule.
 
-But since all my mental energy was focused on fixing my mistake, I have completely
-lost my count. And as I mentioned this section has a skip on the 4-count.
-Because of our extensive rehearsals I have a pretty good *feel* for where the
+But since all my mental energy was focused on fixing my mistake I have
+completely lost my count, which puts me in a bit of a pickle since this section
+has a skip on the 4-count. Again, because of our extensive rehearsals, I
+have a pretty good *feel* for where the
 skip should go; but my ace in the hole is walking right next to me. Renay, I
 find, attacks the skip with an aggressiveness that could likely qualify her for
 the triple jump at the Olympics. I mean she *really* loads up for it. These
@@ -645,6 +653,11 @@ time!"
 "Well for me it does!" I reply with a shiteating grin. I'm an ornery prick
 aren't I?
 
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-post.jpg" alt="Post show selfie">
+  <figcaption class="figure-caption">A successful show in the books</figcaption>
+</figure>
+
 
 <h4 class="article-subheader">Are you going to the talkback?</h4>
 "The what?"
@@ -662,20 +675,21 @@ I'm just saying that even football coaches have *postgame press conferences*.
 I doubt half the coaches in the NFL could spell "conferences." A quarter
 probably can't spell "press."
 
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/perf-talkback.jpg" alt="Talkback">
+  <figcaption class="figure-caption">Mark talking back</figcaption>
+</figure>
+
 During the talkback we learn about the story of how the piece came to be. Our
 current hour-long iteration was incrementally developed over time, with the
 original spanning a much more modest 20 minutes.
 
 "It developed from an initial urge to play with time. The back and forth wave
 has a mesmerizing quality that lulls the audience into a trance before we change
-up the pattern and it throws them."
-I want something where the audience is just feeling bored before we change it
-up."
+up the pattern and it throws them. I wanted something where the audience is just
+feeling bored before we change it up."
 
-"It's based on a very simple pattern that keeps mutating for 14 performers that
-also involves about 200 Starbucks cups, 14 rifles, 14 pistols, 15 cell phones,
-17 beer cans, and a whole bunch of costumes set to a whole bunch of country
-music."
+
 
 During the Q&A section my friend Sean asks Mark about his thought process behind
 using country music as the soundtrack for the piece.

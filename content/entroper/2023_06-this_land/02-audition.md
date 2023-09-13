@@ -1,7 +1,7 @@
 title: The Audition
 subtitle: <span style="font-size:1.3rem;">Part One <sub>and</sub> Two: </span><span style="font-size:1.5rem;">The Audition</span>
 slug: entroper/2023_06-this_land/02-audition
-slug_base: entroper/2023-06_this_land
+slug_base: entroper/2023_06-this_land
 day_alias: Audition
 prev_day: 01-you_should_do_this
 next_day: 03-rehearsals

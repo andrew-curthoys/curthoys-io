@@ -1,7 +1,7 @@
 title: You Should Do This
 subtitle: <span style="font-size:1.3rem;">Part One: </span><span style="font-size:1.5rem;">You Should Do This</span>
 slug: entroper/2023_06-this_land/01-you_should_do_this
-slug_base: entroper/2023-06_this_land
+slug_base: entroper/2023_06-this_land
 day_alias: You Should Do This
 prev_day: /entroper/2023_06-this_land
 next_day: 02-audition

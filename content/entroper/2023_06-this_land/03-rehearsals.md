@@ -561,17 +561,18 @@ the shirt off my back
 </figure>
 
 This supportive environment is championed by Mark, who exudes positivity and
-respect. As Alyce said, Mark has a *magnetic spirit*. Negativity has no
-business in a room with Mark Haim. Even when critique is warranted it's always
+respect. Alyce put it best when she observed that Mark has a *magnetic spirit*.
+Even when critique is warranted it's always
 given with a gentle touch and a piquant smile. I ask the other dancers if this is
 normal from their experience and they relay that while asshole is not the norm,
-they have worked with plenty of assholes.
+they have worked with plenty of assholes. Everyone feels lucky for the
+opportunity to work with Mark.
 
-The vibe is fun yet professional. We all realize we're here to do a job, we're
-here to express Mark's creative vision to the best of our ability. He affords us
-plenty of leeway to goof off (which we do in spades) but
-we also take it upon ourselves to continuously improve. Throughout the course of
-each rehearsal we're constantly talking among ourselves, comparing
+Throughout rehearsals the vibe is fun yet professional. We all realize we're
+here to do a job, to express Mark's creative vision to the best of our ability.
+He affords us plenty of leeway to goof off (which we do in spades) but
+we also take it upon ourselves to put in the work and continuously improve.
+During each rehearsal we're constantly talking among ourselves, comparing
 notes, ironing out steps, perfecting hand positions, trying out facial
 expressions. It's a delightfully collaborative and supportive environment.
 
@@ -616,7 +617,7 @@ like we were making light of the situation.
 
 Because whatever you think of the situation the facts are that there are an
 estimated 400 million guns in the United States. 20 million of which are assault
-style weapons, or more than the populations of Australia. When it comes to
+style weapons, or more than the population of Australia. When it comes to
 firearms America is the exception. Whether that's exceptionally admirable or
 exceptionally abominable depends on your definition of a well trained militia.
 
