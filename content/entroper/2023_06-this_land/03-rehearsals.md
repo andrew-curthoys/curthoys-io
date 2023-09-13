@@ -556,8 +556,7 @@ the shirt off my back
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-gang.jpg" alt="The gang">
 	<figcaption class="figure-caption">Clockwise from selfie snapper: Matt, Dana,
 	Carrie, Jonathan, Allie, some Jesus lookin' fella, Brace, Hendri, Alyce, Cate,
-	Alexandra, & Renay with Mark in the middle of the dancer donut. Linda Belans
-	must be doing something more important.</figcaption>
+	Alexandra, & Renay with Mark in the middle of the dancer donut.</figcaption>
 </figure>
 
 This supportive environment is championed by Mark, who exudes positivity and
@@ -651,41 +650,7 @@ Slap your grandma<br>
 
 Poetry. Simple as that.
 
-So the first time that Linda Belans, a proud grandmother, hears the bard of 
-Sarepta, Louisiana suggest such a brutish act of matriarchal thwacking her face
-turns red. 
-
-"SLAP YOUR GRANDMA!!?? Who does this guy think he is??"
-
-"You don't know Trace Adkins, Linda?"
-
-"No and I don't care to"
-
-"You're really missing out, he has an entire catalog of other songs he didn't
-write"
-
-For example: *Songs About Me*, written by Shayne Smith and Ed Hill.
-
-The timing works out with our ambulatory pattern that Mr. Adkins's advocation
-for familial violence occurs just as I exit the stage. And whose chair is
-perched right at the edge of the curtain?
-
-The incomparable Linda Belans.
-
-Each time I pass by I shoot her a Ralph Kramden "*why I oughta*" look. Her
-reaction always falls somewher between "*ahhh shaddup*" and "*if you
-know what's best for your health, young man, you better not even think about
-it*".
-
-I would never, Linda Belans! I would never!
-
-<figure class="figure container-fluid">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/entroper/2023_06-this_land/hearsals-linda.jpg" alt="Linda">
-	<figcaption class="figure-caption">Linda Belans is a treasure</figcaption>
-</figure>
-
-But Trace Adkins may not be deterred from slappin' your grandma because
-it seems he cares little for his health. A perusal of his Wikipedia page
+When I did a quick search of Trace Adkins I discovered that his Wikipedia page
 reveals a stream-of-consciousness masterpiece, littered with the wreckage of
 broken body parts, broken marriages, and broken sequiturs.
 
