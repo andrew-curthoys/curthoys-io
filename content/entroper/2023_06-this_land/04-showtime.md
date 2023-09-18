@@ -529,18 +529,7 @@ free from all our societal expectations." This realization helped her, along
 with a number of other performers, mentally prepare for the nudity and deprive
 it of its power.
 
-Going full circle back to to
-<a href="/entroper/2023_06-this_land/01-you_should_do_this.html?id=red-sparrow" target="_blank" rel="noopener noreferrer">Red Sparrow</a>,
-Jennifer Lawrence grappled with accepting the role, knowing it called for nudity.
-Her trepidation stemmed from a nude photo leak that sent her into a "long period
-when I didn't want to be seen sexually and I didn't want anybody to see my flesh."
-Looking back on the role
-(<a href="https://www.nytimes.com/2018/02/27/arts/dance/jennifer-lawrence-red-sparrow-kurt-froman-isabella-boylston.html" target="_blank" rel="noopener noreferrer">which required her to learn dance</a>),
-Lawrence
-reflected, “It took a while to say yes – and the night before I didn’t sleep at
-all... But then after I finished the scene, I felt empowered.”
-
-For us, we felt empowered by the privilege to participate such a wonderfully
+Our feeling of empowerment was strengthened by the privilege to participate such a wonderfully
 provocative work of art. Provocative but not gratuitous. Provocative but not
 indiscriminate. Provocative but, as Alyce said, *intentional*. The mastery with
 which Mark crafted the piece captivated us and made us feel like we were a part

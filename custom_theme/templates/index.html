@@ -64,6 +64,13 @@
                 {% endif %}
               {% endfor %}
 
+              {% for activity in latest_dict %}
+                {% if activity == "This Land Is Your Land" %}
+                  {% set temp_date = latest_dict[activity]['min_date'].replace(month=6, day=13) %}
+                  {% set _temp = latest_dict[activity].update({'min_date': temp_date}) %}
+                {% endif %}
+              {% endfor %}
+
               {% set latest_dict_ordered = latest_dict.items()|sort(attribute = '1.min_date', reverse=True) %}
 
               {% for post in latest_dict_ordered[:4] %}
