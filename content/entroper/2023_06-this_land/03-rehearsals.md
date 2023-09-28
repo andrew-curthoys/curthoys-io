@@ -400,7 +400,7 @@ a dance term or reference.
 
 "Really emphasize the contrapposto"
 
-"Just imagine you're doing a tandu"
+"Just imagine you're doing a tendu"
 
 "The maxi starts with a turnout then slowly evolves until you end up in second
 position"

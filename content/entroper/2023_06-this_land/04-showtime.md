@@ -720,7 +720,7 @@ stage name to Andy Curnonthoys.
 
 All of my fellow performers are curious as to my future in the dancing arts.
 I've enrolled in some dance classes. I've learned what second position is. I can
-(kinda?) do a tandu. We're still working on my flexibility but it's been a blast.
+(kinda?) do a tendu. We're still working on my flexibility but it's been a blast.
 I'm open to any performances that require little to no dance experience
 and/or clothing. I would do this performance again in a heartbeat.
 
