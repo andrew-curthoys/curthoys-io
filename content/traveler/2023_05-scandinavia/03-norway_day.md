@@ -148,8 +148,8 @@ So that's how my overstuffed suitcase got more stuffed and my emaciated
 wallet got more emaciated.
 
 Thankfully I found a store called Dressman where I was able to acquire a
-light blue suit and paisley button down shirt for $200. Much better than the
-$2000 suits I found in the first place I strolled past in the mall.
+light blue suit and paisley button down shirt for \$200. Much better than the
+\$2000 suits I found in the first place I strolled past in the mall.
 
 When I picked out the paisley shirt the salesman tried to stifle a grimace,
 
@@ -256,8 +256,8 @@ know that Uncle Andy looooooooooooves sangria wine!
 
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/1.JPEG" alt="Dock">
-  <figcaption class="figure-caption">&#129761;&#129761;&#129761;</figcaption>
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-flag.JPEG" alt="Dock">
+  <figcaption class="figure-caption">Sangria Wine</figcaption>
 </figure>
 
 
@@ -266,7 +266,7 @@ know that Uncle Andy looooooooooooves sangria wine!
 "Wait.... what parade?"
 
 "Did Sondre not take you to the parade?"
-
+ß
 "This is the first I'm hearing of it"
 
 "Sondre! You didn't take him to the parade!?"
