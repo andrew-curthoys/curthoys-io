@@ -92,21 +92,103 @@ defeat of Denmark (who were the rulers of Norway) during the Napoleonic Wars.
 Being ruled by Denmark is one thing but any self respecting Norwegian would
 rather give up hot dogs than willfully accept Swedish overlords.
 
-You could say they went to war but that ß to avoid being given
-to Sweden by Denmark. Then 6 months later Norway's parliament elected Charles
-XII of Sweden as king of Norway. At least they lasted longer than Liz Truss.
+To say they went to war would be the equivalent of saying ______________.
+All in all the conflict lasted about 2 weeks and from what I can gather the
+Norwegians lost about 400 brave men. But their sacrifice was not made in vain as
+Sweden agreed to honor the Norwegian Constitution, while allowing it to remain
+independent-ish through a "personal union" with Sweden. So while Norway's
+parliament elected Charles XII of Sweden as king of Norway in November of 1814,
+The Norwegians could hold their heads high.
 
-The constitution is the second oldest working national constitution in the world
-after the US
-Constitution, which of course took effect on the 4th of March 1789. Everybody
-in the US knows that, right?
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-horse.png" alt="Horse">
+  <figcaption class="figure-caption">I found a book about the conflict in written
+  in Norwegian, but seeing as I don't speak Norwegian the only thing I was able to
+  glean from it was this cool photo of a dude on a horse.</figcaption>
+</figure>
 
-The holiday was celebrated in the shadows until 1829 under strict orders from
-King Karl Johan of Sweden
+The Norwegian Constitution is the second oldest working national constitution in
+the world after the US Constitution, which of course took effect on the 4th of
+March 1789. Everybody in the US knows knows our Constitution Day just like the
+Norwegians, right?
+
+When King Karl Johan of Sweden ascended to the throne in 1818 he strictly
+forbade the celebrations until he realized the Norwegian spirit shall not be
+opressed and allowed the festivities starting in 1829.
 
 One of the hallmarks of Constitution Day is the absence of military parades or
-displays. This is a conscious decision to dedicate the day to the people of
-Norway and not a jingoistic display of military might.
+displays. This is a conscious decision to shun what many countries use as a
+jingoistic display of military might and dedicate the day to the people of
+Norway.
+
+But the real winners on Constitution Day are the children. On this glorious day
+kids are permitted to eat as much ice cream, waffles, cakes, hot dogs, and any
+other junk food their developing brains deem appropriate. I can't say for sure
+how this tradition started but based on my observations on the day it's likely
+due to all the parents getting blasted on aquavit.
+
+But the celebration of children on Constitution Day is not merely gustatorial;
+beginning in 1864 our old friend Bj&oslash;rnstjerne Bj&oslash;rnson suggested
+staging a parade for children to represent Norway's bright future. Ever since 
+then parades have been staged all over the country with elementary school
+children.
+
+<h4 class="article-subheader">This is Where The Parade Ended</h4>
+"Wait.... what parade?"
+
+"Did Sondre not take you to the parade?"
+
+"This is the first I'm hearing of it"
+
+"Sondre! You didn't take him to the parade!?"
+
+"I took him to MY version of Constitution Day, if you wanted to show him the
+parade you shouldn't have gone to Spain!"
+
+"Did you at least have some ice cream?"
+
+"Nope"
+
+"Sondre!"
+
+Sondre's girlfriend Nora is (rightfully) incensed that I did not attend the
+parade while indulging in mountains of ice cream. *2 scoops? Make it 3, I'm not
+driving*. But to be fair she did leave the country
+the week of the 17th, which should be a crime in my opinion.
+
+<div class="tenor-gif-embed mb-3" data-postid="24460693" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/jail-no-excuse-gif-24460693">Jail No GIF</a>from <a href="https://tenor.com/search/jail-gifs">Jail GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+The parade is one of the most beloved traditions of Constitution Day. All over
+the country, children assemble with their elementary schools to participate in
+the parade. Each school carries their official school banner and is typically
+accompanied by the school's marching band. The Oslo parade attracts over
+100,000 people to watch 100+ schools parade through town, waving Norwegian
+flags. The final stop of the parade is the Royal Palace, where the children
+pass by the Royal Family who display the
+*R&oslash;j&aelig;lw&aring;v&oslash;kk&aelig;r*\*, the official Royal Wave
+
+\*I just made that word up
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-royal_family.jpg" alt="Royal Family">
+  <figcaption class="figure-caption">R&oslash;j&aelig;lw&aring;v&oslash;kk&aelig;r!</figcaption>
+</figure>
+
+We're currently standing in front of the Royal Palace on the 20th? of May, looking down upon the
+final stretch of the parade route. The most remarkable thing that I notice is
+the complete lack of evidence that tens of thousands of Norwegians of various
+states of drunkenness occupied this exact same spot just two days ago. No litter,
+no vandalism, no evidence of hooliganry. The only evidence I saw in the days
+following the 17th was a newspaper vending box wearing three empty beer bottles
+as a crown. That's it. The Norwegians know how to party but they also know how
+to leave it like ya found it.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-parade_route.jpeg" alt="Parade Route">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-parade.jpeg" alt="Parade">
+  <figcaption class="figure-caption">You can imagine what it'd be like though
+	right?</figcaption>
+</figure>
 
 
 "Children in particular relish Constitution Day as they are generally given carte blanche to eat as much ice cream and as many waffles, cakes and hot dogs as they like, hang the consequences.
@@ -273,62 +355,6 @@ know that Uncle Andy looooooooooooves sangria wine!
 
 
 
-<h4 class="article-subheader">This is Where The Parade Ended</h4>
-"Wait.... what parade?"
-
-"Did Sondre not take you to the parade?"
-ß
-"This is the first I'm hearing of it"
-
-"Sondre! You didn't take him to the parade!?"
-
-"I took him to MY version of Constitution Day, if you wanted to show him the
-parade you shouldn't have gone to Spain!"
-
-"Did you at least have some ice cream?"
-
-"Nope"
-
-"Sondre!"
-
-Sondre's girlfriend Nora is (rightfully) incensed that I did not attend the
-parade while indulging in mountains of ice cream. *2 scoops? Make it 3, I'm not
-driving*. But to be fair she did leave the country
-the week of the 17th, which should be a crime in my opinion.
-
-<div class="tenor-gif-embed mb-3" data-postid="24460693" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/jail-no-excuse-gif-24460693">Jail No GIF</a>from <a href="https://tenor.com/search/jail-gifs">Jail GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-The parade is one of the most beloved traditions of Constitution Day. All over
-the country, children assemble with their elementary schools to participate in
-the parade. Each school carries their official school banner and is typically
-accompanied by the school's marching band. The Oslo parade attracts over
-100,000 people to watch 100+ schools parade through town, waving Norwegian
-flags. The final stop of the parade is the Royal Palace, where the children
-pass by the Royal Family who display the
-*R&oslash;j&aelig;lw&aring;v&oslash;kk&aelig;r*\*, the official Royal Wave
-
-\*I just made that word up
-
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-royal_family.jpg" alt="Royal Family">
-  <figcaption class="figure-caption">R&oslash;j&aelig;lw&aring;v&oslash;kk&aelig;r!</figcaption>
-</figure>
-
-We're currently standing in front of the Royal Palace, looking down upon the
-final stretch of the parade route. The most remarkable thing that I notice is
-the complete lack of evidence that tens of thousands of Norwegians of various
-states of drunkenness occupied this exact same spot just two days ago. No litter,
-no vandalism, no evidence of hooliganry. The only evidence I saw in the days
-following the 17th was a newspaper vending box wearing three empty beer bottles
-as a crown. That's it. The Norwegians know how to party but they also know how
-to leave it like ya found it.
-
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-parade_route.jpeg" alt="Parade Route">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-parade.jpeg" alt="Parade">
-  <figcaption class="figure-caption">You can imagine what it'd be like though
-	right?</figcaption>
-</figure>
 
 <h4 class="article-subheader">Ok Let's Go to the Bar!</h4>
 After our rooftop carousing the decision is made among the committee to transfer
