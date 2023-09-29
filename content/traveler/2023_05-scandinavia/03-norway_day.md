@@ -42,7 +42,8 @@ Velkommen til Syttende Mai.
 The day started the way nearly every day starts in Norway on the 17th of May,
 with a champagne breakfast.
 
-Right at 10 AM a steady stream of co-conspirators begins to arrive: Joakim,
+Right at 10 AM a steady stream of co-conspirators begin to arrive to Sondre's
+apartment: Joakim,
 Tobaias, Bj&oslash;rn, Thomas, Rolf, Sindre (not to be confused with Sondre) and
 of course Kristoffer and Kristoffer (not to be confused with Christoffer).
 
@@ -80,23 +81,33 @@ of mass in a 1 bedroom downtown Oslo apartment.
 
 <h4 class="article-subheader">Syttende Mai</h4>
 Every year the entire nation of Norway shuts down two days after the
-Ides of May in a massive celebration. It goes by many names, *Syttende Mai*
+Ides of May for a massive celebration. It goes by many names, *Syttende Mai*
 (17th of May), *Nasjonaldagen* (National Day), *Grunnlosdagen* (Constitution
 Day), or when you're talking to a Yank, "Norway Day".
 
-The day traces its roots back to the Constitution of Norway, signed on the 17th
-of May 1814 in the town of Eidsvoll 70 km to the Northeast of Oslo. The
-constitution declared Norway to be an independent kingdom to avoid being given
-to Sweden by Denmark. **And then was given to Sweden anyways??**
+The celebration traces its roots to the signing of the Constitution of Norway
+on the 17th of May 1814 70 km to the Northeast of Oslo in the town of Eidsvoll.
+The constitution declared Norway to be an independent kingdom after Sweden's
+defeat of Denmark (who were the rulers of Norway) during the Napoleonic Wars.
+Being ruled by Denmark is one thing but any self respecting Norwegian would
+rather give up hot dogs than willfully accept Swedish overlords.
 
+You could say they went to war but that ß to avoid being given
+to Sweden by Denmark. Then 6 months later Norway's parliament elected Charles
+XII of Sweden as king of Norway. At least they lasted longer than Liz Truss.
+
+The constitution is the second oldest working national constitution in the world
+after the US
+Constitution, which of course took effect on the 4th of March 1789. Everybody
+in the US knows that, right?
+
+The holiday was celebrated in the shadows until 1829 under strict orders from
+King Karl Johan of Sweden
 
 One of the hallmarks of Constitution Day is the absence of military parades or
 displays. This is a conscious decision to dedicate the day to the people of
 Norway and not a jingoistic display of military might.
 
-It's the second oldest working national constitution in the world after the US
-Constitution, which of course took effect on the 4th of March 1789. Everybody
-in the US knows that, right?
 
 "Children in particular relish Constitution Day as they are generally given carte blanche to eat as much ice cream and as many waffles, cakes and hot dogs as they like, hang the consequences.
 
