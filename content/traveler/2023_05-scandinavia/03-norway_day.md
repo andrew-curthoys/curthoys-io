@@ -274,11 +274,9 @@ And this is when my noise cancelling headphones go on.
 <h4 class="article-subheader">Bunader</h4>
 While a suit satisfies the *minimum pieces of flair* requirement, many partiers
 choose to celebrate their Norwegian heritage with a *bunad*, the traditional
-Norwegian folk costume. While the modern bunad is a
-20th century invention meant to invoke traditions of the past, it still takes
-inspiration from outfits worn by Norwegians as far back as the 18th century.
-Each bunad is different, but they typically consist of elaborate embroidery,
-scarves, shawls, stockings, and handmade jewelry known as s&oslash;lje. Most
+Norwegian folk costume. Each bunad is different, but they typically consist of
+elaborate embroidery, scarves, shawls, belts, stockings, caps, and handmade
+jewelry known as s&oslash;lje. Most
 s&oslash;lje are made of silver, a material that's steeped in Norwegian lore.
 Legend has it that the silver mines belonged to the mountain trolls & the
 wearer of silver would be protected against sickness, rotten weather, and bad
@@ -287,6 +285,16 @@ luck.
 A bunad should reflect the family or regional heritage of the wearer. It serves
 as an homage to your heritage.
 
+They reflect the region of the wearer and sometimes, I'm just now learning, if
+the wearer is married or unmarried. That would have been good information to
+know at the time. If anyone has a male bunad in a 42L with an "aggressively
+unmarried" adornment I can take that off your hands.
+
+While the modern bunad is intended to invoke traditions of the past, it's
+actually a 20th century invention. The hero of the bunad movement was Hulda
+Garborg, a Norwegian writer, novelist, playwright, poet, folk dancer, theater
+instructor, and champion of Norwegian culture.  it still takes
+inspiration from outfits worn by Norwegians as far back as the 18th century.
 <h4 class="article-subheader">Sk&aring;l</h4>
 I enjoy a few glasses of champagne over breakfast before switching to beer.
 
