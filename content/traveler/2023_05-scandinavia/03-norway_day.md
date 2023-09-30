@@ -130,8 +130,8 @@ due to all the parents getting blasted on aquavit.
 But the celebration of children on Constitution Day is not merely gustatorial;
 beginning in 1864 our old friend Bj&oslash;rnstjerne Bj&oslash;rnson suggested
 staging a parade for children to represent Norway's bright future. Ever since 
-then parades have been staged all over the country with elementary school
-children.
+then parades have been staged all over the country with the largest, of course,
+occurring in Oslo.
 
 <h4 class="article-subheader">This is Where The Parade Ended</h4>
 "Wait.... what parade?"
@@ -151,8 +151,10 @@ parade you shouldn't have gone to Spain!"
 
 "Sondre!"
 
-Sondre's girlfriend Nora is (rightfully) incensed that I did not attend the
-parade while indulging in mountains of ice cream. *2 scoops? Make it 3, I'm not
+We're currently standing in front of the Royal Palace on the 19th of May,
+looking down upon the final stretch of the parade route. Sondre's girlfriend
+Nora is (rightfully) incensed that he did not take me to the parade while
+shoveling mountains of ice cream in my face. *2 scoops? Make it 3, I'm not
 driving*. But to be fair she did leave the country
 the week of the 17th, which should be a crime in my opinion.
 
@@ -174,8 +176,8 @@ pass by the Royal Family who display the
   <figcaption class="figure-caption">R&oslash;j&aelig;lw&aring;v&oslash;kk&aelig;r!</figcaption>
 </figure>
 
-We're currently standing in front of the Royal Palace on the 20th? of May, looking down upon the
-final stretch of the parade route. The most remarkable thing that I notice is
+The most remarkable thing that I notice while standig on the grounds of the
+Royal Palace is
 the complete lack of evidence that tens of thousands of Norwegians of various
 states of drunkenness occupied this exact same spot just two days ago. No litter,
 no vandalism, no evidence of hooliganry. The only evidence I saw in the days
@@ -190,31 +192,19 @@ to leave it like ya found it.
 	right?</figcaption>
 </figure>
 
-
-"Children in particular relish Constitution Day as they are generally given carte blanche to eat as much ice cream and as many waffles, cakes and hot dogs as they like, hang the consequences.
-
-The day was first celebrated by students post-1814 but was banned outright between 1820 and 1829 under orders from King Karl Johan of Sweden while the two neighbours were united.
-
-It became an established tradition in 1833 when poet Henrik Wergeland gave a public speech honouring Norwegian heritage beneath a monument to reformist government minister Christian Krohg.
-
-Constitution Day’s close association with children began in 1864 when author
-Bjornstjerne Bjornson, who wrote the national anthem, suggested staging a parade
-just for primary school pupils, representing Norway’s bright future."
-
-https://www.independent.co.uk/news/world/europe/norway-day-constitution-ice-cream-children-marches-national-holiday-a8916266.html
-
 <h4 class="article-subheader">Suit Up</h4>
-One of the most striking differences between the Norwegian & US American
-Independence Day celebrations is sartorial.
+Perhaps the most striking difference between the Norwegian & US American
+Independence Day celebrations is the sartorial stylings of the merrymakers.
 
-In the US, a common 4th of July outfit would be jean shorts and a cutoff
+In the US, a common 4th of July outfit is jean shorts and a cutoff
 American flag t-shirt. I would know from experience.
 
 Norwegians take a different tact. Instead of "suns out guns out" they abide by
 the policy of "we don't see the sun for 4 months out of the year, let's wear
 suits."
 
-One day while milling around the apartment Sondre casually asks me,
+Which I was wholly unawares of until two days before the party  Sondre casually
+asks me,
 
 "Do you want me to steam your suit for the 17th of May?"
 
@@ -281,12 +271,28 @@ the more you tell me I need a white shirt the less I want to wear a white shirt"
 
 And this is when my noise cancelling headphones go on.
 
+<h4 class="article-subheader">Bunader</h4>
+While a suit satisfies the *minimum pieces of flair* requirement, many partiers
+choose to celebrate their Norwegian heritage with a *bunad*, the traditional
+Norwegian folk costume. While the modern bunad is a
+20th century invention meant to invoke traditions of the past, it still takes
+inspiration from outfits worn by Norwegians as far back as the 18th century.
+Each bunad is different, but they typically consist of elaborate embroidery,
+scarves, shawls, stockings, and handmade jewelry known as s&oslash;lje. Most
+s&oslash;lje are made of silver, a material that's steeped in Norwegian lore.
+Legend has it that the silver mines belonged to the mountain trolls & the
+wearer of silver would be protected against sickness, rotten weather, and bad
+luck.
 
+A bunad should reflect the family or regional heritage of the wearer. It serves
+as an homage to your heritage.
 
+<h4 class="article-subheader">Sk&aring;l</h4>
 I enjoy a few glasses of champagne over breakfast before switching to beer.
 
-Yesterday I scooped up a selection of &oslash;l from the grocer below Sondre's
-apartment. Among the offerings are the VestKyst IPA from Kinn Bryggeri,
+In preparation for the festivities I scooped up a selection of &oslash;l from
+the grocer below Sondre's apartment yesterday before all the stores closed for
+the holiday. Among the offerings are the VestKyst IPA from Kinn Bryggeri,
 Littlebro Session IPA & Czech-Style Pils from &AElig;gir Bryggeri, Fjord
 Session IPA from Tya Bryggeri, the Pale Ale & Brown Ale from N&oslash;gne
 &Oslash; plus a few Frydenlund Pales Ale just to be on the safe side.
@@ -433,16 +439,3 @@ and stared mouth agape. Louise breaks the silence,
 
 So we sang.
 
-*bunad*, the traditional Norwegian folk costume
-that's commonly worn on Norway Day. While the modern bunad is a
-20th century invention meant to invoke traditions of the past, it still takes
-inspiration from outfits worn by Norwegians as far back as the 18th century.
-Every bunad is different, but they typically consist of elaborate embroidery,
-scarves, shawls, stockings, and handmade jewelry known as s&oslash;lje. Most
-s&oslash;lje are made of silver, a material that's steeped in Norwegian lore.
-Legend has it that the silver mines belonged to the mountain trolls & the
-wearer of silver would be protected against sickness, rotten weather, and bad
-luck.
-
-A bunad should reflect the family or regional heritage of the wearer. It serves
-as an homage to your heritage.
