@@ -295,6 +295,8 @@ actually a 20th century invention. The hero of the bunad movement was Hulda
 Garborg, a Norwegian writer, novelist, playwright, poet, folk dancer, theater
 instructor, and champion of Norwegian culture.  it still takes
 inspiration from outfits worn by Norwegians as far back as the 18th century.
+
+
 <h4 class="article-subheader">Sk&aring;l</h4>
 I enjoy a few glasses of champagne over breakfast before switching to beer.
 
@@ -318,6 +320,35 @@ As I crack into one of the IPAs, Tobias inquires,
 We continue drinking our &Oslash;, *eepas*, and champagne whilst milling about
 in Sondre's apartment and jockeying for a good spot on the balcony to soak in
 the fabulous weather.
+
+While lounging around I dig into my Dressman bag to pull out a bow tie in the
+style of the Norwegian flag.
+
+"What do you guys think of the bow tie?"
+
+If Sondre had a record player this is when the needle would jump out of the
+groove as if by its own volition. A room full of Norwegians stares at me
+
+*You're already wearing a paisley shirt and you think it's a good idea to wear*
+***That***?
+
+Eventually Sondre pipes up in the most polite way he can muster, "I wouldn't"
+
+I think for a second and it does feel a little over the top. I'm here to
+celebrate the holiday and this feels like I'm making a caricature of it.
+
+"Ok I'll wear it as a pocket square"
+
+"Yeah, that looks good," remarks Kristoffer. And generously adds, "maybe you
+can put it on when we're drunk at the bar"
+
+Good idea Kristoffer.
+
+Once everyone has stuffed their faces with the bounty of champagne breakfast
+assorted groups of friends begin spiriting away to the rooftop patio with
+satchels of beer. I help Sondre clean up before joining the rooftop crew. Once
+we summit the building we're greeted by a group of fellas circled 'round a
+rectangular flowerbed.
 
 When Sondre's hooligan friends begin to pile into his apartment, one fella in
 particular stood out. Christoffer strolls in decked out in a full *bunad*.
@@ -360,26 +391,31 @@ know that Uncle Andy looooooooooooves sangria wine!
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7xjQ0YNPtC8R9tEdFNOFcG?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-
-
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-flag.JPEG" alt="Dock">
   <figcaption class="figure-caption">Sangria Wine</figcaption>
 </figure>
 
 
-
-
 <h4 class="article-subheader">Ok Let's Go to the Bar!</h4>
-After our rooftop carousing the decision is made among the committee to transfer
+As our blood alcohol content steadily rises our interest in athletic endeavors
+decreases in equal portion. Some time in the mid-afternoon the carousing
+committee decides to transfer
 the festivities to the bar. As anyone who has tried to herd a dozen half drunk
 men, this takes at least two beers worth of time. Eventually we hop on the
 trolley right outside Sondre's apartment and head to Syng, a bar overlooking the
 mighty Akerselva with private karaoke rooms.
 
-Walking down towards the patio I see a few dozen patrons in bunader reveling in
-the beautiful May weather.
+From the street level we descend a set of outdoor stairs that wraps around the
+left side of the building overlooking a patio engorged with patrons flying high
+on ethyl alcohol and Norwegian pride. Just to the other side of a wide footpath
+the Akerselva rages with the runoff of an above average snowpack. The sun is
+shining high in the cloudless sky; a beautiful day to celebrate Norwegian
+independence.
 
+I duck into the bar and emerge with a round of suds for as many fellas as my
+hands can hold. We find an open picnic table overlooking the river and continue
+the merrymaking. Soon after we stake our claim a
 
 I also got a bow tie
 
