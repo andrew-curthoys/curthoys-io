@@ -346,21 +346,23 @@ Good idea Kristoffer.
 
 Once everyone has stuffed their faces with the bounty of champagne breakfast
 assorted groups of friends begin spiriting away to the rooftop patio with
-satchels of beer. I help Sondre clean up before joining the rooftop crew. Once
-we summit the building we're greeted by a group of fellas circled 'round a
+satchels of beer. I help Sondre tidy the abode up before joining the rooftop crew
+Once we summit the building we're greeted by a group of fellas circled 'round a
 rectangular flowerbed.
 
-When Sondre's hooligan friends begin to pile into his apartment, one fella in
-particular stood out. Christoffer strolls in decked out in a full *bunad*.
-After an hour or two the party moves to the rooftop terrace, where Sondre &
-friends introduce me to King of the Court, their simple yet deceptively fun
-ball & paddle game. The paddles are essentially oversized ping pong paddles and
-the ball is like a smaller, less dense lacrosse ball. The game pits the King
-vs a challenger, who must score two points against the King to take his crown.
-The King must only score a single point to send his lowly peon subject to the
-gallows and bring on fresh blood. It's blindingly simple, unexpectedly fun, and
-cycles through players quickly so everyone gets to play without a bunch of
-standing around.
+Our slightly sozzled compatriots are presently engaged in an athletic competition
+known by the revelers as King of the Court. KotC pits the King vs a challenger
+who must score two points against the King to take his crown. His majesty must
+only score a single point to send his lowly peon subject to the gallows and
+bring on fresh blood. I'm at a distinct disadvantage seeing as we enshrined the
+abolishment of monarchy into our Constitution
+on the 4th of March 1789. I had to look up that date (again).
+
+The "net" consists of the aforementioned flowerbed and the paddles resemble
+pickleball paddles (they probably are pickleball paddles) with a ball that's
+like a smaller, less dense lacrosse ball. It's blindingly simple, unexpectedly
+fun, and cycles through players quickly so everyone gets to play without a bunch
+of standing around.
 
 <figure class="figure">
   <div class="row">
@@ -375,17 +377,25 @@ standing around.
   <figcaption class="figure-caption">Yellow ball tracking for Sondre's belly.<figcaption>
 </figure>
 
-While on the roof Christoffer rocked a skateboard in a full bunad.
+Of all of Sondre's dozen-ish friends the only one with enough Norwegian pride to
+rock a bunad is Christoffer. But don't let the fancy duds and pleasant demeanor
+fool you, Christoffer loves to skate.
 
-"I love skating! Skate 4 lyfe!!!!"
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-skating.jpeg" alt="Skating">
+  <figcaption class="figure-caption">"I love skating! Skate 4 lyfe!!!!"</figcaption>
+</figure>
 
-*Rolls across the roof about 10 feet, jumps off the skateboard without it
-following him, returns to another part of the skateboard and almost falls on his
-ass.*
+Christoffer's best trick on the skateboard is making it look like he's never
+ridden a skateboard in his life. He's absolutely fabulous at it. If there were
+a professional league for such things Christoffer would be the Michael Jordan of
+looking like you've never ridden a skateboard. It's almost like he's never
+ridden a skateboard. He's that good. At being not good. A true pro.
 
-While on the roof, a couple of Sondre's friends from another apartment whose
-names went in one ear, sailed the high seas of beer and champagne sloshing
-around my head and marooned on my other earlobe. They come bearing gifts, most
+While on the roof, a couple of Sondre's friends from the adjacent building join
+us; friends whose names go in one ear, sail the high seas of beer and champagne
+sloshing around my head, and maroon themselves on my other earlobe. They come
+bearing gifts, most
 importantly a large pitcher of sangria. And if you're reading this you likely
 know that Uncle Andy looooooooooooves sangria wine!
 
@@ -398,8 +408,8 @@ know that Uncle Andy looooooooooooves sangria wine!
 
 
 <h4 class="article-subheader">Ok Let's Go to the Bar!</h4>
-As our blood alcohol content steadily rises our interest in athletic endeavors
-decreases in equal portion. Some time in the mid-afternoon the carousing
+As our blood alcohol content swiftly rises so too does our interest in athletics
+wanes. Some time in the mid-afternoon the carousing
 committee decides to transfer
 the festivities to the bar. As anyone who has tried to herd a dozen half drunk
 men, this takes at least two beers worth of time. Eventually we hop on the
