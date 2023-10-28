@@ -18,10 +18,11 @@ summary:
 
 "Yeah my friends have a karaoke room for the next 10 minutes!"
 
-"Oh hell yes"
+"Oh well... yeah... Let's go sing!"
 
-My new friend Louise leads me to a private karaoke parlour stuffed to the gills
-with her friends who are stuffed to the gills with booze.
+And just like that my new friend Louise leads me to a private karaoke parlour
+stuffed to the gills with her friends who are stuffed to the gills with ethyl
+alcohol.
 
 The real estate is limited but we finagle a spot on a couch at
 the back of the room. I do my best to join in on the songs, following along with
@@ -86,13 +87,14 @@ Ides of May for a massive celebration. It goes by many names, *Syttende Mai*
 Day), or when you're talking to a Yank, "Norway Day".
 
 The celebration traces its roots to the signing of the Constitution of Norway
-on the 17th of May 1814 70 km to the Northeast of Oslo in the town of Eidsvoll.
+on the 17th of May 1814 in the town of Eidsvoll 70 km to the Northeast of Oslo.
 The constitution declared Norway to be an independent kingdom after Sweden's
 defeat of Denmark (who were the rulers of Norway) during the Napoleonic Wars.
 Being ruled by Denmark is one thing but any self respecting Norwegian would
 rather give up hot dogs than willfully accept Swedish overlords.
 
-To say they went to war would be the equivalent of saying ______________.
+To say they went to war would be the equivalent of saying the Titanic went to
+sea. It happened, sure, but the paint was barely dry before it was all over.
 All in all the conflict lasted about 2 weeks and from what I can gather the
 Norwegians lost about 400 brave men. But their sacrifice was not made in vain as
 Sweden agreed to honor the Norwegian Constitution, while allowing it to remain
@@ -118,8 +120,8 @@ opressed and allowed the festivities starting in 1829.
 
 One of the hallmarks of Constitution Day is the absence of military parades or
 displays. This is a conscious decision to shun what many countries use as a
-jingoistic display of military might and dedicate the day to the people of
-Norway.
+jingoistic display of belligerent force and to instead dedicate the day to the
+people of Norway. Novel idea right?
 
 But the real winners on Constitution Day are the children. On this glorious day
 kids are permitted to eat as much ice cream, waffles, cakes, hot dogs, and any
@@ -153,8 +155,8 @@ parade you shouldn't have gone to Spain!"
 
 We're currently standing in front of the Royal Palace on the 19th of May,
 looking down upon the final stretch of the parade route. Sondre's girlfriend
-Nora is (rightfully) incensed that he did not take me to the parade while
-shoveling mountains of ice cream in my face. *2 scoops? Make it 3, I'm not
+Nora is (rightfully) incensed that he did not take me to the parade and shovel
+mountains of ice cream in my face. *2 scoops? Make it 3, I'm not
 driving*. But to be fair she did leave the country
 the week of the 17th, which should be a crime in my opinion.
 
@@ -176,7 +178,7 @@ pass by the Royal Family who display the
   <figcaption class="figure-caption">R&oslash;j&aelig;lw&aring;v&oslash;kk&aelig;r!</figcaption>
 </figure>
 
-The most remarkable thing that I notice while standig on the grounds of the
+The most remarkable thing that I notice while standing on the grounds of the
 Royal Palace is
 the complete lack of evidence that tens of thousands of Norwegians of various
 states of drunkenness occupied this exact same spot just two days ago. No litter,
@@ -203,7 +205,7 @@ Norwegians take a different tact. Instead of "suns out guns out" they abide by
 the policy of "we don't see the sun for 4 months out of the year, let's wear
 suits."
 
-Which I was wholly unawares of until two days before the party  Sondre casually
+Which I was wholly unawares of until two days before the party Sondre casually
 asks me,
 
 "Do you want me to steam your suit for the 17th of May?"
@@ -227,11 +229,11 @@ that I planned to wear to the wedding."
 "That's ok we can get you a suit, there are plenty of places to shop around
 here"
 
-So that's how my overstuffed suitcase got more stuffed and my emaciated
-wallet got more emaciated.
+So that's how my stuffed suitcase got overstuffed and my emaciated
+wallet got overemaciated.
 
 Thankfully I found a store called Dressman where I was able to acquire a
-light blue suit and paisley button down shirt for \$200. Much better than the
+light blue suit and paisley button down for \$200. Much better than the
 \$2000 suits I found in the first place I strolled past in the mall.
 
 When I picked out the paisley shirt the salesman tried to stifle a grimace,
