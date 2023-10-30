@@ -284,30 +284,42 @@ Legend has it that the silver mines belonged to the mountain trolls & the
 wearer of silver would be protected against sickness, rotten weather, and bad
 luck.
 
-A bunad should reflect the family or regional heritage of the wearer. It serves
-as an homage to your heritage.
-
-They reflect the region of the wearer and sometimes, I'm just now learning, if
-the wearer is married or unmarried. That would have been good information to
+A bunad should reflect the family or regional heritage of the wearer and
+sometimes, I'm just now learning, the marital status of the wearer. That would
+have been good information to
 know at the time. If anyone has a male bunad in a 42L with an "aggressively
 unmarried" adornment I can take that off your hands.
 
 While the modern bunad is intended to invoke traditions of the past, it's
 actually a 20th century invention. The hero of the bunad movement was Hulda
 Garborg, a Norwegian writer, novelist, playwright, poet, folk dancer, theater
-instructor, and champion of Norwegian culture.  it still takes
-inspiration from outfits worn by Norwegians as far back as the 18th century.
+instructor, and champion of Norwegian culture. In 1903 she published *Norsk
+Kl&aelig;debunad, a book that celebrated the heritage of the bunad and
+encouraged Norwegians to construct their bunader of traditional Norwegian
+materials instead of imported silk & velvet.
 
+Garborg's prominent advocacy for the bunad led to a proliferation of
+*husflidslag*, i.e. handicraft clubs, that kept the bunad tradition alive.
+Today, around 80 percent of Norwegian women own a bunad, compared to only around
+20 percent of men, which leads to the not altogether undesired effect of google
+deciding to show you an array of threateningly beautiful Norwegiann women in
+bunader.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-bunader_group.jpeg" alt="Bunader">
+  <figcaption class="figure-caption">I wonder why the Scandinavian countries
+  consistently report the highest happiness ratings in the world</figcaption>
+</figure>
 
 <h4 class="article-subheader">Sk&aring;l</h4>
 I enjoy a few glasses of champagne over breakfast before switching to beer.
 
-In preparation for the festivities I scooped up a selection of &oslash;l from
-the grocer below Sondre's apartment yesterday before all the stores closed for
-the holiday. Among the offerings are the VestKyst IPA from Kinn Bryggeri,
-Littlebro Session IPA & Czech-Style Pils from &AElig;gir Bryggeri, Fjord
+In preparation for the festivities I scooped up a selection of &oslash;l
+yesterday from the grocer below Sondre's apartment before all the stores closed
+for the holiday. Among the offerings are the VestKyst IPA from Kinn Bryggeri,
+the Littlebro Session IPA & Czech-Style Pils from &AElig;gir Bryggeri, the Fjord
 Session IPA from Tya Bryggeri, the Pale Ale & Brown Ale from N&oslash;gne
-&Oslash; plus a few Frydenlund Pales Ale just to be on the safe side.
+&Oslash;l plus a few Frydenlund Pales Ale just to be on the safe side.
 
 As I crack into one of the IPAs, Tobias inquires,
 
@@ -317,9 +329,9 @@ As I crack into one of the IPAs, Tobias inquires,
 
 "Oh no, I don't like *eepas*"
 
-"See that's where we're different, Tobias, I love *eepas*"
+"See, Tobias, that's where we're different. I love *eepas*"
 
-We continue drinking our &Oslash;, *eepas*, and champagne whilst milling about
+We continue drinking our &Oslash;l, *eepas*, and champagne whilst milling about
 in Sondre's apartment and jockeying for a good spot on the balcony to soak in
 the fabulous weather.
 
