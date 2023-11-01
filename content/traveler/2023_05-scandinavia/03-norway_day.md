@@ -66,7 +66,7 @@ champagne toast and a rousing
 rendition of "Ja, vi elsker", the Norwegian national anthem. Penned by the
 delightfully cognominated Bj&oslash;rnstjerne Bj&oslash;rnson, the song wasn't
 officially adopted as the National
-Anthem until 11 December 2019 after serving 100-some-odd years as the *de facto*
+Anthem until 11-December 2019 after serving 100-some-odd years as the *de facto*
 anthem. Translated as "Yes, we love this country", ol Bj&oslash;rnstjerne spent
 nearly 10 years spinning this intricate and complex patriotic metaphor. As a
 further testament to Bj&oslash;rnstjerne's creativity he named his first born
@@ -81,7 +81,7 @@ the ground that's available to accommodate a dozen peak efficiency cultivators
 of mass in a 1 bedroom downtown Oslo apartment.
 
 <h4 class="article-subheader">Syttende Mai</h4>
-Every year the entire nation of Norway shuts down two days after the
+Every year the entire nation of Norway shuts down in the shadow of the
 Ides of May for a massive celebration. It goes by many names, *Syttende Mai*
 (17th of May), *Nasjonaldagen* (National Day), *Grunnlosdagen* (Constitution
 Day), or when you're talking to a Yank, "Norway Day".
@@ -91,13 +91,14 @@ on the 17th of May 1814 in the town of Eidsvoll 70 km to the Northeast of Oslo.
 The constitution declared Norway to be an independent kingdom after Sweden's
 defeat of Denmark (who were the rulers of Norway) during the Napoleonic Wars.
 Being ruled by Denmark is one thing but any self respecting Norwegian would
-rather give up hot dogs than willfully accept Swedish overlords.
+rather give up hot dogs than willfully accept Swedish overlords. So they went to
+war.
 
-To say they went to war would be the equivalent of saying the Titanic went to
+But to say they went to war would be the equivalent of saying the Titanic went to
 sea. It happened, sure, but the paint was barely dry before it was all over.
 All in all the conflict lasted about 2 weeks and from what I can gather the
 Norwegians lost about 400 brave men. But their sacrifice was not made in vain as
-Sweden agreed to honor the Norwegian Constitution, while allowing it to remain
+Sweden agreed to honor the Norwegian Constitution while allowing it to remain
 independent-ish through a "personal union" with Sweden. So while Norway's
 parliament elected Charles XII of Sweden as king of Norway in November of 1814,
 The Norwegians could hold their heads high.
@@ -299,11 +300,11 @@ encouraged Norwegians to construct their bunader of traditional Norwegian
 materials instead of imported silk & velvet.
 
 Garborg's prominent advocacy for the bunad led to a proliferation of
-*husflidslag*, i.e. handicraft clubs, that kept the bunad tradition alive.
+*husflidslag*, (roughly translated as folk art & crafts clubs), that kept the
+bunad tradition alive.
 Today, around 80 percent of Norwegian women own a bunad, compared to only around
-20 percent of men, which leads to the not altogether undesired effect of google
-deciding to show you an array of threateningly beautiful Norwegiann women in
-bunader.
+20 percent of men; a situation which leads to a google search of "bunad"
+returning an array of threateningly beautiful Norwegian women.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-bunader_group.jpeg" alt="Bunader">
@@ -315,7 +316,7 @@ bunader.
 I enjoy a few glasses of champagne over breakfast before switching to beer.
 
 In preparation for the festivities I scooped up a selection of &oslash;l
-yesterday from the grocer below Sondre's apartment before all the stores closed
+yesterday from the local grocer before all the stores closed
 for the holiday. Among the offerings are the VestKyst IPA from Kinn Bryggeri,
 the Littlebro Session IPA & Czech-Style Pils from &AElig;gir Bryggeri, the Fjord
 Session IPA from Tya Bryggeri, the Pale Ale & Brown Ale from N&oslash;gne
@@ -328,6 +329,22 @@ As I crack into one of the IPAs, Tobias inquires,
 "The IPA from &AElig;gir, it's really good, you want to try it?"
 
 "Oh no, I don't like *eepas*"
+
+Imitation is the purest form of flattery they say. Nearly 100 years since the
+end of our puritanical dabble into Prohibition (December 5, 1933 is Repeal Day,
+folks) our Stateside breweries have begun to produce swill so divine our
+Continental brethren have begun to copy our style. For centuries European
+brewers have produced some of the finest ales & lagers on the planet,
+uninterrupted by killjoys who time their bowel movements to coincide with the
+presentation of the punch bowl.
+
+Our history has been interrupted with self-righteous blowhards who necessitated
+a bleaching of the punch bowl. But just like the immortal ghoul in the horror
+movie, we have come back with a vengeance. After suffering through decades of
+beer that Europeans called "sex in a canoe" (it's fucking close to water) we
+have come back with a vengeance, producing beer so big, so powerful, so full of
+flavor that our stuffy European antecedents don't know what do to with their
+tastebuds.
 
 "See, Tobias, that's where we're different. I love *eepas*"
 
