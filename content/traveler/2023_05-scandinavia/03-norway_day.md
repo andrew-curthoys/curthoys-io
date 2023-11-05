@@ -330,23 +330,19 @@ As I crack into one of the IPAs, Tobias inquires,
 
 "Oh no, I don't like *eepas*"
 
-Imitation is the purest form of flattery they say. Nearly 100 years since the
-end of our puritanical dabble into Prohibition (December 5, 1933 is Repeal Day,
-folks) our Stateside breweries have begun to produce swill so divine our
-Continental brethren have begun to copy our style. For centuries European
-brewers have produced some of the finest ales & lagers on the planet,
-uninterrupted by killjoys who time their bowel movements to coincide with the
-presentation of the punch bowl.
+"See, Tobias, that's where we're different. I love *eepas*"
 
-Our history has been interrupted with self-righteous blowhards who necessitated
-a bleaching of the punch bowl. But just like the immortal ghoul in the horror
-movie, we have come back with a vengeance. After suffering through decades of
-beer that Europeans called "sex in a canoe" (it's fucking close to water) we
+Nearly 100 years since the end of our puritanical dabble into Prohibition
+(December 5, 1933 is Repeal Day,
+folks) our Stateside breweries have begun to produce swill so divine our
+Continental brethren have begun to copy our style. Imitation is the purest form
+of flattery.
+
+So while the decades following our prohibitionary experiment produced swill that
+Europeans called "sex in a canoe" (it's fucking close to water) we
 have come back with a vengeance, producing beer so big, so powerful, so full of
 flavor that our stuffy European antecedents don't know what do to with their
-tastebuds.
-
-"See, Tobias, that's where we're different. I love *eepas*"
+tastebuds. The American spirit will not be suppressed!
 
 We continue drinking our &Oslash;l, *eepas*, and champagne whilst milling about
 in Sondre's apartment and jockeying for a good spot on the balcony to soak in
@@ -377,12 +373,12 @@ Good idea Kristoffer.
 
 Once everyone has stuffed their faces with the bounty of champagne breakfast
 assorted groups of friends begin spiriting away to the rooftop patio with
-satchels of beer. I help Sondre tidy the abode up before joining the rooftop crew
+satchels of beer. I help Sondre tidy the abode up before joining the rooftop crew.
 Once we summit the building we're greeted by a group of fellas circled 'round a
 rectangular flowerbed.
 
 Our slightly sozzled compatriots are presently engaged in an athletic competition
-known by the revelers as King of the Court. KotC pits the King vs a challenger
+known by the revelers as "King of the Court". KotC pits the King vs a challenger
 who must score two points against the King to take his crown. His majesty must
 only score a single point to send his lowly peon subject to the gallows and
 bring on fresh blood. I'm at a distinct disadvantage seeing as we enshrined the
@@ -440,7 +436,7 @@ know that Uncle Andy looooooooooooves sangria wine!
 
 <h4 class="article-subheader">Ok Let's Go to the Bar!</h4>
 As our blood alcohol content swiftly rises so too does our interest in athletics
-wanes. Some time in the mid-afternoon the carousing
+wane. Some time in the mid-afternoon the carousing
 committee decides to transfer
 the festivities to the bar. As anyone who has tried to herd a dozen half drunk
 men, this takes at least two beers worth of time. Eventually we hop on the
@@ -483,6 +479,10 @@ asks for my assistance
 
 I adjust the strap to fit around a non-collared neck and help her put it on
 
+As she thanks me a small white pouch begins to slide down from underneath her
+top lip. She guides her grubby forefinger to shove it back up beside her
+superior labial frenulum where it belongs. This pouch, known as a "snus", is as
+ubiquitous in Norway as ___________.
 
 SNUS
 The most common refrain I heard regarding snus was "it's like tobacco but it's
@@ -490,13 +490,6 @@ not bad for you!" I'm sure my good friend Pete, the Dippin' Dentist &trade; woul
 support this spurious claim.
 
 
-I'm picking on Sondre, yes. But that's what you do with your brothers. I tease
-because I love. And now that I've teased I have to praise. Sondre has turned
-into a fine young man. He's the Head of Sales at Orbit, a company that manages shared
-workspaces around
-the Oslo area (think WeWork but not a scam). Which works out great for me
-because he has a handful of meetings the Monday & Tuesday before Wednesday the
-17th, so I can utilize one of the desks to bang out a couple of days of work.
 
 At the bar Joakim gifts me his 3 presidents lapel pin
 
