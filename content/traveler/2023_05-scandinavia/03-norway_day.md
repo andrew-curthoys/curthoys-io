@@ -492,6 +492,10 @@ support this spurious claim.
 
 
 At the bar Joakim gifts me his 3 presidents lapel pin
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-presidents.jpeg" alt="Lapel">
+  <figcaption class="figure-caption">H.M. Kong Harald V, King Olav V, and King Haakon VII.</figcaption>
+</figure>
 
 I met Louise outside on the patio overlooking the Akerselva with a line
 that's so stupid it just might work,
