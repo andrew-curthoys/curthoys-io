@@ -45,7 +45,7 @@ with a champagne breakfast.
 
 Right at 10 AM a steady stream of co-conspirators begin to arrive to Sondre's
 apartment: Joakim,
-Tobaias, Bj&oslash;rn, Thomas, Rolf, Sindre (not to be confused with Sondre) and
+Tobias, Bj&oslash;rn, Thomas, Rolf, Sindre (not to be confused with Sondre) and
 of course Kristoffer and Kristoffer (not to be confused with Christoffer).
 
 Each reveler brings a separate dish in the Norway Day breakfast potluck
@@ -482,7 +482,36 @@ I adjust the strap to fit around a non-collared neck and help her put it on
 As she thanks me a small white pouch begins to slide down from underneath her
 top lip. She guides her grubby forefinger to shove it back up beside her
 superior labial frenulum where it belongs. This pouch, known as a "snus", is as
-ubiquitous in Norway as ___________.
+ubiquitous in Norway as hot dogs and genial dispositions. Snus are smokeless
+tobacco pouches originating in Sweden, where they have a special carve-out
+from their outright ban in the European Union.
+
+Earlier today before we left the apartment I asked to bum a snus from Rolf after
+I saw him load a pouch into his upper lip.
+
+"Oh no, this is the max strength, you don't want one of these"
+
+"Hmm, well let me give it a try"
+
+"No I don't think you want one, it's even too strong for Sondre"
+
+"C'mon just let me try one"
+
+"I don't think that's a good idea.... Sondre, can you tell him he shouldn't
+take one of these snus"
+
+"Oh yeah, Andrew, you don't want one of those. Here have one of these"
+
+"No, I want one of the extra strength ones, just let me try it"
+
+"You're not gonna like it"
+
+"Just give it to me"
+
+So he did. And within about 2 minutes my face felt like it was going to fly off
+my skull.
+
+I guess they were right.
 
 SNUS
 The most common refrain I heard regarding snus was "it's like tobacco but it's
@@ -491,10 +520,12 @@ support this spurious claim.
 
 
 
-At the bar Joakim gifts me his 3 presidents lapel pin
+At the bar Joakim gifts me his lapel pin with the 3 modern Norwegian kings.
+King Harald V took the throne in 1905 when 
+
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-presidents.jpeg" alt="Lapel">
-  <figcaption class="figure-caption">H.M. Kong Harald V, King Olav V, and King Haakon VII.</figcaption>
+  <figcaption class="figure-caption">King Harald V, King Olav V, and King Haakon VII.</figcaption>
 </figure>
 
 I met Louise outside on the patio overlooking the Akerselva with a line
