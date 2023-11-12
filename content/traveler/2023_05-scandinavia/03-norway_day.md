@@ -3,7 +3,7 @@ slug: traveler/2022_05-scandinavia/03-norway_day
 slug_base: traveler/2022_05-scandinavia
 day_alias: Syttende Mai
 prev_day: 02-saetre
-next_day: 04-oslo*
+next_day: 04-oslo
 date: 2023-05-17
 post_date: 2023-06-10
 category: traveler
@@ -107,7 +107,7 @@ The Norwegians could hold their heads high.
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-horse.png" alt="Horse">
   <figcaption class="figure-caption">I found a book about the conflict in written
   in Norwegian, but seeing as I don't speak Norwegian the only thing I was able to
-  glean from it was this cool photo of a dude on a horse.</figcaption>
+  glean from it was this cool drawing of a dude on a horse.</figcaption>
 </figure>
 
 The Norwegian Constitution is the second oldest working national constitution in
@@ -117,7 +117,7 @@ Norwegians, right?
 
 When King Karl Johan of Sweden ascended to the throne in 1818 he strictly
 forbade the celebrations until he realized the Norwegian spirit shall not be
-opressed and allowed the festivities starting in 1829.
+opressed and lifted the ban in 1829.
 
 One of the hallmarks of Constitution Day is the absence of military parades or
 displays. This is a conscious decision to shun what many countries use as a
@@ -513,20 +513,38 @@ my skull.
 
 I guess they were right.
 
-SNUS
-The most common refrain I heard regarding snus was "it's like tobacco but it's
+The most common refrain I hear regarding snus is "it's like tobacco but it's
 not bad for you!" I'm sure my good friend Pete, the Dippin' Dentist &trade; would
 support this spurious claim.
 
+While at the bar Joakim gifts me his lapel pin with the 3 modern Norwegian kings.
+This feels like an undue honor and I temporarily suspend my tomfoolery for the
+most earnest expression of gratitude a man can give after a dozen beers. The pin
+represents the last 118 years of the Norwegian crown - since 1905 only three
+posteriors have called the Norwegian throne home: King Haakon VII (1905-1957),
+King Olav V (1957-1991) and King Harald V (1991=present). Haakon & Olav goverend
+well into their 80s and Harald is still going strong at 86 years young.
 
-
-At the bar Joakim gifts me his lapel pin with the 3 modern Norwegian kings.
-King Harald V took the throne in 1905 when 
+Originally a Danish prince, King Haakon was popularly elected to the throne as the
+first independent Norwegian monarch since 1387. During his 51 year reign he
+ruled with a light touch, a practice that has been carried on by his successors
+and gained the favor of the Norwegian people. King Olav was known as "The People's
+King", preferring to drive his own car, ride on public transit, and generally
+gad about with no bodyguards. In a 2005 poll Olav was voted Norwegian of the
+Century. Finally, King Harald is best ell known for his sailing exploits - he
+represented Norway at the 1964, 1968, & 1972 Olympics and is the presiding
+President of Honour of World Sailing - and the controversy surrounding his
+bride. When Harald declred his intentions to marry Sonja Haraldsen it was
+downright scanadalous - Sonja was a lowly commoner! When Harald told his old man
+that if he couldn't marry Sonja he wouldn't marry anyone Olav finally relented
+and blessed the union. We love Queen Sonja.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-presidents.jpeg" alt="Lapel">
-  <figcaption class="figure-caption">King Harald V, King Olav V, and King Haakon VII.</figcaption>
+  <figcaption class="figure-caption">Haakon, Olav, and Harald could be an indie folk band</figcaption>
 </figure>
+
+But I digress....
 
 I met Louise outside on the patio overlooking the Akerselva with a line
 that's so stupid it just might work,

@@ -113,6 +113,13 @@
     font-family: "Playfair Display", Georgia, "Times New Roman", serif;
     font-weight: bold;
 }
+.skewed {
+    display: inline-block;
+    -webkit-transform: skewx(20deg);
+         -o-transform: skewx(20deg);
+            transform: skewx(20deg);
+}
+
 /* Style all font awesome icons */
 .fa {
     padding: 10px;
