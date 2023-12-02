@@ -26,11 +26,14 @@ This prodigious painting isn't even his most massive. *The Reserchers*, a
 painting of children digging and exploring in the sand, measures an
 astounding 16' x 36'. It's a surreal experience to stand beside these
 remarkable works of art, if not for the artistry of it all but the logistics of
-creating these monstrosities, let alone transporting an hanging them.
+creating these monstrosities, let alone transporting and hanging them.
 
 Speaking of...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aLdZmqvYuD8?si=rGM0rkDmGLcLmrVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aLdZmqvYuD8?si=rGM0rkDmGLcLmrVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h4 class="article-subheader">Oslo as Culture</h4>
+The Munchmuseet (Edvard Munch Museum)
 
 
 15' x 26
@@ -39,7 +42,9 @@ Speaking of...
 
 Oslo as Culture
 * Munch
-* 
+* Opera house
+* Nationaltheateret
+
 Oslo as Gastronomy
 * Himkok
 * Izakya
@@ -54,3 +59,4 @@ Oslo as a great place to live
 * Public transit
 * Not many cars
 * Almost all cars are electric
+* Soccer match

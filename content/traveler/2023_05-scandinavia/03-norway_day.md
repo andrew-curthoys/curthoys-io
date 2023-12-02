@@ -3,7 +3,7 @@ slug: traveler/2022_05-scandinavia/03-norway_day
 slug_base: traveler/2022_05-scandinavia
 day_alias: Syttende Mai
 prev_day: 02-saetre
-next_day: 04-oslo
+next_day: 04-oslo*
 date: 2023-05-17
 post_date: 2023-06-10
 category: traveler
@@ -12,6 +12,8 @@ photo: 17-paddle3-tall.JPEG
 activity: 2023 Scandinavian Sk&oslash;yestreker
 short_sum: Another beer? Why not
 summary: 
+
+{% import 'macros.html' as m %}
 
 <h4 class="article-subheader">Let's Go Sing!</h4>
 "Sing?"
@@ -43,7 +45,7 @@ Velkommen til Syttende Mai.
 The day started the way nearly every day starts in Norway on the 17th of May,
 with a champagne breakfast.
 
-Right at 10 AM a steady stream of co-conspirators begin to arrive to Sondre's
+Right at 10 AM a steady stream of co-conspirators begin to arrive at Sondre's
 apartment: Joakim,
 Tobias, Bj&oslash;rn, Thomas, Rolf, Sindre (not to be confused with Sondre) and
 of course Kristoffer and Kristoffer (not to be confused with Christoffer).
@@ -53,7 +55,7 @@ tradition. By the end of the
 procession of dishes the table is populated with a hillock of rolls,
 scrambled eggs, smoked salmon, salted cured meats, myriad cheeses, ham
 rolls, salmon rolls, mango salsa, avocado, bell peppers, cucumbers, brownies,
-and for some reason, chicken wings. I've eaten hundreds, maybe thousands, of
+and for some reason, chicken wings. I've eaten hundreds of
 wings in my day, but this is the first time I've eaten them for breakfast.
 
 <figure class="figure">
@@ -77,27 +79,27 @@ Norway's first Nobel Laureate so I reckon he's got the last laugh.
 
 After the toast everyone fills their plate and finds whatever couch, chair,
 bench, ledge, armrest, or other ass-cheek sized horizontal surface 2-3 feet off
-the ground that's available to accommodate a dozen peak efficiency cultivators
-of mass in a 1 bedroom downtown Oslo apartment.
+the ground that's available to accommodate a dozen cultivators of mass
+operating at peak efficiency in a 1 bedroom downtown Oslo apartment.
 
 <h4 class="article-subheader">Syttende Mai</h4>
-Every year the entire nation of Norway shuts down in the shadow of the
-Ides of May for a massive celebration. It goes by many names, *Syttende Mai*
+Every year, in the shadow of the Ides of May, the entire nation of Norway shuts
+down for a massive celebration. It goes by many names, *Syttende Mai*
 (17th of May), *Nasjonaldagen* (National Day), *Grunnlosdagen* (Constitution
 Day), or when you're talking to a Yank, "Norway Day".
 
 The celebration traces its roots to the signing of the Constitution of Norway
 on the 17th of May 1814 in the town of Eidsvoll 70 km to the Northeast of Oslo.
 The constitution declared Norway to be an independent kingdom after Sweden's
-defeat of Denmark (who were the rulers of Norway) during the Napoleonic Wars.
+defeat of Denmark during the Napoleonic Wars (the Danes were then the rulers of Norway).
 Being ruled by Denmark is one thing but any self respecting Norwegian would
 rather give up hot dogs than willfully accept Swedish overlords. So they went to
 war.
 
-But to say they went to war would be the equivalent of saying the Titanic went to
+But to say they went to war would be like saying the Titanic went to
 sea. It happened, sure, but the paint was barely dry before it was all over.
-All in all the conflict lasted about 2 weeks and from what I can gather the
-Norwegians lost about 400 brave men. But their sacrifice was not made in vain as
+All-in-all the conflict lasted about 2 weeks and from what I can gather the
+Norwegians lost around 400 brave men. But their sacrifice was not made in vain as
 Sweden agreed to honor the Norwegian Constitution while allowing it to remain
 independent-ish through a "personal union" with Sweden. So while Norway's
 parliament elected Charles XII of Sweden as king of Norway in November of 1814,
@@ -122,7 +124,7 @@ opressed and lifted the ban in 1829.
 One of the hallmarks of Constitution Day is the absence of military parades or
 displays. This is a conscious decision to shun what many countries use as a
 jingoistic display of belligerent force and to instead dedicate the day to the
-people of Norway. Novel idea right?
+people of Norway. Novel idea huh?
 
 But the real winners on Constitution Day are the children. On this glorious day
 kids are permitted to eat as much ice cream, waffles, cakes, hot dogs, and any
@@ -156,16 +158,16 @@ parade you shouldn't have gone to Spain!"
 
 We're currently standing in front of the Royal Palace on the 19th of May,
 looking down upon the final stretch of the parade route. Sondre's girlfriend
-Nora is (rightfully) incensed that he did not take me to the parade and shovel
-mountains of ice cream in my face. *2 scoops? Make it 3, I'm not
+Nora is (rightfully) incensed that he did not take me to the parade nor did he
+shovel mountains of ice cream in my face. *2 scoops? Make it 3, I'm not
 driving*. But to be fair she did leave the country
 the week of the 17th, which should be a crime in my opinion.
 
 <div class="tenor-gif-embed mb-3" data-postid="24460693" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/jail-no-excuse-gif-24460693">Jail No GIF</a>from <a href="https://tenor.com/search/jail-gifs">Jail GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 The parade is one of the most beloved traditions of Constitution Day. All over
-the country, children assemble with their elementary schools to participate in
-the parade. Each school carries their official school banner and is typically
+the country, children assemble to march with their elementary school comrades.
+Each school carries their official school banner and is typically
 accompanied by the school's marching band. The Oslo parade attracts over
 100,000 people to watch 100+ schools parade through town, waving Norwegian
 flags. The final stop of the parade is the Royal Palace, where the children
@@ -183,10 +185,10 @@ The most remarkable thing that I notice while standing on the grounds of the
 Royal Palace is
 the complete lack of evidence that tens of thousands of Norwegians of various
 states of drunkenness occupied this exact same spot just two days ago. No litter,
-no vandalism, no evidence of hooliganry. The only evidence I saw in the days
+no vandalism, no evidence of hooliganry. The only indication of revelry I saw in the days
 following the 17th was a newspaper vending box wearing three empty beer bottles
 as a crown. That's it. The Norwegians know how to party but they also know how
-to leave it like ya found it.
+to leave it like they found it.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-parade_route.jpeg" alt="Parade Route">
@@ -197,7 +199,8 @@ to leave it like ya found it.
 
 <h4 class="article-subheader">Suit Up</h4>
 Perhaps the most striking difference between the Norwegian & US American
-Independence Day celebrations is the sartorial stylings of the merrymakers.
+Independence Day celebrations, besides the varying inclination to litter, is
+the sartorial stylings of the merrymakers.
 
 In the US, a common 4th of July outfit is jean shorts and a cutoff
 American flag t-shirt. I would know from experience.
@@ -206,8 +209,8 @@ Norwegians take a different tact. Instead of "suns out guns out" they abide by
 the policy of "we don't see the sun for 4 months out of the year, let's wear
 suits."
 
-Which I was wholly unawares of until two days before the party Sondre casually
-asks me,
+Which I was wholly unawares of until two days before the party when Sondre
+casually asks me,
 
 "Do you want me to steam your suit for the 17th of May?"
 
@@ -285,9 +288,9 @@ Legend has it that the silver mines belonged to the mountain trolls & the
 wearer of silver would be protected against sickness, rotten weather, and bad
 luck.
 
-A bunad should reflect the family or regional heritage of the wearer and
-sometimes, I'm just now learning, the marital status of the wearer. That would
-have been good information to
+According to tradition, a bunad should reflect the family or regional heritage
+of the wearer and sometimes, I'm just now learning, the marital status of the
+wearer. That would have been good information to
 know at the time. If anyone has a male bunad in a 42L with an "aggressively
 unmarried" adornment I can take that off your hands.
 
@@ -295,7 +298,7 @@ While the modern bunad is intended to invoke traditions of the past, it's
 actually a 20th century invention. The hero of the bunad movement was Hulda
 Garborg, a Norwegian writer, novelist, playwright, poet, folk dancer, theater
 instructor, and champion of Norwegian culture. In 1903 she published *Norsk
-Kl&aelig;debunad, a book that celebrated the heritage of the bunad and
+Kl&aelig;debunad*, a book that celebrated the heritage of the bunad and
 encouraged Norwegians to construct their bunader of traditional Norwegian
 materials instead of imported silk & velvet.
 
@@ -309,7 +312,7 @@ returning an array of threateningly beautiful Norwegian women.
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/17-bunader_group.jpeg" alt="Bunader">
   <figcaption class="figure-caption">I wonder why the Scandinavian countries
-  consistently report the highest happiness ratings in the world</figcaption>
+  consistently report the highest happiness ratings in the world.</figcaption>
 </figure>
 
 <h4 class="article-subheader">Sk&aring;l</h4>
@@ -354,7 +357,7 @@ style of the Norwegian flag.
 "What do you guys think of the bow tie?"
 
 If Sondre had a record player this is when the needle would jump out of the
-groove as if by its own volition. A room full of Norwegians stares at me
+groove as if by its own volition. A room full of Norwegians stare at me
 
 *You're already wearing a paisley shirt and you think it's a good idea to wear*
 ***That***?
@@ -445,42 +448,32 @@ mighty Akerselva with private karaoke rooms.
 
 From the street level we descend a set of outdoor stairs that wraps around the
 left side of the building overlooking a patio engorged with patrons flying high
-on ethyl alcohol and Norwegian pride. Just to the other side of a wide footpath
+on booze and Norwegian pride. Just to the other side of a wide footpath
 the Akerselva rages with the runoff of an above average snowpack. The sun is
 shining high in the cloudless sky; a beautiful day to celebrate Norwegian
 independence.
 
 I duck into the bar and emerge with a round of suds for as many fellas as my
 hands can hold. We find an open picnic table overlooking the river and continue
-the merrymaking. Soon after we stake our claim a
+the merrymaking. Soon after we stake our claim a young woman who seemingly
+decided that the 17 in the 17th of May was her drink tally for the day plops
+down across from me.
 
-I also got a bow tie
+"What's that"
 
-Don't wear the bow tie
+"Oh it's a bow tie"
 
-I'll bring it just in case
-
-So I put it in my pocket like a pocket square
-
-A young woman who seemingly decided that the 17 in the 17th of May was the
-number of drinks she needed to drink that day 
-
-What's that
-
-Oh it's a bow tie
-
-Can I see?
+"Can I see?"
 
 And before I could say anything she reaches across the table & swipes it from
-my pocket
+my pocket.
 
 I watch her fumble around with the strap & clasp before she capitulates and
-asks for my assistance
-
-I adjust the strap to fit around a non-collared neck and help her put it on
+asks for my assistance. I adjust the strap to fit around a non-collared neck and
+help her put it on.
 
 As she thanks me a small white pouch begins to slide down from underneath her
-top lip. She guides her grubby forefinger to shove it back up beside her
+top lip. She guides a grubby forefinger to shove it back up beside her
 superior labial frenulum where it belongs. This pouch, known as a "snus", is as
 ubiquitous in Norway as hot dogs and genial dispositions. Snus are smokeless
 tobacco pouches originating in Sweden, where they have a special carve-out
@@ -511,11 +504,16 @@ take one of these snus"
 So he did. And within about 2 minutes my face felt like it was going to fly off
 my skull.
 
-I guess they were right.
+It was marvelous.
+
+I had to quickly remove the pouch lest the floor of the spinning room decide to
+make my acquaintance.
 
 The most common refrain I hear regarding snus is "it's like tobacco but it's
 not bad for you!" I'm sure my good friend Pete, the Dippin' Dentist &trade; would
 support this spurious claim.
+
+{{ m.divider() }}
 
 While at the bar Joakim gifts me his lapel pin with the 3 modern Norwegian kings.
 This feels like an undue honor and I temporarily suspend my tomfoolery for the
@@ -528,10 +526,14 @@ well into their 80s and Harald is still going strong at 86 years young.
 Originally a Danish prince, King Haakon was popularly elected to the throne as the
 first independent Norwegian monarch since 1387. During his 51 year reign he
 ruled with a light touch, a practice that has been carried on by his successors
-and gained the favor of the Norwegian people. King Olav was known as "The People's
+and gained the favor of the Norwegian people.
+
+King Olav was known as "The People's
 King", preferring to drive his own car, ride on public transit, and generally
 gad about with no bodyguards. In a 2005 poll Olav was voted Norwegian of the
-Century. Finally, King Harald is best ell known for his sailing exploits - he
+Century.
+
+Finally, King Harald is best known both for his sailing exploits - he
 represented Norway at the 1964, 1968, & 1972 Olympics and is the presiding
 President of Honour of World Sailing - and the controversy surrounding his
 bride. When Harald declred his intentions to marry Sonja Haraldsen it was
@@ -546,27 +548,33 @@ and blessed the union. We love Queen Sonja.
 
 But I digress....
 
-I met Louise outside on the patio overlooking the Akerselva with a line
-that's so stupid it just might work,
+As I'm wandering around the patio overlooking the Akerselva I meet a young lady
+named Martine with a Cassanovian communiqu&eacute; so stupid that it just might work,
 
 "Hey I'm American, what's your name?"
 
-Well, to be accurate, this Cassanovian communiqu&eacute; was delivered to
-Louise's friend Martine.
+About a minute into my international symposium with Martine, Louise sidles up to me,
 
-So while I'm chatting with Martine, Louise sidles up to let me know I'm
-barking up the wrong tree.
+"Hey, you're shouting at the wrong bush"
 
-"Just to let you know, that's Martine's girlfriend right over there"
+"Uhhh, what?"
 
-I glance across the bar to a stunning Norwegian beauty in an elaborate
-form-fitting bunad. Yeah I can't blame Martine there, a significant upgrade
+"What's the saying? You're shouting at the tree?"
+
+"Oh, barking up the wrong tree?"
+
+"Yes! That's it! You're barking up the wrong tree." Louise points to a
+stunning Norwegian beauty in an elaborate form-fitting bunad across the patio,
+"that's Martine's girlfriend right over there"
+
+Yeah I can't blame Martine there, a significant upgrade
 from the mountain troll in front of you.
 
-Typically in a conversation the other party replies to the first but I just sat
-and stared mouth agape. Louise breaks the silence,
+Typically in a conversation the other party replies to the first but I just sit
+and stare at Martine's girlfriend, mouth agape.
+
+Louise finally breaks the silence,
 
 "Hey, let's go sing!"
 
 So we sang.
-
