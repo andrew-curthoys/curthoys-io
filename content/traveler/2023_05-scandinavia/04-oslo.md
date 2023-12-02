@@ -33,11 +33,8 @@ Speaking of...
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/aLdZmqvYuD8?si=rGM0rkDmGLcLmrVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h4 class="article-subheader">Oslo as Culture</h4>
-The Munchmuseet (Edvard Munch Museum)
-
-
-15' x 26
-16 x 36'
+The Munchmuseet (Edvard Munch Museum) is a controversial addition to the Oslo
+skyline.
 
 
 Oslo as Culture
@@ -45,16 +42,25 @@ Oslo as Culture
 * Opera house
 * Nationaltheateret
 
-Oslo as Gastronomy
+<h4 class="article-subheader">Oslo as Gastronomy</h4>
 * Himkok
 * Izakya
 * Bar Lorry
 * Coffee - donut place & Tim Wendelboe
 	* Talormade - Talor Browne https://talormade.no/about
-Oslo as Nature
+
+<h4 class="article-subheader">Oslo as Nature</h4>
+Tucked away at at the head of the Oslofjord, the Norwegian capital sits 
 * Akerselva run
 * Fjord
 * Sauna
+
+<h4 class="article-subheader">Oslo as Lifestyle</h4>
+After walking around Oslo for a couple days I take in a breath of fresh air and
+it hits me how polluted American cities are. The streets of Oslo are mostly
+devoid of automobiles, owing to it's walkability and fabulous public transit
+system, and based on an informal survey it feels like 90% of the cars on the
+road are electric.
 Oslo as a great place to live
 * Public transit
 * Not many cars
