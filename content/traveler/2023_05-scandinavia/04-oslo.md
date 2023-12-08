@@ -44,16 +44,32 @@ Oslo as Culture
 
 <h4 class="article-subheader">Oslo as Gastronomy</h4>
 * Himkok
+* Nora's breakfast
 * Izakya
 * Bar Lorry
 * Coffee - donut place & Tim Wendelboe
 	* Talormade - Talor Browne https://talormade.no/about
 
 <h4 class="article-subheader">Oslo as Nature</h4>
-Tucked away at at the head of the Oslofjord, the Norwegian capital sits 
+Tucked away at at the head of the Oslofjord, it feels strange to call the
+capital of a wealthy European nation *sleepy*,
+
+
+While not a *technically* a fjord in the geologic sense, the Oslofjord falls
+under the loosely defined Norwegian . In Norway a fjord is a vibe.
+
+And the vibe in Oslo is *casually modern*
+
+The next morning I strap on my running boots and hit the Akerselva trail.
+Although I don't feel inclined to at the present moment, it wouldn't be
+inconceivable to run the entire length in one go as the entire extent of the
+waterway is 5 miles.  The
+mighty Akerselva is the main river running through Oslo
 * Akerselva run
 * Fjord
 * Sauna
+* Island ferry
+
 
 <h4 class="article-subheader">Oslo as Lifestyle</h4>
 After walking around Oslo for a couple days I take in a breath of fresh air and
