@@ -56,7 +56,76 @@ capital of a wealthy European nation *sleepy*,
 
 
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
-under the loosely defined Norwegian . In Norway a fjord is a vibe.
+under the loosely defined Norwegian concept of a fjord. In Norway a fjord is a
+vibe. Whatever you decide to call it, the waterway puts Oslo into the highest
+tier of my city rankings, *Cities With Harbors*. I just love myself a great
+harbor.
+
+After recovering from the debauchery of the 17th I decide to get a survey of
+the main confluence flowing through Oslo to the fjord. The Akerselva (Aker River)
+starts at Maridalsvannet (Lake Maridal) about 5 miles north of the city center
+and the main source of drinking water for Oslo.
+
+Sondre's apartment sits approximately halfway from source to mouth. An athlete
+with sufficient gumption could run the entire length of the Akerseva in an
+afternoon. I decide to break it up into two separate days. Over the course of
+those two days I run about 80% of the length of the river and its 500??? ft
+elevation gain, which I think is a relatively admirable achievement considering
+I'm on holiday.
+
+#### Pictures of the Akerselva
+
+One interesting(th) feature of the fjord is the scattered islands within a
+short ferry ride of downtown Oslo. On a particularly delightful Norwegian May
+day I decide to take one such ferry to the island of (??). The ferry
+runs every 30 minutes(??) in a loop of (??) islands.
+
+I hop on the boat with my sights set on (??) Island. According to my research
+there's a nice little cafe on the island that seems the perfect setting to soak
+up the rays from the afternoon sun hanging high in the sky. A quick 20 minute
+ride later and I'm livin' on island time. I wander the trails for about half an
+hour, taking in the sights and breathing in the nature before rambling over to
+(??) Cafe.
+
+I order myself a snack(??) and beer(??).
+
+
+But the fjord does not only lend itself to skirting *on top* of the water, much
+fun can also be had *in* the water. Lining the fjord opposite the Opera House &
+Munch museum sit a handful of saunas affording the opportunity to partake in the
+time honored Scandinavian tradition of hot sauna/cold plunge.
+
+Sondre suggests (??) so I meet him and Nora, along with Will and Anna, at the
+far end of sauna row. Unlike the rest of the saunas we are time constrained(??)
+if we want to take part in the *ritual*.
+
+Once checked in we all shuffle into a sauna room with three rows of tiered
+benches. Everyone takes a seat and the most aggressively beautiful woman I've
+ever seen in my life floats into the sauna with a bundle of accessories. She
+explains, in a slightly aggressive(th) tone, that the *ritual* will last
+approximately 10 minutes and under no circumstances will there be any talking.
+Just sit back and let the vibes wash over you.
+
+After the announcements she turns up the hypnotic music and begins the ritual.
+She starts by dipping a birch bough into a basin of water and spritzes everyone
+like a priest flinging holy water. She then turns up the heat and begins
+spinning a towel 'round her head like a helicopter, distributing the heat with
+a mesmerizing pattern of steam and smoke. We then sit in meditative silence for
+another 5 minutes or so before she concludes the ritual by placing ice-soaked
+towels over everyone's shoulders. Dreadnought
+
+After the ritual we head to the main sauna house, a 30-40 foot tall structure
+with rows upon rows of tiered wooden benches. We find a spot about 3/4 of the
+way up the room and let the hot air work its magic. After the recommended 20
+minutes of sweating we emerge from the sauna with our sights set on the fjord.
+
+With a quick, slightly worried glance between my compatriots and a 1-2-3 count,
+we all take the plunge into the frigid, Scandinavian water. The initial jolt
+from the cold water is exhilarating. We tread water for a few seconds before
+scampering back to the ladder and the warmth of our towels. I have to admit the
+sauna/cold plunge combo was one of the most refreshing activities I've ever
+experienced.
+
 
 And the vibe in Oslo is *casually modern*
 

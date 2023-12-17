@@ -15,8 +15,8 @@ summary:
 I arise in a much cheerier mood than expected given my Busch Light nightcap
 and head down to the beach. I'd say it's high time to rip some barrels. I
 sample the market and a surf lesson seems to be running
-$40-60 depending on your vendor. I start walking down to the fella who quoted me
-$40 when a guy who probably can spot a gringo in need of a surf lesson
+\$40-60 depending on your vendor. I start walking down to the fella who quoted me
+\$40 when a guy who probably can spot a gringo in need of a surf lesson
 from a nautical mile away offers me his services.
 
 "&#191;Cu&aacute;nto?"
