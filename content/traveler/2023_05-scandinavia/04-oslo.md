@@ -14,13 +14,14 @@ short_sum: Oslo
 summary: 
 
 <h4 class="article-subheader">The Sun</h4>
-As I walk through the doors of the Munchmuseet
-<span class="skewed">Monumental</span> exhibit I see it. I was expecting to be
-wowed but I find myself completely bowled over with astonishment. Edvard
-Munch's marvelous *The Sun* spews rays of bright, beautiful sunshine
-across its sprawling canvas. Stretching *26 feet across and 15 feet high*, the
+As I walk through the doors of the Munchmuseet's 6th floor
+<span class="skewed">Monumental</span> exhibit I'm momentarily blinded by
+brilliance. Stretching a staggering *26 feet across and 15 feet high*, the
+canvas of Edvard Munch's marvelous *The Sun* spews rays of bright, beautiful sunshine
+across its sprawling canvas.  the
 painting was pithily described by Munch, "I saw the sun rise up above the
-rocks - I painted the sun."
+rocks - I painted the sun." I was expecting to be
+wowed but I find myself completely bowled over with astonishment. 
 
 This prodigious painting isn't even his most massive. *The Reserchers*, a
 painting of children digging and exploring in the sand, measures an
@@ -33,8 +34,30 @@ Speaking of...
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/aLdZmqvYuD8?si=rGM0rkDmGLcLmrVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h4 class="article-subheader">Oslo as Culture</h4>
-The Munchmuseet (Edvard Munch Museum) is a controversial addition to the Oslo
-skyline.
+Commanding an inviting or ominous presence on the Oslo waterfront depending on
+who you ask, the Munchmuseet (Edvard Munch Museum) is easily the most
+controversial edifice gracing the Oslo skyline. The angular, 13-story "vertial
+museum" seems to bow towards the Oslofjord, as an old man with his
+hands clasped behind his back asking the fjord what he learned in school today.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_building2.jpg" alt="Munch museum">
+  <figcaption class="figure-caption">How do you do, fellow kids?</figcaption>
+</figure>
+
+The (few) proponents of the structure point to its distinctive architecture,
+sustainability bona-fides, and respectful, bow-like posture towards the Oslo
+city center, Opera House, & Oslofjord. Opponents claim it's harsh, orthogonal
+lines mar stick out like a . Others still point to the fact that the museum now blocks the
+view of the fjord to some of the lower economic neighborhoods in the shadow
+of the museum. On our first trip down to the city center Sondre asks me my
+thoughts on the building & my first instinct is to say it looks like a casino.
+Not the highest praise.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_building1.jpg" alt="Munch museum">
+  <figcaption class="figure-caption">Tell me I'm wrong.</figcaption>
+</figure>
 
 
 Oslo as Culture
@@ -97,16 +120,16 @@ time honored Scandinavian tradition of hot sauna/cold plunge.
 
 Sondre suggests (??) so I meet him and Nora, along with Will and Anna, at the
 far end of sauna row. Unlike the rest of the saunas we are time constrained(??)
-if we want to take part in the *ritual*.
+if we want to take part in *the ritual*.
 
 Once checked in we all shuffle into a sauna room with three rows of tiered
 benches. Everyone takes a seat and the most aggressively beautiful woman I've
 ever seen in my life floats into the sauna with a bundle of accessories. She
-explains, in a slightly aggressive(th) tone, that the *ritual* will last
+explains, in a slightly aggressive(th) tone, that *the ritual* will last
 approximately 10 minutes and under no circumstances will there be any talking.
 Just sit back and let the vibes wash over you.
 
-After the announcements she turns up the hypnotic music and begins the ritual.
+After the announcements she turns up the hypnotic music and thus begins the ritual.
 She starts by dipping a birch bough into a basin of water and spritzes everyone
 like a priest flinging holy water. She then turns up the heat and begins
 spinning a towel 'round her head like a helicopter, distributing the heat with
@@ -144,8 +167,26 @@ mighty Akerselva is the main river running through Oslo
 After walking around Oslo for a couple days I take in a breath of fresh air and
 it hits me how polluted American cities are. The streets of Oslo are mostly
 devoid of automobiles, owing to it's walkability and fabulous public transit
-system, and based on an informal survey it feels like 90% of the cars on the
-road are electric.
+system. Based on a *vibes only* informal personal survey it feels like 90% of
+the cars on the road are electric.
+
+For a European capital I'm amazed at how intimate Oslo feels. With a
+metropolitan population of 1.5 million, Oslo would slot 42nd in the US metro
+area population rankings, between Oklahoma City and Milwaukee. Which seems
+preposterous to me. While I've never really considered the population of the Oslo
+Metropolitan Area, I still can't believe that it's comparable to *Oklahoma City*.
+
+What Oklahoma City lacks in transit and density Oslo boasts in droves. At any
+point you're no more than a block or two from a subway, tramway, or bus route
+that can efficiently ferry you about the city. Due to its
+relatively small footprint (from a quick glance at a map it seems at least
+75% of the city would fit inside a 5 mile radius of the city center) it feels
+like everywhere in Oslo is *20 minutes away*.
+
+
+
+3-0 win for V&aring;larenga against Hamarkameratene
+
 Oslo as a great place to live
 * Public transit
 * Not many cars
