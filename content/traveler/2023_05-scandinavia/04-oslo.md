@@ -50,19 +50,18 @@ sustainability bona-fides, and respectful, bow-like posture towards the Oslo
 city center, Opera House, & Oslofjord. Opponents claim it's harsh, orthogonal
 lines mar stick out like a . Others still point to the fact that the museum now blocks the
 view of the fjord to some of the lower economic neighborhoods in the shadow
-of the museum. On our first trip down to the city center Sondre asks me my
-thoughts on the building & my first instinct is to say it looks like a casino.
-Not the highest praise.
+of the museum.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_building1.jpg" alt="Munch museum">
-  <figcaption class="figure-caption">Tell me I'm wrong.</figcaption>
+  <figcaption class="figure-caption">You be the judge.</figcaption>
 </figure>
 
 
 Oslo as Culture
 * Munch
 * Opera house
+* Library
 * Nationaltheateret
 
 <h4 class="article-subheader">Oslo as Gastronomy</h4>
@@ -70,8 +69,61 @@ Oslo as Culture
 * Nora's breakfast
 * Izakya
 * Bar Lorry
+* Crow Bar with Andy Mac
+* Mathallen
 * Coffee - donut place & Tim Wendelboe
 	* Talormade - Talor Browne https://talormade.no/about
+
+<p class="article-sub-subheader">"Your accent, where's it from?"</p>
+
+"I'm Australian, originally from Melbourne"
+
+"No way! I love Australia, I have a cousin in Perth!"
+
+And that's how I met Talor Browne, the owner of
+<a href="https://talormade.no/" target="_blank" rel="noopener noreferrer">Talormade</a>,
+a neon obeliscolychny attracting Oslofolk far and wide with its irresistible
+good vibes, outstanding coffee, and mouthwatering doughnuts. Asked
+how the heck she ended up 10,000 miles from home on the other side of the world,
+she briefly regales her quest to find the perfect cup of coffee.
+
+Originally departing the land of Oz for a Parisian cafe in the early 2010s,
+Talor happened to meet Tim Wendelboe, a goliath in the world of specialty coffee.
+This chance encounter led to Talor working her way up to head roaster in Timmy W's
+outfit. After slingin' beans with the 'boe she got a hankerin' to set off on
+her own. After a few years of hosting wildly popular doughnut pop-ups (oh yeah, 
+she's a trained pastry chef, nbd) and running her own roastery, Talor opened her
+first brick-and-mortar location of Talormade in February 2020.
+
+And that's exactly where I'm standing right now, eager to slam my first proper
+flat white since 2019, "well seeing as you hail from down under I'm
+gonna have to order a flat white"
+
+"Great idea!"
+
+As I take a seat on a plush purple couch Talor calls out over the din of the
+espresso machine, "hey, have you ever had a cappuccino al freddo?"
+
+"I have no idea what that is"
+
+"Well it just feels like a cappuccino al freddo day & I'm going to make myself
+one, would you like to try one?"
+
+"Damn right I would!"
+
+Talor fills me in on the cap al fred - originating in the Greek islands, this
+cold coffee drink involves dolloping cold, extremely frothy milk over a couple
+shots of iced espresso and topping it with a dash of cocoa powder. I don't
+know where in that process Talor imbued witchcraft because I pick up the glass
+and can't believe how light it is. *Is this glass filled with air??? What is
+happening???* I take a sip and my brain further spirals into a meltdown of
+incomprehension, this drink is *impossibly* smooth.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-freddo.jpeg" alt="Cap al fred">
+  <figcaption class="figure-caption">That's some caffeine magic right there</figcaption>
+</figure>
+
 
 <h4 class="article-subheader">Oslo as Nature</h4>
 Tucked away at at the head of the Oslofjord, it feels strange to call the
@@ -83,6 +135,8 @@ under the loosely defined Norwegian concept of a fjord. In Norway a fjord is a
 vibe. Whatever you decide to call it, the waterway puts Oslo into the highest
 tier of my city rankings, *Cities With Harbors*. I just love myself a great
 harbor.
+
+<p class="article-sub-subheader">The Akerselva</p>
 
 After recovering from the debauchery of the 17th I decide to get a survey of
 the main confluence flowing through Oslo to the fjord. The Akerselva (Aker River)
@@ -118,22 +172,35 @@ fun can also be had *in* the water. Lining the fjord opposite the Opera House &
 Munch museum sit a handful of saunas affording the opportunity to partake in the
 time honored Scandinavian tradition of hot sauna/cold plunge.
 
-Sondre suggests (??) so I meet him and Nora, along with Will and Anna, at the
-far end of sauna row. Unlike the rest of the saunas we are time constrained(??)
-if we want to take part in *the ritual*.
+Sondre suggests SALT, a self-proclaimed "cultural arena" with six saunas, six
+music stages, and indoor & outdoor bars. The *cultural arena* is right on the
+fjord opposite the Opera House & Munch Museum. I meet him and Nora,
+along with Will and Anna, for a round of Aperol Spritzes before our schvitzes.
+We mustn't dally too long, however, since unlike the rest of the saunas we must
+be punctual if we want to take part in *the ritual*.
 
 Once checked in we all shuffle into a sauna room with three rows of tiered
 benches. Everyone takes a seat and the most aggressively beautiful woman I've
 ever seen in my life floats into the sauna with a bundle of accessories. She
-explains, in a slightly aggressive(th) tone, that *the ritual* will last
+explains, in a slightly threatening tone, that *the ritual* will last
 approximately 10 minutes and under no circumstances will there be any talking.
 Just sit back and let the vibes wash over you.
 
-After the announcements she turns up the hypnotic music and thus begins the ritual.
-She starts by dipping a birch bough into a basin of water and spritzes everyone
-like a priest flinging holy water. She then turns up the heat and begins
+After the announcements she turns up the hypnotic music and thus begins, what I
+now know is called, the *aufguss*. Our aufgussmeister (I just learned that
+word) begins by passing around a container of ice that my fellow aufgussters and
+I r
+
+From there she cranks up the heat before theatrically
 spinning a towel 'round her head like a helicopter, distributing the heat with
-a mesmerizing pattern of steam and smoke. We then sit in meditative silence for
+a mesmerizing pattern of steam and smoke. As the steam circulates through the
+sauna, our sauna shaman pours a wooden ladle-ful of water & essential oils onto the
+sauna coals, releasing a billow of lung-invigorating steam into the air. She
+continues to fan the vapors, each revolution of her towel emitting a distinctive
+*whoosh* sound.
+
+She starts by  dipping a birch bough into a basin of water and spritzes everyone
+like a priest flinging holy water.  We then sit in meditative silence for
 another 5 minutes or so before she concludes the ritual by placing ice-soaked
 towels over everyone's shoulders. Dreadnought
 

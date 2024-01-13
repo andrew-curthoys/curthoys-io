@@ -525,7 +525,7 @@ After the cafe I duck into an Irish pub called Lincoln, mostly because that's
 the same name as one of my best good buddy Easley's favorite watering holes in
 Boston. When ordering a beer from the rail the barkeep asks me if I want the
 pilsner to which I reply "si". Because I guess my dumb brain just goes
-&lt;insert foreign language here&gt; and Spanish is the only one I (kinda) know. It
+*&lt;insert foreign language here&gt;* and Spanish is the only one I (kinda) know. It
 wouldn't be as embarrassing if I didn't do it a dozen more times in the next week.
 
 <figure class="figure">
