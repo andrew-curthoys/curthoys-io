@@ -162,15 +162,16 @@ there's a nice little cafe on the island that seems the perfect setting to soak
 up the rays from the afternoon sun hanging high in the sky. A quick 20 minute
 ride later and I'm livin' on island time. I wander the trails for about half an
 hour, taking in the sights and breathing in the nature before rambling over to
-(??) Cafe.
+the cafe at Gressholmen Kro. I order a small charcuterie plate and soak in the
+sublime Scandinavian weather with the bright crispiness of a Christiania
+Bryggeri pilsner.
 
-I order myself a snack(??) and beer(??).
-
-
-But the fjord does not only lend itself to skirting *on top* of the water, much
-fun can also be had *in* the water. Lining the fjord opposite the Opera House &
+<p class="article-sub-subheader">Nordic Cycle</p>
+The fjord lends itself not only to skirting *atop* the water, just as much
+fun can be had *in* the water. Lining the fjord opposite the Opera House &
 Munch museum sit a handful of saunas affording the opportunity to partake in the
-time honored Scandinavian tradition of hot sauna/cold plunge.
+time honored Scandinavian tradition of hot sauna/cold plunge, also known as
+*The Nordic Cycle*
 
 Sondre suggests SALT, a self-proclaimed "cultural arena" with six saunas, six
 music stages, and indoor & outdoor bars. The *cultural arena* is right on the
