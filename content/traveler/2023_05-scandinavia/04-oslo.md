@@ -57,12 +57,18 @@ of the museum.
   <figcaption class="figure-caption">You be the judge.</figcaption>
 </figure>
 
+What cannot be debated, however, is the brilliance on display inside the
+museum. With installations spanning 6 of the museum's floors (the others are
+used for performances, administrative tasks, and a restaurant/bar) visitors
+can spend a day at the museum and still not see all there is to see within its
+capacious 500,000 square feet.
 
 Oslo as Culture
 * Munch
 * Opera house
 * Library
 * Nationaltheateret
+* Technology museum
 
 <h4 class="article-subheader">Oslo as Gastronomy</h4>
 * Himkok
@@ -124,6 +130,90 @@ incomprehension, this drink is *impossibly* smooth.
   <figcaption class="figure-caption">That's some caffeine magic right there</figcaption>
 </figure>
 
+Bar Lorry
+Ordered myself a G&T with Icelandic Eagle Gin, which was presented in a
+splendid goblet and a glass bottle of tonic to adulterate as I see fit. The
+sharp elixir perfectly complements the vibe of the Lorry, which I would best
+describe as eclectic sophistication.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-g&t.JPEG" alt="G&T">
+  <figcaption class="figure-caption">That's how you present a cocktail!</figcaption>
+</figure>
+
+The bar/restaurant dates back to the 1870s and has been a favorite hangout for
+notable Oslo writers, artists, & intellectuals throughout its history. Often
+tortured artists would use their work they crafted while toiling in the booths
+of the Lorry as currency for food & drinks. Many of these works are still
+hanging on the walls!
+
+With our cocktails in tow, Sondre, Nora, & I peruse the incredible assortment of
+art and tchotchkes on display throughout the building. As described on Lorry's
+website, *Lorry is known for its extraordinary and eclectic art collection,
+carefully collected from all over the World through the years. Our walls are
+decorated with 207 art works by over 70 artists.*
+
+As we wander around the main dining area we marvel at the artwork, the
+knick-knacks, the figurines, the zebra head, the display of dozens of
+corkscrews, the model ships, the old beer bottles. Once again from their website,
+*you are guaranteed surprises and absurdities everywhere you look. A visit to
+Lorry will be remembered for a long time.*
+
+I couldn't agree more. And the most unforgettable part of the entire bazaar is
+the taxidermied giraffe wearing a bowtie at the top of the stairs.
+
+<div id="lorryCarousel" class="carousel carousel-traveler slide" data-bs-ride="carousel" data-bs-interval="3000">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#lorryCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#lorryCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#lorryCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#lorryCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#lorryCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#lorryCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#lorryCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
+    <button type="button" data-bs-target="#lorryCarousel" data-bs-slide-to="7" aria-label="Slide 8"></button>
+    <button type="button" data-bs-target="#lorryCarousel" data-bs-slide-to="8" aria-label="Slide 9"></button>
+  </div>
+  <div class="carousel-inner" style="text-align:center;">
+    <div class="carousel-item active">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-lorry1.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-lorry2.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-lorry3.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-lorry4.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-lorry5.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-lorry6.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-lorry7.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-lorry8.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-lorry9.JPEG">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#lorryCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#lorryCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </button>
+<figcaption class="figure-caption text-start bg-body">The shenanigans at Lorry
+are cheeky & fun!</figcaption>
+</div>
 
 <h4 class="article-subheader">Oslo as Nature</h4>
 Tucked away at at the head of the Oslofjord, it feels strange to call the
@@ -171,7 +261,7 @@ The fjord lends itself not only to skirting *atop* the water, just as much
 fun can be had *in* the water. Lining the fjord opposite the Opera House &
 Munch museum sit a handful of saunas affording the opportunity to partake in the
 time honored Scandinavian tradition of hot sauna/cold plunge, also known as
-*The Nordic Cycle*
+*The Nordic Cycle*.
 
 Sondre suggests SALT, a self-proclaimed "cultural arena" with six saunas, six
 music stages, and indoor & outdoor bars. The *cultural arena* is right on the
