@@ -130,7 +130,7 @@ incomprehension, this drink is *impossibly* smooth.
   <figcaption class="figure-caption">That's some caffeine magic right there</figcaption>
 </figure>
 
-Bar Lorry
+<p class="article-sub-subheader">Bar Lorry</p>
 Ordered myself a G&T with Icelandic Eagle Gin, which was presented in a
 splendid goblet and a glass bottle of tonic to adulterate as I see fit. The
 sharp elixir perfectly complements the vibe of the Lorry, which I would best
@@ -215,9 +215,15 @@ the taxidermied giraffe wearing a bowtie at the top of the stairs.
 are cheeky & fun!</figcaption>
 </div>
 
+<p class="article-sub-subheader">Izakaya</p>
+One afternoon we're wandering around the Barcode and Nora 
+
+Vin Bj&oslash;rvika wine bar
+
+Thief rooftop bar
+
 <h4 class="article-subheader">Oslo as Nature</h4>
-Tucked away at at the head of the Oslofjord, it feels strange to call the
-capital of a wealthy European nation *sleepy*,
+Tucked away at at the head of the Oslofjord, 
 
 
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
@@ -226,8 +232,36 @@ vibe. Whatever you decide to call it, the waterway puts Oslo into the highest
 tier of my city rankings, *Cities With Harbors*. I just love myself a great
 harbor.
 
-<p class="article-sub-subheader">The Akerselva</p>
+One of the appealing features of the Oslofjord are her scattered islands within
+a short ferry of downtown. On a particularly delightful sunny day I find myself
+in the mood for a little salty air whipping through my hair. I check the ferry
+schedule and find they run
+every 30 minutes in a loop of 5 islands - Nakkholmen, Lind&oslash;ya,
+Gressholmen, Bleik&oslash;ya, and (of course) Hoved&oslash;ya.
 
+I hop on the boat with my sights set on Gressholmen. According to my research
+there's a nice little cafe on the island that seems the perfect setting to soak
+up the rays from the afternoon sun hanging high in the sky. 45 minutes and two
+stops later I find myself livin' on island time.
+
+Once disembarked, I wander for about a mile of the 3 mile trail encircling the
+island and its nature preserve. The ramble works up an appetite and I get a
+little tingle in my throat that just might be alleviated by a light, crisp
+barley sandwich. I plop onto a bench on the patio at Gressholmen Kro, a
+picturesque cafe overlooking the runway that once was. I order a small
+charcuterie plate and wash it down with a Christiania Bryggeri pilsner. Just
+what the allmennlege ordered!
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gressholmen.JPEG" alt="Gressholmen Kro">
+  <figcaption class="figure-caption">A fabulous little island eatery.</figcaption>
+</figure>
+
+I discover that this island was the location of the original Oslo airport, which
+I deem utterly preposterous until I find that it was only for seaplanes. Because
+that's the most Viking thing I can think of.
+
+<p class="article-sub-subheader">The Akerselva</p>
 After recovering from the debauchery of the 17th I decide to get a survey of
 the main confluence flowing through Oslo to the fjord. The Akerselva (Aker River)
 starts at Maridalsvannet (Lake Maridal) about 5 miles north of the city center
@@ -236,25 +270,58 @@ and the main source of drinking water for Oslo.
 Sondre's apartment sits approximately halfway from source to mouth. An athlete
 with sufficient gumption could run the entire length of the Akerseva in an
 afternoon. I decide to break it up into two separate days. Over the course of
-those two days I run about 80% of the length of the river and its 500??? ft
+those two days I run about 80% of the length of the river and its 500 ft
 elevation gain, which I think is a relatively admirable achievement considering
 I'm on holiday.
 
-#### Pictures of the Akerselva
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker1.JPEG" alt="Akerselva">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker2.JPEG" alt="Akerselva">
+    </div>
+  </div>
+</figure>
 
-One interesting(th) feature of the fjord is the scattered islands within a
-short ferry ride of downtown Oslo. On a particularly delightful Norwegian May
-day I decide to take one such ferry to the island of (??). The ferry
-runs every 30 minutes(??) in a loop of (??) islands.
+The Akerselva was once the manufacturing heart of Oslo, as evidenced by the
+scores of mills, factories, and other industrial-looking brick buildings along
+its length. By the 1970s the river was heavily contaminated from 150 years of
+unbridled industrial pollution, leading to an effort in the 80s to revitalize
+the health of the river.
 
-I hop on the boat with my sights set on (??) Island. According to my research
-there's a nice little cafe on the island that seems the perfect setting to soak
-up the rays from the afternoon sun hanging high in the sky. A quick 20 minute
-ride later and I'm livin' on island time. I wander the trails for about half an
-hour, taking in the sights and breathing in the nature before rambling over to
-the cafe at Gressholmen Kro. I order a small charcuterie plate and soak in the
-sublime Scandinavian weather with the bright crispiness of a Christiania
-Bryggeri pilsner.
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker3.JPEG" alt="Akerselva">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker4.JPEG" alt="Akerselva">
+    </div>
+  </div>
+</figure>
+
+The initiative's success can be seen today through the
+river's diverse flora & fauna, none of which I could identify, mainly owing to
+the fact I can't read the Norwegian placards stationed along the walking path.
+The entirety of the river has been turned into an eco-park and many of the
+industrial buildings have been turned into restaurants, shops, bars, and lovely
+attractions for Oslofolk to enjoy on a beautiful May day.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker5.JPEG" alt="Akerselva">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker6.JPEG" alt="Akerselva">
+    </div>
+  </div>
+  <div class="row">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker_vid.gif" alt="Akerselva">
+  </div>
+</figure>
 
 <p class="article-sub-subheader">Nordic Cycle</p>
 The fjord lends itself not only to skirting *atop* the water, just as much
@@ -322,6 +389,8 @@ mighty Akerselva is the main river running through Oslo
 
 
 <h4 class="article-subheader">Oslo as Lifestyle</h4>
+it feels strange to call the capital of a wealthy European nation *sleepy*,
+
 After walking around Oslo for a couple days I take in a breath of fresh air and
 it hits me how polluted American cities are. The streets of Oslo are mostly
 devoid of automobiles, owing to it's walkability and fabulous public transit
