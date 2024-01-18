@@ -411,8 +411,77 @@ relatively small footprint (from a quick glance at a map it seems at least
 like everywhere in Oslo is *20 minutes away*.
 
 
+<p class="article-sub-subheader">V&aring;lorenga</p>
+On Constitution Day Eve Sondre has a day of sporting lined up for me. The
+beloved hometown soccer squad V&aring;lorenga is hosting the lads from
+Hamarkameratene (Hamar Comrades). Often abbreviated HamKam, the Comrades hail
+from Hamar, a town 80 miles to the north of Oslo on lake Mj&oslash;sa,
+Norway's largest lake and also home to Lillehammer.
 
-3-0 win for V&aring;larenga against Hamarkameratene
+Before the match we meet up at a pub near the stadium with Sondre's friend
+Daniel, a HamKam supporter who is, we'll say *realistic* about his team's
+chances. "We suck. This is a good match for your first V&aring;lorenga game."
+
+It's still early but HamKam has not fired out of the gates, amassing a dismal
+2-4-0 record to date. However, V&aring;lorenga ain't exactly sittin' in the
+catbird seat with their 2-3-1 tally.
+
+After a few beers at the pub we set off for Intility Arena. It's about a half
+hour walk through some neighborhoods, not too far from the V&aring;lorenga
+Kirke (Church), the story of which Sondre relays during the walk. At some point
+in the 70s, the church burned down In the 70s the
+church burned down  which burned down in 1979, giving rise to the song
+*V&aring;lorenga Kjerke*
+
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-renga_church.JPEG" alt="Church">
+  <figcaption class="figure-caption">It's not THE church, but it is indeed A church!</figcaption>
+</figure>
+
+We walk past a line of people 50 yards long waiting to get into the stadium.
+His other friend (also named Daniel) meets us at a
+
+Club beers - two sausages in one lompe trick Sondre shows me.
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-renga_beers.JPEG" alt="Beers">
+  <figcaption class="figure-caption">We did some damage in a short period of time</figcaption>
+</figure>
+
+<figure class="figure">
+  <div class="row">
+    <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-renga_flag_flares.JPEG" alt="Renga flares">
+  </div>
+  <div class="row">
+    <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-renga_flags.JPEG" alt="Renga Flags">
+  </div>
+  <figcaption class="figure-caption">&#x1F1F3;&#x1F1F4; &#x1F1F3;&#x1F1F4; &#x1F1F3;&#x1F1F4;</figcaption>
+</figure>
+
+
+Goal by Seedyahmed Jatta in the 18th minute, followed shortly by another by
+Daniel H&aring;kans in the 24th. As halftime draws near we shuffle out to the
+club for some halftime brewskis. Right as we're about to open the door to the
+club we hear a roar erupt from the hometown faithful.
+
+3-nil 'renga on a goal from Henrik Bj&oslash;rdal. Well I'll be!
+
+3-0 win for V&aring;lorenga against Hamarkameratene
+
+What I saw seems to be a bit of a high point for V&aring;lorenga - they finished
+the season in 14th place of 16, placing them in a battle for relegation against
+the winner of the promotion playoff from the Norwegian First Division (which is
+actually the second-tier in Norwegian soccer. Soccer amirite?)
+
+After a home & away with Kristiansund it was all tied up, sending the
+competition to penalties, which V&aring;renga lost in heartbreaking fashion 5
+goals to 4. So next year the lads will be slugging it out in the First Division
+with hopes to be promoted back up with the big dogs.
+
+Kristiansund's goalkeeper is named Sean McDermott
+Leif Eriksen
+
+Happy Leif Erikson Day! Hinga Dinga Dargen!
 
 Oslo as a great place to live
 * Public transit
