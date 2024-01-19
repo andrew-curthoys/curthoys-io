@@ -411,33 +411,60 @@ relatively small footprint (from a quick glance at a map it seems at least
 like everywhere in Oslo is *20 minutes away*.
 
 
-<p class="article-sub-subheader">V&aring;lorenga</p>
+<p class="article-sub-subheader">V&aring;lerenga</p>
 On Constitution Day Eve Sondre has a day of sporting lined up for me. The
-beloved hometown soccer squad V&aring;lorenga is hosting the lads from
+beloved hometown soccer squad V&aring;lerenga is hosting the lads from
 Hamarkameratene (Hamar Comrades). Often abbreviated HamKam, the Comrades hail
 from Hamar, a town 80 miles to the north of Oslo on lake Mj&oslash;sa,
 Norway's largest lake and also home to Lillehammer.
 
 Before the match we meet up at a pub near the stadium with Sondre's friend
 Daniel, a HamKam supporter who is, we'll say *realistic* about his team's
-chances. "We suck. This is a good match for your first V&aring;lorenga game."
+chances. "We suck. This is a good match for your first V&aring;lerenga game."
 
 It's still early but HamKam has not fired out of the gates, amassing a dismal
-2-4-0 record to date. However, V&aring;lorenga ain't exactly sittin' in the
+2-4-0 record to date. However, V&aring;lerenga ain't exactly sittin' in the
 catbird seat with their 2-3-1 tally.
 
 After a few beers at the pub we set off for Intility Arena. It's about a half
-hour walk through some neighborhoods, not too far from the V&aring;lorenga
-Kirke (Church), the story of which Sondre relays during the walk. At some point
-in the 70s, the church burned down In the 70s the
-church burned down  which burned down in 1979, giving rise to the song
-*V&aring;lorenga Kjerke*
+hour walk through some neighborhoods, not too far from the V&aring;lerenga
+Kirke (Church), the inspiration for the team's anthem. At some point in the late
+70s the church burned down, inspiring Trond Ingebretsen and his band
+Bj&oslash;lsen Valsem&oslash;lle to pen the song *V&aring;lerenga Kjerke*
+honoring the house of worship. Supporters of V&aring;lerenga football club have
+adopted the song as their defacto anthem, belting it out left, right, & center
+to support the club.
 
+I plugged the lyrics into an online translator & it feels like the gist of the
+song notes that once the roof of timber burned down the church now has the sky
+itself as a roof. So that's pretty hardcore.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-renga_church.JPEG" alt="Church">
   <figcaption class="figure-caption">It's not THE church, but it is indeed A church!</figcaption>
 </figure>
+
+As we approach the stadium we see a line at least 50 yards long of fans waiting
+to be granted ingress to the stadium. Sondre whips out his phone and dahses off
+what sounds like a few steps of making Swedish meatballs and casually walks
+past the long line of antsy supporters. As we near the entrance to the stadium
+a gentleman in a smart blue suit greets us behind a low wall of temporary
+metal barricades.
+
+"Hi I'm Daniel, nice to meet you!"
+
+I look over at Daniel, then to Daniel, then back to Daniel. Reckon that's one
+less name I have to remember.
+
+Daniel escorts us past the fence & hands us a lanyard with a ticket. Daniel
+is Sondre's friend and works for V&aring;lerenga in whatever official capacity
+requires him to wear a blue suit to games. Whatever his job I'm thrilled to
+lean into his hospitality because our tickets grant us access to the club level
+beneath the home stand, the only place in the stadium where you can drink a
+beer. Unlike our Stateside stadia, festooned with beer ads and vendors walking
+the aisles lest you have to leave your seat for liquid refreshment, European
+soccer arenas have mostly banned alcohol at games in no small part to the
+advanced studies of hooliganry Europeans have amassed.
 
 We walk past a line of people 50 yards long waiting to get into the stadium.
 His other friend (also named Daniel) meets us at a
@@ -466,9 +493,9 @@ club we hear a roar erupt from the hometown faithful.
 
 3-nil 'renga on a goal from Henrik Bj&oslash;rdal. Well I'll be!
 
-3-0 win for V&aring;lorenga against Hamarkameratene
+3-0 win for V&aring;lerenga against Hamarkameratene
 
-What I saw seems to be a bit of a high point for V&aring;lorenga - they finished
+What I saw seems to be a bit of a high point for V&aring;lerenga - they finished
 the season in 14th place of 16, placing them in a battle for relegation against
 the winner of the promotion playoff from the Norwegian First Division (which is
 actually the second-tier in Norwegian soccer. Soccer amirite?)
