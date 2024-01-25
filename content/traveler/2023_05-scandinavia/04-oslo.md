@@ -216,9 +216,44 @@ are cheeky & fun!</figcaption>
 </div>
 
 <p class="article-sub-subheader">Izakaya</p>
-One afternoon we're wandering around the Barcode and Nora 
+One afternoon we're wandering around the Barcode when Nora exclaims, "Oh my
+friend works at Vin Bj&oslash;rvika, let's see if she's working!"
 
-Vin Bj&oslash;rvika wine bar
+So we make a quick ambulatory right turn and saunter up to a wine bar situated
+on a promenade overlooking the fjord. Unfortunately Nora's friend is not on
+shift but we circle up 'round a table on the promenade nonetheless.
+
+I order a *Solitude Gigondas 2020* from the Rh&ocirc;ne Valley, a full-bodied
+red blend of 70% Grenache, 20% Syrah, & 10% Cinsault, if for no other reason
+than I've heard people who like wine say things about Cinsault. Can I remember
+if they were good things about Cinsault or bad things about Cinsault? No. Will
+I be able to taste the difference? Also no.
+
+We accompany our vin with an order of charcuterie presented as a three-story
+tower of epicurean delicacies that perfectly fits the vibe of our waterfront
+environs on a beautiful afternoon.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-wine1.JPEG" alt="Wine">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-wine2.JPEG" alt="Snacks">
+    </div>
+  </div>
+  <div class="row">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-wine3.JPEG" alt="Wine">
+</figure>
+
+As we tipple our wine a plan for supper coalesces.
+
+We hop on scooters for the 2 mile journey to Izakaya through historic Oslo
+neighborhoods. I can't imagine I would feel this comfortable riding on a
+scooter in any city in the US. The streets are mostly devoid of automobile
+traffic and those that are navigate the streets at a reasonable pace and are
+deferential to pedestrians, cyclists, scooter-ers, and other non-car methods of
+transport. It's wild.
 
 Thief rooftop bar
 
@@ -485,7 +520,6 @@ Club beers - two sausages in one lompe trick Sondre shows me.
   <figcaption class="figure-caption">&#x1F1F3;&#x1F1F4; &#x1F1F3;&#x1F1F4; &#x1F1F3;&#x1F1F4;</figcaption>
 </figure>
 
-
 Goal by Seedyahmed Jatta in the 18th minute, followed shortly by another by
 Daniel H&aring;kans in the 24th. As halftime draws near we shuffle out to the
 club for some halftime brewskis. Right as we're about to open the door to the
@@ -505,10 +539,11 @@ competition to penalties, which V&aring;renga lost in heartbreaking fashion 5
 goals to 4. So next year the lads will be slugging it out in the First Division
 with hopes to be promoted back up with the big dogs.
 
-Kristiansund's goalkeeper is named Sean McDermott
-Leif Eriksen
+A last little denoument for this story, as I was doing some light research
+about the club I was delighted to see that a club legend on the pitch as well
+as a former manager is cognominated Leif Eriksen.
 
-Happy Leif Erikson Day! Hinga Dinga Dargen!
+Happy Leif Eriksen Day! Hinga Dinga Dargen!
 
 Oslo as a great place to live
 * Public transit
