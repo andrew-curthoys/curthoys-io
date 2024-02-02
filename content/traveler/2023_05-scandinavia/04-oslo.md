@@ -246,25 +246,66 @@ environs on a beautiful afternoon.
       <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-wine3.JPEG" alt="Wine">
 </figure>
 
-As we tipple our wine a plan for supper coalesces.
+As we graze each delectable morsel of charcuterie steadily swells our hunger.
+Each swig of wine sharpens our focus.
 
-We hop on scooters for the 2 mile journey to Izakaya through historic Oslo
-neighborhoods. I can't imagine I would feel this comfortable riding on a
-scooter in any city in the US. The streets are mostly devoid of automobile
-traffic and those that are navigate the streets at a reasonable pace and are
-deferential to pedestrians, cyclists, scooter-ers, and other non-car methods of
-transport. It's wild.
+A plan for supper coalesces.
+
+And just like that the Norwegian gastro gang is off on their next adventure,
+cruising across town on rented scooters, weaving through historic Oslo
+neighborhoods. The streets are mostly devoid of automobile traffic, creating a
+feeling of safety that you'd be hard pressed to find in any US city. The few
+cars that do occupy the streets, lanes, and avenues of Olso navigate the
+thoroughfares at a reasonable pace, deferring to pedestrians, cyclists,
+scooter-ers, and other non-car methods of transport. It's a wholly relaxing
+urban milieu.
+
+Soon our roving band of heathens arrives to Izakaya, a nondescript Japanese
+restaurant occupying the garden floor of a residential building steps away
+from a traffic circle featuring the Lysfonene, i.e. fountain of light.
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-lysfonene.JPEG" alt="Lysfonene">
+  <figcaption class="figure-caption">Probably cooler when the sun's out</figcaption>
+</figure>
+
+I have to stoop as we step down to the entrance of the restaurant, a doorway
+not befitting the Viking bloodlines of its denizens. The low ceilings and
+modest confines tiptoe the line between cozy and cramped. It has a feel of a
+place that can only be acquired through decades of repeat customers.
+
+The menu, in its simplicity, "Japanese dishes and Japanese alcohol."
+The wooden tables, well-worn. Evidence of spilt Sapporo. Of sloppy chopsticks.
+Of late nights in a half-basement where you dread leaving the warmth of your
+company to bear the frigid Norwegian winter. 
+
+I'm in love.
+
+We find our way to one of those perfectly patina-d tables, seating myself in the
+upsettingly comfortable position of "fifth wheel."
+
+First things first. A round of Sapporos & sake.
+
+soba salad
+pork dumplings
+
+
 
 Thief rooftop bar
 
-<h4 class="article-subheader">Oslo as Nature</h4>
-Tucked away at at the head of the Oslofjord, 
 
+<h4 class="article-subheader">Oslo as Nature</h4>
+Tucked away at at the head of the Oslofjord, the capital City of Norway offers
+a panoply of natural wonders for the tourist and resident alike.
 
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
-under the loosely defined Norwegian concept of a fjord. In Norway a fjord is a
-vibe. Whatever you decide to call it, the waterway puts Oslo into the highest
-tier of my city rankings, *Cities With Harbors*. I just love myself a great
+under the loosely defined Norwegian concept of a *fjord*. If it's a salty body
+of water it's probably a fjord. In Norway a fjord is a vibe.
+
+If you're cool like the Norwegians and call it a fjord or lame like the
+geological technocrats and call it... a bay?... Whatever you decide to call it,
+the waterway puts Oslo into the highest
+tier of my city rankings: *Cities With Harbors*. I just love myself a great
 harbor.
 
 One of the appealing features of the Oslofjord are her scattered islands within
