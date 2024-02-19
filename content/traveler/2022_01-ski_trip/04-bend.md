@@ -284,7 +284,7 @@ this river, drifting up to various docks to revel and exchange beers.
 Today the water is too cold for all others besides the mighty duck. Landon, for
 whatever reason, is a big fan of the family *Anatidae*.
 
-<h4 class="article-subheader">What the Duck</h4>
+<h4 class="article-subheader" id="ducks">What the Duck</h4>
 
 "Land, air, and sea, man. The duck can do it all."
 

@@ -142,7 +142,8 @@ describe as eclectic sophistication.
 </figure>
 
 The bar/restaurant dates back to the 1870s and has been a favorite hangout for
-notable Oslo writers, artists, & intellectuals throughout its history. Often
+notable Oslo writers, artists, intellectuals, and all-around rabble-rousers
+throughout its history. Often
 tortured artists would use their work they crafted while toiling in the booths
 of the Lorry as currency for food & drinks. Many of these works are still
 hanging on the walls!
@@ -229,9 +230,9 @@ than I've heard people who like wine say things about Cinsault. Can I remember
 if they were good things about Cinsault or bad things about Cinsault? No. Will
 I be able to taste the difference? Also no.
 
-We accompany our vin with an order of charcuterie presented as a three-story
-tower of epicurean delicacies that perfectly fits the vibe of our waterfront
-environs on a beautiful afternoon.
+We pair our vin with a assortment of charcuterie presented as a three-story
+tower of epicurean delicacies that perfectly accentuates our waterfront vibes
+on this beautiful afternoon.
 
 <figure class="figure">
   <div class="row">
