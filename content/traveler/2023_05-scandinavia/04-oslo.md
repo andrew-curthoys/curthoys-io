@@ -16,8 +16,17 @@ summary:
 <h4 class="article-subheader">The Sun</h4>
 As I walk through the doors of the Munchmuseet's 6th floor
 <span class="skewed">Monumental</span> exhibit I'm momentarily blinded by
-brilliance. Stretching a staggering *26 feet across and 15 feet high*, the
-canvas of Edvard Munch's marvelous *The Sun* spews rays of bright, beautiful sunshine
+brilliance.
+
+by dazzling rays of sunshine
+
+by wind battered cliffs
+
+by rolling ocean waves
+
+The sprawling canvas outspread before us 
+The staggering extent of the canvas gives the feeling of Edvard Munch's marvelous painting *The Sun*. Stretching a staggering *26 feet
+across* and *15 feet high*, the  of Edvard Munch's marvelous *The Sun* spews rays of bright, beautiful sunshine
 across its sprawling canvas.  the
 painting was pithily described by Munch, "I saw the sun rise up above the
 rocks - I painted the sun." I was expecting to be
@@ -62,6 +71,16 @@ museum. With installations spanning 6 of the museum's floors (the others are
 used for performances, administrative tasks, and a restaurant/bar) visitors
 can spend a day at the museum and still not see all there is to see within its
 capacious 500,000 square feet.
+
+Other notable denizens of the skyline include the Oslo Opera House and the 
+
+I was not blessed with the opportunity to grace the halls of the Opera House but
+we did walk on *top* of it. Opened in 2008, the Oslo Opera House finds itself
+in the small minority of structures in our built environment where it's
+encouraged to walk on the roof. The winner of an open competition that bested
+350 other entrants, the Opera House is wrapped in a combination of white granite
+and white Italian carrara marble whose roof slopes down to ground level,
+offering patrons breathtaking views of the fjord and city
 
 Oslo as Culture
 * Munch
