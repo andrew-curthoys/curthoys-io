@@ -3,7 +3,7 @@ slug: traveler/2022_05-scandinavia/03-norway_day
 slug_base: traveler/2022_05-scandinavia
 day_alias: Syttende Mai
 prev_day: 02-saetre
-next_day: 04-oslo*
+next_day: 04-oslo_culture
 date: 2023-05-17
 post_date: 2023-06-10
 category: traveler

@@ -1,9 +1,9 @@
 title: Del Fire: Oslo
-slug: traveler/2022_05-scandinavia/04-oslo
+slug: traveler/2022_05-scandinavia/07-oslo_lifestyle
 slug_base: traveler/2022_05-scandinavia
 day_alias: Oslo
-prev_day: 03-norway_day
-next_day: 05-gausta*
+prev_day: 06-oslo_gastro
+next_day: 08-ferry*
 date: 2023-05-18
 post_date: 2023-12-20
 category: traveler
@@ -12,6 +12,12 @@ photo: 17-paddle3-tall.JPEG
 activity: 2023 Scandinavian Sk&oslash;yestreker
 short_sum: Oslo
 summary: 
+
+oslo as culture
+oslo as nature
+oslo as gastronomy
+oslo as lifestyle
+
 
 <h4 class="article-subheader">The Sun</h4>
 As I walk through the doors of the Munchmuseet's 6th floor
@@ -24,7 +30,8 @@ by wind battered cliffs
 
 by rolling ocean waves
 
-The sprawling canvas outspread before us 
+The scene unfolding on the sprawling canvas outspread before us draws 
+
 The staggering extent of the canvas gives the feeling of Edvard Munch's marvelous painting *The Sun*. Stretching a staggering *26 feet
 across* and *15 feet high*, the  of Edvard Munch's marvelous *The Sun* spews rays of bright, beautiful sunshine
 across its sprawling canvas.  the
@@ -72,15 +79,19 @@ used for performances, administrative tasks, and a restaurant/bar) visitors
 can spend a day at the museum and still not see all there is to see within its
 capacious 500,000 square feet.
 
-Other notable denizens of the skyline include the Oslo Opera House and the 
+Sha notable denizens of the skyline include the Oslo Opera House and the 
 
 I was not blessed with the opportunity to grace the halls of the Opera House but
 we did walk on *top* of it. Opened in 2008, the Oslo Opera House finds itself
 in the small minority of structures in our built environment where it's
 encouraged to walk on the roof. The winner of an open competition that bested
-350 other entrants, the Opera House is wrapped in a combination of white granite
-and white Italian carrara marble whose roof slopes down to ground level,
-offering patrons breathtaking views of the fjord and city
+350 other entrants, the Opera House's exterior of white granite and Italian
+carrara marble give the impression of an iceberg slinking away into the frigid
+waters of the fjord. The building's sloped roof invites all who arrive to walk
+upon her back, to mount the a humble gesture offering breathtaking views of the fjord and city
+
+
+Oslo's character as a low-rise city with plentiful green space
 
 Oslo as Culture
 * Munch
@@ -310,8 +321,8 @@ soba salad
 pork dumplings
 
 
-
-Thief rooftop bar
+As described on my Best Bars book
+Thief rooftop bar (disappointing)
 
 
 <h4 class="article-subheader">Oslo as Nature</h4>
