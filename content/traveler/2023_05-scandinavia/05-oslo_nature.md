@@ -192,21 +192,42 @@ you enter the amorphous region known as *the edge of town.*
 
 If nonsense snacks had a European soccer-style hierarchy, one Norwegian treasure
 would arrogantly reside in the top tier. The Norwegian gas station waffle, in no
-fear of relegation, sneers at slim jims, laughs at pork rinds, chuckles at the
-thought of combos. Nods respectfully at giant dill pickles in a bag. Doesn't
-even acknowledge gummy candy.
+fear of relegation, sneers at slim jims, laughs at pork rinds, cackles at the
+thought of combos. He nods respectfully at giant dill pickles in a bag. He
+doesn't even acknowledge gummy candy.
 
-The Norwegian gas
-station waffle is a soggy surface-impressioned-leavened-batter-bread filled with
-any conceivable edible morsel imaginable. In my case I choose a soggy waffle
-filled with
+The Norwegian gas station waffle is a soggy
+surface-impressioned-leavened-batter-bread filled with whatever conceivable
+edible morsels a maniac in charge of such things sees fit. In my case the soggy
+waffle is filled with the Norwegian delicacy
 <a href="/traveler/2023_05-scandinavia/02-saetre?id=cheese" target="_blank" rel="noopener noreferrer">brunost</a>,
 i.e. brown cheese.
 
 It's mealy, it's flaccid, it's repulsive. And it's exactly what I want.
 
 Sondre & I scarf down our roadwaffles with a hearty helping of brown water
-masquerading as coffee.
+masquerading as coffee. The first hour and a half of the drive is a jaunt
+through the idyllic rolling hills of the Norwegian countryside.
+
+We see bridges
+
+
+We see stave churches
+
+
+We see WWII ships
+
+
+Gausta shadowing the entire town & sun mirror
+
+
+Ski lifts are shut down.
+We ride in a tram up the *inside* of the mountain.
+
+My boots don't fit, my skis feel weird, the snow is sloppy.
+
+I am in ecstasy. 
+
 
 And the vibe in Oslo is *casually modern*
 

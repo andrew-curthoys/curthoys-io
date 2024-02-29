@@ -23,12 +23,19 @@ first ski trip.
 A long weekend that manifests itself as a series of stale vignettes on a
 worn-out reel in the projector room of my mind.
 
-The babble of the eponymous river / The smell of musty ski boots / The
-unfathomable starry quilt of the night sky / The orange and blue clapboard
-fa&ccedil;ade of the Terrace Towers Lodge / The brooding peaks of the Sangre
-de Cristo Range / The rustic log cabins on the outskirts of town.
+The babble of the eponymous river...
 
-*The rustic log cabins on the outskirts of town.*
+The smell of musty ski boots...
+
+The unfathomable starry quilt of the night sky...
+
+The orange and blue clapboard fa&ccedil;ade of the Terrace Towers Lodge...
+
+The brooding peaks of the Sangre de Cristo Range...
+
+The rustic log cabins on the outskirts of town...
+
+*The rustic log cabins on the outskirts of town*
 
 The rustic log cabins where it all began. Where you first experienced the
 peaceful calm of a forest of snow covered pines. Where you first understood why
