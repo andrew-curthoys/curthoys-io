@@ -1,7 +1,7 @@
-title: Del Fire: Oslo Miniseries<br>Oslo as Culture
-slug: traveler/2022_05-scandinavia/04-oslo_culture
-slug_base: traveler/2022_05-scandinavia
-day_alias: Oslo
+title: Del Fire: Oslo Diversions<p style="font-size:90%; font-style:italic;">Oslo as Culture</p>
+slug: traveler/2023_05-scandinavia/04-oslo_culture
+slug_base: traveler/2023_05-scandinavia
+day_alias: Oslo as Culture
 prev_day: 03-norway_day
 next_day: 05-oslo_nature
 date: 2023-05-18
@@ -10,7 +10,7 @@ category: traveler
 subcat: Gallivanting
 photo: 17-paddle3-tall.JPEG
 activity: 2023 Scandinavian Sk&oslash;yestreker
-short_sum: Oslo as Culture
+short_sum: All the culture Oslo has to offer
 summary: 
 
 <h4 class="article-subheader">The Sun</h4>
@@ -18,13 +18,13 @@ As I walk through the doors of the Munchmuseet's 6th floor
 <span class="skewed">Monumental</span> exhibit I'm momentarily blinded by
 brilliance.
 
-Dazzled by ______ rays of sunshine
+Dazzled by magnificent rays of sunshine
 
-by wind battered cliffs
+Stunned by wind battered cliffs
 
 Bowled over by rolling ocean waves
 
-The scene unfolding on the sprawling canvas outspread afore me leaves me
+The scene unfolding on the sprawling canvas outspread afore me renders me
 speechless.
 
 The staggering extent of the canvas gives the feeling of Edvard Munch's marvelous painting *The Sun*. Stretching a staggering *26 feet

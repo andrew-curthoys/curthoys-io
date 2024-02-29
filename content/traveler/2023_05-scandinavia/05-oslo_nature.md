@@ -1,6 +1,6 @@
-title: Del Fire: Oslo
-slug: traveler/2022_05-scandinavia/05-oslo_nature
-slug_base: traveler/2022_05-scandinavia
+title: Del Fire: Oslo Diversions<p style="font-size:90%; font-style:italic;">Oslo as Nature</p>
+slug: traveler/2023_05-scandinavia/05-oslo_nature
+slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo
 prev_day: 04-oslo_culture
 next_day: 06-oslo_gastro
@@ -169,6 +169,29 @@ scampering back to the ladder and the warmth of our towels. I have to admit the
 sauna/cold plunge combo was one of the most refreshing activities I've ever
 experienced.
 
+<h4 class="article-subheader">Gausta</h4>
+"I don't know if you have other plans but if you want we can go skiing tomorrow.
+We have a cabin up in the mountains."
+
+"Nope, no other plans."
+
+*closes laptop in the middle of making plans for Stockholm tomorrow*
+
+"We have a cabin up in the mountains" is the peak of understatement. Sondre may
+have said we have a *condo* up in the mountains, but whatever the appellation
+deemed appropriate for the accommodation I was not prepared for this:
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo_c-gausta_condo" alt="Gausta condo">
+  <figcaption class="figure-caption">I could apr&egrave;s my ass off here</figcaption>
+</figure>
+
+The 3 hour drive to the mountain begins as any good road trip does. With shitty
+gas station coffee and nonsense snacks.
+
+a soggy waffle filled with
+<a href="/traveler/2023_05-scandinavia/02-saetre?id=cheese" target="_blank" rel="noopener noreferrer">brunost</a>,
+i.e. brown cheese,
 
 And the vibe in Oslo is *casually modern*
 

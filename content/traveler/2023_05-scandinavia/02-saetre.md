@@ -1,6 +1,6 @@
 title: Del To: S&aelig;tre Serenity
-slug: traveler/2022_05-scandinavia/02-saetre
-slug_base: traveler/2022_05-scandinavia
+slug: traveler/2023_05-scandinavia/02-saetre
+slug_base: traveler/2023_05-scandinavia
 day_alias: S&aelig;tre Serenity
 prev_day: 01-60_deg_north
 next_day: 03-norway_day
@@ -399,6 +399,7 @@ like the past 12 hours.
 	hungry.</figcaption>
 </figure>
 
+<div id="cheese">
 During breakfast I'm introduced to two of Norway's proudest traditions, *brunost*
 and the *osteh&oslash;vel*. *Brunost*, literally translated as "brown cheese" is
 not *technically* a cheese but I don't want to hang out with people who define
@@ -407,6 +408,7 @@ down from the cheesemaking process until it caramelizes into a creamy, savory
 delicacy of confusingly high levels of amazingness. And the osteh&oslash;vel is
 the triangular cheese knife with the slit near the handle you've probably seen
 on a wedding registry.
+</div>
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-brunost.jpg" alt="Bunost">

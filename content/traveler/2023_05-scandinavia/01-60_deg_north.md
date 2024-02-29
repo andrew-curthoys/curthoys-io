@@ -1,5 +1,5 @@
 title: Del En: 60 Degrees North
-slug: traveler/2022_05-scandinavia/01-60-deg_north
+slug: traveler/2023_05-scandinavia/01-60-deg_north
 slug_base: traveler/2023_05-scandinavia
 day_alias: 60 Degrees North
 prev_day: /traveler/2023_05-scandinavia

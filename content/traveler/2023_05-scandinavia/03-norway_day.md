@@ -1,6 +1,6 @@
 title: Del Tre: Norway Day
-slug: traveler/2022_05-scandinavia/03-norway_day
-slug_base: traveler/2022_05-scandinavia
+slug: traveler/2023_05-scandinavia/03-norway_day
+slug_base: traveler/2023_05-scandinavia
 day_alias: Syttende Mai
 prev_day: 02-saetre
 next_day: 04-oslo_culture
