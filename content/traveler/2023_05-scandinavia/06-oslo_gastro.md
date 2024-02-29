@@ -1,7 +1,7 @@
 title: Del Fire: Oslo Diversions<p style="font-size:90%; font-style:italic;">Oslo as Gastronomy</p>
 slug: traveler/2023_05-scandinavia/06-oslo_gastro
 slug_base: traveler/2023_05-scandinavia
-day_alias: Oslo
+day_alias: Oslo as Gastronomy
 prev_day: 05-oslo_nature
 next_day: 07-oslo_lifestyle
 date: 2023-05-18

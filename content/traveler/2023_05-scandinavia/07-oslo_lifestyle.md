@@ -1,7 +1,7 @@
 title: Del Fire: Oslo Diversions<p style="font-size:90%; font-style:italic;">Oslo as Lifestyle</p>
 slug: traveler/2023_05-scandinavia/07-oslo_lifestyle
 slug_base: traveler/2023_05-scandinavia
-day_alias: Oslo
+day_alias: Oslo as Lifestyle
 prev_day: 06-oslo_gastro
 next_day: 08-ferry*
 date: 2023-05-18

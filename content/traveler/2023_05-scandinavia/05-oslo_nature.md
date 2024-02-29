@@ -1,7 +1,7 @@
-title: Del Fire: Oslo Diversions<p style="font-size:90%; font-style:italic;">Oslo as Nature</p>
+title: Del Fire: Oslandinavian Diversions<p style="font-size:90%; font-style:italic;">Oslo as Nature</p>
 slug: traveler/2023_05-scandinavia/05-oslo_nature
 slug_base: traveler/2023_05-scandinavia
-day_alias: Oslo
+day_alias: Oslo as Nature
 prev_day: 04-oslo_culture
 next_day: 06-oslo_gastro
 date: 2023-05-18
@@ -15,7 +15,7 @@ summary:
 
 <h4 class="article-subheader">Oslo as Nature</h4>
 Tucked away at at the head of the Oslofjord, the capital City of Norway offers
-a panoply of natural wonders for the tourist and resident alike.
+a panoply of natural wonders for any adventurer.
 
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
 under the loosely defined Norwegian concept of a *fjord*. If it's a salty body
@@ -187,11 +187,26 @@ deemed appropriate for the accommodation I was not prepared for this:
 </figure>
 
 The 3 hour drive to the mountain begins as any good road trip does. With shitty
-gas station coffee and nonsense snacks.
+coffee and nonsense snacks procured at the first gas station you encounter as
+you enter the amorphous region known as *the edge of town.*
 
-a soggy waffle filled with
+If nonsense snacks had a European soccer-style hierarchy, one Norwegian treasure
+would arrogantly reside in the top tier. The Norwegian gas station waffle, in no
+fear of relegation, sneers at slim jims, laughs at pork rinds, chuckles at the
+thought of combos. Nods respectfully at giant dill pickles in a bag. Doesn't
+even acknowledge gummy candy.
+
+The Norwegian gas
+station waffle is a soggy surface-impressioned-leavened-batter-bread filled with
+any conceivable edible morsel imaginable. In my case I choose a soggy waffle
+filled with
 <a href="/traveler/2023_05-scandinavia/02-saetre?id=cheese" target="_blank" rel="noopener noreferrer">brunost</a>,
-i.e. brown cheese,
+i.e. brown cheese.
+
+It's mealy, it's flaccid, it's repulsive. And it's exactly what I want.
+
+Sondre & I scarf down our roadwaffles with a hearty helping of brown water
+masquerading as coffee.
 
 And the vibe in Oslo is *casually modern*
 
