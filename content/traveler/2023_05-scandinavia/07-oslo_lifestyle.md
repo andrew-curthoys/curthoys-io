@@ -1,4 +1,4 @@
-title: Del Fire: Oslo Diversions<p style="font-size:90%; font-style:italic;">Oslo as Lifestyle</p>
+title: Del Fire: Oslo Digressions<p style="font-size:90%; font-style:italic;">Oslo as Lifestyle</p>
 slug: traveler/2023_05-scandinavia/07-oslo_lifestyle
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Lifestyle
@@ -14,15 +14,11 @@ short_sum: Oslo
 summary: 
 
 
-<h4 class="article-subheader">Oslo as Lifestyle</h4>
-*casually modern*
-it feels strange to call the capital of a wealthy European nation *sleepy*,
+<h4 class="article-subheader">Casually Modern</h4>
+It feels strange to call the capital of a wealthy European nation *sleepy*.
 
-After walking around Oslo for a couple days I take in a breath of fresh air and
-it hits me how polluted American cities are. The streets of Oslo are mostly
-devoid of automobiles, owing to it's walkability and fabulous public transit
-system. Based on a *vibes only* informal personal survey it feels like 90% of
-the cars on the road are electric.
+My expectation of Oslo was a glinty skyscraper jungle that would feel at home
+in the opening scenes of a Bond flick.
 
 For a European capital I'm amazed at how intimate Oslo feels. With a
 metropolitan population of 1.5 million, Oslo would slot 42nd in the US metro
@@ -36,6 +32,13 @@ that can efficiently ferry you about the city. Due to its
 relatively small footprint (from a quick glance at a map it seems at least
 75% of the city would fit inside a 5 mile radius of the city center) it feels
 like everywhere in Oslo is *20 minutes away*.
+
+
+After walking around Oslo for a couple days I take in a breath of fresh air and
+it hits me how polluted American cities are. The streets of Oslo are mostly
+devoid of automobiles, owing to it's walkability and fabulous public transit
+system. Based on a *vibes only* informal personal survey it feels like 90% of
+the cars on the road are electric.
 
 
 <p class="article-sub-subheader">V&aring;lerenga</p>

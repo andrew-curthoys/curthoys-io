@@ -1,4 +1,4 @@
-title: Del Fire: Oslo Diversions<p style="font-size:90%; font-style:italic;">Oslo as Culture</p>
+title: Del Fire: Oslo Digressions<p style="font-size:90%; font-style:italic;">Oslo as Culture</p>
 slug: traveler/2023_05-scandinavia/04-oslo_culture
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Culture

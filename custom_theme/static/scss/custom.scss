@@ -1,0 +1,194 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.block-quote {
+	@extend .text-muted;
+	@extend .fst-italic;
+    @extend .mx-3;
+	}
+
+.fs-80 {
+    font-size: 80%;
+}
+.fs-125 {
+    font-size: 125%;
+}
+.fs-150 {
+    font-size: 150%;
+}
+.f-blue-grey {
+    color: #356895 !important;
+}
+.figure-caption {
+    color: #356895 !important;
+    font-style: italic !important;
+}
+.image-vert {
+    padding-left: 5rem !important;
+    padding-right: 5rem !important;
+}
+.btn-rounded {
+    border-radius: 2rem !important;
+}
+.btn-darkish {
+    background-color: #e5e5e5 !important;
+}
+.trip-subheader {
+    color: #4B739A !important;
+    font-size: calc(1.1rem + 0.1vw) !important;
+    font-variant: small-caps !important;
+    font-style: italic !important;
+}
+.trip-link {
+    color: #4B739A !important;
+    font-variant: small-caps !important;
+    font-style: italic !important;
+}
+.article-subheader {
+    color: #4B739A !important;
+    font-size: calc(1.2rem + 0.3vw) !important;
+    font-variant: small-caps !important;
+    font-style: italic !important;
+    margin-bottom: 0.5rem !important;
+}
+.article-subheader-anysize {
+    color: #4B739A !important;
+    font-variant: small-caps !important;
+    font-style: italic !important;
+    margin-bottom: 0.5rem !important;
+}
+.article-sub-subheader {
+    color: #586068 !important;
+    font-family:serif;
+    font-size: calc(1.1rem + 0.3vw) !important;
+    /* font-variant: small-caps !important; */
+    font-style: italic !important;
+    /* font-weight:bolder !important; */
+    margin-bottom: 0.5rem !important;
+}
+.video-div {
+    height: calc(200px + 14vw) !important;
+}
+.comment-box {
+    padding: 10px 10px 50px;
+    line-height: 150%;
+}
+.article-container {
+    position: sticky !important;
+    top: 100px !important;
+}
+.article-content {
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 200px !important;
+}
+.text-semimuted {
+    color: #656565;
+}
+.dict-def {
+    font-weight: bold;
+}
+.dict-def li span {
+    font-weight: normal;
+}
+.dict-def li ul {
+    font-weight: normal;
+}
+.flip-h{
+    display: inline-block;
+    transform: scale(-1, 1);
+}
+.no-dec {
+    text-decoration: none !important;
+}
+.section-divider {
+    color: #4B739A !important;
+    font-size: calc(0.6rem) !important;
+    text-align: center !important;
+    text-align: -webkit-center !important;
+}
+.carousel-centered {
+    text-align: center;
+}
+.carousel-centered > img {
+    min-width: 0 !important;
+}
+.carousel-traveler {
+    text-align: center;
+    background-color:rgb(160, 160, 160);
+}
+.carousel-traveler .carousel-item {
+    height: 16rem;
+}
+.carousel-traveler img {
+    min-width: 50%;
+    max-width: 100%;
+    height: 100%;
+}
+.card-header-traveler {
+    font-size: 0.9rem;
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-weight: bold;
+}
+.skewed {
+    display: inline-block;
+    -webkit-transform: skewx(20deg);
+         -o-transform: skewx(20deg);
+            transform: skewx(20deg);
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 10px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+  color: white;
+}
+.fa-envelope {
+  background: #125688;
+  color: white;
+}
+
+/* MEDIA QUERIES
+Extra small devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap*/
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .card-header-traveler {font-size: 1.1rem;}
+    .card-text-traveler {font-size: 0.85rem;}
+    .carousel-traveler .carousel-item {height: 22rem;}
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .card-header-traveler {font-size: 1.25rem;}
+    .card-text-traveler {font-size: 1.15rem;}
+    .carousel-traveler .carousel-item {height: 26rem;}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .carousel-traveler .carousel-item {height: 28rem;}
+    .card-header-traveler {font-size: 1rem;}
+    /* .card-text-traveler {font-size: 1.1rem;} */
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .carousel-traveler .carousel-item {height: 32rem;}
+    .card-header-traveler {font-size: 1.5rem;}
+    .card-text-traveler {font-size: 1.2rem;}
+}

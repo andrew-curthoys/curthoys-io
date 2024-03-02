@@ -1,4 +1,4 @@
-title: Del Fire: Oslo Diversions<p style="font-size:90%; font-style:italic;">Oslo as Gastronomy</p>
+title: Del Fire: Oslo Digressions<p style="font-size:90%; font-style:italic;">Oslo as Gastronomy</p>
 slug: traveler/2023_05-scandinavia/06-oslo_gastro
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Gastronomy
@@ -75,7 +75,65 @@ incomprehension, this drink is *impossibly* smooth.
 </figure>
 
 <p class="article-sub-subheader">Bar Lorry</p>
-Ordered myself a G&T with Icelandic Eagle Gin, which was presented in a
+"I'll have a gin & tonic with Bareksten gin"
+
+I've never heard of Bareksten gin. I like gin but the extent of my knowledge of
+the spirit is limited to a handful of the most recognizable brands. I chose
+Bareksten gin from the chalkboard of gin options at Bar Lorry for the simple
+fact that it's from Norway. A simple fact within which the distillers place
+immense pride.
+
+Reading their website feels like AI chatbot. In fact I asked an AI chatbot to
+write a product description of Norwegian botanical gin, which I present
+alongside the official Bareksten copy. Which is the true Bareksten? You be the
+judge:
+
+<div class="block-quote">
+<p>
+Bareksten represents the essence of Norway, in both taste and character – dark,
+wild, breathtaking and dramatic. Clean flavours inspired by ancient craft
+traditions are the soul of Bareksten`s botanical wonders.
+</p>
+<p>
+Norwegian ingredients, touched only by nature, form the basis for the raw
+flavours of Bareksten’s botanical spirits. In lonely landscapes inhabited only
+by the ‘Hulder’ wood nymphs, who live below ground surrounded by the roots of
+old oaks. This is where Bareksten takes its inspiration from.
+</p>
+<p>
+Nordic, natural and organic ingredients form the basis for its unique flavours.
+Silent trees. Mighty mountains. Raw nature. Mysterious forests. The taste of
+berries and herbs squeezed by Norwegian hands. Bareksten is the bottled essence
+of Norwegian nature.
+</p>
+</div>
+
+It sounds like it was written by an AI chatbot. In fact, here's a product
+description of Norwegian botanical gin written by an AI chatbot:
+
+<div class="block-quote">
+<p>
+Bareksten is a celebration of Norway’s pristine landscapes and the
+vibrant botanicals that thrive in its cool climate. It's more than a
+spirit—it’s an invitation to wander through Norway’s mystical boreal forests.
+</p>
+<p>
+Bareksten features a harmonious blend of handpicked botanicals, capturing the
+essence of the Nordic wilderness. Inspired by Viking lore, Bareksten
+features ancient herbs like meadowsweet, yarrow, and Icelandic moss, infusing
+the spirit with earthy, citrusy, and slightly tart notes. Close your eyes, and
+you’ll feel the forest floor beneath your feet.
+</p>
+<p>
+Sourced from crystal-clear mountain springs, the water used in distillation
+ensures purity and a smooth mouthfeel. Distilled under the watchful eye of
+moonlight, each batch undergoes a sacred ritual. The copper stills hum with
+ancient chants, infusing the gin with magic. Bareksten embodies the spirit of
+the Arctic.
+</p>
+</div>
+
+Ordered myself a G&T with Bareksten Gin, which was presented in a
 splendid goblet and a glass bottle of tonic to adulterate as I see fit. The
 sharp elixir perfectly complements the vibe of the Lorry, which I would best
 describe as eclectic sophistication.
@@ -237,3 +295,7 @@ pork dumplings
 
 As described on my Best Bars book
 Thief rooftop bar (disappointing)
+
+<h4 class="article-subheader">Sondre Hates Breakfast</h4>
+Well his loss is my gain, seeing as Nora loves breakfast and is over the moon to
+whip up a full Norwegian for me while Sondre attends a meeting.
