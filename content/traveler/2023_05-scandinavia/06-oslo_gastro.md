@@ -24,7 +24,7 @@ summary:
 * Coffee - donut place & Tim Wendelboe
 	* Talormade - Talor Browne https://talormade.no/about
 
-<p class="article-sub-subheader">"Your accent, where's it from?"</p>
+<h4 class="article-subheader">"Your accent, where's it from?"</h4>
 
 "I'm Australian, originally from Melbourne"
 
@@ -74,42 +74,27 @@ incomprehension, this drink is *impossibly* smooth.
   <figcaption class="figure-caption">That's some caffeine magic right there</figcaption>
 </figure>
 
-<p class="article-sub-subheader">Bar Lorry</p>
-"I'll have a gin & tonic with Bareksten gin"
+<h4 class="article-subheader" id="lorry">Bar Lorry</h4>
+"I'll have a gin & tonic"
 
-I've never heard of Bareksten gin. I like gin but the extent of my knowledge of
+"Great, and which gin would you like?"
+
+"Hmmmmm well..... hell I don't know let's go with Bareksten gin"
+
+I like gin but the extent of my knowledge of
 the spirit is limited to a handful of the most recognizable brands. I chose
-Bareksten gin from the chalkboard of gin options at Bar Lorry for the simple
+Bareksten gin from Bar Lorry's chalkboard of gin options for the simple
 fact that it's from Norway. A simple fact within which the distillers place
 immense pride.
 
-Reading their website feels like AI chatbot. In fact I asked an AI chatbot to
+A quick perusal of their website offers the reader a panoply of piny proverbs
+and arboreal aphorisms. It's so over the top it feels like reading the output
+of an AI chatbot. In fact I asked an AI chatbot to
 write a product description of Norwegian botanical gin, which I present
 alongside the official Bareksten copy. Which is the true Bareksten? You be the
 judge:
 
-<div class="block-quote">
-<p>
-Bareksten represents the essence of Norway, in both taste and character – dark,
-wild, breathtaking and dramatic. Clean flavours inspired by ancient craft
-traditions are the soul of Bareksten`s botanical wonders.
-</p>
-<p>
-Norwegian ingredients, touched only by nature, form the basis for the raw
-flavours of Bareksten’s botanical spirits. In lonely landscapes inhabited only
-by the ‘Hulder’ wood nymphs, who live below ground surrounded by the roots of
-old oaks. This is where Bareksten takes its inspiration from.
-</p>
-<p>
-Nordic, natural and organic ingredients form the basis for its unique flavours.
-Silent trees. Mighty mountains. Raw nature. Mysterious forests. The taste of
-berries and herbs squeezed by Norwegian hands. Bareksten is the bottled essence
-of Norwegian nature.
-</p>
-</div>
-
-It sounds like it was written by an AI chatbot. In fact, here's a product
-description of Norwegian botanical gin written by an AI chatbot:
+Ode to gin \#1:
 
 <div class="block-quote">
 <p>
@@ -130,6 +115,28 @@ ensures purity and a smooth mouthfeel. Distilled under the watchful eye of
 moonlight, each batch undergoes a sacred ritual. The copper stills hum with
 ancient chants, infusing the gin with magic. Bareksten embodies the spirit of
 the Arctic.
+</p>
+</div>
+
+Ode to gin \#2:
+
+<div class="block-quote">
+<p>
+Bareksten represents the essence of Norway, in both taste and character – dark,
+wild, breathtaking and dramatic. Clean flavours inspired by ancient craft
+traditions are the soul of Bareksten`s botanical wonders.
+</p>
+<p>
+Norwegian ingredients, touched only by nature, form the basis for the raw
+flavours of Bareksten’s botanical spirits. In lonely landscapes inhabited only
+by the ‘Hulder’ wood nymphs, who live below ground surrounded by the roots of
+old oaks. This is where Bareksten takes its inspiration from.
+</p>
+<p>
+Nordic, natural and organic ingredients form the basis for its unique flavours.
+Silent trees. Mighty mountains. Raw nature. Mysterious forests. The taste of
+berries and herbs squeezed by Norwegian hands. Bareksten is the bottled essence
+of Norwegian nature.
 </p>
 </div>
 
@@ -218,7 +225,7 @@ the taxidermied giraffe wearing a bowtie at the top of the stairs.
 are cheeky & fun!</figcaption>
 </div>
 
-<p class="article-sub-subheader">Izakaya</p>
+<h4 class="article-subheader">Izakaya</h4>
 One afternoon we're wandering around the Barcode when Nora exclaims, "Oh my
 friend works at Vin Bj&oslash;rvika, let's see if she's working!"
 

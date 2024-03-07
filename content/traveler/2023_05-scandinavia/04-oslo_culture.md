@@ -18,6 +18,9 @@ As I walk through the doors of the Munchmuseet's 6th floor
 <span class="skewed">Monumental</span> exhibit I'm momentarily blinded by
 brilliance.
 
+The expansive canvas of Edvard Munch's *The Sun* stretches the brain's expanse of
+credulity.
+
 Dazzled by magnificent rays of sunshine
 
 Stunned by wind battered cliffs

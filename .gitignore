@@ -139,4 +139,4 @@ locations.js
 locations.txt
 *ods
 content/_notes/
-custom_theme/static/node_modules
+node_modules/
