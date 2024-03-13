@@ -47,7 +47,7 @@ Speaking of...
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/aLdZmqvYuD8?si=rGM0rkDmGLcLmrVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<h4 class="article-subheader">Oslo as Culture</h4>
+<h4 class="article-subheader">The Built Environment</h4>
 Commanding an inviting or ominous presence on the Oslo waterfront depending on
 who you ask, the Munchmuseet (Edvard Munch Museum) is easily the most
 controversial edifice gracing the Oslo skyline. The angular, 13-story "vertial
@@ -90,6 +90,98 @@ upon her back, to mount the a humble gesture offering breathtaking views of the 
 
 
 Oslo's character as a low-rise city with plentiful green space
+
+<h4 class="article-subheader">Norsk Teknisk</h4>
+Upset that the Viking Ship Museum is closed. Closed from September 2021 until
+2025.
+
+The Norwegian Museum of Science and Technology sits a quarter mile from the
+source of the Akerselva, where Maridalsvannet releases her stored precipitation
+on its journey to the Osloflord. The museum wastes no time showcasing the
+importance of the Akerselva with a 20' replica water wheel spinning just steps
+inside the museum.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-water_wheel1.JPEG" alt="Water wheel">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-water_wheel2.JPEG" alt="Water wheel">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Harness the power of the mighty Aker<figcaption>
+</figure>
+
+The museum's collection features scientific and historical artifacts that paved
+the way for Norway's ascension to a modern industrial society. And in one case,
+*literally* paved the way as the museum features the world's oldest surviving
+steamroller, dating to 1878, 30 years before the advent of Ford's Model T.
+
+To my utmost chagrin I am constrained for time today, as my ferry to
+Copenhagen sets sail at 3 PM sharp. This museum trip is going to have to be
+much more of a 
+
+The museum features rooms dedicated to 
+
+<div class="article-photo-subheader">Music</div>
+<figure class="figure">
+  <div class="row">
+	  <div class="col-6">
+			<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_music1.JPEG" alt="Phonographs">
+		</div>
+		<div class="col-6">
+			<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_music2.JPEG" alt="Concert piano">
+		</div>
+	</div>
+  <figcaption class="figure-caption">ADD CAPTION<figcaption>
+</figure>
+
+
+<div class="article-photo-subheader">Transportation</div>
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_transpo1.JPEG" alt="Planes">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_transpo2.JPEG" alt="Bicycles">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_transpo3.JPEG" alt="Steam turbine">
+    </div>
+  </div>
+  <figcaption class="figure-caption">ADD CAPTION<figcaption>
+</figure>
+
+
+<div class="article-photo-subheader">Scientific instruments</div>
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_instruments.JPEG" alt="Scientific instruments">
+  <figcaption class="figure-caption">ADD CAPTION</figcaption>
+</figure>
+
+
+<div class="article-photo-subheader">Electricity</div>
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_elec1.JPEG" alt="Electric cannon">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_elec2.JPEG" alt="Capacitor">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_elec3.JPEG" alt="Plasma ball">
+    </div>
+  </div>
+  <figcaption class="figure-caption">ADD CAPTION<figcaption>
+</figure>
+
+
+<div class="article-photo-subheader">Astronomy</div>
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_astro.JPEG" alt="Telescope">
+  <figcaption class="figure-caption">ADD CAPTION</figcaption>
+</figure>
+
+
 
 Oslo as Culture
 * Munch

@@ -9334,6 +9334,14 @@ textarea.form-control-lg {
   /* font-weight:bolder !important; */
   margin-bottom: 0.5rem !important; }
 
+.article-photo-subheader {
+  color: #2b5177 !important;
+  font-family: sans-serif;
+  font-size: calc(1.3rem + 0.3vw) !important;
+  font-style: italic !important;
+  margin-top: 1rem !important;
+  margin-bottom: 0.5rem !important; }
+
 .video-div {
   height: calc(200px + 14vw) !important; }
 

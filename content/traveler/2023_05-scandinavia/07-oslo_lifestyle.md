@@ -14,6 +14,12 @@ short_sum: Oslo
 summary: 
 
 
+Oslo as a great place to live
+* Public transit
+* Not many cars
+* Almost all cars are electric
+* Soccer match
+
 <h4 class="article-subheader">Casually Modern</h4>
 It feels strange to call the capital of a wealthy European nation *sleepy*.
 
@@ -140,23 +146,26 @@ as a former manager is cognominated Leif Eriksen.
 
 Happy Leif Eriksen Day! Hinga Dinga Dargen!
 
-Oslo as a great place to live
-* Public transit
-* Not many cars
-* Almost all cars are electric
-* Soccer match
 
 <h4 class="article-subheader">Livin' on Tulsa Time</h4>
-"Oslo? You know Andy Mac lives there right?"
+"You're going to Oslo? You know Andy Mac lives there right?"
 
-"Wait.... what??"
+"Wait.... what?? Like *Andy Mac* Andy Mac?"
+
+"Yeah, THE Andy Mac lives in Oslo, been there a few years I think"
+
+"Well I'll be damned"
 
 And that's how I found myself seated next to this jabroney 4,500 miles from
 Father Hamill Field.
 
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-andy_mac.jpg" alt="Andy Mac">
+  <figcaption class="figure-caption">Beautiful day for an &oslash;l</figcaption>
+</figure>
 
-We met up for supper & a beer at _______ food hall, our party ____________
-a ravenous hunger from the day's Nordic Cycle. We catch up over a couple
+We met up for supper & a beer at Oslo Street Food food hall, our party staving
+off a ravenous hunger from the day's Nordic Cycle. We catch up over a couple
 teriyaki rice bowls and &Aring;ss lagers, my compadre filling me in on his
 journey to the land of the Norse.
 
@@ -165,4 +174,4 @@ few precisely timed *Point of Parliamentary Procedure*!! shouts into the
 transript to the chagrin of noone I'm sure.
 
 A few more &oslash;s & a handful of stories later finds us at Crow Bar, a 
-craft beer hall a snowball's throw from the food hall.
+craft beer hall and brewery a snowball's throw from the food hall.
