@@ -17,6 +17,7 @@ summary:
 <h4 class="article-subheader">Oslo as Gastronomy</h4>
 * Himkok
 * Nora's breakfast
+* Salmon at the fish market
 * Izakya
 * Bar Lorry
 * Crow Bar with Andy Mac

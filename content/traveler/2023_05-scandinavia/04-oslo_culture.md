@@ -47,12 +47,12 @@ Speaking of...
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/aLdZmqvYuD8?si=rGM0rkDmGLcLmrVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<h4 class="article-subheader">The Built Environment</h4>
-Commanding an inviting or ominous presence on the Oslo waterfront depending on
-who you ask, the Munchmuseet (Edvard Munch Museum) is easily the most
+<h4 class="article-subheader">The Oslo Waterfront</h4>
+The Munchmuseet (Edvard Munch Museum) commands an inviting or ominous presence
+on the shores of the Oslofjord depending on who you ask. It's easily the most
 controversial edifice gracing the Oslo skyline. The angular, 13-story "vertial
-museum" seems to bow towards the Oslofjord, as an old man with his
-hands clasped behind his back asking the fjord what he learned in school today.
+museum" seems to bow towards the Oslofjord, as old man with his
+hands clasped behind his back talking to squirrels in the park.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_building2.jpg" alt="Munch museum">
@@ -62,7 +62,8 @@ hands clasped behind his back asking the fjord what he learned in school today.
 The (few) proponents of the structure point to its distinctive architecture,
 sustainability bona-fides, and respectful, bow-like posture towards the Oslo
 city center, Opera House, & Oslofjord. Opponents claim it's harsh, orthogonal
-lines mar stick out like a . Others still point to the fact that the museum now blocks the
+lines mar stick out like a ________. Others still point to the fact that the
+museum now blocks the
 view of the fjord to some of the lower economic neighborhoods in the shadow
 of the museum.
 
@@ -90,6 +91,17 @@ upon her back, to mount the a humble gesture offering breathtaking views of the 
 
 
 Oslo's character as a low-rise city with plentiful green space
+
+<h4 class="article-subheader">Library</h4>
+Joining the Opera House in the group of buildings that are generally revered
+among Osloites(?) is the Oslo __________ Library.
+
+Stats.
+
+One lazy afternoon while wandering around the city center I duck into the
+library to continue my wanderings in of doors. The most striking aspect of the
+library is the massive atrium at its center. Waves of natural light wash
+through the space, 
 
 <h4 class="article-subheader">Norsk Teknisk</h4>
 Upset that the Viking Ship Museum is closed. Closed from September 2021 until

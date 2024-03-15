@@ -15,7 +15,7 @@ summary:
 
 <h4 class="article-subheader">Oslo as Nature</h4>
 Tucked away at at the head of the Oslofjord, the capital City of Norway offers
-a panoply of natural wonders for any adventurer.
+a panoply of natural wonders for all adventurers.
 
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
 under the loosely defined Norwegian concept of a *fjord*. If it's a salty body
@@ -52,18 +52,19 @@ what the allmennlege ordered!
   <figcaption class="figure-caption">A fabulous little island eatery.</figcaption>
 </figure>
 
-I discover that this island was the location of the original Oslo airport, which
-I deem utterly preposterous until I find that it was only for seaplanes. Because
-that's the most Viking thing I can think of.
+As I'm relaxing at the cafe I discover that this island was the location of the
+original Oslo airport. This revelation I find utterly preposterous until I find
+that it was only for seaplanes. Because that's the most Viking thing I can think of.
 
-<p class="article-sub-subheader">The Akerselva</p>
+<h4 class="article-subheader">The Akerselva</h4>
 After recovering from the debauchery of the 17th I decide to get a survey of
 the main confluence flowing through Oslo to the fjord. The Akerselva (Aker River)
 starts at Maridalsvannet (Lake Maridal) about 5 miles north of the city center
 and the main source of drinking water for Oslo.
 
 Sondre's apartment sits approximately halfway from source to mouth. An athlete
-with sufficient gumption could run the entire length of the Akerseva in an
+with sufficient gumption could leisurely round trip the entire length of the
+Akerseva in an
 afternoon. I decide to break it up into two separate days. Over the course of
 those two days I run about 80% of the length of the river and its 500 ft
 elevation gain, which I think is a relatively admirable achievement considering
@@ -118,7 +119,7 @@ attractions for Oslofolk to enjoy on a beautiful May day.
   </div>
 </figure>
 
-<p class="article-sub-subheader">Nordic Cycle</p>
+<h4 class="article-subheader">Nordic Cycle</h4>
 The fjord lends itself not only to skirting *atop* the water, just as much
 fun can be had *in* the water. Lining the fjord opposite the Opera House &
 Munch museum sit a handful of saunas affording the opportunity to partake in the
@@ -182,7 +183,7 @@ have said we have a *condo* up in the mountains, but whatever the appellation
 deemed appropriate for the accommodation I was not prepared for this:
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo_c-gausta_condo" alt="Gausta condo">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo_c-gausta_condo.jpeg" alt="Gausta condo">
   <figcaption class="figure-caption">I could apr&egrave;s my ass off here</figcaption>
 </figure>
 
@@ -206,36 +207,88 @@ i.e. brown cheese.
 It's mealy, it's flaccid, it's repulsive. And it's exactly what I want.
 
 Sondre & I scarf down our roadwaffles with a hearty helping of brown water
-masquerading as coffee. The first hour and a half of the drive is a jaunt
-through the idyllic rolling hills of the Norwegian countryside.
+masquerading as coffee. The first hour and a half of the drive is a tranquil
+jaunt through the idyllic rolling hills of the Norwegian countryside.
 
-We see bridges
+<p class="mb-0">We see bridges</p>
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_bridge.JPEG" alt="Gausta bridge">
+</figure>
 
+<p class="mb-0">We see stave churches</p>
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_church.JPEG" alt="Gausta church">
+</figure>
 
-We see stave churches
+<p class="mb-0">We see WWII ships</p>
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_ship.JPEG" alt="Gausta ship">
+</figure>
 
+<p class="mb-0">And then as we round a bend, the immense _________ of
+Gaustatoppen appears between two mountains</p>
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_mtn.JPEG" alt="Gaustatoppen">
+  <figcaption class="figure-caption">Dear god it's beautiful</figcaption>
+</figure>
 
-We see WWII ships
+I let out an audible gasp when G-top finally reveals his snowy crest. What
+stands out about this mountain is not only its enormous stature but its
+singularity, standing alone, towering over his tree flora covered neighbors.
+
+On the north side of the mountain sits the town of _____________. The town
+was founded as ____________.
+For 4(?) months of the year their massive mountain friend completely blocks
+the sun at all hours of the day. In ________ someone put in an artificial
+sun mirror.
+
 
 
 Gausta shadowing the entire town & sun mirror
 
+Seeing as we're nearly into June the chairlifts of the ski resort stopped
+spinning some time ago. However, there is still snow on the mountain and I
+kinda feel like sliding down it by god. Thankfully we are in luck - we can
+catch a ride to the top of the mountain, but it won't be on a chairlift. Or a
+T-bar. Or a rope tow.
 
-Ski lifts are shut down.
-We ride in a tram up the *inside* of the mountain.
+No sir, we're going to ride a tram up the *inside* of the mountain.
 
-My boots don't fit, my skis feel weird, the snow is sloppy.
+In _______ NATO built a base at the top of the mountain?
+As part of that project, a tunnel was carved through the granite and a tram
+was installed. The tram lumbers a half a mile horizontally into the mountain,
+at which point we disembark and squeeze ourselves and all our gear into a
+funicular railway car with 4 of our new best friends. Claustrophobics not
+welcome. The funicular climbs a 39 degree grade 3/4 of a mile to the top of the
+mountain where we unfold ourselves from our temporary pretzelation.
 
-I am in ecstasy. 
+At the top we soak in the magnificent views with a couple Aass Lite lagers we
+packed for the occasion.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_aass.JPEG" alt="Aass">
+  <figcaption class="figure-caption">Where else would you rather be</figcaption>
+</figure>
 
 
-And the vibe in Oslo is *casually modern*
+As we walk over to the NE(?Direction) cornice for a
+better view Sondre finds a soggy bit of snow and sinks up to his thigh. I make
+him wait to free his hoof before I snap a photo because it's just plain silly.
 
-The next morning I strap on my running boots and hit the Akerselva trail.
-Although I don't feel inclined to at the present moment, it wouldn't be
-inconceivable to run the entire length in one go as the entire extent of the
-waterway is 5 miles.  The
-mighty Akerselva is the main river running through Oslo
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_sondre_snow.JPEG" alt="Sondre stuck">
+  <figcaption class="figure-caption">Look awful stuck there, partner</figcaption>
+</figure>
+
+
+
+My boots don't fit, I don't have a proper jacket, my skis feel weird, the snow
+is sloppy.
+
+It's wonderful.
+
+
+
 * Akerselva run
 * Fjord
 * Sauna

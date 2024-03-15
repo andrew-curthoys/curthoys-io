@@ -568,7 +568,7 @@ stunning Norwegian beauty in an elaborate form-fitting bunad across the patio,
 "that's Martine's girlfriend right over there"
 
 Yeah I can't blame Martine there, a significant upgrade
-from the mountain troll in front of you.
+from the mountain troll standing before her.
 
 Typically in a conversation the other party replies to the first but I just sit
 and stare at Martine's girlfriend, mouth agape.
