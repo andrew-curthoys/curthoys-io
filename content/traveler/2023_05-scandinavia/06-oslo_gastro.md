@@ -292,7 +292,7 @@ company to bear the frigid Norwegian winter.
 
 I'm in love.
 
-We find our way to one of those perfectly patina-d tables, seating myself in the
+We find our way to one of those perfectly patina'd tables, seating myself in the
 upsettingly comfortable position of "fifth wheel."
 
 First things first. A round of Sapporos & sake.
@@ -307,3 +307,4 @@ Thief rooftop bar (disappointing)
 <h4 class="article-subheader">Sondre Hates Breakfast</h4>
 Well his loss is my gain, seeing as Nora loves breakfast and is over the moon to
 whip up a full Norwegian for me while Sondre attends a meeting.
+

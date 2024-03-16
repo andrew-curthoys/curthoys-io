@@ -293,21 +293,35 @@ Delaware, and Rhode Island. You could see a quarter of Oklahoma from up here.
 This must be what a tornado feels like.
 
 Once we've had our fill of the views and the Aass I strap on my (Sondre's
-brother's) gear and point my (Sondre's brother's) skis downhill.
+brother's) gear and  we point our skis downhill.
 
 My boots don't fit
 
 My skis feel weird
 
-the snow is sloppy,
+The snow is sloppy
 
-My jacket does not belong on a ski hill
+All of which is to say, *I'm having a wonderful time*
 
-It's wonderful.
-
-I'm skiing in May. In Norway.
+It's skiing... In May... In Norway...
 
 What the hell do I have to complain about?
+
+I reckon if Dante Alighieri wasn't such a fuckin square he probably would have
+filled one of his celestial spheres of heaven with shreddin' the gnar in Norway.
+
+Loser.
+
+So if you're not the deductive type I'll let you in on a little secret: I have
+nearly zero proficiency when it comes to the Norwegian language. As a result I
+imagine that the word "Gaustatoppen," when regarded from my position atop its
+summit, must translate to "Larry David's cranium." It's a completely bald dome
+surrounded by flecks of foliage. Have another look.
+
+
+Here's a bonus secret: I'm probably the only person who thinks I'm funny.
+
+
 
 
 
