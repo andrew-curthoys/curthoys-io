@@ -1,10 +1,10 @@
-title: Del Fire: Oslandinavian Digressions<p style="font-size:90%; font-style:italic;">Oslo as Nature</p>
+title: Del Fire: Oslovian Digressions<p style="font-size:90%; font-style:italic;">Part II: Oslo as Nature</p>
 slug: traveler/2023_05-scandinavia/05-oslo_nature
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Nature
 prev_day: 04-oslo_culture
 next_day: 06-oslo_gastro
-date: 2023-05-18
+date: 2023-05-18 02:00
 post_date: 2023-12-20
 category: traveler
 subcat: Gallivanting

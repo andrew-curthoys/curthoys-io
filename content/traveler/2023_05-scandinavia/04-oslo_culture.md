@@ -1,10 +1,10 @@
-title: Del Fire: Oslo Digressions<p style="font-size:90%; font-style:italic;">Oslo as Culture</p>
+title: Del Fire: Oslovian Digressions<p style="font-size:90%; font-style:italic;">Part I: Oslo as Culture</p>
 slug: traveler/2023_05-scandinavia/04-oslo_culture
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Culture
 prev_day: 03-norway_day
 next_day: 05-oslo_nature
-date: 2023-05-18
+date: 2023-05-18 01:00
 post_date: 2023-12-20
 category: traveler
 subcat: Gallivanting
@@ -94,7 +94,12 @@ Oslo's character as a low-rise city with plentiful green space
 
 <h4 class="article-subheader">Library</h4>
 Joining the Opera House in the group of buildings that are generally revered
-among Osloites(?) is the Oslo __________ Library.
+among Oslovians is the Diechman Bj&oslash;rvika Library. From the outside the
+most stunning feature of the buildings is its stunning terraced cantilever. The
+top floor reaches out towards the Oslofjord, providing a space for quiet
+concentration & contemplation.
+
+
 
 Stats.
 

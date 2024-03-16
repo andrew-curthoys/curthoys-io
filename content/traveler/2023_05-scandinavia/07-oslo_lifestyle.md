@@ -1,10 +1,10 @@
-title: Del Fire: Oslo Digressions<p style="font-size:90%; font-style:italic;">Oslo as Lifestyle</p>
+title: Del Fire: Oslovian Digressions<p style="font-size:90%; font-style:italic;">Part IV: Oslo as Lifestyle</p>
 slug: traveler/2023_05-scandinavia/07-oslo_lifestyle
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Lifestyle
 prev_day: 06-oslo_gastro
 next_day: 08-ferry*
-date: 2023-05-18
+date: 2023-05-18 04:00
 post_date: 2023-12-20
 category: traveler
 subcat: Gallivanting
@@ -26,7 +26,7 @@ It feels strange to call the capital of a wealthy European nation *sleepy*.
 My expectation of Oslo was a glinty skyscraper jungle that would feel at home
 in the opening scenes of a Bond flick.
 
-For a European capital I'm amazed at how intimate Oslo feels. With a
+To my surprise I'm amazed at how intimate Oslo feels. With a
 metropolitan population of 1.5 million, Oslo would slot 42nd in the US metro
 area population rankings, between Oklahoma City and Milwaukee. Which seems
 preposterous to me. While I've never really considered the population of the Oslo
@@ -128,7 +128,19 @@ club we hear a roar erupt from the hometown faithful.
 
 3-nil 'renga on a goal from Henrik Bj&oslash;rdal. Well I'll be!
 
-3-0 win for V&aring;lerenga against Hamarkameratene
+The second half sees no figurative fireworks, ending the way it began, 3-0 good
+guys. But it did see literal fireworks, when an opposing supporters threw an
+arsenal of incendiary devices on the pitch causing a few minute delay.
+
+<figure class="figure">
+  <div class="row">
+    <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-renga_fireworks1.JPEG" alt="Fireworks">
+  </div>
+  <div class="row">
+    <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-renga_fireworks2.JPEG" alt="Fireworks">
+  </div>
+  <figcaption class="figure-caption">Hooligans</figcaption>
+</figure>
 
 What I saw seems to be a bit of a high point for V&aring;lerenga - they finished
 the season in 14th place of 16, placing them in a battle for relegation against
