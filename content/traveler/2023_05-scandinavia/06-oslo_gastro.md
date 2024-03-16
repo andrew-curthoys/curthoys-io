@@ -305,6 +305,25 @@ As described on my Best Bars book
 Thief rooftop bar (disappointing)
 
 <h4 class="article-subheader">Sondre Hates Breakfast</h4>
-Well his loss is my gain, seeing as Nora loves breakfast and is over the moon to
+Sondre and I differ in many ways.
+
+One of those ways is our affinity for breakfast foods.
+
+When the thought of fried eggs, toast, yogurt, fresh berries,
+brunost, and hot coffee, all presented on a delightful bamboo tray on a perfect
+Norwegian morning crosses Sondre's brain he thinks
+
+"Nah that's not for me"
+
+In contrast, my brain thinks,
+
+"Where do I sign?"
+
+Nora is a breakfast aficionado, a dawn's early light chef of the highest
+order.
+
+That's hospitality. And what else is Norway than hospitality.
+
+eeing as Nora loves breakfast and is over the moon to
 whip up a full Norwegian for me while Sondre attends a meeting.
 
