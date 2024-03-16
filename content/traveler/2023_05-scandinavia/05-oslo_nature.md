@@ -271,7 +271,7 @@ packed for the occasion.
 </figure>
 
 
-As we walk over to the NE(?Direction) cornice for a
+As we walk over to the NE cornice for a
 better view Sondre finds a soggy bit of snow and sinks up to his thigh. I make
 him wait to free his hoof before I snap a photo because it's just plain silly.
 
@@ -280,12 +280,34 @@ him wait to free his hoof before I snap a photo because it's just plain silly.
   <figcaption class="figure-caption">Look awful stuck there, partner</figcaption>
 </figure>
 
+But what I really came over here for was an amateur digital photo of the
+breathtaking scenery of Telemark County. According to 
+<href westcoastpeaks.com>
 
+Our vantage point offers a view of 50,000 square km (19,300 square miles),
+nearly 1/6th of Norway's entire mainland. The amount of
+god's green & white earth within our purview at this moment exceeds the entire
+landed area within the states of Maryland, Hawaii, and Massachusetts, and more
+than *doubles* the areas of Vermont, New Hampshire, New Jersey, Connecticut,
+Delaware, and Rhode Island. You could see a quarter of Oklahoma from up here.
+This must be what a tornado feels like.
 
-My boots don't fit, I don't have a proper jacket, my skis feel weird, the snow
-is sloppy.
+Once we've had our fill of the views and the Aass I strap on my (Sondre's
+brother's) gear and point my (Sondre's brother's) skis downhill.
+
+My boots don't fit
+
+My skis feel weird
+
+the snow is sloppy,
+
+My jacket does not belong on a ski hill
 
 It's wonderful.
+
+I'm skiing in May. In Norway.
+
+What the hell do I have to complain about?
 
 
 
