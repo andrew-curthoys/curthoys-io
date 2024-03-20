@@ -13,8 +13,8 @@ activity: 2023 Scandinavian Sk&oslash;yestreker
 short_sum: Oslo
 summary: 
 
-<h4 class="article-subheader">Oslo as Nature</h4>
-Tucked away at at the head of the Oslofjord, the capital City of Norway offers
+<h4 class="article-subheader">A Fjord By Any Other Name</h4>
+Tucked away at at the head of the Oslofjord, Norway's capital city offers
 a panoply of natural wonders for all adventurers.
 
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
