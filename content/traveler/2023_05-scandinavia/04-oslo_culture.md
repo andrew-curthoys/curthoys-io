@@ -47,6 +47,14 @@ Speaking of...
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/aLdZmqvYuD8?si=rGM0rkDmGLcLmrVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<h4 class="article-subheader">Munch</h4>
+
+
+With installations spanning 6 of the museum's floors (the others are
+used for performances, administrative tasks, and a restaurant/bar) visitors
+can spend a day at the museum and still not see all there is to see within its
+capacious 500,000 square feet.
+
 <h4 class="article-subheader">The Oslo Waterfront</h4>
 The Munchmuseet (Edvard Munch Museum) commands an inviting or ominous presence
 on the shores of the Oslofjord depending on who you ask. It's easily the most
@@ -62,21 +70,16 @@ hands clasped behind his back talking to squirrels in the park.
 The (few) proponents of the structure point to its distinctive architecture,
 sustainability bona-fides, and respectful, bow-like posture towards the Oslo
 city center, Opera House, & Oslofjord. Opponents claim it's harsh, orthogonal
-lines mar stick out like a ________. Others still point to the fact that the
-museum now blocks the
-view of the fjord to some of the lower economic neighborhoods in the shadow
-of the museum.
+lines mar an otherwise elegant skyline. Others contend that the museum blocks
+the view of the fjord to some of the lower economic neighborhoods in the shadow
+of its edifice.
+
+It's nothing if not controversial.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_building1.jpg" alt="Munch museum">
   <figcaption class="figure-caption">You be the judge.</figcaption>
 </figure>
-
-What cannot be debated, however, is the brilliance on display inside the
-museum. With installations spanning 6 of the museum's floors (the others are
-used for performances, administrative tasks, and a restaurant/bar) visitors
-can spend a day at the museum and still not see all there is to see within its
-capacious 500,000 square feet.
 
 Sha notable denizens of the skyline include the Oslo Opera House and the 
 

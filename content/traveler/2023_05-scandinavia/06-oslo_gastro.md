@@ -20,60 +20,7 @@ summary:
 * Salmon at the fish market
 * Izakya
 * Bar Lorry
-* Crow Bar with Andy Mac
 * Mathallen
-* Coffee - donut place & Tim Wendelboe
-	* Talormade - Talor Browne https://talormade.no/about
-
-<h4 class="article-subheader">"Your accent, where's it from?"</h4>
-
-"I'm Australian, originally from Melbourne"
-
-"No way! I love Australia, I have a cousin in Perth!"
-
-And that's how I met Talor Browne, the owner of
-<a href="https://talormade.no/" target="_blank" rel="noopener noreferrer">Talormade</a>,
-a neon obeliscolychny attracting Oslofolk far and wide with its irresistible
-good vibes, outstanding coffee, and mouthwatering doughnuts. Asked
-how the heck she ended up 10,000 miles from home on the other side of the world,
-she briefly regales her quest to find the perfect cup of coffee.
-
-Originally departing the land of Oz for a Parisian cafe in the early 2010s,
-Talor happened to meet Tim Wendelboe, a goliath in the world of specialty coffee.
-This chance encounter led to Talor working her way up to head roaster in Timmy W's
-outfit. After slingin' beans with the 'boe she got a hankerin' to set off on
-her own. After a few years of hosting wildly popular doughnut pop-ups (oh yeah, 
-she's a trained pastry chef, nbd) and running her own roastery, Talor opened her
-first brick-and-mortar location of Talormade in February 2020.
-
-And that's exactly where I'm standing right now, eager to slam my first proper
-flat white since 2019, "well seeing as you hail from down under I'm
-gonna have to order a flat white"
-
-"Great idea!"
-
-As I take a seat on a plush purple couch Talor calls out over the din of the
-espresso machine, "hey, have you ever had a cappuccino al freddo?"
-
-"I have no idea what that is"
-
-"Well it just feels like a cappuccino al freddo day & I'm going to make myself
-one, would you like to try one?"
-
-"Damn right I would!"
-
-Talor fills me in on the cap al fred - originating in the Greek islands, this
-cold coffee drink involves dolloping cold, extremely frothy milk over a couple
-shots of iced espresso and topping it with a dash of cocoa powder. I don't
-know where in that process Talor imbued witchcraft because I pick up the glass
-and can't believe how light it is. *Is this glass filled with air??? What is
-happening???* I take a sip and my brain further spirals into a meltdown of
-incomprehension, this drink is *impossibly* smooth.
-
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-freddo.jpeg" alt="Cap al fred">
-  <figcaption class="figure-caption">That's some caffeine magic right there</figcaption>
-</figure>
 
 <h4 class="article-subheader" id="lorry">Bar Lorry</h4>
 "I'll have a gin & tonic"
@@ -85,17 +32,18 @@ incomprehension, this drink is *impossibly* smooth.
 I like gin but the extent of my knowledge of
 the spirit is limited to a handful of the most recognizable brands. I chose
 Bareksten gin from Bar Lorry's chalkboard of gin options for the simple
-fact that it's from Norway. A simple fact within which the distillers place
-immense pride.
+fact that it's from Norway. A simple fact it may be for me, but for the
+distillers, it's a point of immense pride.
 
 A quick perusal of their website offers the reader a panoply of piny proverbs
 and arboreal aphorisms. It's so over the top it feels like reading the output
 of an AI chatbot. In fact I asked an AI chatbot to
 write a product description of Norwegian botanical gin, which I present
-alongside the official Bareksten copy. Which is the true Bareksten? You be the
-judge:
+alongside the official Bareksten copy.
 
-Ode to gin \#1:
+Which is the true Bareksten? You be the judge:
+
+<p class="lead">Ode to gin #1:</p>
 
 <div class="block-quote">
 <p>
@@ -119,7 +67,7 @@ the Arctic.
 </p>
 </div>
 
-Ode to gin \#2:
+<p class="lead">Ode to gin #2:</p>
 
 <div class="block-quote">
 <p>

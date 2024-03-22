@@ -47,10 +47,10 @@ the Oslofjord puts Oslo into the highest
 tier of my city rankings: *Cities With Harbors*. I just love myself a great
 harbor.
 
-One of the appealing features of the Oslofjord are her scattered islands within
-a short ferry of downtown. On a particularly delightful sunny day I find myself
-in the mood for a little salty air whipping through my hair. I check the ferry
-schedule and find they run
+One of the most appealing features of the Oslofjord are her scattered islands
+within a short ferry of downtown. As I'm rambling around the city center one
+particularly delightful sunny day the tousled mop atop my head cries out for
+a rush of salty air. I check the ferry schedule and find they run
 every 30 minutes in a loop of 5 islands - Nakkholmen, Lind&oslash;ya,
 Gressholmen, Bleik&oslash;ya, and (of course) Hoved&oslash;ya.
 
@@ -325,22 +325,21 @@ All of which is to say, *I'm having a wonderful time*
 
 It's skiing... In May... In Norway...
 
-What the hell do I have to complain about?
+There is nobody on the planet who is having a better time than I right now.
 
-I reckon if Dante Alighieri wasn't such a fuckin square he probably would have
-filled one of his celestial spheres of heaven with shreddin' the gnar in Norway.
-
-Loser.
-
-So if you're not the deductive type I'll let you in on a little secret: I have
-nearly zero proficiency when it comes to the Norwegian language. As a result I
-imagine that the word "Gaustatoppen," when regarded from my position atop its
-summit, must translate to "Larry David's cranium." It's a completely bald dome
-surrounded by flecks of foliage. Have another look.
+<figure class="figure mx-5">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_top.JPEG" alt="Gausta">
+  <figcaption class="figure-caption">If you're happy & you know it</figcaption>
+</figure>
 
 
-Here's a bonus secret: I'm probably the only person who thinks I'm funny.
 
+
+
+Seeing as I have nearly zero proficiency when it comes to the Norwegian
+language, but I have to imagine that the word "Gaustatoppen," when viewed from
+my current vantage point, must translate to "Larry David's cranium." I'm
+currently standing atop a completely bald dome ringed by wispy flecks of foliage.
 
 
 

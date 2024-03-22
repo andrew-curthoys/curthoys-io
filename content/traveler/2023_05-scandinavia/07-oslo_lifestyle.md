@@ -187,3 +187,55 @@ transript to the chagrin of noone I'm sure.
 
 A few more &oslash;s & a handful of stories later finds us at Crow Bar, a 
 craft beer hall and brewery a snowball's throw from the food hall.
+
+
+<h4 class="article-subheader">"Your accent, where's it from?"</h4>
+
+"I'm Australian, originally from Melbourne"
+
+"No way! My cousin lives in Perth! Beautiful country. How the hell did you end
+up all the way up here??"
+
+And that's how I met Talor Browne, the owner of
+<a href="https://talormade.no/" target="_blank" rel="noopener noreferrer">Talormade</a>,
+a neon obeliscolychny attracting Oslofolk far and wide with its irresistible
+good vibes, outstanding coffee, and mouthwatering doughnuts. Asked
+how the heck she ended up 10,000 miles from home on the other side of the world,
+she briefly regales her quest to find the perfect cup of coffee.
+
+Originally departing the land of Oz for a Parisian cafe in the early 2010s,
+Talor happened to meet Tim Wendelboe, a goliath in the world of specialty coffee.
+This chance encounter led to Talor working her way up to head roaster in Timmy W's
+outfit. After slingin' beans with the 'boe she got a hankerin' to set off on
+her own. After a few years of hosting wildly popular doughnut pop-ups (oh yeah, 
+she's a trained pastry chef, nbd) and running her own roastery, Talor opened her
+first brick-and-mortar location of Talormade in February 2020.
+
+And that's exactly where I'm standing right now, eager to slam my first proper
+flat white since 2019, "well seeing as you hail from down under I'm
+gonna have to order a flat white"
+
+"Great idea!"
+
+As I take a seat on a plush purple couch Talor calls out over the din of the
+espresso machine, "hey, have you ever had a cappuccino al freddo?"
+
+"Never even heard of such a thing"
+
+"Well it just feels like a cappuccino al freddo type of day & I'm going to make
+myself one, would you like to try one?"
+
+"Damn right I would!"
+
+Talor fills me in on the cap al fred - originating in the Greek islands, this
+cold coffee drink involves dolloping cold, extremely frothy milk over a couple
+shots of iced espresso and topping it with a dash of cocoa powder. I don't
+know where in that process Talor imbued witchcraft because I pick up the glass
+and can't believe how light it is. *Is this glass filled with air??? What is
+happening???* I take a sip and my brain further spirals into a meltdown of
+incomprehension. This drink is *impossibly* smooth.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-freddo.jpeg" alt="Cap al fred">
+  <figcaption class="figure-caption">That's some caffeine magic right there</figcaption>
+</figure>

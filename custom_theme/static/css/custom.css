@@ -9329,9 +9329,7 @@ textarea.form-control-lg {
   color: #586068 !important;
   font-family: serif;
   font-size: calc(1.1rem + 0.3vw) !important;
-  /* font-variant: small-caps !important; */
   font-style: italic !important;
-  /* font-weight:bolder !important; */
   margin-bottom: 0.5rem !important; }
 
 .article-photo-subheader {
