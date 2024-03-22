@@ -186,8 +186,19 @@ few precisely timed *Point of Parliamentary Procedure*!! shouts into the
 transript to the chagrin of noone I'm sure.
 
 A few more &oslash;s & a handful of stories later finds us at Crow Bar, a 
-craft beer hall and brewery a snowball's throw from the food hall.
+craft beer saloon just a snowball's throw from the food hall. The Crow also
+operates a small brewing concern in the back, and being a man who supports small
+business, I order myself a Crow's House Ale.
 
+I enjoy a couple rounds of suds with the fellas, until one by one they grow weary
+of my company and scuttle away like rats on a sinking ship. I'm on holiday and
+don't have to work tomorrow so I make nonsensical small talk with the bartender
+over a Lindheim &Oslash;ysteinnatten Pale Ale.
+
+In the process of flappin my gums I remember that Andy Mac, subsequent to
+retreating to his sleeping quarters, mentioned that Lervig is his favorite
+brewery in Norway. Armed with this intel I order up a Lervig Supersonic DDH IPA,
+a flagon of ale so delicious I feel obligated to order another. 
 
 <h4 class="article-subheader">"Your accent, where's it from?"</h4>
 
