@@ -15,15 +15,35 @@ summary:
 
 <h4 class="article-subheader">A Fjord By Any Other Name</h4>
 Tucked away at at the head of the Oslofjord, Norway's capital city offers
-a panoply of natural wonders for all adventurers.
+a wide array of natural wonders to enjoy.
 
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
-under the loosely defined Norwegian concept of a *fjord*. If it's a salty body
-of water it's probably a fjord. In Norway a fjord is a vibe.
+under the loosely defined Norwegian concept of a *fjord*. If you go by the
+definition offered by Springer Reference's *Encyclopedia of Estuaries*, a fjord
+is "a sea inlet that has inundated a trough
+formed by glacial erosion, ranging in length from a few to hundreds of
+kilometers. Although troughs erode rapidly under glacial conditions, many fjords
+are erosionally complex, palimpsest features that formed over the course of
+multiple glacial episodes."
+
+Furthermore, the "cross-sectional profiles of fjords
+can be described mathematically by empirical power-law functions or second-order
+polynomials."
+
+I thought I was out but you pulled me back in, *Encyclopedia of
+Estuaries*. Well played.
+
+<figure class="figure mx-5">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-estuaries.jpeg" alt="Estuaries">
+  <figcaption class="figure-caption">Yes, the Encyclopedia of Estuaries is actually a thing</figcaption>
+</figure>
+
+To a Norwegian a fjord is, I dunno, like that water out there. In Norway a
+fjord is a vibe.
 
 If you're cool like the Norwegians and call it a fjord or lame like the
-geological technocrats and call it... a bay?... Whatever you decide to call it,
-the waterway puts Oslo into the highest
+geological technocrats and call it... a bay?...
+the Oslofjord puts Oslo into the highest
 tier of my city rankings: *Cities With Harbors*. I just love myself a great
 harbor.
 
