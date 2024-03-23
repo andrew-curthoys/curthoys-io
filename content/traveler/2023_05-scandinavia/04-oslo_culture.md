@@ -30,8 +30,10 @@ Bowled over by rolling ocean waves
 The scene unfolding on the sprawling canvas outspread afore me renders me
 speechless.
 
-The staggering extent of the canvas gives the feeling of Edvard Munch's marvelous painting *The Sun*. Stretching a staggering *26 feet
-across* and *15 feet high*, the  of Edvard Munch's marvelous *The Sun* spews rays of bright, beautiful sunshine
+The staggering extent of the canvas gives the feeling of Edvard Munch's
+marvelous painting *The Sun*. Stretching a staggering *26 feet
+across* and *15 feet high*, the  of Edvard Munch's marvelous *The Sun* spews
+rays of bright, beautiful sunshine
 across its sprawling canvas.  the
 painting was pithily described by Munch, "I saw the sun rise up above the
 rocks - I painted the sun." I was expecting to be
@@ -54,6 +56,16 @@ With installations spanning 6 of the museum's floors (the others are
 used for performances, administrative tasks, and a restaurant/bar) visitors
 can spend a day at the museum and still not see all there is to see within its
 capacious 500,000 square feet.
+
+Munch
+shape of freedom
+lost in color
+painting the unspeakable
+Asker Jorn - Danish
+even the floor is beautiful
+chamber of chaos
+calming & soothing - calming music & pillows, etc.
+
 
 <h4 class="article-subheader">The Oslo Waterfront</h4>
 The Munchmuseet (Edvard Munch Museum) commands an inviting or ominous presence
