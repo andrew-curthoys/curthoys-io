@@ -159,47 +159,6 @@ as a former manager is cognominated Leif Eriksen.
 Happy Leif Eriksen Day! Hinga Dinga Dargen!
 
 
-<h4 class="article-subheader">Livin' on Tulsa Time</h4>
-"You're going to Oslo? You know Andy Mac lives there right?"
-
-"Wait.... what?? Like *Andy Mac* Andy Mac?"
-
-"Yeah, THE Andy Mac lives in Oslo, been there a few years I think"
-
-"Well I'll be damned"
-
-And that's how I found myself seated next to this jabroney 4,500 miles from
-Father Hamill Field.
-
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-andy_mac.jpg" alt="Andy Mac">
-  <figcaption class="figure-caption">Beautiful day for an &oslash;l</figcaption>
-</figure>
-
-We met up for supper & a beer at Oslo Street Food food hall, our party staving
-off a ravenous hunger from the day's Nordic Cycle. We catch up over a couple
-teriyaki rice bowls and &Aring;ss lagers, my compadre filling me in on his
-journey to the land of the Norse.
-
-I try to keep up with the barrister banter between Will & Andy Mac, lobbing a
-few precisely timed *Point of Parliamentary Procedure*!! shouts into the
-transript to the chagrin of noone I'm sure.
-
-A few more &oslash;s & a handful of stories later finds us at Crow Bar, a 
-craft beer saloon just a snowball's throw from the food hall. The Crow also
-operates a small brewing concern in the back, and being a man who supports small
-business, I order myself a Crow's House Ale.
-
-I enjoy a couple rounds of suds with the fellas, until one by one they grow weary
-of my company and scuttle away like rats on a sinking ship. I'm on holiday and
-don't have to work tomorrow so I make nonsensical small talk with the bartender
-over a Lindheim &Oslash;ysteinnatten Pale Ale.
-
-In the process of flappin my gums I remember that Andy Mac, subsequent to
-retreating to his sleeping quarters, mentioned that Lervig is his favorite
-brewery in Norway. Armed with this intel I order up a Lervig Supersonic DDH IPA,
-a flagon of ale so delicious I feel obligated to order another. 
-
 <h4 class="article-subheader">"Your accent, where's it from?"</h4>
 
 "I'm Australian, originally from Melbourne"
@@ -250,3 +209,47 @@ incomprehension. This drink is *impossibly* smooth.
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-freddo.jpeg" alt="Cap al fred">
   <figcaption class="figure-caption">That's some caffeine magic right there</figcaption>
 </figure>
+
+
+<h4 class="article-subheader">Livin' on Tulsa Time</h4>
+"You're going to Oslo? You know Andy Mac lives there right?"
+
+"Wait.... what?? Like *Andy Mac* Andy Mac?"
+
+"Yeah, THE Andy Mac lives in Oslo, been there a few years I think"
+
+"Well I'll be damned"
+
+And that's how I found myself seated next to this jabroney 4,500 miles from
+Father Hamill Field.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-andy_mac.jpg" alt="Andy Mac">
+  <figcaption class="figure-caption">Beautiful day for an &oslash;l</figcaption>
+</figure>
+
+We met up for supper & a beer at Oslo Street Food food hall, our party staving
+off a ravenous hunger from the day's Nordic Cycle. We catch up over a couple
+teriyaki rice bowls and &Aring;ss lagers, my compadre filling me in on his
+journey to the land of the Norse.
+
+I try to keep up with the barrister banter between Will & Andy Mac, lobbing a
+few precisely timed *Point of Parliamentary Procedure*!! shouts into the
+transript to the chagrin of noone I'm sure.
+
+A few more &oslash;s & a handful of stories later finds us at Crow Bar, a 
+craft beer saloon just a snowball's throw from the food hall. The Crow also
+operates a small brewing concern in the back, and being a man who supports small
+business, I order myself a Crow's House Ale.
+
+I enjoy a couple rounds of suds with the fellas, until one by one they grow weary
+of my company and scuttle away like rats on a sinking ship. I'm on holiday and
+don't have to work tomorrow so I make nonsensical small talk with the bartender
+over a Lindheim &Oslash;ysteinnatten Pale Ale.
+
+In the process of flappin my gums I remember that Andy Mac, subsequent to
+retreating to his sleeping quarters, mentioned that Lervig is his favorite
+brewery in Norway. Armed with this intel I order up a Lervig Supersonic DDH IPA,
+a flagon of ale so delicious I feel obligated to order another. 
+
+And maybe another

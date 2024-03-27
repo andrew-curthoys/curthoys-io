@@ -14,8 +14,9 @@ short_sum: Oslo
 summary: 
 
 <h4 class="article-subheader">A Fjord By Any Other Name</h4>
-Tucked away at at the head of the Oslofjord, Norway's capital city offers
-a wide array of natural wonders to enjoy.
+Tucked away at at the head of the Oslofjord, Norway's capital city embraces its
+plentiful natural wonders; as one walks around the city they are constantly
+reminded of the 
 
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
 under the loosely defined Norwegian concept of a *fjord*. If you go by the
