@@ -14,25 +14,19 @@ short_sum: All the culture Oslo has to offer
 summary: 
 
 <h4 class="article-subheader">The Sun</h4>
-As I walk through the doors of the Munchmuseet's 6th floor
-<span class="skewed">Monumental</span> exhibit I'm momentarily blinded by
-brilliance.
+On a beautiful Norwegian May afternoon I find myself blinded while staring
+directly at The Sun.
 
-The expansive canvas of Edvard Munch's *The Sun* stretches the brain's expanse of
-credulity.
+Blinded, not by the ultraviolet radiation of the life-giving
+<a href="https://en.wikipedia.org/wiki/G-type_main-sequence_star" target="_blank" rel="noreferrer no opener"> G-type main-sequence star</a>
+at the center of our solar system, but by the brilliant rays of sunshine
+emanating from the massive canvas stretched before me on the wall of the
+Munchmuseet's 6th floor <span class="skewed">Monumental</span> exhibit.
 
-Dazzled by magnificent rays of sunshine
+A painting so expansive, so vibrant, so expressive, so utterly indescribable
+that it was described to me before I came and I'm still completely dumbfounded.
 
-Stunned by wind battered cliffs
-
-Bowled over by rolling ocean waves
-
-The scene unfolding on the sprawling canvas outspread afore me renders me
-speechless.
-
-The staggering extent of the canvas gives the feeling of Edvard Munch's
-marvelous painting *The Sun*. Stretching a staggering *26 feet
-across* and *15 feet high*, the  of Edvard Munch's marvelous *The Sun* spews
+Stretching a staggering *26 feet across* and *15 feet high*, the of Edvard Munch's marvelous *The Sun* spews
 rays of bright, beautiful sunshine
 across its sprawling canvas.  the
 painting was pithily described by Munch, "I saw the sun rise up above the
@@ -70,7 +64,7 @@ calming & soothing - calming music & pillows, etc.
 <h4 class="article-subheader">The Oslo Waterfront</h4>
 The Munchmuseet (Edvard Munch Museum) commands an inviting or ominous presence
 on the shores of the Oslofjord depending on who you ask. It's easily the most
-controversial edifice gracing the Oslo skyline. The angular, 13-story "vertial
+disputatious edifice gracing the Oslo skyline. The angular, 13-story "vertial
 museum" seems to bow towards the Oslofjord, as old man with his
 hands clasped behind his back talking to squirrels in the park.
 
@@ -89,8 +83,9 @@ of its edifice.
 It's nothing if not controversial.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_building1.jpg" alt="Munch museum">
-  <figcaption class="figure-caption">You be the judge.</figcaption>
+		<img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_sucks.png" alt="Munch museum sucks">
+  <figcaption class="figure-caption">Norwegians are notoriously reserved, let's see if
+  they tell us how they really feel in the article</figcaption>
 </figure>
 
 Sha notable denizens of the skyline include the Oslo Opera House and the 
@@ -221,3 +216,22 @@ Oslo as Culture
 * Library
 * Nationaltheateret
 * Technology museum
+
+"Munch Museum sucks"
+https://www.dagbladet.no/kultur/arkitekt---jeg-vil-si-at-munchmuseet-suger/70816188
+
+Architect Gaute Brochmann, editor of the journal Architecture N, describes it
+thusly, (as translated by my internet browser)
+
+<div class="block-quote">
+"I say that the Munch Museum sucks, both in the sense that it does not look
+good - but also in the sens that it sucks all light out of Bjorvika"
+</div>
+
+
+
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_building1.jpg" alt="Munch museum">
+  <figcaption class="figure-caption">You be the judge.</figcaption>
+</figure>
