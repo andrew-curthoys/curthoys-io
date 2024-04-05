@@ -21,10 +21,15 @@ Oslo as a great place to live
 * Soccer match
 
 <h4 class="article-subheader">Casually Modern</h4>
-It feels strange to call the capital of a wealthy European nation *sleepy*.
+When I try to think of how I would describe Oslo as compared to my expectation,
+*sleepy* is the first word that comes to mind. But it's not the right word. It's
+not sleepy, but it's also not the glinty skyscraper jungle you may come to
+expect of a European capital city. It's a
 
-My expectation of Oslo was a glinty skyscraper jungle that would feel at home
-in the opening scenes of a Bond flick.
+After perusing the idea over many ales I decide on the term *casually modern*.
+
+It's a world class 21st century city but it doesn't make a fuss about it. It's
+a city where ___. It's a city where *shit just works*.
 
 To my surprise I'm amazed at how intimate Oslo feels. With a
 metropolitan population of 1.5 million, Oslo would slot 42nd in the US metro
@@ -92,7 +97,7 @@ metal barricades.
 I look over at Daniel, then to Daniel, then back to Daniel. Reckon that's one
 less name I have to remember.
 
-Daniel escorts us past the fence & hands us a lanyard with a ticket. Daniel
+(New) Daniel escorts us past the fence & hands us a lanyard with a ticket. Daniel
 is Sondre's friend and works for V&aring;lerenga in whatever official capacity
 requires him to wear a blue suit to games. Whatever his job I'm thrilled to
 lean into his hospitality because our tickets grant us access to the club level
@@ -102,8 +107,6 @@ the aisles lest you have to leave your seat for liquid refreshment, European
 soccer arenas have mostly banned alcohol at games in no small part to the
 advanced studies of hooliganry Europeans have amassed.
 
-We walk past a line of people 50 yards long waiting to get into the stadium.
-His other friend (also named Daniel) meets us at a
 
 Club beers - two sausages in one lompe trick Sondre shows me.
 <figure class="figure">

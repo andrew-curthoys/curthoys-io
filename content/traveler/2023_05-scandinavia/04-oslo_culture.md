@@ -64,7 +64,7 @@ calming & soothing - calming music & pillows, etc.
 <h4 class="article-subheader">The Oslo Waterfront</h4>
 The Munchmuseet (Edvard Munch Museum) commands an inviting or ominous presence
 on the shores of the Oslofjord depending on who you ask. It's easily the most
-disputatious edifice gracing the Oslo skyline. The angular, 13-story "vertial
+disputatious edifice gracing the Oslo skyline. The angular, 13-story "vertical
 museum" seems to bow towards the Oslofjord, as old man with his
 hands clasped behind his back talking to squirrels in the park.
 
@@ -88,7 +88,8 @@ It's nothing if not controversial.
   they tell us how they really feel in the article</figcaption>
 </figure>
 
-Sha notable denizens of the skyline include the Oslo Opera House and the 
+Other notable denizens sharing the Oslo skyline with the Munchmuseet include the
+Oslo Opera House and the Diechman Bj&oslash;rvika Central Public Library.
 
 I was not blessed with the opportunity to grace the halls of the Opera House but
 we did walk on *top* of it. Opened in 2008, the Oslo Opera House finds itself
