@@ -14,9 +14,11 @@ short_sum: Oslo
 summary: 
 
 <h4 class="article-subheader">A Fjord By Any Other Name</h4>
-Tucked away at at the head of the Oslofjord, Norway's capital city embraces its
-plentiful natural wonders; as one walks around the city they are constantly
-reminded of the 
+Tucked away at at the head of the Oslofjord, Norway's capital city boasts
+natural wonders in droves. You get the sense that the city isn't separate from
+the land but integrated into it. At any point in the city you are within
+walking distance of the fjord, the mountains, a river, or any of the plentiful
+green spaces dotted throughout the city.
 
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
 under the loosely defined Norwegian concept of a *fjord*. If you go by the
@@ -39,14 +41,13 @@ Estuaries*. Well played.
   <figcaption class="figure-caption">Yes, the Encyclopedia of Estuaries is actually a thing</figcaption>
 </figure>
 
-To a Norwegian a fjord is, I dunno, like that water out there. In Norway a
+To a Norwegian a fjord is, I dunno, like *that water out there*. In Norway a
 fjord is a vibe.
 
 If you're cool like the Norwegians and call it a fjord or lame like the
-geological technocrats and call it... a bay?...
-the Oslofjord puts Oslo into the highest
-tier of my city rankings: *Cities With Harbors*. I just love myself a great
-harbor.
+geological technocrats and call it... a bay?... the Oslofjord puts Oslo into the
+highest tier of my city rankings: *Cities With Harbors*. I just love myself a
+great harbor.
 
 One of the most appealing features of the Oslofjord are her scattered islands
 within a short ferry of downtown. As I'm rambling around the city center one

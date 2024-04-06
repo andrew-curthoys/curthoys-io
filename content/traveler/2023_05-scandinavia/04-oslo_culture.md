@@ -204,6 +204,16 @@ The museum features rooms dedicated to
 
 
 <div class="article-photo-subheader">Astronomy</div>
+In 1764 Danish historian Peder Frederik Suhm, reflecting on Norway's place in
+the scientific landscape of the era, remarked, "no country in Europe was in
+worse circumstance for scientific growth and progress." This despite a leader of
+European scientific discovery sitting just a short jaunt to the south in
+Copenhagen, most notably at the *Royal Society of Sciences of Copenhagen*.
+
+In an effort to bolster the scientific King Frederik V established *The Free
+Mathematical School* in Oslo, and the *Royal Norwegian Mining Seminar* in
+Kongsberg in the mid 18th Century.
+
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_astro.JPEG" alt="Telescope">
   <figcaption class="figure-caption">ADD CAPTION</figcaption>
