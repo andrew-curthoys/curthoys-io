@@ -214,9 +214,14 @@ In an effort to bolster the scientific King Frederik V established *The Free
 Mathematical School* in Oslo, and the *Royal Norwegian Mining Seminar* in
 Kongsberg in the mid 18th Century.
 
+This telescope was built in 1797 by Abraham Pihl, a Norwegian vicar who had
+assisted Thomas Buffe at the observatory in Copenhagen. It features an
+achromatic lens, a revolutionary technological advance for the time that
+reduced the blurriness that was common in telescope lenses of the day that
+suffered from chromatic & spherical aberration.
+
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_astro.JPEG" alt="Telescope">
-  <figcaption class="figure-caption">ADD CAPTION</figcaption>
 </figure>
 
 
