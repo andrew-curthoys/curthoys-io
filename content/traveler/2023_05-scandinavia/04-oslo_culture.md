@@ -14,8 +14,9 @@ short_sum: All the culture Oslo has to offer
 summary: 
 
 <h4 class="article-subheader">The Sun</h4>
-On a beautiful Norwegian May afternoon I find myself blinded while staring
-directly at The Sun.
+You shouldn't stare directly at the sun. This much I know to be true.
+
+But on this beautiful Norwegian May afternoon I just can't help myself.
 
 Blinded, not by the ultraviolet radiation of the life-giving
 <a href="https://en.wikipedia.org/wiki/G-type_main-sequence_star" target="_blank" rel="noreferrer no opener"> G-type main-sequence star</a>
@@ -43,25 +44,84 @@ Speaking of...
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/aLdZmqvYuD8?si=rGM0rkDmGLcLmrVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<h4 class="article-subheader">Munch</h4>
-
-
-With installations spanning 6 of the museum's floors (the others are
-used for performances, administrative tasks, and a restaurant/bar) visitors
-can spend a day at the museum and still not see all there is to see within its
-capacious 500,000 square feet.
-
-Munch
-shape of freedom
-lost in color
-painting the unspeakable
-Asker Jorn - Danish
-even the floor is beautiful
-chamber of chaos
-calming & soothing - calming music & pillows, etc.
-
 
 <h4 class="article-subheader">The Oslo Waterfront</h4>
+Prior to the *Fjord City* urban renewal project in the mid-aughts, the Oslo
+waterfront was clogged with maritime shipping infrastructure, a massive
+train yard, and the 8 lanes of European Route E-18. As part of the *Fjord City*
+project, the port was moved to S&oslash;rhavna, the train yard was reconfigured,
+and the highway was re-routed to a tunnel under the harbor.
+
+These infrastructure improvements opened the waterfront, affording the citizens
+of Oslo acres of prime fjordfront real estate to bask in their Scandinavian
+happiness. The waterfront development is anchored by the Oslo Opera House, home
+to the Norwegian National Opera and Ballet, and the Oslo Public Library, home
+to.... a lot of books. 450,000 of them in fact.
+
+One day, on a stroll along the waterfront, I popped into the library to see if
+I could read them all in one go.
+
+Opening in a banner time for public gathering, 18 June 2020, the Deichman
+Bj&oslash;rvika Oslo Public Library embodies the philosophy and aesthetic of the
+Oslo waterfront. On the design of the library, the architects remarked, "we
+think we have succeeded in making a building that is huge, but at the same time
+feels intimate so people can feel they belong there." Further, "here you will
+find spaces for meeting, rehearsal rooms, gaming rooms, exhibition niches,
+a record studio, silent reading rooms etc. Even though the books still have a
+strong presence this library is designed first and foremost as a place for people."
+
+With the design, the architects not only to bring people together, but to bring
+them together while inviting the outside in. to create a building that would
+bring people together while allowing the outside in. The facade of the building
+is coated in windows and the roof boats three diagonal light shafts that allow
+for sunlight to spill from the roof all the way to the ground floor.
+
+The most striking feature of the building, however, is the fifth-floor
+cantilever. Jutting 60 feet towards the fjord, the top floor of the library
+boasts a bright amphitheater with gradual steps down to the fourth floor. The
+cantilever serves multiple purposes, allowing breathtaking views of the
+Oslofjord, while preserving street-level views of the Opera House.
+
+The five-story building is designed in such a way
+that each floor a 
+
+
+Library June 18 2020
+Opera House: April 12 2008
+Munchmuseet: October 22, 2021
+
+I was not blessed with the opportunity to grace the halls of the Opera House but
+we did walk on *top* of it. Opened in 2008, the Oslo Opera House finds itself
+in the small minority of structures in our built environment where it's
+encouraged to walk on the roof. The winner of an open competition that bested
+350 other entrants, the Opera House's exterior of white granite and Italian
+carrara marble give the impression of an iceberg slinking away into the frigid
+waters of the fjord. The building's sloped roof invites all who arrive to walk
+upon her back, to mount the a humble gesture offering breathtaking views of the fjord and city
+
+
+Oslo's character as a low-rise city with plentiful green space
+
+<h4 class="article-subheader">Library</h4>
+Joining the Opera House in the group of buildings that are generally revered
+among Oslovians is the Diechman Bj&oslash;rvika Library. From the outside the
+most stunning feature of the buildings is its stunning terraced cantilever. The
+top floor reaches out towards the Oslofjord, providing a space for quiet
+concentration & contemplation.
+
+Dope article on library engineering.
+https://www.autodesk.com/design-make/articles/norway-sustainable-development
+
+
+Stats.
+
+One lazy afternoon while wandering around the city center I duck into the
+library to continue my wanderings in of doors. The most striking aspect of the
+library is the massive atrium at its center. Waves of natural light wash
+through the space, 
+
+
+<h4 class="article-subheader">Munch</h4>
 The Munchmuseet (Edvard Munch Museum) commands an inviting or ominous presence
 on the shores of the Oslofjord depending on who you ask. It's easily the most
 disputatious edifice gracing the Oslo skyline. The angular, 13-story "vertical
@@ -88,36 +148,21 @@ It's nothing if not controversial.
   they tell us how they really feel in the article</figcaption>
 </figure>
 
-Other notable denizens sharing the Oslo skyline with the Munchmuseet include the
-Oslo Opera House and the Diechman Bj&oslash;rvika Central Public Library.
 
-I was not blessed with the opportunity to grace the halls of the Opera House but
-we did walk on *top* of it. Opened in 2008, the Oslo Opera House finds itself
-in the small minority of structures in our built environment where it's
-encouraged to walk on the roof. The winner of an open competition that bested
-350 other entrants, the Opera House's exterior of white granite and Italian
-carrara marble give the impression of an iceberg slinking away into the frigid
-waters of the fjord. The building's sloped roof invites all who arrive to walk
-upon her back, to mount the a humble gesture offering breathtaking views of the fjord and city
+With installations spanning 6 of the museum's floors (the others are
+used for performances, administrative tasks, and a restaurant/bar) visitors
+can spend a day at the museum and still not see all there is to see within its
+capacious 500,000 square feet.
 
+Munch
+shape of freedom
+lost in color
+painting the unspeakable
+Asker Jorn - Danish
+even the floor is beautiful
+chamber of chaos
+calming & soothing - calming music & pillows, etc.
 
-Oslo's character as a low-rise city with plentiful green space
-
-<h4 class="article-subheader">Library</h4>
-Joining the Opera House in the group of buildings that are generally revered
-among Oslovians is the Diechman Bj&oslash;rvika Library. From the outside the
-most stunning feature of the buildings is its stunning terraced cantilever. The
-top floor reaches out towards the Oslofjord, providing a space for quiet
-concentration & contemplation.
-
-
-
-Stats.
-
-One lazy afternoon while wandering around the city center I duck into the
-library to continue my wanderings in of doors. The most striking aspect of the
-library is the massive atrium at its center. Waves of natural light wash
-through the space, 
 
 <h4 class="article-subheader">Norsk Teknisk</h4>
 Upset that the Viking Ship Museum is closed. Closed from September 2021 until

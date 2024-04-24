@@ -20,6 +20,10 @@ the land but integrated into it. At any point in the city you are within
 walking distance of the fjord, the mountains, a river, or any of the plentiful
 green spaces dotted throughout the city.
 
+
+**Marka**- the name for the dense forest surrounding the city
+https://www.lifeinnorway.net/oslo-fjord-city-harbour-walk/ma
+
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
 under the loosely defined Norwegian concept of a *fjord*. If you go by the
 definition offered by Springer Reference's *Encyclopedia of Estuaries*, a fjord
