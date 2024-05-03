@@ -1,4 +1,4 @@
-title: Del Fire: Oslovian Digressions<p style="font-size:90%; font-style:italic;">Part II: Oslo as Nature</p>
+title: Sidequest: Oslovian Expeditions<p style="font-size:90%; font-style:italic;">Part II: Oslo as Nature</p>
 slug: traveler/2023_05-scandinavia/05-oslo_nature
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Nature

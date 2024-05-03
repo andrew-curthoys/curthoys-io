@@ -1,4 +1,4 @@
-title: Del Fire: Oslovian Digressions<p style="font-size:90%; font-style:italic;">Part IV: Oslo as Lifestyle</p>
+title: Sidequest: Oslovian Expeditions<p style="font-size:90%; font-style:italic;">Part IV: Oslo as Lifestyle</p>
 slug: traveler/2023_05-scandinavia/07-oslo_lifestyle
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Lifestyle
@@ -21,6 +21,22 @@ Oslo as a great place to live
 * Soccer match
 
 <h4 class="article-subheader">Casually Modern</h4>
+It's not until I'm a temporary resident of Oslo for a week that I
+first *consciously* noticed the smell of the city.
+
+Or more accurately, lack of smell.
+
+The realization occurred while waiting for an electric streetcar in the
+heart of downtown. Standing on the curb with nary a rambling automobile in
+sight. A handful of cars are within my visual grasp, all of which are
+parked tranquilly on the curb, oat bags full of ancient grains distilled to
+an unimaginably potent liquor.
+
+As I'm standing on the curb observing the dearth of automobiles in one of
+Europe's capitals that I fulley appreciate the beautiful bouquet of Oslo city
+air. A gaseous mixture almost wholly unblemished by the byproducts of the
+internal combustion engine's Otto cycle.
+
 When I try to think of how I would describe Oslo as compared to my expectation,
 *sleepy* is the first word that comes to mind. But it's not the right word. It's
 not sleepy, but it's also not the glinty skyscraper jungle you may come to

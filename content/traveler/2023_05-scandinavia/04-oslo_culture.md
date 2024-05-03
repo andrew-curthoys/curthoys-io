@@ -1,4 +1,4 @@
-title: Oslovian Explorations<p style="font-size:90%; font-style:italic;">Part I: Oslo as Culture</p>
+title: Sidequest: Oslovian Expeditions<p style="font-size:90%; font-style:italic;">Part I: Oslo as Culture</p>
 slug: traveler/2023_05-scandinavia/04-oslo_culture
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Culture
@@ -14,9 +14,13 @@ short_sum: All the culture Oslo has to offer
 summary: 
 
 <h4 class="article-subheader">The Sun</h4>
-You shouldn't stare directly at the sun. This much I know to be true.
+You shouldn't stare directly at the sun.
 
-But on this beautiful Norwegian May afternoon I just can't help myself.
+Everybody knows that.
+
+But on this beautiful Norwegian May afternoon I simply can't help myself.
+
+And that's how I blinded myself in Norway.
 
 Blinded, not by the ultraviolet radiation of the life-giving
 <a href="https://en.wikipedia.org/wiki/G-type_main-sequence_star" target="_blank" rel="noreferrer no opener"> G-type main-sequence star</a>
@@ -27,7 +31,8 @@ Munchmuseet's 6th floor <span class="skewed">Monumental</span> exhibit.
 A painting so expansive, so vibrant, so expressive, so utterly indescribable
 that it was described to me before I came and I'm still completely dumbfounded.
 
-Stretching a staggering *26 feet across* and *15 feet high*, the of Edvard Munch's marvelous *The Sun* spews
+Stretching a staggering *26 feet across* and *15 feet high*, the of Edvard
+Munch's marvelous *The Sun* spews
 rays of bright, beautiful sunshine
 across its sprawling canvas.  the
 painting was pithily described by Munch, "I saw the sun rise up above the

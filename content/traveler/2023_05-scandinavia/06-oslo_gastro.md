@@ -1,4 +1,4 @@
-title: Del Fire: Oslovian Digressions<p style="font-size:90%; font-style:italic;">Part III: Oslo as Gastronomy</p>
+title: Sidequest: Oslovian Expeditions<p style="font-size:90%; font-style:italic;">Part III: Oslo as Gastronomy</p>
 slug: traveler/2023_05-scandinavia/06-oslo_gastro
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Gastronomy
