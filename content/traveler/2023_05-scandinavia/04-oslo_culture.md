@@ -19,27 +19,29 @@ You shouldn't stare directly at the sun.
 Everybody knows that.
 
 But on this beautiful Norwegian May afternoon I simply can't help myself.
+Transfixed, my retinae lock on to the glowing orb, incapable of averting their
+lustful gaze.
 
-And that's how I blinded myself in Norway.
+Blinded by its radiant corona.
 
-Blinded, not by the ultraviolet radiation of the life-giving
-<a href="https://en.wikipedia.org/wiki/G-type_main-sequence_star" target="_blank" rel="noreferrer no opener"> G-type main-sequence star</a>
-at the center of our solar system, but by the brilliant rays of sunshine
+Blinded, not by the ultraviolet radiation of our life-giving
+<a href="https://en.wikipedia.org/wiki/G-type_main-sequence_star" target="_blank" rel="noreferrer no opener"> G-type main-sequence star</a>,
+but by the brilliant rays of sunshine
 emanating from the massive canvas stretched before me on the wall of the
 Munchmuseet's 6th floor <span class="skewed">Monumental</span> exhibit.
 
-A painting so expansive, so vibrant, so expressive, so utterly indescribable
-that it was described to me before I came and I'm still completely dumbfounded.
+Edvard Munch's *The Sun* is
+a painting so expansive, so vibrant, so expressive, so utterly indescribable
+that it was previously described to me and I'm still completely dumbfounded.
 
-Stretching a staggering *26 feet across* and *15 feet high*, the of Edvard
-Munch's marvelous *The Sun* spews
-rays of bright, beautiful sunshine
-across its sprawling canvas.  the
+Stretching a staggering *26 feet across* and *15 feet high*, the marvelous
+painting spews rays of bright, beautiful sunshine across its sprawling canvas.
+Standing in front of it you feel the warmth.
 painting was pithily described by Munch, "I saw the sun rise up above the
 rocks - I painted the sun." I was expecting to be
 wowed but I find myself completely bowled over with astonishment. 
 
-This prodigious painting isn't even his most massive. *The Reserchers*, a
+This prodigious work isn't even his most massive. *The Reserchers*, a
 painting of children digging and exploring in the sand, measures an
 astounding 16' x 36'. It's a surreal experience to stand beside these
 remarkable works of art, if not for the artistry of it all but the logistics of
@@ -52,9 +54,9 @@ Speaking of...
 
 <h4 class="article-subheader">The Oslo Waterfront</h4>
 Prior to the *Fjord City* urban renewal project in the mid-aughts, the Oslo
-waterfront was clogged with maritime shipping infrastructure, a massive
-train yard, and the 8 lanes of European Route E-18. As part of the *Fjord City*
-project, the port was moved to S&oslash;rhavna, the train yard was reconfigured,
+waterfront was an industrial snarl, clogged with maritime shipping infrastructure,
+train yards, and the 8 lanes of European Route E-18. As part of the *Fjord City*
+project, the port was moved to S&oslash;rhavna, the train yard was relocated,
 and the highway was re-routed to a tunnel under the harbor.
 
 These infrastructure improvements opened the waterfront, affording the citizens
@@ -63,10 +65,10 @@ happiness. The waterfront development is anchored by the Oslo Opera House, home
 to the Norwegian National Opera and Ballet, and the Oslo Public Library, home
 to.... a lot of books. 450,000 of them in fact.
 
-One day, on a stroll along the waterfront, I popped into the library to see if
-I could read them all in one go.
+One day, on a stroll along the waterfront, I pop into the library to try to
+read them all in one go.
 
-Opening in a banner time for public gathering, 18 June 2020, the Deichman
+Opening at a banner time for public gathering - June 2020 - the Deichman
 Bj&oslash;rvika Oslo Public Library embodies the philosophy and aesthetic of the
 Oslo waterfront. On the design of the library, the architects remarked, "we
 think we have succeeded in making a building that is huge, but at the same time
@@ -120,11 +122,6 @@ https://www.autodesk.com/design-make/articles/norway-sustainable-development
 
 Stats.
 
-One lazy afternoon while wandering around the city center I duck into the
-library to continue my wanderings in of doors. The most striking aspect of the
-library is the massive atrium at its center. Waves of natural light wash
-through the space, 
-
 
 <h4 class="article-subheader">Munch</h4>
 The Munchmuseet (Edvard Munch Museum) commands an inviting or ominous presence
@@ -158,6 +155,19 @@ With installations spanning 6 of the museum's floors (the others are
 used for performances, administrative tasks, and a restaurant/bar) visitors
 can spend a day at the museum and still not see all there is to see within its
 capacious 500,000 square feet.
+
+The first three floors are dedicated to artists other than Munch, whetting our
+artistic appetites for more floors to come.
+
+As we wind through the halls of the museum I'm enthralled by the third floor's
+*The Shape of Freedom* exhibit. Norway's largest exhibition of abstract
+expressionism, or *art informel* as the Euros call it, tells a story of a world
+recovering from war. These are the kinds of works that I'd have the natural
+tendency to deride as "throwing paint at a wall" or "something a trained simian
+could do, and it wouldn't even have to be trained that well."
+
+But what the Munchmuseet 
+
 
 Munch
 shape of freedom
