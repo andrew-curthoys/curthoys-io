@@ -150,6 +150,8 @@ It's nothing if not controversial.
   they tell us how they really feel in the article</figcaption>
 </figure>
 
+But what the Munchmuseet lacks in architectural charm it boasts in mindblowing
+works of art.
 
 With installations spanning 6 of the museum's floors (the others are
 used for performances, administrative tasks, and a restaurant/bar) visitors
@@ -166,8 +168,29 @@ recovering from war. These are the kinds of works that I'd have the natural
 tendency to deride as "throwing paint at a wall" or "something a trained simian
 could do, and it wouldn't even have to be trained that well."
 
-But what the Munchmuseet 
+But the museum does a masterful job of telling a story through their collection.
+As you enter the exhibit you are welcomed by a series of pieces that portend the
+storm clouds of war gathering over Europe. 
 
+As you continue through the space the pieces slowly shift from an ominous sense
+of impending doom to 
+Photographs of tattered studios in war torn cities accompany works dominated by
+dark colors and harsh lines. Dispersed between the pieces are are descriptions
+of the milieu in which the artists lived and worked. Art is always an expression
+of its time but I have to imagine wartime only emphasizes the degree to which
+art reflects the world it is made within.
+
+By end of the exhibit the mood of the pieces begin to gradually lighten,
+reflective of a world emerging from the largest bloodletting in history,
+hopeful for what lies ahead, thankful for surviving the carnage, and rueful for
+having to live through a catastrophe completely out of their control.
+
+The works, in their entirety, create
+
+The lower floors hold a handful of other exhibits with titles such as *Lost in
+Color* and *Painting the Unspeakable* that highlight works from Scandinavian
+artists and a smattering of others from around the world, who all complement
+the works of Munch to be seen shortly in the floors above.
 
 Munch
 shape of freedom
