@@ -15,8 +15,10 @@ summary:
 
 <h4 class="article-subheader">A Fjord By Any Other Name</h4>
 Tucked away at at the head of the Oslofjord, Norway's capital city boasts
-natural wonders in droves. You get the sense that the city isn't separate from
-the land but integrated into it. At any point in the city you are within
+countless natural wonders for adventurers, outdoorsy folks, or general
+enthusiasts of scenic delights. Strolling around the city you get the sense that
+it's not separate from the land but integrated into it. There's even a word for
+it - *Marka* - which is the dense forest surrounding the city. At any point you can find yourself within
 walking distance of the fjord, the mountains, a river, or any of the plentiful
 green spaces dotted throughout the city.
 

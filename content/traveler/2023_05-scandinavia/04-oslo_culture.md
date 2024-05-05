@@ -189,8 +189,12 @@ The works, in their entirety, create
 
 The lower floors hold a handful of other exhibits with titles such as *Lost in
 Color* and *Painting the Unspeakable* that highlight works from Scandinavian
-artists and a smattering of others from around the world, who all complement
+artists and a smattering of others from around the world, who all compliment
 the works of Munch to be seen shortly in the floors above.
+
+This museum is so wonderful even the floors are beautiful.
+
+
 
 Munch
 shape of freedom

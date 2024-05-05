@@ -39,13 +39,14 @@ internal combustion engine's Otto cycle.
 
 When I try to think of how I would describe Oslo as compared to my expectation,
 *sleepy* is the first word that comes to mind. But it's not the right word. It's
-not sleepy, but it's also not the glinty skyscraper jungle you may come to
-expect of a European capital city. It's a
-
-After perusing the idea over many ales I decide on the term *casually modern*.
+not *sleepy*. But it's also not the glinty skyscraper jungle you may come to
+expect of a European capital city. It's a low(ish) slung town sitting in a
+valley minding its own business.
 
 It's a world class 21st century city but it doesn't make a fuss about it. It's
 a city where ___. It's a city where *shit just works*.
+
+After perusing the idea over many ales I decide on the term *casually modern*.
 
 To my surprise I'm amazed at how intimate Oslo feels. With a
 metropolitan population of 1.5 million, Oslo would slot 42nd in the US metro
