@@ -14,19 +14,21 @@ short_sum: Oslo
 summary: 
 
 <h4 class="article-subheader">A Fjord By Any Other Name</h4>
-Tucked away at at the head of the Oslofjord, Norway's capital city boasts
-countless natural wonders for adventurers, outdoorsy folks, or general
-enthusiasts of scenic delights. Strolling around the city you get the sense that
-it's not separate from the land but integrated into it. There's even a word for
-it - *Marka* - which is the dense forest surrounding the city. At any point you can find yourself within
-walking distance of the fjord, the mountains, a river, or any of the plentiful
-green spaces dotted throughout the city.
+Tucked away at at the head of the Oslofjord, Norway's capital city boasts an
+embarrassment of natural riches. Strolling around town you find that the line
+dividing city from nature is blurry, and oftentimes, nonexistent. There's even a
+word for it - *Marka* - which describes the dense forest that surrounds, and
+in the most benevolent way possible, ensnarls the city. At any point you'll
+find yourself within walking distance of forests, mountains, lakes, rivers, or
+the great Oslofjord.
 
+ natural wonders for adventurers, outdoorsy folks, or general
+enthusiasts of scenic delights
 
 **Marka**- the name for the dense forest surrounding the city
 https://www.lifeinnorway.net/oslo-fjord-city-harbour-walk/ma
 
-While not a *technically* a fjord in the geologic sense, the Oslofjord falls
+The Oslofjord, while not a *technically* a fjord in the geologic sense, falls
 under the loosely defined Norwegian concept of a *fjord*. If you go by the
 definition offered by Springer Reference's *Encyclopedia of Estuaries*, a fjord
 is "a sea inlet that has inundated a trough
@@ -83,6 +85,7 @@ what the allmennlege ordered!
 As I'm relaxing at the cafe I discover that this island was the location of the
 original Oslo airport. This revelation I find utterly preposterous until I find
 that it was only for seaplanes. Because that's the most Viking thing I can think of.
+
 
 <h4 class="article-subheader">The Akerselva</h4>
 After recovering from the debauchery of the 17th I decide to get a survey of
