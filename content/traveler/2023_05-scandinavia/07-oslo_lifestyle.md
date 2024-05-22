@@ -22,39 +22,38 @@ Oslo as a great place to live
 
 <h4 class="article-subheader">Casually Modern</h4>
 It's not until I'm a temporary resident of Oslo for a week that I
-first *consciously* noticed the smell of the city.
+first notice the smell of the city.
 
 Or more accurately, lack of smell.
 
-The realization occurred while waiting for an electric streetcar in the
-heart of downtown. Standing on the curb with nary a rambling automobile in
+The realization occurs while waiting for an electric streetcar in the
+heart of downtown, standing on the curb with nary a rambling automobile in
 sight. A handful of cars are within my visual grasp, all of which are
 parked tranquilly on the curb, oat bags full of ancient grains distilled to
 an unimaginably potent liquor.
 
-As I'm standing on the curb observing the dearth of automobiles in one of
-Europe's capitals that I fulley appreciate the beautiful bouquet of Oslo city
-air. A gaseous mixture almost wholly unblemished by the byproducts of the
-internal combustion engine's Otto cycle.
+It's while I'm standing there on that street corner, observing the dearth of
+automobiles that I fully appreciate Oslo's olfactory opulence. A gaseous mixture
+almost wholly unblemished by the byproducts of the internal combustion engine's
+Otto cycle.
 
 When I try to think of how I would describe Oslo as compared to my expectation,
 *sleepy* is the first word that comes to mind. But it's not the right word. It's
 not *sleepy*. But it's also not the glinty skyscraper jungle you may come to
-expect of a European capital city. It's a low(ish) slung town sitting in a
-valley minding its own business.
+expect of a European capital city.
 
-It's a world class 21st century city but it doesn't make a fuss about it. It's
-a city where ___. It's a city where *shit just works*.
+It's a low(ish) slung town sitting in a valley minding its own business. 
+It's a world class city that doesn't make a fuss about it.
+It's a city where *shit just works*.
 
-After perusing the idea over many ales I decide on the term *casually modern*.
+After pondering the identity of the city over many ales I decide on a term I
+think that most pithily represents the spirit of the city: *casually modern*.
 
 To my surprise I'm amazed at how intimate Oslo feels. With a
 metropolitan population of 1.5 million, Oslo would slot 42nd in the US metro
-area population rankings, between Oklahoma City and Milwaukee. Which seems
-preposterous to me. While I've never really considered the population of the Oslo
-Metropolitan Area, I still can't believe that it's comparable to *Oklahoma City*.
+area population rankings, between Oklahoma City and Milwaukee.
 
-What Oklahoma City lacks in transit and density Oslo boasts in droves. At any
+At any
 point you're no more than a block or two from a subway, tramway, or bus route
 that can efficiently ferry you about the city. Due to its
 relatively small footprint (from a quick glance at a map it seems at least
@@ -193,17 +192,25 @@ good vibes, outstanding coffee, and mouthwatering doughnuts. Asked
 how the heck she ended up 10,000 miles from home on the other side of the world,
 she briefly regales her quest to find the perfect cup of coffee.
 
-Originally departing the land of Oz for a Parisian cafe in the early 2010s,
-Talor happened to meet Tim Wendelboe, a goliath in the world of specialty coffee.
-This chance encounter led to Talor working her way up to head roaster in Timmy W's
-outfit. After slingin' beans with the 'boe she got a hankerin' to set off on
-her own. After a few years of hosting wildly popular doughnut pop-ups (oh yeah, 
-she's a trained pastry chef, nbd) and running her own roastery, Talor opened her
-first brick-and-mortar location of Talormade in February 2020.
+Hailing from *somewhere between Sydney & Melbourne*, Talor departed the scorched
+landmass she called home for Oslo in 2012 to work for Tim Wendelboe, a man who I have
+since learned is a goliath in the world of specialty coffee. In a few short
+years Talor worked her way up to head roaster in Timmy W's outfit, making her
+the envy of anyone who's pulled the perfect shot of espresso.
 
-And that's exactly where I'm standing right now, eager to slam my first proper
-flat white since 2019, "well seeing as you hail from down under I'm
-gonna have to order a flat white"
+After a few years of slingin' beans with the 'boe she got a hankerin' to set off on
+her own. She began hosting doughnut pop up events that quickly gained a ravenous
+following (oh yeah, she's a trained pastry chef, nbd) and spun up her own
+roastery. After all her hard work the universe decided to shit in her latte
+because the date she finally opened her first brick-and-mortar location of
+Talormade was... February 2020.
+
+Big oof.
+
+So that wasn't ideal but she managed to scrape through and I'm standing in the
+exact place where she first opened her doors.
+
+"Well seeing as you hail from down under I'm gonna have to order a flat white"
 
 "Great idea!"
 

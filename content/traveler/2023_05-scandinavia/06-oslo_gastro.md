@@ -275,3 +275,5 @@ That's hospitality. And what else is Norway than hospitality.
 eeing as Nora loves breakfast and is over the moon to
 whip up a full Norwegian for me while Sondre attends a meeting.
 
+<h4 class="article-subheader">Mathallen</h4>
+

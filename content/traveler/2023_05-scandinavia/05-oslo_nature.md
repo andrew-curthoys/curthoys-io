@@ -14,21 +14,18 @@ short_sum: Oslo
 summary: 
 
 <h4 class="article-subheader">A Fjord By Any Other Name</h4>
-Tucked away at at the head of the Oslofjord, Norway's capital city boasts an
+Tucked away at at the head of the Oslofjord, Norway's capital city is blessed with an
 embarrassment of natural riches. Strolling around town you find that the line
 dividing city from nature is blurry, and oftentimes, nonexistent. There's even a
 word for it - *Marka* - which describes the dense forest that surrounds, and
-in the most benevolent way possible, ensnarls the city. At any point you'll
-find yourself within walking distance of forests, mountains, lakes, rivers, or
-the great Oslofjord.
-
- natural wonders for adventurers, outdoorsy folks, or general
-enthusiasts of scenic delights
+in the most benevolent way possible, ensnarls the city. Anywhere in the city
+you'll find yourself within walking distance of forests, mountains, lakes,
+rivers, or the great Oslofjord herself.
 
 **Marka**- the name for the dense forest surrounding the city
 https://www.lifeinnorway.net/oslo-fjord-city-harbour-walk/ma
 
-The Oslofjord, while not a *technically* a fjord in the geologic sense, falls
+While not a *technically* a fjord in the geologic sense, the Oslofjord falls
 under the loosely defined Norwegian concept of a *fjord*. If you go by the
 definition offered by Springer Reference's *Encyclopedia of Estuaries*, a fjord
 is "a sea inlet that has inundated a trough
