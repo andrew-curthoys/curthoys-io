@@ -19,6 +19,7 @@ You shouldn't stare directly at the sun.
 Everybody knows that.
 
 But on this beautiful Norwegian May afternoon I simply can't help myself.
+
 Transfixed, my retinae lock on to the glowing orb, incapable of averting their
 lustful gaze.
 
@@ -26,20 +27,35 @@ Blinded by its radiant corona.
 
 Blinded, not by the ultraviolet radiation of our life-giving
 <a href="https://en.wikipedia.org/wiki/G-type_main-sequence_star" target="_blank" rel="noreferrer no opener"> G-type main-sequence star</a>,
-but by the brilliant rays of sunshine
-emanating from the massive canvas stretched before me on the wall of the
+but by the brilliant rays of sunshine emanating from the
 Munchmuseet's 6th floor <span class="skewed">Monumental</span> exhibit.
 
-Edvard Munch's *The Sun* is
-a painting so expansive, so vibrant, so expressive, so utterly indescribable
-that it was previously described to me and I'm still completely dumbfounded.
+*The Sun*, a painting by Oslo's native son Edvard Munch, is a work that's so
+indescribably expansive. indescribably vibrant. indescribably expressive.
+indescribably affecting. So indescribably indescribable that I am struggling to,
+well, describe it.
 
 Stretching a staggering *26 feet across* and *15 feet high*, the marvelous
 painting spews rays of bright, beautiful sunshine across its sprawling canvas.
-Standing in front of it you feel the warmth.
+It portrays
 painting was pithily described by Munch, "I saw the sun rise up above the
-rocks - I painted the sun." I was expecting to be
-wowed but I find myself completely bowled over with astonishment. 
+rocks - I painted the sun."  
+
+Standing beneath the painting I feel its warmth, letting the sun's rays wash
+over me. I was expecting to be
+wowed but I find myself completely bowled over with astonishment.
+
+What is unclear is the sun rising? Or setting? Are we witnessing the aspirational
+glow of boundless potential? Or the last glimmers of a brilliant memory?
+
+Much the same as the earth rotates around the sun, the everlasting constant at
+the center of our solar system, the key to all life on earth, so too do our
+lives rotate around *The Sun*. We crawl, we tumble. We walk, we stub our toe.
+We make friends, we lose touch. We fall in love, we mend a broken heart. We get
+married, we have kids, we travel across oceans, we grow old. All the while
+*The Sun*'s rays remain statically frozen in time, our lives rotating around
+its magical glow. It's neither a rising or setting sun, its our perspective that
+rises and sets around the painting.
 
 This prodigious work isn't even his most massive. *The Reserchers*, a
 painting of children digging and exploring in the sand, measures an
@@ -123,76 +139,7 @@ https://www.autodesk.com/design-make/articles/norway-sustainable-development
 Stats.
 
 
-<h4 class="article-subheader">Munch</h4>
-The Munchmuseet (Edvard Munch Museum) commands an inviting or ominous presence
-on the shores of the Oslofjord depending on who you ask. It's easily the most
-disputatious edifice gracing the Oslo skyline. The angular, 13-story "vertical
-museum" seems to bow towards the Oslofjord, as old man with his
-hands clasped behind his back talking to squirrels in the park.
 
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_building2.jpg" alt="Munch museum">
-  <figcaption class="figure-caption">How do you do, fellow kids?</figcaption>
-</figure>
-
-The (few) proponents of the structure point to its distinctive architecture,
-sustainability bona-fides, and respectful, bow-like posture towards the Oslo
-city center, Opera House, & Oslofjord. Opponents claim it's harsh, orthogonal
-lines mar an otherwise elegant skyline. Others contend that the museum blocks
-the view of the fjord to some of the lower economic neighborhoods in the shadow
-of its edifice.
-
-It's nothing if not controversial.
-
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_sucks.png" alt="Munch museum sucks">
-  <figcaption class="figure-caption">Norwegians are notoriously reserved, let's see if
-  they tell us how they really feel in the article</figcaption>
-</figure>
-
-But what the Munchmuseet lacks in architectural charm it boasts in mindblowing
-works of art.
-
-With installations spanning 6 of the museum's floors (the others are
-used for performances, administrative tasks, and a restaurant/bar) visitors
-can spend a day at the museum and still not see all there is to see within its
-capacious 500,000 square feet.
-
-The first three floors are dedicated to artists other than Munch, whetting our
-artistic appetites for more floors to come.
-
-As we wind through the halls of the museum I'm enthralled by the third floor's
-*The Shape of Freedom* exhibit. Norway's largest exhibition of abstract
-expressionism, or *art informel* as the Euros call it, tells a story of a world
-recovering from war. These are the kinds of works that I'd have the natural
-tendency to deride as "throwing paint at a wall" or "something a trained simian
-could do, and it wouldn't even have to be trained that well."
-
-But the museum does a masterful job of telling a story through their collection.
-As you enter the exhibit you are welcomed by a series of pieces that portend the
-storm clouds of war gathering over Europe. 
-
-As you continue through the space the pieces slowly shift from an ominous sense
-of impending doom to 
-Photographs of tattered studios in war torn cities accompany works dominated by
-dark colors and harsh lines. Dispersed between the pieces are are descriptions
-of the milieu in which the artists lived and worked. Art is always an expression
-of its time but I have to imagine wartime only emphasizes the degree to which
-art reflects the world it is made within.
-
-By end of the exhibit the mood of the pieces begin to gradually lighten,
-reflective of a world emerging from the largest bloodletting in history,
-hopeful for what lies ahead, thankful for surviving the carnage, and rueful for
-having to live through a catastrophe completely out of their control.
-
-The works, in their entirety, create
-
-The lower floors hold a handful of other exhibits with titles such as *Lost in
-Color* and *Painting the Unspeakable* that highlight works from Scandinavian
-artists and a smattering of others from around the world, who all compliment
-the works of Munch to be seen shortly in the floors above.
-
-This museum is so wonderful even the floors are beautiful.
 
 
 
@@ -312,6 +259,76 @@ suffered from chromatic & spherical aberration.
 </figure>
 
 
+<h4 class="article-subheader">Munch</h4>
+The Munchmuseet (Edvard Munch Museum) commands an inviting or ominous presence
+on the shores of the Oslofjord depending on who you ask. It's easily the most
+disputatious edifice gracing the Oslo skyline. The angular, 13-story "vertical
+museum" seems to bow towards the Oslofjord, as old man with his
+hands clasped behind his back talking to squirrels in the park.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_building2.jpg" alt="Munch museum">
+  <figcaption class="figure-caption">How do you do, fellow kids?</figcaption>
+</figure>
+
+The (few) proponents of the structure point to its distinctive architecture,
+sustainability bona-fides, and respectful, bow-like posture towards the Oslo
+city center, Opera House, & Oslofjord. Opponents claim it's harsh, orthogonal
+lines mar an otherwise elegant skyline. Others contend that the museum blocks
+the view of the fjord to some of the lower economic neighborhoods in the shadow
+of its edifice.
+
+It's nothing if not controversial.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_sucks.png" alt="Munch museum sucks">
+  <figcaption class="figure-caption">Norwegians are notoriously reserved, let's see if
+  they tell us how they really feel in the article</figcaption>
+</figure>
+
+But what the Munchmuseet lacks in architectural charm it boasts in mindblowing
+works of art.
+
+With installations spanning 6 of the museum's floors (the others are
+used for performances, administrative tasks, and a restaurant/bar) visitors
+can spend a day at the museum and still not see all there is to see within its
+capacious 500,000 square feet.
+
+The first three floors are dedicated to artists other than Munch, whetting our
+artistic appetites for more floors to come.
+
+As we wind through the halls of the museum I'm enthralled by the third floor's
+*The Shape of Freedom* exhibit. Norway's largest exhibition of abstract
+expressionism, or *art informel* as the Euros call it, tells a story of a world
+recovering from war. These are the kinds of works that I'd have the natural
+tendency to deride as "throwing paint at a wall" or "something a trained simian
+could do, and it wouldn't even have to be trained that well."
+
+But the museum does a masterful job of telling a story through their collection.
+As you enter the exhibit you are welcomed by a series of pieces that portend the
+storm clouds of war gathering over Europe. 
+
+As you continue through the space the pieces slowly shift from an ominous sense
+of impending doom to 
+Photographs of tattered studios in war torn cities accompany works dominated by
+dark colors and harsh lines. Dispersed between the pieces are are descriptions
+of the milieu in which the artists lived and worked. Art is always an expression
+of its time but I have to imagine wartime only emphasizes the degree to which
+art reflects the world it is made within.
+
+By end of the exhibit the mood of the pieces begin to gradually lighten,
+reflective of a world emerging from the largest bloodletting in history,
+hopeful for what lies ahead, thankful for surviving the carnage, and rueful for
+having to live through a catastrophe completely out of their control.
+
+The works, in their entirety, create
+
+The lower floors hold a handful of other exhibits with titles such as *Lost in
+Color* and *Painting the Unspeakable* that highlight works from Scandinavian
+artists and a smattering of others from around the world, who all compliment
+the works of Munch to be seen shortly in the floors above.
+
+This museum is so wonderful even the floors are beautiful.
 
 Oslo as Culture
 * Munch
@@ -328,7 +345,7 @@ thusly, (as translated by my internet browser)
 
 <div class="block-quote">
 "I say that the Munch Museum sucks, both in the sense that it does not look
-good - but also in the sens that it sucks all light out of Bjorvika"
+good - but also in the sense that it sucks all light out of Bjorvika"
 </div>
 
 

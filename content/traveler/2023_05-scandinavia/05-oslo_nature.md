@@ -282,13 +282,30 @@ T-bar. Or a rope tow.
 
 No sir, we're going to ride a tram up the *inside* of the mountain.
 
-In _______ NATO built a base at the top of the mountain?
-As part of that project, a tunnel was carved through the granite and a tram
-was installed. The tram lumbers a half a mile horizontally into the mountain,
+In 1953 plans were announced for a tunnel tramway to ferry tourists to the
+summit of GTop for sightseeing and the ever growing popularity of alpine skiing.
+Initially planned as a joint venture between local municipalities, eager
+to capitalize on increased tourism, and NATO, looking to establish a monitoring
+and communications center atop the mountain to keep tabs on the Soviet threat
+to the East, the project was quickly subsumed by the military brass at NATO,
+leaving the public in the lurch.
+
+For nearly 60 years GTop was closed to the public, only available to military
+personnel and civilians with the highest security clearance. Then on 31-July
+2010, the first tourists were allowed to ride the tram, fulfilling a dream
+decades in the making.
+
+The tram lumbers a half a mile horizontally into the mountain,
 at which point we disembark and squeeze ourselves and all our gear into a
 funicular railway car with 4 of our new best friends. Claustrophobics not
 welcome. The funicular climbs a 39 degree grade 3/4 of a mile to the top of the
 mountain where we unfold ourselves from our temporary pretzelation.
+
+While far down the list of highest peaks in Norway (which are mostly located
+on the west coast, vestiges of the Caledonian Orogeny, i.e. the mountain
+building event that gave us the Appalachians & Scottish Highlands), GTop as it's
+colloquially known, is near the top of the list of most visited, due to its
+breathtaking views and proximity to Oslo.
 
 At the top we soak in the magnificent views with a couple Aass Lite lagers we
 packed for the occasion.
@@ -310,9 +327,8 @@ him wait to free his hoof before I snap a photo because it's just plain silly.
 
 But what I really came over here for was an amateur digital photo of the
 breathtaking scenery of Telemark County. According to 
-<href westcoastpeaks.com>
-
-Our vantage point offers a view of 50,000 square km (19,300 square miles),
+<a href="https://www.westcoastpeaks.com/Peaks/gaustatoppen.html" rel="noopener noreferrer" target="_blank">westcoastpeaks.com</a>,
+our vantage point offers a view of 50,000 square km (19,300 square miles),
 nearly 1/6th of Norway's entire mainland. The amount of
 god's green & white earth within our purview at this moment exceeds the entire
 landed area within the states of Maryland, Hawaii, and Massachusetts, and more
