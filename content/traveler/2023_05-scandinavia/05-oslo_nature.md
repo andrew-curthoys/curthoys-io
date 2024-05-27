@@ -261,24 +261,29 @@ Gaustatoppen appears between two mountains</p>
 </figure>
 
 I let out an audible gasp when G-top finally reveals his snowy crest. What
-stands out about this mountain is not only its enormous stature but its
-singularity, standing alone, towering over his tree flora covered neighbors.
+stands out is not only his enormous stature but his singularity, standing alone,
+stoically towering over his arboreally endowed neighbors.
 
-On the north side of the mountain sits the town of Rijukan, a small
-municipality of 3000 people that was essentially "built from scratch" due to the
+As we approach the mountain Sondre tells me about Rijukan, a small town sitting
+in the northern shadow of Gaustatoppen. The town was essentially "built from
+scratch" during the
 construction of a fertilizer plant by Norsk Hydro in the early 20th century. At
 the time of its completion in 1911 the Vemork hydroelectric power plant was the
 world's largest hydroelectric power plant, larger even than the hydro plant at
 Niagara Falls. The plant was also the site of Norwegian heavy water sabotage
 operations during WWII, an effort to thwart the German's plant to build an
 atomic bomb (although they were the harbingers of their own demise in that
-arena, directly causing the exodus of hundreds of top scientists starting in 1933)
+arena, directly causing the exodus of hundreds of top scientists starting in 1933).
 
-From September to March each year their massive mountain friend completely blocks
+And when I say the town sits in the shadow of Gaustatoppen I mean it. Literally.
+Every winter, from September to March their mountainous compadre completely blocks
 the sun at all hours of the day. In 2013 local artist Martin Andersen
 <a href="https://www.bbc.com/future/article/20170314-the-town-that-built-a-mirror-to-catch-the-sun" target="_blank" rel="noreferrer noopener">
 constructed a series of mirrors</a>connected to a computer driven sun tracker to
-spill sunlight upon the town square during these dismal months. 
+spill sunlight upon the town square during these dismal months. According to
+the town's mayor, “the sun mirror means a lot to Rjukan... It’s a perfect
+combination of technology and art – and of course it is a great welfare activity
+for the citizens of Rjukan.”
 
 <figure class="figure">
   <div class="row">
@@ -287,18 +292,15 @@ spill sunlight upon the town square during these dismal months.
   <div class="row">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-mirror2.jpeg" alt="Sun mirror">
   </div>
-  <figcaption class="figure-caption">Where else would you rather be</figcaption>
+  <figcaption class="figure-caption">Looks like she's back, Bill Withers</figcaption>
 </figure>
 
-
-
-
-Gausta shadowing the entire town & sun mirror
-
-Seeing as we're nearly into June the chairlifts of the ski resort stopped
-spinning some time ago. However, there is still snow on the mountain and I
-kinda feel like sliding down it by god. Thankfully we are in luck - we can
-catch a ride to the top of the mountain, but it won't be on a chairlift. Or a
+As we wind our way up the flanks of the mountain to their chalet we see lines
+of chairs, strung aloft, sitting idly, softly waving in the breeze. Seeing as
+we're nearly into June the chairlifts of Gausta Skisenter stopped spinning
+weeks ago. However, GTop still presides over a blanket of snow on his lofty
+crest and by god I feel like sliding down it. Thankfully we are in luck - we can
+catch a ride to the top of the mountain - but it won't be on a chairlift. Or a
 T-bar. Or a rope tow.
 
 No sir, we're going to ride a tram up the *inside* of the mountain.
@@ -336,13 +338,12 @@ packed for the occasion.
   <figcaption class="figure-caption">Where else would you rather be</figcaption>
 </figure>
 
-
 As we walk over to the NE cornice for a
 better view Sondre finds a soggy bit of snow and sinks up to his thigh. I make
 him wait to free his hoof before I snap a photo because it's just plain silly.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_sondre_snow.JPEG" alt="Sondre stuck">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_sondre_snow.JPEG" alt="Sondre stuck">
   <figcaption class="figure-caption">Look awful stuck there, partner</figcaption>
 </figure>
 
@@ -356,6 +357,63 @@ landed area within the states of Maryland, Hawaii, and Massachusetts, and more
 than *doubles* the areas of Vermont, New Hampshire, New Jersey, Connecticut,
 Delaware, and Rhode Island. You could see a quarter of Oklahoma from up here.
 This must be what a tornado feels like.
+
+<div id="gtopCarousel" class="carousel carousel-traveler slide" data-bs-ride="carousel" data-bs-interval="3000">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#gtopCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#gtopCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#gtopCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#gtopCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#gtopCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#gtopCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#gtopCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
+    <button type="button" data-bs-target="#gtopCarousel" data-bs-slide-to="7" aria-label="Slide 8"></button>
+    <button type="button" data-bs-target="#gtopCarousel" data-bs-slide-to="8" aria-label="Slide 9"></button>
+    <button type="button" data-bs-target="#gtopCarousel" data-bs-slide-to="9" aria-label="Slide 10"></button>
+  </div>
+  <div class="carousel-inner" style="text-align:center;">
+    <div class="carousel-item active">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-gtop1.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-gtop2.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-gtop3.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-gtop4.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-gtop5.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-gtop6.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-gtop7.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-gtop8.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-gtop9.JPEG">
+    </div>
+    <div class="carousel-item">
+      <img src="/theme/images/traveler/2023_05-scandinavia/oslo-gtop10.JPEG">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#gtopCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#gtopCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </button>
+<figcaption class="figure-caption text-start bg-body">The view from the roof of Telemark County<br>
+</div>
+
 
 Once we've had our fill of the views and the Aass I strap on my (Sondre's
 brother's) gear and  we point our skis downhill.
