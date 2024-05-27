@@ -264,11 +264,32 @@ I let out an audible gasp when G-top finally reveals his snowy crest. What
 stands out about this mountain is not only its enormous stature but its
 singularity, standing alone, towering over his tree flora covered neighbors.
 
-On the north side of the mountain sits the town of _____________. The town
-was founded as ____________.
-For 4(?) months of the year their massive mountain friend completely blocks
-the sun at all hours of the day. In ________ someone put in an artificial
-sun mirror.
+On the north side of the mountain sits the town of Rijukan, a small
+municipality of 3000 people that was essentially "built from scratch" due to the
+construction of a fertilizer plant by Norsk Hydro in the early 20th century. At
+the time of its completion in 1911 the Vemork hydroelectric power plant was the
+world's largest hydroelectric power plant, larger even than the hydro plant at
+Niagara Falls. The plant was also the site of Norwegian heavy water sabotage
+operations during WWII, an effort to thwart the German's plant to build an
+atomic bomb (although they were the harbingers of their own demise in that
+arena, directly causing the exodus of hundreds of top scientists starting in 1933)
+
+From September to March each year their massive mountain friend completely blocks
+the sun at all hours of the day. In 2013 local artist Martin Andersen
+<a href="https://www.bbc.com/future/article/20170314-the-town-that-built-a-mirror-to-catch-the-sun" target="_blank" rel="noreferrer noopener">
+constructed a series of mirrors</a>connected to a computer driven sun tracker to
+spill sunlight upon the town square during these dismal months. 
+
+<figure class="figure">
+  <div class="row">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-mirror1.jpeg" alt="Sun mirror">
+  </div>
+  <div class="row">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-mirror2.jpeg" alt="Sun mirror">
+  </div>
+  <figcaption class="figure-caption">Where else would you rather be</figcaption>
+</figure>
+
 
 
 
