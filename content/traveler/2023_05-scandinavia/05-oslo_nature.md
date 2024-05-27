@@ -142,9 +142,7 @@ attractions for Oslofolk to enjoy on a beautiful May day.
       <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker6.JPEG" alt="Akerselva">
     </div>
   </div>
-  <div class="row">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker_vid.gif" alt="Akerselva">
-  </div>
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker_vid.gif" alt="Akerselva">
 </figure>
 
 <h4 class="article-subheader">Nordic Cycle</h4>
@@ -253,7 +251,7 @@ jaunt through the idyllic rolling hills of the Norwegian countryside.
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_ship.JPEG" alt="Gausta ship">
 </figure>
 
-<p class="mb-0">And then as we round a bend, the immense _________ of
+<p class="mb-0">And then as we round a bend, the immense protuberance of
 Gaustatoppen appears between two mountains</p>
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_mtn.JPEG" alt="Gaustatoppen">
@@ -264,7 +262,13 @@ I let out an audible gasp when G-top finally reveals his snowy crest. What
 stands out is not only his enormous stature but his singularity, standing alone,
 stoically towering over his arboreally endowed neighbors.
 
-As we approach the mountain Sondre tells me about Rijukan, a small town sitting
+While nowhere near the top of the list of highest peaks in Norway (which are mostly located
+on the west coast, vestiges of the Caledonian Orogeny, i.e. the mountain
+building event that gave us the Appalachians & Scottish Highlands), GTop as it's
+colloquially known, is near the top of the list of most visited, due to its
+breathtaking views and proximity to Oslo.
+
+As we approach the mountain Sondre tells me about Rjukan, a small town sitting
 in the northern shadow of Gaustatoppen. The town was essentially "built from
 scratch" during the
 construction of a fertilizer plant by Norsk Hydro in the early 20th century. At
@@ -286,16 +290,12 @@ combination of technology and art – and of course it is a great welfare activi
 for the citizens of Rjukan.”
 
 <figure class="figure">
-  <div class="row">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-mirror1.jpeg" alt="Sun mirror">
-  </div>
-  <div class="row">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-mirror2.jpeg" alt="Sun mirror">
-  </div>
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-mirror1.jpeg" alt="Sun mirror">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-mirror2.jpeg" alt="Sun mirror">
   <figcaption class="figure-caption">Looks like she's back, Bill Withers</figcaption>
 </figure>
 
-As we wind our way up the flanks of the mountain to their chalet we see lines
+As we wind our way up the flanks of the mountain to Chalet Bratlie we see lines
 of chairs, strung aloft, sitting idly, softly waving in the breeze. Seeing as
 we're nearly into June the chairlifts of Gausta Skisenter stopped spinning
 weeks ago. However, GTop still presides over a blanket of snow on his lofty
@@ -305,18 +305,19 @@ T-bar. Or a rope tow.
 
 No sir, we're going to ride a tram up the *inside* of the mountain.
 
-In 1953 plans were announced for a tunnel tramway to ferry tourists to the
-summit of GTop for sightseeing and the ever growing popularity of alpine skiing.
-Initially planned as a joint venture between local municipalities, eager
-to capitalize on increased tourism, and NATO, looking to establish a monitoring
-and communications center atop the mountain to keep tabs on the Soviet threat
-to the East, the project was quickly subsumed by the military brass at NATO,
-leaving the public in the lurch.
+In 1953 Telemark County authorities announced plans for a tunnel tramway to
+ferry tourists to GTop's heavenly summit for sightseeing and to cater to the
+ever growing popularity of alpine skiing. The project was initially planned as a
+joint venture between local municipalities, who were eager to capitalize on
+increased tourism and NATO, who was looking to establish a monitoring and
+communications center to keep tabs on the Soviets. However, as you can imagine,
+the operation was quickly subsumed by the military brass at NATO, shouldering
+their way to sole ownership and leaving the public in the lurch.
 
-For nearly 60 years GTop was closed to the public, only available to military
-personnel and civilians with the highest security clearance. Then on 31-July
-2010, the first tourists were allowed to ride the tram, fulfilling a dream
-decades in the making.
+For nearly 60 years the GTop tram was closed to the public, available only to
+military personnel and civilians with the highest security clearance. Finally,
+on 31-July 2010, the first tourists were allowed to ride the tram, fulfilling a
+dream decades in the making.
 
 The tram lumbers a half a mile horizontally into the mountain,
 at which point we disembark and squeeze ourselves and all our gear into a
@@ -324,17 +325,13 @@ funicular railway car with 4 of our new best friends. Claustrophobics not
 welcome. The funicular climbs a 39 degree grade 3/4 of a mile to the top of the
 mountain where we unfold ourselves from our temporary pretzelation.
 
-While far down the list of highest peaks in Norway (which are mostly located
-on the west coast, vestiges of the Caledonian Orogeny, i.e. the mountain
-building event that gave us the Appalachians & Scottish Highlands), GTop as it's
-colloquially known, is near the top of the list of most visited, due to its
-breathtaking views and proximity to Oslo.
 
-At the top we soak in the magnificent views with a couple Aass Lite lagers we
+After At the top we soak in the magnificent views with a couple Aass Lite lagers we
 packed for the occasion.
 
 <figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_aass.JPEG" alt="Aass">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_aass.JPEG" alt="Aass">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_top.JPEG" alt="Gausta">
   <figcaption class="figure-caption">Where else would you rather be</figcaption>
 </figure>
 
@@ -416,22 +413,22 @@ This must be what a tornado feels like.
 
 
 Once we've had our fill of the views and the Aass I strap on my (Sondre's
-brother's) gear and  we point our skis downhill.
+brother's) gear and point my (Sondre's brother's) skis downhill.
 
-My boots don't fit
+The boots don't fit
 
-My skis feel weird
+The skis feel weird
 
 The snow is sloppy
 
-All of which is to say, *I'm having a wonderful time*
+*It's marvelous*
 
 It's skiing... In May... In Norway...
 
 There is nobody on the planet who is having a better time than I right now.
 
-<figure class="figure mx-5">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_top.JPEG" alt="Gausta">
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_selfie.JPEG" alt="Gausta">
   <figcaption class="figure-caption">If you're happy & you know it</figcaption>
 </figure>
 
