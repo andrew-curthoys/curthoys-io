@@ -16,19 +16,19 @@ summary:
 <h4 class="article-subheader">A Fjord By Any Other Name</h4>
 Tucked away at at the head of the Oslofjord, Norway's capital city is blessed with an
 embarrassment of natural riches. Strolling around town you find that the line
-dividing city from nature is blurry, and oftentimes, nonexistent. There's even a
-word for it - *Marka* - which describes the dense forest that surrounds, and
-in the most benevolent way possible, ensnarls the city. Anywhere in the city
-you'll find yourself within walking distance of forests, mountains, lakes,
+dividing city from nature is often blurry, an arrangement which feels
+intentional given that nature walks are "part of the national soul" according to
+<a href="https://www.lifeinnorway.net" target="_blank" ref="noopener noreferrer">LifeinNorway.net</a>.
+There's even a word - *Marka* - that describes the dense forest that surrounds, and
+in the most benevolent way possible, ensnarls the city. Every which way you wander
+you'll find yourself within a short amble of forests, mountains, lakes,
 rivers, or the great Oslofjord herself.
-
-**Marka**- the name for the dense forest surrounding the city
-https://www.lifeinnorway.net/oslo-fjord-city-harbour-walk/ma
 
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
 under the loosely defined Norwegian concept of a *fjord*. If you go by the
-definition offered by Springer Reference's *Encyclopedia of Estuaries*, a fjord
-is "a sea inlet that has inundated a trough
+definition offered by Springer Reference's
+<a href="https://link.springer.com/referenceworkentry/10.1007/978-94-017-8801-4_247" target="_blank" rel="noopener noreferrer">*Encyclopedia of Estuaries*</a>,
+a fjord is "a sea inlet that has inundated a trough
 formed by glacial erosion, ranging in length from a few to hundreds of
 kilometers. Although troughs erode rapidly under glacial conditions, many fjords
 are erosionally complex, palimpsest features that formed over the course of
@@ -46,22 +46,25 @@ Estuaries*. Well played.
   <figcaption class="figure-caption">Yes, the Encyclopedia of Estuaries is actually a thing</figcaption>
 </figure>
 
-To a Norwegian a fjord is, I dunno, like *that water out there*. In Norway a
-fjord is a vibe.
+To a Norwegian a fjord is, I dunno, like *that water out there*.
+
+In Norway a fjord isn't defined. In Norway a fjord is a vibe.
 
 If you're cool like the Norwegians and call it a fjord or lame like the
-geological technocrats and call it... a bay?... the Oslofjord puts Oslo into the
-highest tier of my city rankings: *Cities With Harbors*. I just love myself a
-great harbor.
+geological technocrats and call it... a non-fjordian estuary?... the Oslofjord
+puts Oslo into the highest tier of my city rankings: *Cities With Harbors*.
+I just love myself a great harbor.
 
-One of the most appealing features of the Oslofjord are her scattered islands
-within a short ferry of downtown. As I'm rambling around the city center one
-particularly delightful sunny day the tousled mop atop my head cries out for
-a rush of salty air. I check the ferry schedule and find they run
+One of the more appealing features of the Oslofjord to a rugged seafarer such as
+myself are her scattered islands within a short ferry of the city center. As I'm
+rambling around town one particularly delightful day the tousled mop atop my
+head becomes sentient and cries out for a zephyrous squall of salty air. I
+first check my thesaurus then the fjord ferry schedule and find the vessels run
 every 30 minutes in a loop of 5 islands - Nakkholmen, Lind&oslash;ya,
 Gressholmen, Bleik&oslash;ya, and (of course) Hoved&oslash;ya.
 
-I hop on the boat with my sights set on Gressholmen. According to my research
+I make the short walk to the ferry terminal and hop on my sights set on
+Gressholmen. According to my research
 there's a nice little cafe on the island that seems the perfect setting to soak
 up the rays from the afternoon sun hanging high in the sky. 45 minutes and two
 stops later I find myself livin' on island time.
@@ -433,6 +436,12 @@ There is nobody on the planet who is having a better time than I right now.
 </figure>
 
 
+
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_ski_tracks.PNG" alt="Ski Tracks">
+  <figcaption class="figure-caption">One run is all I needed</figcaption>
+</figure>
 
 
 

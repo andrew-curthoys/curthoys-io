@@ -30,15 +30,15 @@ Blinded, not by the ultraviolet radiation of our life-giving
 but by the brilliant rays of sunshine emanating from the
 Munchmuseet's 6th floor <span class="skewed">Monumental</span> exhibit.
 
-*The Sun*, a painting by Oslo's native son Edvard Munch, is a work that's so
+*The Sun*, a painting by Oslo's native son Edvard Munch, is a work that is
 indescribably expansive. indescribably vibrant. indescribably expressive.
 indescribably affecting. So indescribably indescribable that I am struggling to,
 well, describe it.
 
 Stretching a staggering *26 feet across* and *15 feet high*, the marvelous
 painting spews rays of bright, beautiful sunshine across its sprawling canvas.
-It portrays
-painting was pithily described by Munch, "I saw the sun rise up above the
+In a statement that could be enshrined in the understatement hall of fame,
+Munch pithily described his painting thusly: "I saw the sun rise up above the
 rocks - I painted the sun."  
 
 Standing beneath the painting I feel its warmth, letting the sun's rays wash
