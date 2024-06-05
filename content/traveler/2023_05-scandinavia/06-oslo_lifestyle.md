@@ -13,6 +13,8 @@ activity: 2023 Scandinavian Sk&oslash;yestreker
 short_sum: Oslo
 summary: 
 
+{% import 'macros.html' as m %}
+
 
 Oslo as a great place to live
 * Public transit
@@ -28,19 +30,26 @@ Or more accurately, lack of smell.
 
 The realization occurs while waiting for an electric streetcar in the
 heart of downtown, standing on the curb with nary a rambling automobile in
-sight. A handful of cars are within my visual grasp, all of which are
-parked tranquilly on the curb, oat bags full of ancient grains distilled to
-an unimaginably potent liquor.
+sight. A handful of cars sit idly within my visual grasp, oat bags full of
+ancient grains distilled to an unimaginably potent liquor.
 
-It's while I'm standing there on that street corner, observing the dearth of
-automobiles that I fully appreciate Oslo's olfactory opulence. A gaseous mixture
+It's while I'm standing there on that street corner, reveling in its automotive
+scarcity, that I fully appreciate Oslo's olfactory opulence. An urban perfume
 almost wholly unblemished by the byproducts of the internal combustion engine's
 Otto cycle.
 
-When I try to think of how I would describe Oslo as compared to my expectation,
-*sleepy* is the first word that comes to mind. But it's not the right word. It's
-not *sleepy*. But it's also not the glinty skyscraper jungle you may come to
-expect of a European capital city.
+{{ m.divider() }}
+
+When I think of how I would describe Oslo, the first word that comes to mind is
+*sleepy*.
+
+It's a word, but it's not the right word.
+
+Oslo is not *sleepy*. But how you describe a city depends heavily on your
+expectation. When your expectation is a glinty European skyscraper jungle from 
+the opening scene of a spy thriller, Oslo might happily be considered *sleepy*.
+I had never been to Europe prior to this trip so when I think of *European
+capital city* I think of glinty skyscraper jungle. Thankfully Oslo is not that.
 
 It's a low(ish) slung town sitting in a valley minding its own business. 
 It's a world class city that doesn't make a fuss about it.
