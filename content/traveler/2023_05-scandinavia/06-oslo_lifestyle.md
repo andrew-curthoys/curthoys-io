@@ -1,9 +1,9 @@
-title: Sidequest: Oslovian Expeditions<p style="font-size:90%; font-style:italic;">Part IV: Oslo as Lifestyle</p>
-slug: traveler/2023_05-scandinavia/07-oslo_lifestyle
+title: Sidequest: Oslovian Expeditions<p style="font-size:90%; font-style:italic;">Part III: Oslo as Lifestyle</p>
+slug: traveler/2023_05-scandinavia/06-oslo_lifestyle
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Lifestyle
-prev_day: 06-oslo_gastro
-next_day: 08-ferry*
+prev_day: 05-oslo_nature
+next_day: 07-oslo_gastro
 date: 2023-05-18 04:00
 post_date: 2023-12-20
 category: traveler
@@ -178,64 +178,6 @@ as a former manager is cognominated Leif Eriksen.
 Happy Leif Eriksen Day! Hinga Dinga Dargen!
 
 
-<h4 class="article-subheader">"Your accent, where's it from?"</h4>
-
-"I'm Australian, originally from Melbourne"
-
-"No way! My cousin lives in Perth! Beautiful country. How the hell did you end
-up all the way up here??"
-
-And that's how I met Talor Browne, the owner of
-<a href="https://talormade.no/" target="_blank" rel="noopener noreferrer">Talormade</a>,
-a neon obeliscolychny attracting Oslofolk far and wide with its irresistible
-good vibes, outstanding coffee, and mouthwatering doughnuts. Asked
-how the heck she ended up 10,000 miles from home on the other side of the world,
-she briefly regales her quest to find the perfect cup of coffee.
-
-Hailing from *somewhere between Sydney & Melbourne*, Talor departed the scorched
-landmass she called home for Oslo in 2012 to work for Tim Wendelboe, a man who I have
-since learned is a goliath in the world of specialty coffee. In a few short
-years Talor worked her way up to head roaster in Timmy W's outfit, making her
-the envy of anyone who's pulled the perfect shot of espresso.
-
-After a few years of slingin' beans with the 'boe she got a hankerin' to set off on
-her own. She began hosting doughnut pop up events that quickly gained a ravenous
-following (oh yeah, she's a trained pastry chef, nbd) and spun up her own
-roastery. After all her hard work the universe decided to shit in her latte
-because the date she finally opened her first brick-and-mortar location of
-Talormade was... February 2020.
-
-Big oof.
-
-So that wasn't ideal but she managed to scrape through and I'm standing in the
-exact place where she first opened her doors.
-
-"Well seeing as you hail from down under I'm gonna have to order a flat white"
-
-"Great idea!"
-
-As I take a seat on a plush purple couch Talor calls out over the din of the
-espresso machine, "hey, have you ever had a cappuccino al freddo?"
-
-"Never even heard of such a thing"
-
-"Well it just feels like a cappuccino al freddo type of day & I'm going to make
-myself one, would you like to try one?"
-
-"Damn right I would!"
-
-Talor fills me in on the cap al fred - originating in the Greek islands, this
-cold coffee drink involves dolloping cold, extremely frothy milk over a couple
-shots of iced espresso and topping it with a dash of cocoa powder. I don't
-know where in that process Talor imbued witchcraft because I pick up the glass
-and can't believe how light it is. *Is this glass filled with air??? What is
-happening???* I take a sip and my brain further spirals into a meltdown of
-incomprehension. This drink is *impossibly* smooth.
-
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-freddo.jpeg" alt="Cap al fred">
-  <figcaption class="figure-caption">That's some caffeine magic right there</figcaption>
-</figure>
 
 
 <h4 class="article-subheader">Livin' on Tulsa Time</h4>

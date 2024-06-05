@@ -387,7 +387,7 @@ it's not 8 PM.
 I'm definitely tired now. Tired, stuffed, and buzzing on some delicious wine.
 I'd say it's high time to hit the hay.
 
-<h4 class="article-subheader">S&aelig;tre By Day</h4>
+<h4 class="article-subheader" id="brekky">S&aelig;tre By Day</h4>
 The next morning Monica makes us breakfast on the terrace. Four types of breads,
 fried eggs, three different cheeses, cured meats, salmon, berry preserves, fresh
 strawberries, and orange juice round out the feast. I have to imagine heaven is
@@ -399,7 +399,7 @@ like the past 12 hours.
 	hungry.</figcaption>
 </figure>
 
-<div id="cheese">
+<div id="cheese"></div>
 During breakfast I'm introduced to two of Norway's proudest traditions, *brunost*
 and the *osteh&oslash;vel*. *Brunost*, literally translated as "brown cheese" is
 not *technically* a cheese but I don't want to hang out with people who define
@@ -408,7 +408,6 @@ down from the cheesemaking process until it caramelizes into a creamy, savory
 delicacy of confusingly high levels of amazingness. And the osteh&oslash;vel is
 the triangular cheese knife with the slit near the handle you've probably seen
 on a wedding registry.
-</div>
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/saetre-brunost.jpg" alt="Bunost">

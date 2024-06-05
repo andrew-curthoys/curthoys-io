@@ -1,9 +1,9 @@
-title: Sidequest: Oslovian Expeditions<p style="font-size:90%; font-style:italic;">Part III: Oslo as Gastronomy</p>
-slug: traveler/2023_05-scandinavia/06-oslo_gastro
+title: Sidequest: Oslovian Expeditions<p style="font-size:90%; font-style:italic;">Part IV: Oslo as Gastronomy</p>
+slug: traveler/2023_05-scandinavia/07-oslo_gastro
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Gastronomy
-prev_day: 05-oslo_nature
-next_day: 07-oslo_lifestyle
+prev_day: 06-oslo_lifestyle
+next_day: 08-on_a_boat*
 date: 2023-05-18 03:00
 post_date: 2023-12-20
 category: traveler
@@ -27,17 +27,20 @@ summary:
 
 "Great, and which gin would you like?"
 
-"Hmmmmm well..... hell I don't know let's go with Bareksten gin"
+Now... I like gin, but the extent of my knowledge of the spirit is limited to a
+handful of the most recognizable brands. If you poured me the finest gin in the
+world and a glass of turpentine I likely couldn't tell the difference. Upon the
+bartender's query I artfully divert his scrutiny of my neophytic grasp of gin
+while leering at the scribblings on the chalkboard of available offerings,
 
-I like gin but the extent of my knowledge of
-the spirit is limited to a handful of the most recognizable brands. I chose
-Bareksten gin from Bar Lorry's chalkboard of gin options for the simple
-fact that it's from Norway. A simple fact it may be for me, but for the
-distillers, it's a point of immense pride.
+"Hmmmmm well..... oh! I see you have Bareksten! That will make a fine gin & tonic!"
 
-A quick perusal of their website offers the reader a panoply of piny proverbs
-and arboreal aphorisms. It's so over the top it feels like reading the output
-of an AI chatbot. In fact I asked an AI chatbot to
+My choice of Bareksten is predicated on the simple fact that it's from Norway.
+While a simple fact it may be for me, for the distillers it's a point of immense pride.
+
+A quick perusal of their website offers the reader a panoply of piny proverbs,
+an array of arboreal aphorisms. It's so over the top it feels like reading the
+output of an AI chatbot. In fact I asked an AI chatbot to
 write a product description of Norwegian botanical gin, which I present
 alongside the official Bareksten copy.
 
@@ -252,28 +255,135 @@ pork dumplings
 As described on my Best Bars book
 Thief rooftop bar (disappointing)
 
-<h4 class="article-subheader">Sondre Hates Breakfast</h4>
+<h4 class="article-subheader">"Sondre Hates Breakfast"</h4>
 Sondre and I differ in many ways.
 
-One of those ways is our affinity for breakfast foods.
+One of those ways is our diverging affinity for breakfast foods.
 
 When the thought of fried eggs, toast, yogurt, fresh berries,
 brunost, and hot coffee, all presented on a delightful bamboo tray on a perfect
-Norwegian morning crosses Sondre's brain he thinks
+Norwegian morning crosses Sondre's brain he thinks,
 
 "Nah that's not for me"
 
-In contrast, my brain thinks,
+Which is objectively insane.
 
-"Where do I sign?"
+On the other hand, Nora is a fellow enjoyer of breakfast fare,
 
-Nora is a breakfast aficionado, a dawn's early light chef of the highest
-order.
+"Sondre hates breakfast, what about you, do you like breakfast"
 
-That's hospitality. And what else is Norway than hospitality.
+"Of course I do, I'm not a sociopath"
 
-eeing as Nora loves breakfast and is over the moon to
-whip up a full Norwegian for me while Sondre attends a meeting.
+"Fantastisk!! I love to cook breakfast but don't make it very often because
+Sondre won't eat it. Do you want some breakfast?"
 
-<h4 class="article-subheader">Mathallen</h4>
+"Do I!!"
+
+And as luck would have it Nora is a chef of dawn's early light extraordinaire.
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gastro_rooftop_brekky.JPEG" alt="Breakfast">
+  <figcaption class="figure-caption">This is what it must be like to be King Harald</figcaption>
+</figure>
+
+Fried eggs, fresh bread, brunost, yogurt, strawberries, blueberries, and a stack
+of pannekaker (Norwegian pancakes) round out the meal with a hot pot of coffee
+to boot. I just might could get used to all these <a href="/traveler/2023_05-scandinavia/02-saetre?id=brekky" target="_blank" rel="noopener noreferrer">rooftop breakfasts</a>.
+
+I've infrequently found myself as the guest of honour at an international
+rooftop summit.
+As the guest of this international summit 
+
+Speaking of international summits...
+
+<h4 class="article-subheader">"Your accent, where's it from?"</h4>
+
+"I'm Australian, originally from Melbourne"
+
+"No way! My cousin lives in Perth! Beautiful country. How the hell did you end
+up all the way up here??"
+
+And that's how I met Talor Browne, the owner of
+<a href="https://talormade.no/" target="_blank" rel="noopener noreferrer">Talormade</a>,
+a neon obeliscolychny attracting Oslofolk far and wide with its irresistible
+good vibes, outstanding coffee, and mouthwatering doughnuts. Asked
+how the heck she ended up 10,000 miles from home on the other side of the world,
+she briefly regales her quest to find the perfect cup of coffee.
+
+Hailing from *somewhere between Sydney & Melbourne*, Talor departed the scorched
+landmass she called home for Oslo in 2012 to work for Tim Wendelboe, a man who I have
+since learned is a goliath in the world of specialty coffee. In a few short
+years Talor worked her way up to head roaster in Timmy W's outfit, making her
+the envy of anyone who's pulled the perfect shot of espresso.
+
+After a few years of slingin' beans with the 'boe she got a hankerin' to set off on
+her own. She began hosting doughnut pop up events that quickly gained a ravenous
+following (oh yeah, she's a trained pastry chef, nbd) and spun up her own
+roastery. After all her hard work the universe decided to shit in her latte
+because the date she finally opened her first brick-and-mortar location of
+Talormade was... February 2020.
+
+Big oof.
+
+So that wasn't ideal but she managed to scrape through and I'm standing in the
+exact place where she first opened her doors.
+
+"Well seeing as you hail from down under I'm gonna have to order a flat white"
+
+"Great idea!"
+
+As I take a seat on a plush purple couch Talor calls out over the din of the
+espresso machine, "hey, have you ever had a cappuccino al freddo?"
+
+"Never even heard of such a thing"
+
+"Well it just feels like a cappuccino al freddo type of day & I'm going to make
+myself one, would you like to try one?"
+
+"Damn right I would!"
+
+Talor fills me in on the cap al fred - originating in the Greek islands, this
+cold coffee drink involves dolloping cold, extremely frothy milk over a couple
+shots of iced espresso and topping it with a dash of cocoa powder. I don't
+know where in that process Talor imbued witchcraft because I pick up the glass
+and can't believe how light it is. *Is this glass filled with air??? What is
+happening???* I take a sip and my brain further spirals into a meltdown of
+incomprehension. This drink is *impossibly* smooth.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-freddo.jpeg" alt="Cap al fred">
+  <figcaption class="figure-caption">That's some caffeine magic right there</figcaption>
+</figure>
+
+
+This Tim Wendelboe fella
+
+<h4 class="article-subheader">Tim Wendelboe</h4>
+On my way from the Technology Museum **LINK** to 
+
+As I leave the Technology Museum I hop aboard the 11N train bound for
+Jernbanetorget. A half hour later I jump off at the Sofienbergparken stop for
+the 3 block schlep over cobblestones with my backpack and rollerbag.
+
+
+Talor said I had to stop at Tim's shop before I leave, an ultimatum of which I
+happily oblige
+
+
+They pride themselves on light roast coffee. But why...
+<div class="block-quote">
+<p>
+We wish to preserve and enhance as much of the natural coffee flavours as
+possible so that you will be able to taste the distinct flavours that are unique
+to each coffee we import. Therefore we roast our coffees very carefully in order
+not to cover our coffees with roasty aromas from darker roasts and at the same
+time stay away from the grassy flavours and sour acidity from an underdeveloped roast.
+</p>
+<p>
+Our light roasted coffees are suited for all brew methods, except espresso. The
+roast level gives a cup with clarity, brightness and sweetness with little
+bitterness and ashy flavours from the roast process.
+</p>
+</div>
+
 

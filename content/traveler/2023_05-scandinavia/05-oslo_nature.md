@@ -3,7 +3,7 @@ slug: traveler/2023_05-scandinavia/05-oslo_nature
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Nature
 prev_day: 04-oslo_culture
-next_day: 06-oslo_gastro
+next_day: 06-oslo_lifestyle
 date: 2023-05-18 02:00
 post_date: 2023-12-20
 category: traveler
@@ -434,8 +434,6 @@ There is nobody on the planet who is having a better time than I right now.
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_selfie.JPEG" alt="Gausta">
   <figcaption class="figure-caption">If you're happy & you know it</figcaption>
 </figure>
-
-
 
 
 <figure class="figure">
