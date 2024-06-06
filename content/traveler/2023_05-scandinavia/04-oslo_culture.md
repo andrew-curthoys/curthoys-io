@@ -153,7 +153,7 @@ chamber of chaos
 calming & soothing - calming music & pillows, etc.
 
 
-<h4 class="article-subheader">Norsk Teknisk</h4>
+<h4 class="article-subheader" id="technology">Norsk Teknisk</h4>
 Upset that the Viking Ship Museum is closed. Closed from September 2021 until
 2025.
 

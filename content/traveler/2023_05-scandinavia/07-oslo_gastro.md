@@ -359,16 +359,32 @@ incomprehension. This drink is *impossibly* smooth.
 This Tim Wendelboe fella
 
 <h4 class="article-subheader">Tim Wendelboe</h4>
-On my way from the Technology Museum **LINK** to 
+My stop at the
+<a href="/traveler/2023_05-scandinavia/04-oslo_culture?id=technology" target="_blank" rel="noopener noreferrer">Norsk Teknisk Technology Museum</a>
+was my penultimate stop in Oslo before boarding the ferry to Copenhagen. Before
+I get on the boat I have one more stop. While I was chatting with Talor she said
+I had to stop at Tim's shop before I leave, an ultimatum to which I will happily
+oblige.
 
 As I leave the Technology Museum I hop aboard the 11N train bound for
 Jernbanetorget. A half hour later I jump off at the Sofienbergparken stop for
 the 3 block schlep over cobblestones with my backpack and rollerbag.
 
+The shop occupies the bottom floor of a nondescript 4 story building with a
+stone fa&ccedil;ade just a stone's throw from the Akerselva. The only indication
+that you might be near a world renowned purveyor of coffee is the small KAFFE
+sign affixed to the outer wall.
 
-Talor said I had to stop at Tim's shop before I leave, an ultimatum of which I
-happily oblige
+I stroll into a small shop with two gorgeous baristas who look to be in their
+early 20s. I'm surprised that the shop isn't overrun with guests, seeing as this
+is the only Tim Wendelboe store in the entire world - he is of the belief that
+opening more locations will dilute his grasp on the quality of the coffee he
+serves. I saunter up to the bar helmed by two tall, stunningly attractive
+Norwegians who appear to be in their early 20s.
 
+The menu lists 5 different coffees, each with their country of origin, the farm
+where the beans were grown, and the cultivar of the coffee (think
+<a href="/traveler/2022_01-ski_trip/03-wine" target="_blank" rel="noopener noreferrer">wine varietals</a>)
 
 They pride themselves on light roast coffee. But why...
 <div class="block-quote">
@@ -385,5 +401,3 @@ roast level gives a cup with clarity, brightness and sweetness with little
 bitterness and ashy flavours from the roast process.
 </p>
 </div>
-
-

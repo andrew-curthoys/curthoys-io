@@ -38,43 +38,48 @@ scarcity, that I fully appreciate Oslo's olfactory opulence. An urban perfume
 almost wholly unblemished by the byproducts of the internal combustion engine's
 Otto cycle.
 
-{{ m.divider() }}
+This breath of fresh air starkly sheds light on the state of pollution in
+the US. You don't realize how much noxious air you breathe in American cities
+until you're not. With their system of electric trains, trams, buses, and - based
+on a *vibes only* informal personal survey guessing that 90% of autos are
+electrified - the air in Oslo is so refreshingly clear.
 
 When I think of how I would describe Oslo, the first word that comes to mind is
 *sleepy*.
 
 It's a word, but it's not the right word.
 
-Oslo is not *sleepy*. But how you describe a city depends heavily on your
-expectation. When your expectation is a glinty European skyscraper jungle from 
-the opening scene of a spy thriller, Oslo might happily be considered *sleepy*.
-I had never been to Europe prior to this trip so when I think of *European
-capital city* I think of glinty skyscraper jungle. Thankfully Oslo is not that.
+Oslo is certainly not *sleepy*. But your opinion of a city depends heavily on your
+expectation. When you've never been to Europe your expectation of a European
+capital is a glinty skyscraper jungle from the opening scene of a spy thriller.
+Compared to that, Osloites might happily consider their hometown *sleepy*.
 
-It's a low(ish) slung town sitting in a valley minding its own business. 
-It's a world class city that doesn't make a fuss about it.
-It's a city where *shit just works*.
+It's a moderately sized city minding its own business in a *marka*-filled valley.
+It's a city with a refined modesty when it comes to skyscrapers, offering
+dazzling sight lines
+from anywhere in town. It's a city that tastefully melds the clean, efficient
+designs of modern buildings with traditional architecture. It's a city with
+public transit that works at a level of Scandinavian efficiency.
 
-After pondering the identity of the city over many ales I decide on a term I
-think that most pithily represents the spirit of the city: *casually modern*.
+It's a shockingly intimate city - at any
+point you're no more than a block or two from a subway, tramway, or bus route
+that can quickly convey you about the city. Due to its
+relatively small footprint (from a quick glance at a map it seems at least
+75% of the city would fit inside a 5 mile radius of the city center) it feels
+like everywhere in Oslo is *20 minutes away*.
 
 To my surprise I'm amazed at how intimate Oslo feels. With a
 metropolitan population of 1.5 million, Oslo would slot 42nd in the US metro
 area population rankings, between Oklahoma City and Milwaukee.
 
-At any
-point you're no more than a block or two from a subway, tramway, or bus route
-that can efficiently ferry you about the city. Due to its
-relatively small footprint (from a quick glance at a map it seems at least
-75% of the city would fit inside a 5 mile radius of the city center) it feels
-like everywhere in Oslo is *20 minutes away*.
+After pondering the identity of the city over many ales I decide on a term I
+think represents the spirit of the city: *casually modern*.
+
+It's a world class city that doesn't make a fuss about it.
+It's a city where *shit just works*.
 
 
-After walking around Oslo for a couple days I take in a breath of fresh air and
-it hits me how polluted American cities are. The streets of Oslo are mostly
-devoid of automobiles, owing to it's walkability and fabulous public transit
-system. Based on a *vibes only* informal personal survey it feels like 90% of
-the cars on the road are electric.
+
 
 
 <p class="article-sub-subheader">V&aring;lerenga</p>
