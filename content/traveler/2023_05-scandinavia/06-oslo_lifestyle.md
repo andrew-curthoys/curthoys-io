@@ -22,25 +22,34 @@ Oslo as a great place to live
 * Almost all cars are electric
 * Soccer match
 
-<h4 class="article-subheader">Casually Modern</h4>
-It's not until I'm a temporary resident of Oslo for a week that I
-first notice the smell of the city.
+<h4 class="article-subheader">Oslo Has A Smell</h4>
+It takes a week as a temporary resident of Oslo for me to notice the smell.
 
-Or more accurately, lack of smell.
+A pervasive, gaseous odor permeating the city from ______ to _______.
+Everywhere you go you can't escape it.
 
 The realization occurs while waiting for an electric streetcar in the
-heart of downtown, standing on the curb with nary a rambling automobile in
-sight. A handful of cars sit idly within my visual grasp, oat bags full of
+heart of downtown. Underneath the light of a streetlamp I notice the
+boulevard is wholly devoid of rambling automobiles, the only passenger vehicles
+within my visual grasp idly, oat bags full of
 ancient grains distilled to an unimaginably potent liquor.
 
-It's while I'm standing there on that street corner, reveling in its automotive
-scarcity, that I fully appreciate Oslo's olfactory opulence. An urban perfume
-almost wholly unblemished by the byproducts of the internal combustion engine's
-Otto cycle.
+Oslo has a smell.
 
-This breath of fresh air starkly sheds light on the state of pollution in
-the US. You don't realize how much noxious air you breathe in American cities
-until you're not. With their system of electric trains, trams, buses, and - based
+It's while I'm standing there on that street corner, reveling in its automotive
+scarcity, that I fully appreciate Oslo's olfactory opulence. 
+
+Oslo's smell.
+
+The smell of fresh air.
+
+An urban perfume unblemished by the internal combustion engine's belching
+exhaust.
+
+A breath of fresh air that sheds a noxious light on the state of pollution in
+the US. Standing on an American street corner you don't notice the pollution.
+Until you're standing on a street corner in Oslo. With their system of electric
+trains, trams, buses, and - based
 on a *vibes only* informal personal survey guessing that 90% of autos are
 electrified - the air in Oslo is so refreshingly clear.
 
