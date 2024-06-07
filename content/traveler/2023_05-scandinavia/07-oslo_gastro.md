@@ -303,18 +303,18 @@ Speaking of international summits...
 "No way! My cousin lives in Perth! Beautiful country. How the hell did you end
 up all the way up here??"
 
+"Well.... it's a little bit of a long story"
+
 And that's how I met Talor Browne, the owner of
 <a href="https://talormade.no/" target="_blank" rel="noopener noreferrer">Talormade</a>,
 a neon obeliscolychny attracting Oslofolk far and wide with its irresistible
-good vibes, outstanding coffee, and mouthwatering doughnuts. Asked
-how the heck she ended up 10,000 miles from home on the other side of the world,
-she briefly regales her quest to find the perfect cup of coffee.
+good vibes, outstanding coffee, and mouthwatering doughnuts.
 
 Hailing from *somewhere between Sydney & Melbourne*, Talor departed the scorched
 landmass she called home for Oslo in 2012 to work for Tim Wendelboe, a man who I have
 since learned is a goliath in the world of specialty coffee. In a few short
 years Talor worked her way up to head roaster in Timmy W's outfit, making her
-the envy of anyone who's pulled the perfect shot of espresso.
+the envy of anyone who's pulled a shot of espresso.
 
 After a few years of slingin' beans with the 'boe she got a hankerin' to set off on
 her own. She began hosting doughnut pop up events that quickly gained a ravenous
@@ -325,8 +325,9 @@ Talormade was... February 2020.
 
 Big oof.
 
-So that wasn't ideal but she managed to scrape through and I'm standing in the
-exact place where she first opened her doors.
+So while the timing was less than superb, her doughnuts and coffee certainly
+are. As a testament to Talor's hard work I am standing in the
+same place where she first opened her doors.
 
 "Well seeing as you hail from down under I'm gonna have to order a flat white"
 
@@ -335,7 +336,7 @@ exact place where she first opened her doors.
 As I take a seat on a plush purple couch Talor calls out over the din of the
 espresso machine, "hey, have you ever had a cappuccino al freddo?"
 
-"Never even heard of such a thing"
+"I've never even heard of such a thing"
 
 "Well it just feels like a cappuccino al freddo type of day & I'm going to make
 myself one, would you like to try one?"
@@ -375,16 +376,49 @@ stone fa&ccedil;ade just a stone's throw from the Akerselva. The only indication
 that you might be near a world renowned purveyor of coffee is the small KAFFE
 sign affixed to the outer wall.
 
-I stroll into a small shop with two gorgeous baristas who look to be in their
-early 20s. I'm surprised that the shop isn't overrun with guests, seeing as this
+As I stroll 'neath the sign I glance at my watch. I have *some* time to spare
+'fore my ship sets sail but the coffee shop run by *2004 World Barista Champion
+Tim Wendelboe* is sure to be mobbed right?
+
+Right?
+
+To my surprise the establishment is merely moderately occupied. A dozen-ish
+small tables line the perimeter of a space no bigger than _______
+Most of the tables are occupied by couples making small talk or smartly dressed
+Millenials gazing intently at laptop screens. I intend to add a shabbily dressed
+Millenial gazing intently at a laptop screen to the mix.
+
+I step up to the bar to order my jitter juice and I'm greeted by two
+intimidatingly attractive Scandinavians; we'll call him Sven, we'll call her
+Olga. Sven & Olga, possessors of a carefree confidence only afforded to the
+breathtakingly beautiful, greet me with a smile and a menu.
+
+As if the baristas weren't intimidating enough, the menu lists 5 coffees, listing
+the cultivar of the coffee (think
+<a href="/traveler/2022_01-ski_trip/03-wine" target="_blank" rel="noopener noreferrer">wine varietals</a>),
+the country it comes from, and even the *farm* it comes from.
+
+And when I say "the" coffee shop I mean *the*
+coffee shop - 
+
+Wendelboe has resisted what must be he opportunity to print money by expanding.
+But his singular focus on finding the perfect cup of coffee precludes him from
+cashing in on his name.
+"I personally find it more rewarding to have one store where I feel the quality
+we are serving our guests is consistent and satisfying.”
+
+And "coffee shop" is perhaps too crude a term. "Coffee roastery, espresso bar,
+and coffee training centre" appears to be the presentment preferred by Tim
+(or more likely the PR firm whos run his website).
+
+to be overrun with patrons right? early 20s. I'm surprised that the shop isn't overrun with guests, seeing as this
 is the only Tim Wendelboe store in the entire world - he is of the belief that
 opening more locations will dilute his grasp on the quality of the coffee he
 serves. I saunter up to the bar helmed by two tall, stunningly attractive
 Norwegians who appear to be in their early 20s.
 
-The menu lists 5 different coffees, each with their country of origin, the farm
-where the beans were grown, and the cultivar of the coffee (think
-<a href="/traveler/2022_01-ski_trip/03-wine" target="_blank" rel="noopener noreferrer">wine varietals</a>)
+
+
 
 They pride themselves on light roast coffee. But why...
 <div class="block-quote">
