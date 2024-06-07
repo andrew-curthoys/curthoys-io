@@ -25,8 +25,9 @@ Oslo as a great place to live
 <h4 class="article-subheader">Oslo Has A Smell</h4>
 It takes a week as a temporary resident of Oslo for me to notice the smell.
 
-A pervasive, gaseous odor permeating the city from ______ to _______.
-Everywhere you go you can't escape it.
+A pervasive, gaseous odor permeating the city from Sk&oslash;yen to
+H&oslash;ybr&aring;ten.
+Anywhere you go you can't escape it.
 
 The realization occurs while waiting for an electric streetcar in the
 heart of downtown. Underneath the light of a streetlamp I notice the

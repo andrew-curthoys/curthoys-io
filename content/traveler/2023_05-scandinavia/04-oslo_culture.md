@@ -36,7 +36,7 @@ indescribably affecting. So indescribably indescribable that I am struggling to,
 well, describe it.
 
 Stretching a staggering *26 feet across* and *15 feet high*, the marvelous
-painting spews rays of bright, beautiful sunshine across its sprawling canvas.
+painting irradiates bright, beautiful sunshine across its sprawling canvas.
 In a statement that could be enshrined in the understatement hall of fame,
 Munch pithily described his painting thusly: "I saw the sun rise up above the
 rocks - I painted the sun."  
@@ -325,8 +325,46 @@ The works, in their entirety, create
 
 The lower floors hold a handful of other exhibits with titles such as *Lost in
 Color* and *Painting the Unspeakable* that highlight works from Scandinavian
-artists and a smattering of others from around the world, who all compliment
-the works of Munch to be seen shortly in the floors above.
+artists and a smattering of others from around the world. Each installation
+tells a story, each installation complements the works of Edvard Munch to be seen
+shortly in the floors above.
+
+Norway's most celebrated artist, Edvard Munch was born in a farmhouse in the
+small pastoral town of L&oslash;ten in 1863. Around his first birthday his
+father was appointed medical officer at Akershus Fortress, then the Norwegian
+royal palace, and moved the family 80 miles south to the city of Christiania.
+
+Christiania was a city constructed from whole cloth by King Christian IV of
+Denmark in 1624. After a fire destroyed the existing polity, Ol King Chris
+decided to rebuild across the river and, of course, named it after himself.
+In 1877 the name was changed to Kristiania, which lasted until 1 January 1925
+when it was again renamed to... Oslo. The fact that their capital city was
+named after a Dane just didn't sit right with the Norwegians.
+
+As a child Munch often fell ill during the winters and was held out of school,
+where he began to draw to keep himself occupied. Munch's mother died of
+tuberculosis when he was just 5 years old, leaving his father Christian to raise
+Edvard and his siblings alone. Despite his father's generally positive and
+supportive parenting his overly pious demeanor had an effect on Edvard,
+"My father was temperamentally nervous and obsessively religious—to the point of
+psychoneurosis. From him I inherited the seeds of madness. The angels of fear,
+sorrow, and death stood by my side since the day I was born."
+
+This overbearing influence, combined with his mother's death and a
+hypochondrical comportment, contributed to his distinctive macabre style.
+
+All this is to say if you don't know who Edvard Munch is, he's the guy who
+painted *The Scream.*
+
+You know *The Scream*
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_skrik.jpg" alt="The Scream">
+  <figcaption class="figure-caption">Y'know... that guy.</figcaption>
+</figure>
+
+
+
 
 This museum is so wonderful even the floors are beautiful.
 
