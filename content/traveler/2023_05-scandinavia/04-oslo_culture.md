@@ -363,8 +363,57 @@ You know *The Scream*
   <figcaption class="figure-caption">Y'know... that guy.</figcaption>
 </figure>
 
+So yeah, I didn't know who Edvard Munch was until I had already been in Oslo
+a few days and someone asked "have you gone to the Munch museum yet?"
 
+"Not yet, but it's on my schedule!" I confidently replied without a clue what
+they were talking about. Later, when cloistered in the safety of my own
+uncultured ignorance, I looked up this Munch fella.
 
+Ohhhhh THAT guy!
+
+I have a vague recollection of a dreadful attempt at recreating *The Scream* in
+elementary school art class, but likely due to my incredibly untroubled and
+stress free upbringing I just couldn't access *that pain behind those eyes*.
+
+The inspiration for the piece was a sunset walk along the Oslofjord,
+
+<p class="block-quote">
+One evening I was walking along a path, the city was on one side and the fjord
+below. I felt tired and ill. I stopped and looked out over the fjord – the sun
+was setting, and the clouds turning blood red. I sensed a scream passing through
+nature; it seemed to me that I heard the scream. I painted this picture, painted
+the clouds as actual blood. The color shrieked. This became The Scream.
+</p>
+
+The painting is actually one of a series of works - two paintings with tempera
+and oil, two drawings with pastel and crayon, and a few dozen prints from a
+lithograph. The museum retains 8 versions of *The Scream* - one painting, one
+drawing, and 6 lithograph prints.
+
+As we ride the escalator to the 4th floor we leave the *non-Munch* section of
+the museum and enter the Munch exclusive floors. And since they maintain nearly
+*27,000* pieces of art by Munch we will not be wanting for art on the next 5
+floors.
+
+<span class="skewed">Munchmuseet</span>, fully ascribing to the
+give-the-people-what-they-want philosophy of design, immediately satiate the
+visitor's thirst for *Skrik*, as *The Scream* is called in Norwegian. The
+exhibit consists of a dimly lit three-sided alcove with a different version of
+*Skrik* on each wall. Since Munch created each version on paper or cardboard
+they are more fragile than works on canvas. As a result they only display one
+version at a time on a rotating schedule, while "the two others rest in
+darkness" as the museum melodramatically describes.
+
+The version on display during our visit is a black & white lithograph. While
+the museum says that "all the versions are different, but equally powerful" I
+have to day that I think the colored painting is probably more powerful. But
+then again I have absolutely no idea what the hell I'm talking about.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_skrik3.jpg" alt="Skrik">
+  <figcaption class="figure-caption">Skriiiiiiiiiiiiik</figcaption>
+</figure>
 
 This museum is so wonderful even the floors are beautiful.
 
