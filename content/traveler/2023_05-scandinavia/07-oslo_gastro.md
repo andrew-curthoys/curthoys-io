@@ -409,13 +409,15 @@ we are serving our guests is consistent and satisfying.”
 
 And "coffee shop" is perhaps too crude a term. "Coffee roastery, espresso bar,
 and coffee training centre" appears to be the presentment preferred by Tim
-(or more likely the PR firm whos run his website).
+(or more likely the PR firm who runs his website).
 
 to be overrun with patrons right? early 20s. I'm surprised that the shop isn't overrun with guests, seeing as this
 is the only Tim Wendelboe store in the entire world - he is of the belief that
 opening more locations will dilute his grasp on the quality of the coffee he
 serves. I saunter up to the bar helmed by two tall, stunningly attractive
 Norwegians who appear to be in their early 20s.
+
+
 
 
 
@@ -435,3 +437,7 @@ roast level gives a cup with clarity, brightness and sweetness with little
 bitterness and ashy flavours from the roast process.
 </p>
 </div>
+
+I slurp down my coffee and head towards the smell of the sea
+
+I have a boat to catch

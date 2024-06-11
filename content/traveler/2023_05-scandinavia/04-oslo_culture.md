@@ -364,7 +364,7 @@ You know *The Scream*
 </figure>
 
 So yeah, I didn't know who Edvard Munch was until I had already been in Oslo
-a few days and someone asked "have you gone to the Munch museum yet?"
+a few days, "have you gone to the Munch museum yet?"
 
 "Not yet, but it's on my schedule!" I confidently replied without a clue what
 they were talking about. Later, when cloistered in the safety of my own
@@ -415,7 +415,25 @@ then again I have absolutely no idea what the hell I'm talking about.
   <figcaption class="figure-caption">Skriiiiiiiiiiiiik</figcaption>
 </figure>
 
-This museum is so wonderful even the floors are beautiful.
+The rest of the 4th floor is filled with Munch's explorations of the human
+experience, filled with sections such as Oneself, Gender, In Motion, Love,
+Others, Alone, Outdoors, To Die.
+
+And a painting of a bartender who looks like Bill Murray.
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_bill_murray.JPEG" alt="Bill Murray">
+  <figcaption class="figure-caption">I'll have a Total Consciousness on the rocks</figcaption>
+</figure>
+
+I'm dancing perilously close to the cliffs of my artistic scholarship, I better
+quit now. All I have to say is the <span class="skewed">Munchmuseet</span> is
+well worth a visit, despite the harshest critics' opinions of the exterior.
+
+Hell even the the floors are beautiful.
+
+Chamber of Chaos
+
 
 Oslo as Culture
 * Munch
