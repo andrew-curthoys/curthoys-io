@@ -1,5 +1,5 @@
 title: Rehearsals
-subtitle: <span style="font-size:1.3rem;">Part One <sub>and</sub> Two <sub>and</sub> Three: </span><span style="font-size:1.5rem;">Rehearsals</span>
+alt_title: <span style="font-size:1.3rem;">Part One <sub>and</sub> Two <sub>and</sub> Three: </span><span style="font-size:1.5rem;">Rehearsals</span>
 slug: entroper/2023_06-this_land/03-rehearsals
 slug_base: entroper/2023_06-this_land
 day_alias: Rehearsals

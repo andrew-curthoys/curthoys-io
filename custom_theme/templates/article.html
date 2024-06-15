@@ -1,8 +1,17 @@
 {% extends "base.html" %}
 
+<!-- Display title for browser window/tab -->
 {% block title %}{{ article.title }}{% endblock %}
 
+<!-- Begin content of page -->
 {% block content %}
+
+<!-- Set page title -->
+{% if article.alt_title %}
+  {% set articleTitle = article.alt_title %}
+{% else %}
+  {% set articleTitle = article.title %}
+{% endif %}
 
 <!-- Set variables to be used in Traveler article buttons -->
 {% if category in ['entroper', 'traveler'] %}
@@ -75,167 +84,271 @@
 
 {% endif %}
 
+<div class="container container-fluid pt-5">
+  <div class="row g-5">
+    <div class="col-md-8">
+      <article class="blog-post">
+        <h1 class="blog-post-title">{{ articleTitle }}</h2>
+        <h3 class="blog-post-subtitle">{{ article.subtitle }}</h4>
+        <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
+
 {% if category == 'traveler' %}
-<!-- TRAVELER TEMPLATE -->
-  <!-- ARTICLE HEADER -->
-  <div class="container container-fluid pt-5">
-    <div class="row g-5">
-      <div class="col-md-8">
-        <article class="blog-post">
-          <h2 class="blog-post-title">{{ article.title }}</h2>
-          <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
-          <nav class="navbar blog-pagination position-sticky justify-content-between" aria-label="Pagination">
-            <div class = "navbar-nav col-12 text-center">
-              <h4>{{ article.day_alias }} </h4>
-            </div>
-            <div class="navbar-nav flex-start">
-              <a class="btn btn-darkish text-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
-            </div>
-            <div class="navbar-nav navbar-right">
-              <a class="btn btn-darkish text-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
-            </div>
-          </nav>
-          <div class="col-12 d-flex">
-            <div class="article-content">
-              {{ article.content }}
-            </div>
+        <nav class="navbar blog-pagination position-sticky justify-content-between" aria-label="Pagination">
+          <div class = "navbar-nav col-12 text-center">
+            <h4>{{ article.day_alias }} </h4>
           </div>
-          <script src="https://utteranc.es/client.js"
-            repo="andrew-curthoys/curthoys-io"
-            issue-term="pathname"
-            theme="github-light"
-            crossorigin="anonymous"
-            async>
-          </script>
-        </article>
-      </div>
-      <div class="col-md-4">
-        <div class="position-sticky" style="top: 6rem;">
-          <div class="p-4 mb-3 bg-light rounded">
-            <h4 class="fst-italic">Traveler</h4>
-            <p class="mb-0">Musings of a panhandlin, manhandlin, postholin, highrollin, dustbowlin daddy</p>
+          <div class="navbar-nav flex-start">
+            <a class="btn btn-darkish text-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
           </div>
-          <div class="p-4">
-            <h4 class="fst-italic">Trips</h4>
-            <ol class="list-unstyled mb-0">
-              <li class="trip-link"><a href="/traveler/2022_01-ski_trip.html">2022 Ski Tripapalooza</a></li>
-              <li class="trip-link"><a href="/traveler/2021_11-nyc_marathon.html">2021 NYC Marathon</a></li>
-              <li class="trip-link"><a href="/traveler/2021_09-costa_rica/01-pura_vida.html">2021 Costa Rica</a></li>
-              <li class="trip-link"><a href="/traveler/2021_04-ski_trip/wp/day_1.html">2021 Ski Trip</a></li>
-            </ol>
+          <div class="navbar-nav navbar-right">
+            <a class="btn btn-darkish text-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
           </div>
+        </nav>
+        <div class="col-12 d-flex">
+          <div class="article-content">
+            {{ article.content }}
+          </div>
+        </div>
+        <script src="https://utteranc.es/client.js"
+          repo="andrew-curthoys/curthoys-io"
+          issue-term="pathname"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </article>
+    </div>
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 6rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <h4 class="fst-italic">Traveler</h4>
+          <p class="mb-0">Musings of a panhandlin, manhandlin, postholin, highrollin, dustbowlin daddy</p>
+        </div>
+        <div class="p-4">
+          <h4 class="fst-italic">Trips</h4>
+          <ol class="list-unstyled mb-0">
+            <li class="trip-link"><a href="/traveler/2022_01-ski_trip.html">2022 Ski Tripapalooza</a></li>
+            <li class="trip-link"><a href="/traveler/2021_11-nyc_marathon.html">2021 NYC Marathon</a></li>
+            <li class="trip-link"><a href="/traveler/2021_09-costa_rica/01-pura_vida.html">2021 Costa Rica</a></li>
+            <li class="trip-link"><a href="/traveler/2021_04-ski_trip/wp/day_1.html">2021 Ski Trip</a></li>
+          </ol>
         </div>
       </div>
     </div>
   </div>
+</div>
 
 {% elif category == 'traveler_lite' %}
-<!-- TRAVELER TEMPLATE -->
-  <!-- ARTICLE HEADER -->
-  <div class="container container-fluid pt-5">
-    <div class="row g-5">
-      <div class="col-md-8">
-        <article class="blog-post">
-          <h2 class="blog-post-title">{{ article.title }}</h2>
-          <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
-          <div class="col-12 d-flex">
-            <div class="article-content">
-              {{ article.content }}
-            </div>
+        <div class="col-12 d-flex">
+          <div class="article-content">
+            {{ article.content }}
           </div>
-          <script src="https://utteranc.es/client.js"
-            repo="andrew-curthoys/curthoys-io"
-            issue-term="pathname"
-            theme="github-light"
-            crossorigin="anonymous"
-            async>
-          </script>
-        </article>
-      </div>
-      <div class="col-md-4">
-        <div class="position-sticky" style="top: 6rem;">
-          <div class="p-4 mb-3 bg-light rounded">
-            <h4 class="fst-italic">Traveler</h4>
-            <p class="mb-0">Musings of a panhandlin, manhandlin, postholin, highrollin, dustbowlin daddy</p>
-          </div>
-          <div class="p-4">
-            <h4 class="fst-italic">Trips</h4>
-            <ol class="list-unstyled mb-0">
-              <li class="trip-link"><a href="/traveler/2022_01-ski_trip.html">2022 Ski Tripapalooza</a></li>
-              <li class="trip-link"><a href="/traveler/2021_11-nyc_marathon.html">2021 NYC Marathon</a></li>
-              <li class="trip-link"><a href="/traveler/2021_09-costa_rica/01-pura_vida.html">2021 Costa Rica</a></li>
-              <li class="trip-link"><a href="/traveler/2021_04-ski_trip/wp/day_1.html">2021 Ski Trip</a></li>
-            </ol>
-          </div>
+        </div>
+        <script src="https://utteranc.es/client.js"
+          repo="andrew-curthoys/curthoys-io"
+          issue-term="pathname"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </article>
+    </div>
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 6rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <h4 class="fst-italic">Traveler</h4>
+          <p class="mb-0">Musings of a panhandlin, manhandlin, postholin, highrollin, dustbowlin daddy</p>
+        </div>
+        <div class="p-4">
+          <h4 class="fst-italic">Trips</h4>
+          <ol class="list-unstyled mb-0">
+            <li class="trip-link"><a href="/traveler/2022_01-ski_trip.html">2022 Ski Tripapalooza</a></li>
+            <li class="trip-link"><a href="/traveler/2021_11-nyc_marathon.html">2021 NYC Marathon</a></li>
+            <li class="trip-link"><a href="/traveler/2021_09-costa_rica/01-pura_vida.html">2021 Costa Rica</a></li>
+            <li class="trip-link"><a href="/traveler/2021_04-ski_trip/wp/day_1.html">2021 Ski Trip</a></li>
+          </ol>
         </div>
       </div>
     </div>
   </div>
+</div>
 
 {% elif category == 'eater' %}
-<!-- EATER TEMPLATE -->
-  <!-- ARTICLE HEADER -->
-  <div class="container container-fluid pt-5">
-    <div class="row g-5">
-      <div class="col-md-8">
-        <article class="blog-post">
-          <h2 class="blog-post-title">{{ article.title }}</h2>
-          <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
-          <!-- CAROUSEL -->
-          <!-- {% set carouselImgs = ({"hog_kyle.jpg": "Kyle & the Hog", "hog_on_pit.jpg": "Hog on the Pit"}) %}
-          <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner w-50 mx-auto">
-            {% for photo, alt_txt in carouselImgs.items() %}
-              {% if loop.index == 1 %}
-                <div class="carousel-item active">
-              {% else %}
-                <div class="carousel-item">
-              {% endif %}
-                  <img class="block w-50" src="/theme/images/eater/2021_06-hog_roast/{{ photo }}" alt="{{ alt_txt }}">
-                </div>
-            {% endfor %}
-            </div>
-          </div> -->
-          <div class="col-12 d-flex">
-            <div class="article-content">
-              {{ article.content }}
-            </div>
+        <!-- CAROUSEL -->
+        <!-- {% set carouselImgs = ({"hog_kyle.jpg": "Kyle & the Hog", "hog_on_pit.jpg": "Hog on the Pit"}) %}
+        <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner w-50 mx-auto">
+          {% for photo, alt_txt in carouselImgs.items() %}
+            {% if loop.index == 1 %}
+              <div class="carousel-item active">
+            {% else %}
+              <div class="carousel-item">
+            {% endif %}
+                <img class="block w-50" src="/theme/images/eater/2021_06-hog_roast/{{ photo }}" alt="{{ alt_txt }}">
+              </div>
+          {% endfor %}
           </div>
-          <script src="https://utteranc.es/client.js"
-            repo="andrew-curthoys/curthoys-io"
-            issue-term="pathname"
-            theme="github-light"
-            crossorigin="anonymous"
-            async>
-          </script>
-        </article>
-      </div>
-      <div class="col-md-4">
-        <div class="position-sticky" style="top: 6rem;">
-          <div class="p-4 mb-3 bg-light rounded">
-            <h4 class="fst-italic">Eater</h4>
-            <p class="mb-0">Join me on a culinary adventure</p>
+        </div> -->
+        <div class="col-12 d-flex">
+          <div class="article-content">
+            {{ article.content }}
           </div>
-          <div class="p-4">
-            <h4 class="fst-italic">Feasts</h4>
-            <ol class="list-unstyled mb-0">
-              <li class="trip-link"><a href="/eater/2021_06-hog_roast.html">June 2021 Hog Roast</a></li>
-            </ol>
-          </div>
+        </div>
+        <script src="https://utteranc.es/client.js"
+          repo="andrew-curthoys/curthoys-io"
+          issue-term="pathname"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </article>
+    </div>
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 6rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <h4 class="fst-italic">Eater</h4>
+          <p class="mb-0">Join me on a culinary adventure</p>
+        </div>
+        <div class="p-4">
+          <h4 class="fst-italic">Feasts</h4>
+          <ol class="list-unstyled mb-0">
+            <li class="trip-link"><a href="/eater/2021_06-hog_roast.html">June 2021 Hog Roast</a></li>
+          </ol>
         </div>
       </div>
     </div>
   </div>
+</div>
 
 {% elif category == 'entroper' %}
-<!-- ENTROPER TEMPLATE -->
-  <!-- ARTICLE HEADER -->
-  <div class="container container-fluid pt-5">
-    <div class="row g-5">
-      <div class="col-md-8">
-        <article class="blog-post">
-          <h2 class="blog-post-title">{{ article.subtitle }}</h2>
-          <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
+        <nav class="navbar blog-pagination position-sticky justify-content-between" aria-label="Pagination">
+          <div class = "navbar-nav col-12 text-center">
+            <h4>{{ article.day_alias }} </h4>
+          </div>
+          <div class="navbar-nav flex-start">
+            <a class="btn btn-darkish text-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
+          </div>
+          <div class="navbar-nav navbar-right">
+            <a class="btn btn-darkish text-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
+          </div>
+        </nav>
+        <div class="col-12 d-flex">
+          <div class="article-content">
+            {{ article.content }}
+          </div>
+        </div>
+        <script src="https://utteranc.es/client.js"
+          repo="andrew-curthoys/curthoys-io"
+          issue-term="pathname"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </article>
+    </div>
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 6rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <h4 class="fst-italic">Entroper</h4>
+          <p class="mb-0">An assortment of random things trending towards disorder.</p>
+        </div>
+        <div class="p-4">
+          <h4 class="fst-italic">Pedeses</h4>
+          <ol class="list-unstyled mb-0">
+            <li class="trip-link"><a href="/entroper/2023_04-croce.html">Croce Plays Croce</a></li>
+          </ol>
+          <!-- <ol class="list-unstyled mb-0">
+            <li class="trip-link"><a href="/entroper/2023_06-this_land.html">This Land Is Your Land</a></li>
+          </ol> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% elif category == 'entroper_lite' %}
+        <div class="col-12 d-flex">
+          <div class="article-content">
+            {{ article.content }}
+          </div>
+        </div>
+        <script src="https://utteranc.es/client.js"
+          repo="andrew-curthoys/curthoys-io"
+          issue-term="pathname"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </article>
+    </div>
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 6rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <h4 class="fst-italic">Entroper</h4>
+          <p class="mb-0">An assortment of random nonsense trending towards disorder.</p>
+        </div>
+        <div class="p-4">
+          <h4 class="fst-italic">Pedeses</h4>
+          <ol class="list-unstyled mb-0">
+            <li class="trip-link"><a href="/entroper/2023_04-croce.html">Croce Plays Croce</a></li>
+          </ol>
+          <!-- <ol class="list-unstyled mb-0">
+            <li class="trip-link"><a href="/entroper/2023_06-this_land.html">This Land Is Your Land</a></li>
+          </ol> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% elif category == 'rambler' %}
+        <!-- CAROUSEL -->
+        <!-- {% set carouselImgs = ({"hog_kyle.jpg": "Kyle & the Hog", "hog_on_pit.jpg": "Hog on the Pit"}) %}
+        <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner w-50 mx-auto">
+          {% for photo, alt_txt in carouselImgs.items() %}
+            {% if loop.index == 1 %}
+              <div class="carousel-item active">
+            {% else %}
+              <div class="carousel-item">
+            {% endif %}
+                <img class="block w-50" src="/theme/images/eater/2021_06-hog_roast/{{ photo }}" alt="{{ alt_txt }}">
+              </div>
+          {% endfor %}
+          </div>
+        </div> -->
+        <div class="col-12 d-flex">
+          <div class="article-content">
+            {{ article.content }}
+          </div>
+        </div>
+        <script src="https://utteranc.es/client.js"
+          repo="andrew-curthoys/curthoys-io"
+          issue-term="pathname"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </article>
+    </div>
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 6rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <h4 class="fst-italic">Rambler</h4>
+          <p class="mb-0">Foolish feats of questionable athleticism</p>
+        </div>
+        <div class="p-4">
+          <h4 class="fst-italic">Rambles</h4>
+          <ol class="list-unstyled mb-0">
+            <li class="trip-link"><a href="/rambler/2021_11-nyc_marathon.html">November 2021 NYC Marathon</a></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% elif category == 'misc' %}
           <nav class="navbar blog-pagination position-sticky justify-content-between" aria-label="Pagination">
             <div class = "navbar-nav col-12 text-center">
               <h4>{{ article.day_alias }} </h4>
@@ -246,195 +359,7 @@
             <div class="navbar-nav navbar-right">
               <a class="btn btn-darkish text-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
             </div>
-          </nav>
-          <div class="col-12 d-flex">
-            <div class="article-content">
-              {{ article.content }}
-            </div>
-          </div>
-          <script src="https://utteranc.es/client.js"
-            repo="andrew-curthoys/curthoys-io"
-            issue-term="pathname"
-            theme="github-light"
-            crossorigin="anonymous"
-            async>
-          </script>
-        </article>
-      </div>
-      <div class="col-md-4">
-        <div class="position-sticky" style="top: 6rem;">
-          <div class="p-4 mb-3 bg-light rounded">
-            <h4 class="fst-italic">Entroper</h4>
-            <p class="mb-0">An assortment of random things trending towards disorder.</p>
-          </div>
-          <div class="p-4">
-            <h4 class="fst-italic">Pedeses</h4>
-            <ol class="list-unstyled mb-0">
-              <li class="trip-link"><a href="/entroper/2023_04-croce.html">Croce Plays Croce</a></li>
-            </ol>
-            <!-- <ol class="list-unstyled mb-0">
-              <li class="trip-link"><a href="/entroper/2023_06-this_land.html">This Land Is Your Land</a></li>
-            </ol> -->
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-{% elif category == 'entroper_lite' %}
-<!-- ENTROPER TEMPLATE -->
-  <!-- ARTICLE HEADER -->
-  <div class="container container-fluid pt-5">
-    <div class="row g-5">
-      <div class="col-md-8">
-        <article class="blog-post">
-          <h2 class="blog-post-title">{{ article.title }}</h2>
-          <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
-          <div class="col-12 d-flex">
-            <div class="article-content">
-              {{ article.content }}
-            </div>
-          </div>
-          <script src="https://utteranc.es/client.js"
-            repo="andrew-curthoys/curthoys-io"
-            issue-term="pathname"
-            theme="github-light"
-            crossorigin="anonymous"
-            async>
-          </script>
-        </article>
-      </div>
-      <div class="col-md-4">
-        <div class="position-sticky" style="top: 6rem;">
-          <div class="p-4 mb-3 bg-light rounded">
-            <h4 class="fst-italic">Entroper</h4>
-            <p class="mb-0">An assortment of random nonsense trending towards disorder.</p>
-          </div>
-          <div class="p-4">
-            <h4 class="fst-italic">Pedeses</h4>
-            <ol class="list-unstyled mb-0">
-              <li class="trip-link"><a href="/entroper/2023_04-croce.html">Croce Plays Croce</a></li>
-            </ol>
-            <!-- <ol class="list-unstyled mb-0">
-              <li class="trip-link"><a href="/entroper/2023_06-this_land.html">This Land Is Your Land</a></li>
-            </ol> -->
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-{% elif category == 'rambler' %}
-<!-- EATER TEMPLATE -->
-  <!-- ARTICLE HEADER -->
-  <div class="container container-fluid pt-5">
-    <div class="row g-5">
-      <div class="col-md-8">
-        <article class="blog-post">
-          <h2 class="blog-post-title">{{ article.title }}</h2>
-          <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
-          <!-- CAROUSEL -->
-          <!-- {% set carouselImgs = ({"hog_kyle.jpg": "Kyle & the Hog", "hog_on_pit.jpg": "Hog on the Pit"}) %}
-          <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner w-50 mx-auto">
-            {% for photo, alt_txt in carouselImgs.items() %}
-              {% if loop.index == 1 %}
-                <div class="carousel-item active">
-              {% else %}
-                <div class="carousel-item">
-              {% endif %}
-                  <img class="block w-50" src="/theme/images/eater/2021_06-hog_roast/{{ photo }}" alt="{{ alt_txt }}">
-                </div>
-            {% endfor %}
-            </div>
-          </div> -->
-          <div class="col-12 d-flex">
-            <div class="article-content">
-              {{ article.content }}
-            </div>
-          </div>
-          <script src="https://utteranc.es/client.js"
-            repo="andrew-curthoys/curthoys-io"
-            issue-term="pathname"
-            theme="github-light"
-            crossorigin="anonymous"
-            async>
-          </script>
-        </article>
-      </div>
-      <div class="col-md-4">
-        <div class="position-sticky" style="top: 6rem;">
-          <div class="p-4 mb-3 bg-light rounded">
-            <h4 class="fst-italic">Rambler</h4>
-            <p class="mb-0">Foolish feats of questionable athleticism</p>
-          </div>
-          <div class="p-4">
-            <h4 class="fst-italic">Rambles</h4>
-            <ol class="list-unstyled mb-0">
-              <li class="trip-link"><a href="/rambler/2021_11-nyc_marathon.html">November 2021 NYC Marathon</a></li>
-            </ol>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  {% elif category == 'misc' %}
-  <!-- MISC TEMPLATE -->
-    <!-- ARTICLE HEADER -->
-    <div class="container container-fluid pt-5">
-      <div class="row g-5">
-        <div class="col-md-8">
-          <article class="blog-post">
-            <h2 class="blog-post-title">{{ article.title }}</h2>
-            <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
-            <nav class="navbar blog-pagination position-sticky justify-content-between" aria-label="Pagination">
-              <div class = "navbar-nav col-12 text-center">
-                <h4>{{ article.day_alias }} </h4>
-              </div>
-              <div class="navbar-nav flex-start">
-                <a class="btn btn-darkish text-secondary" href="{{ prev_day_link }}">{{ prev_day_alias }}</a>
-              </div>
-              <div class="navbar-nav navbar-right">
-                <a class="btn btn-darkish text-secondary" href="{{ next_day_link }}">{{ next_day_alias }}</a>
-              </div>
-            </nav>            
-            <div class="col-12 d-flex">
-              <div class="article-content">
-                {{ article.content }}
-              </div>
-            </div>
-            <script src="https://utteranc.es/client.js"
-              repo="andrew-curthoys/curthoys-io"
-              issue-term="pathname"
-              theme="github-light"
-              crossorigin="anonymous"
-              async>
-            </script>
-          </article>
-        </div>
-        <div class="col-md-4">
-          <div class="position-sticky" style="top: 6rem;">
-            <div class="p-4 mb-3 bg-light rounded">
-              <h4 class="fst-italic">Miscellaneous</h4>
-              <p class="mb-0">Just a place to dump some random incoherent
-                gibberish
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  
-{% elif category == 'misc_lite' %}
-<!-- MISC TEMPLATE -->
-  <!-- ARTICLE HEADER -->
-  <div class="container container-fluid pt-5">
-    <div class="row g-5">
-      <div class="col-md-8">
-        <article class="blog-post">
-          <h2 class="blog-post-title">{{ article.title }}</h2>
-          <p class="blog-post-meta">{{ article.date.strftime('%A %B %d, %Y') }}</p>
+          </nav>            
           <div class="col-12 d-flex">
             <div class="article-content">
               {{ article.content }}
@@ -461,6 +386,34 @@
       </div>
     </div>
   </div>
+
+{% elif category == 'misc_lite' %}
+        <div class="col-12 d-flex">
+          <div class="article-content">
+            {{ article.content }}
+          </div>
+        </div>
+        <script src="https://utteranc.es/client.js"
+          repo="andrew-curthoys/curthoys-io"
+          issue-term="pathname"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </article>
+    </div>
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 6rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <h4 class="fst-italic">Miscellaneous</h4>
+          <p class="mb-0">Just a place to dump some random incoherent
+            gibberish
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 {% endif %}
 

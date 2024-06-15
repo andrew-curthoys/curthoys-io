@@ -1,4 +1,6 @@
-title: Sidequest: Oslovian Expeditions<p style="font-size:90%; font-style:italic;">Part III: Oslo as Lifestyle</p>
+title: Oslo as Lifestyle
+alt_title: Miniseries: Oslovian Adventures
+subtitle: Part III: Oslo as Lifestyle
 slug: traveler/2023_05-scandinavia/06-oslo_lifestyle
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Lifestyle
@@ -29,47 +31,53 @@ A pervasive, gaseous odor permeating the city from Sk&oslash;yen to
 H&oslash;ybr&aring;ten.
 Anywhere you go you can't escape it.
 
-The realization occurs while waiting for an electric streetcar in the
+I finally realize the smell while waiting for an electric streetcar in the
 heart of downtown. Underneath the light of a streetlamp I notice the
-boulevard is wholly devoid of rambling automobiles, the only passenger vehicles
-within my visual grasp idly, oat bags full of
+boulevard is wholly devoid of rambling automobiles; the only passenger vehicles
+within my visual grasp sit idly, oat bags full of
 ancient grains distilled to an unimaginably potent liquor.
 
 Oslo has a smell.
 
-It's while I'm standing there on that street corner, reveling in its automotive
-scarcity, that I fully appreciate Oslo's olfactory opulence. 
+Standing on that street corner, reveling in the city's automotive scarcity,
+I fully appreciate Oslo's olfactory opulence. 
 
 Oslo's smell.
 
-The smell of fresh air.
+It's the smell of fresh air.
 
-An urban perfume unblemished by the internal combustion engine's belching
+A dulcet urban perfume unblemished by the internal combustion engine's belching
 exhaust.
 
 A breath of fresh air that sheds a noxious light on the state of pollution in
 the US. Standing on an American street corner you don't notice the pollution.
-Until you're standing on a street corner in Oslo. With their system of electric
-trains, trams, buses, and - based
-on a *vibes only* informal personal survey guessing that 90% of autos are
-electrified - the air in Oslo is so refreshingly clear.
+But standing on a street corner in Oslo you notice the emissions by omission.
+With their system of electric trains, trams, buses, bike lanes and - based on a
+*vibes only* informal personal survey - 75ish percent of autos locomoted via
+electricity, the air in Oslo is downright salubrious.
 
+
+<h4 class="article-subheader">Casually Modern</h4>
 When I think of how I would describe Oslo, the first word that comes to mind is
 *sleepy*.
 
 It's a word, but it's not the right word.
 
-Oslo is certainly not *sleepy*. But your opinion of a city depends heavily on your
-expectation. When you've never been to Europe your expectation of a European
-capital is a glinty skyscraper jungle from the opening scene of a spy thriller.
-Compared to that, Osloites might happily consider their hometown *sleepy*.
+Oslo is certainly not *sleepy* - but my opinion is heavily influenced by my
+expectation. Having never been to Europe my expectation of a European capital is
+a glinty skyscraper jungle fit for the opening scenes of a spy thriller.
+Compared to that, Oslofolk might happily consider their hometown *sleepy*.
 
-It's a moderately sized city minding its own business in a *marka*-filled valley.
-It's a city with a refined modesty when it comes to skyscrapers, offering
-dazzling sight lines
-from anywhere in town. It's a city that tastefully melds the clean, efficient
-designs of modern buildings with traditional architecture. It's a city with
-public transit that works at a level of Scandinavian efficiency.
+It's a moderately sized city tucked away in a valley surrounded by *marka*=
+forests. It's a low-slung city with a refined modesty when it comes to the built
+environment, tastefully melding the clean lines of modern design with traditional
+architecture. It's a city whose public transit operates with Scandinavian efficiency.
+
+It's a world class city that doesn't make a fuss about it.
+
+It's a city where *shit just works*.
+
+It's a city whose identity I think can be described as *casually modern*.
 
 It's a shockingly intimate city - at any
 point you're no more than a block or two from a subway, tramway, or bus route
@@ -82,11 +90,7 @@ To my surprise I'm amazed at how intimate Oslo feels. With a
 metropolitan population of 1.5 million, Oslo would slot 42nd in the US metro
 area population rankings, between Oklahoma City and Milwaukee.
 
-After pondering the identity of the city over many ales I decide on a term I
-think represents the spirit of the city: *casually modern*.
 
-It's a world class city that doesn't make a fuss about it.
-It's a city where *shit just works*.
 
 
 
@@ -202,8 +206,6 @@ as a former manager is cognominated Leif Eriksen.
 Happy Leif Eriksen Day! Hinga Dinga Dargen!
 
 
-
-
 <h4 class="article-subheader">Livin' on Tulsa Time</h4>
 "You're going to Oslo? You know Andy Mac lives there right?"
 
@@ -231,7 +233,17 @@ few precisely timed *Point of Parliamentary Procedure*!! shouts into the
 transript to the chagrin of noone I'm sure.
 
 A few more &oslash;s & a handful of stories later finds us at Crow Bar, a 
-craft beer saloon just a snowball's throw from the food hall. The Crow also
+craft beer saloon just a snowball's throw from the food hall. During our jaunt
+to the Crow we pass a fella ripping a stogie that could substitute as a
+cane for Danny DeVito.
+
+<figure class="figure container-fluid">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-lifestyle_cigar.JPEG" alt="Stogie">
+  <figcaption class="figure-caption">That's one hell of a mouth cannon</figcaption>
+</figure>
+
+
+The Crow also
 operates a small brewing concern in the back, and being a man who supports small
 business, I order myself a Crow's House Ale.
 

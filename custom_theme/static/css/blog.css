@@ -87,9 +87,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 .blog-post-title {
   margin-bottom: .25rem;
-  font-size: 2rem;
   color: #356895;
 }
+.blog-post-subtitle {
+  margin-bottom: .25rem;
+  color: #356895;
+  font-style: italic;
+}
+
 .blog-post-meta {
   color: #727272;
 }

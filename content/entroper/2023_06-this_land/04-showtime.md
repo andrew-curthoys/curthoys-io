@@ -1,5 +1,5 @@
 title: Showtime
-subtitle: <span style="font-size:1.2rem;">Part One <sub>and</sub> Two <sub>and</sub> Three <sub>and</sub> Four: </span><span style="font-size:1.5rem;">Showtime</span>
+alt_title: <span style="font-size:1.2rem;">Part One <sub>and</sub> Two <sub>and</sub> Three <sub>and</sub> Four: </span><span style="font-size:1.5rem;">Showtime</span>
 slug: entroper/2023_06-this_land/04-showtime
 slug_base: entroper/2023_06-this_land
 day_alias: Showtime

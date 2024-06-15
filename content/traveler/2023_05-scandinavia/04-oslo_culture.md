@@ -1,4 +1,6 @@
-title: Sidequest: Oslovian Expeditions<p style="font-size:90%; font-style:italic;">Part I: Oslo as Culture</p>
+title: Oslo as Culture
+alt_title: Miniseries: Oslovian Adventures
+subtitle: Part I: Oslo as Culture
 slug: traveler/2023_05-scandinavia/04-oslo_culture
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Culture

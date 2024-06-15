@@ -1,4 +1,6 @@
-title: Sidequest: Oslovian Expeditions<p style="font-size:90%; font-style:italic;">Part IV: Oslo as Gastronomy</p>
+title: Oslo as Gastronomy
+alt_title: Miniseries: Oslovian Adventures
+subtitle: Part IV: Oslo as Gastronomy
 slug: traveler/2023_05-scandinavia/07-oslo_gastro
 slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Gastronomy

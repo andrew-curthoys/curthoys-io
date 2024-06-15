@@ -52,7 +52,7 @@ DIRECT_TEMPLATES = ['index',
 DELETE_OUTPUT_DIRECTORY = True
 
 THEME = 'custom_theme'
-CSS_FILE = '/theme/css/test.css'
+CSS_FILE = '/theme/css/custom.css'
 
 TIMEZONE = 'America/Chicago'
 
