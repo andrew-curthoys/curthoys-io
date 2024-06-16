@@ -19,9 +19,9 @@ summary:
 Tucked away at at the head of the Oslofjord, Norway's capital city is blessed with an
 embarrassment of natural riches. Strolling around town you find that the line
 dividing city from nature is often blurry, an arrangement which feels
-intentional given that nature walks are "part of the national soul" according to
-<a href="https://www.lifeinnorway.net" target="_blank" ref="noopener noreferrer">LifeinNorway.net</a>.
-There's even a word - *Marka* - that describes the dense forest that surrounds, and
+intentional given that nature walks are
+"<a href="https://www.lifeinnorway.net" target="_blank" ref="noopener noreferrer">part of the national soul</a>."
+There's even a word - *marka* - that describes the dense forest that surrounds, and
 in the most benevolent way possible, ensnarls the city. Every which way you wander
 you'll find yourself within a short amble of forests, mountains, lakes,
 rivers, or the great Oslofjord herself.
@@ -58,24 +58,24 @@ puts Oslo into the highest tier of my city rankings: *Cities With Harbors*.
 I just love myself a great harbor.
 
 One of the more appealing features of the Oslofjord to a rugged seafarer such as
-myself are her scattered islands within a short ferry of the city center. As I'm
-rambling around town one particularly delightful day the tousled mop atop my
+myself are her scattered islands within a short ferry of the city center.
+During an afternoon walkabout on a notably delightful day the tousled mop atop my
 head becomes sentient and cries out for a zephyrous squall of salty air. I
-first check my thesaurus then the fjord ferry schedule and find the vessels run
-every 30 minutes in a loop of 5 islands - Nakkholmen, Lind&oslash;ya,
+pause, first checking my thesaurus, then the ferry schedule, to find vessels
+running every 30 minutes in a loop of 5 islands - Nakkholmen, Lind&oslash;ya,
 Gressholmen, Bleik&oslash;ya, and (of course) Hoved&oslash;ya.
 
-I make the short walk to the ferry terminal and hop on my sights set on
+I make the short walk to the ferry terminal and hop on with my sights set on
 Gressholmen. According to my research
 there's a nice little cafe on the island that seems the perfect setting to soak
-up the rays from the afternoon sun hanging high in the sky. 45 minutes and two
+up rays from the afternoon sun hanging high in the sky. 45 minutes and two
 stops later I find myself livin' on island time.
 
 Once disembarked, I wander for about a mile of the 3 mile trail encircling the
-island and its nature preserve. The ramble works up an appetite and I get a
+island and its nature preserve. The ramble works up an appetite and a
 little tingle in my throat that just might be alleviated by a light, crisp
 barley sandwich. I plop onto a bench on the patio at Gressholmen Kro, a
-picturesque cafe overlooking the runway that once was. I order a small
+picturesque cafe overlooking the fjord. I order a small
 charcuterie plate and wash it down with a Christiania Bryggeri pilsner. Just
 what the allmennlege ordered!
 
@@ -86,14 +86,18 @@ what the allmennlege ordered!
 
 As I'm relaxing at the cafe I discover that this island was the location of the
 original Oslo airport. This revelation I find utterly preposterous until I find
-that it was only for seaplanes. Because that's the most Viking thing I can think of.
+that it was only for seaplanes.
+
+Which is an objectively 
 
 
 <h4 class="article-subheader">The Akerselva</h4>
-After recovering from the debauchery of the 17th I decide to get a survey of
+After recovering from the debauchery of
+<a href="/traveler/2023_05-scandinavia/03-norway_day" target="_blank" rel="noopener noreferrer">Constitution Day</a>,
+I decide to make a survey of
 the main confluence flowing through Oslo to the fjord. The Akerselva (Aker River)
-starts at Maridalsvannet (Lake Maridal) about 5 miles north of the city center
-and the main source of drinking water for Oslo.
+starts at Maridalsvannet (Lake Maridal), a natural freshwater reservoir perched
+above the city 5 miles to the north and its main source of drinking water.
 
 Sondre's apartment sits approximately halfway from source to mouth. An athlete
 with sufficient gumption could leisurely round trip the entire length of the
@@ -134,8 +138,10 @@ the health of the river.
 The initiative's success can be seen today through the
 river's diverse flora & fauna, none of which I could identify, mainly owing to
 the fact I can't read the Norwegian placards stationed along the walking path.
-The entirety of the river has been turned into an eco-park and many of the
-industrial buildings have been turned into restaurants, shops, bars, and lovely
+In a win for the environment and every living creature in the Akerselva river
+valley the entirety of the river
+has been converted into an eco-park, transforming many of the
+industrial buildings into restaurants, shops, bars, and lovely
 attractions for Oslofolk to enjoy on a beautiful May day.
 
 <figure class="figure">
@@ -151,55 +157,56 @@ attractions for Oslofolk to enjoy on a beautiful May day.
 </figure>
 
 <h4 class="article-subheader">Nordic Cycle</h4>
-The fjord lends itself not only to skirting *atop* the water, just as much
+The fjord lends itself not only to skirting *atop* the water; just as much
 fun can be had *in* the water. Lining the fjord opposite the Opera House &
 Munch museum sit a handful of saunas affording the opportunity to partake in the
 time honored Scandinavian tradition of hot sauna/cold plunge, also known as
 *The Nordic Cycle*.
 
 Sondre suggests SALT, a self-proclaimed "cultural arena" with six saunas, six
-music stages, and indoor & outdoor bars. The *cultural arena* is right on the
-fjord opposite the Opera House & Munch Museum. I meet him and Nora,
-along with Will and Anna, for a round of Aperol Spritzes before our schvitzes.
+music stages, and indoor & outdoor bars. I meet him and Nora, along with Will
+and Anna, in the *cultural arena*'s outdoor bar for a round of Aperol Spritzes
+before our schvitzes.
 We mustn't dally too long, however, since unlike the rest of the saunas we must
 be punctual if we want to take part in *the ritual*.
 
-Once checked in we all shuffle into a sauna room with three rows of tiered
+After downing our cocktails we check into the sauna facility and 
+shuffle into a sauna room  three rows of tiered
 benches. Everyone takes a seat and the most aggressively beautiful woman I've
 ever seen in my life floats into the sauna with a bundle of accessories. She
 explains, in a slightly threatening tone, that *the ritual* will last
 approximately 10 minutes and under no circumstances will there be any talking.
-Just sit back and let the vibes wash over you.
 
-After the announcements she turns up the hypnotic music and thus begins, what I
-now know is called, the *aufguss*. Our aufgussmeister (I just learned that
-word) begins by passing around a container of ice that my fellow aufgussters and
-I r
+After the announcements she turns up some hypnotic music and thus begins, what I
+now know is called, the *aufguss*. Our aufgussmeister (I also just learned that
+word) begins by passing around a container of ice that I do as the aufgussters
+do and scoop a handful onto my head and neck.
 
-From there she cranks up the heat before theatrically
+From there our aufgussmeister cranks up the heat before theatrically
 spinning a towel 'round her head like a helicopter, distributing the heat with
 a mesmerizing pattern of steam and smoke. As the steam circulates through the
-sauna, our sauna shaman pours a wooden ladle-ful of water & essential oils onto the
+sauna, our 'gussmeist pours a wooden ladle-ful of water & essential oils onto the
 sauna coals, releasing a billow of lung-invigorating steam into the air. She
 continues to fan the vapors, each revolution of her towel emitting a distinctive
 *whoosh* sound.
 
-She starts by  dipping a birch bough into a basin of water and spritzes everyone
-like a priest flinging holy water.  We then sit in meditative silence for
-another 5 minutes or so before she concludes the ritual by placing ice-soaked
-towels over everyone's shoulders. Dreadnought
+She continues by dipping a birch bough into a basin of water and spritzing
+everyone like a priest flinging holy water. We then sit in meditative silence
+for 10 minutes before she concludes the ritual by placing ice-soaked
+towels over everyone's shoulders.
 
-After the ritual we head to the main sauna house, a 30-40 foot tall structure
+After the ritual we head to the main sauna house, a 30-40 foot A-frame structure
 with rows upon rows of tiered wooden benches. We find a spot about 3/4 of the
 way up the room and let the hot air work its magic. After the recommended 20
 minutes of sweating we emerge from the sauna with our sights set on the fjord.
 
-With a quick, slightly worried glance between my compatriots and a 1-2-3 count,
-we all take the plunge into the frigid, Scandinavian water. The initial jolt
-from the cold water is exhilarating. We tread water for a few seconds before
-scampering back to the ladder and the warmth of our towels. I have to admit the
-sauna/cold plunge combo was one of the most refreshing activities I've ever
-experienced.
+With a quick, slightly worried glance among my co-conspirators someone
+calls out "ONE-TWO-THREE" and
+we all leap into the frigid, Scandinavian water. The initial jolt
+from the plunge is exhilarating. We tread water for a few seconds before
+scampering back to the ladder and the warmth of our towels. Refreshed,
+invigorated, ready to tackle the day.
+
 
 <h4 class="article-subheader">Gausta</h4>
 "I don't know if you have other plans but if you want we can go skiing tomorrow.
