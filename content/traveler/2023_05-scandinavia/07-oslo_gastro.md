@@ -248,7 +248,10 @@ place that can only be acquired through decades of repeat customers.
 </figure>
 
 The menu, in its simplicity, "Japanese dishes and Japanese alcohol."
-The wooden tables, well-worn. Evidence of spilt Sapporo. Of sloppy chopsticks.
+
+The wooden tables, well-worn.
+
+Evidence of spilt Sapporo. Of sloppy chopsticks.
 Of late nights in a half-basement where you dread leaving the warmth of your
 company to bear the frigid Norwegian winter. 
 
@@ -269,15 +272,24 @@ Edamame; seaweed salad; pork dumplings;
 *bangbangji* - cold chicken in sesame sauce;
 *chijimi* - spinach & cheese fried pancakes;
 
-Based on their policy clearly stated on the menu,
+In line with their clearly stated policy,
 "WE SEND THE FOOD OUT AS SOON IT IS READY",
 we are treated to a steady stream of delicious morsels in no particular order.
 
-Between courses we order a few more rounds of sake to wash it down. We put the
-finishing touches on the meal with *nama choko* - homemade chocolate truffles
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gastro_izakaya_meal.JPEG" alt="Izakaya meal">
+  <figcaption class="figure-caption">My amateurish photography makes for an
+  inferior representation of the assemblage</figcaption>
+</figure>
+
+Between courses a few more rounds of sake adown the table at our behest. The
+meal is rounded out with *nama choko* - homemade chocolate truffles
 and *kurogoma aisu* - homemade black sesame ice cream.
 
-My most memorable meal in Oslo.
+Everyone ducks through the egress portal a little more robust, a little more
+wizened, a little more contented. I feel grateful for the opportunity to break
+bread halfway across the world with people I adore. Grateful for my most
+memorable dinner in Oslo.
 
 <h4 class="article-subheader">"Sondre Hates Breakfast"</h4>
 Sondre and I differ in many ways.
