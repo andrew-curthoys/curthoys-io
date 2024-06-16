@@ -29,16 +29,18 @@ summary:
 
 "Great, and which gin would you like?"
 
-Now... I like gin, but the extent of my knowledge of the spirit is limited to a
+Now... I like gin, but the extent of my knowledge of it is limited to a
 handful of the most recognizable brands. If you poured me the finest gin in the
 world and a glass of turpentine I likely couldn't tell the difference. Upon the
-bartender's query I artfully divert his scrutiny of my neophytic grasp of gin
-while leering at the scribblings on the chalkboard of available offerings,
+bartender's query I leer at the chalkboard of available offerings, attempting to
+divert his scrutiny of my neophytic grasp of the spirit, searching for salvation
+amidst the chalky scribblings.
 
 "Hmmmmm well..... oh! I see you have Bareksten! That will make a fine gin & tonic!"
 
 My choice of Bareksten is predicated on the simple fact that it's from Norway.
-While a simple fact it may be for me, for the distillers it's a point of immense pride.
+While a simple fact it may be for me, a simple fact it is not for the distillers.
+Nay, for them it is a point of immense pride.
 
 A quick perusal of their website offers the reader a panoply of piny proverbs,
 an array of arboreal aphorisms. It's so over the top it feels like reading the
@@ -94,10 +96,12 @@ of Norwegian nature.
 </p>
 </div>
 
-Ordered myself a G&T with Bareksten Gin, which was presented in a
-splendid goblet and a glass bottle of tonic to adulterate as I see fit. The
-sharp elixir perfectly complements the vibe of the Lorry, which I would best
-describe as eclectic sophistication.
+I order myself a G&T with a magical gin inviting me to wander through Norway's
+mystical boral forests. Or is it a dark, wild, breathtaking, and dramatic gin
+inspired by ‘Hulder’ wood nymphs? Whatever it is it's presented in a
+splendid crystal goblet accompanied by a glass bottle of tonic to adulterate as
+I see fit. The sharp elixir perfectly complements the vibe of the Lorry, which I
+would best describe as eclectic sophistication.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-g&t.JPEG" alt="G&T">
@@ -106,22 +110,21 @@ describe as eclectic sophistication.
 
 The bar/restaurant dates back to the 1870s and has been a favorite hangout for
 notable Oslo writers, artists, intellectuals, and all-around rabble-rousers
-throughout its history. Often
-tortured artists would use their work they crafted while toiling in the booths
-of the Lorry as currency for food & drinks. Many of these works are still
-hanging on the walls!
+for 150 years. Throughout its history tortured artists bartered for cocktails
+using the work they crafted while toiling in the booths. And many of these works
+are still hanging on the walls!
 
-With our cocktails in tow, Sondre, Nora, & I peruse the incredible assortment of
+With our Gs & T in tow, Sondre, Nora, & I peruse the incredible assortment of
 art and tchotchkes on display throughout the building. As described on Lorry's
-website, *Lorry is known for its extraordinary and eclectic art collection,
+website, *"Lorry is known for its extraordinary and eclectic art collection,
 carefully collected from all over the World through the years. Our walls are
-decorated with 207 art works by over 70 artists.*
+decorated with 207 art works by over 70 artists."*
 
 As we wander around the main dining area we marvel at the artwork, the
 knick-knacks, the figurines, the zebra head, the display of dozens of
 corkscrews, the model ships, the old beer bottles. Once again from their website,
-*you are guaranteed surprises and absurdities everywhere you look. A visit to
-Lorry will be remembered for a long time.*
+*"you are guaranteed surprises and absurdities everywhere you look. A visit to
+Lorry will be remembered for a long time."*
 
 I couldn't agree more. And the most unforgettable part of the entire bazaar is
 the taxidermied giraffe wearing a bowtie at the top of the stairs.
@@ -179,6 +182,7 @@ the taxidermied giraffe wearing a bowtie at the top of the stairs.
 are cheeky & fun!</figcaption>
 </div>
 
+
 <h4 class="article-subheader">Izakaya</h4>
 One afternoon we're wandering around the Barcode when Nora exclaims, "Oh my
 friend works at Vin Bj&oslash;rvika, let's see if she's working!"
@@ -224,7 +228,7 @@ thoroughfares at a reasonable pace, deferring to pedestrians, cyclists,
 scooter-ers, and other non-car methods of transport. It's a wholly relaxing
 urban milieu.
 
-Soon our roving band of heathens arrives to Izakaya, a nondescript Japanese
+Soon our roving band of heathens arrives at Izakaya, a nondescript Japanese
 restaurant occupying the garden floor of a residential building steps away
 from a traffic circle featuring the Lysfonene, i.e. fountain of light.
 
@@ -238,6 +242,11 @@ not befitting the Viking bloodlines of its denizens. The low ceilings and
 modest confines tiptoe the line between cozy and cramped. It has a feel of a
 place that can only be acquired through decades of repeat customers.
 
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gastro_izakaya_door.JPEG" alt="Izakaya door">
+  <figcaption class="figure-caption">This'a meal yer gonna have ta stoop fer</figcaption>
+</figure>
+
 The menu, in its simplicity, "Japanese dishes and Japanese alcohol."
 The wooden tables, well-worn. Evidence of spilt Sapporo. Of sloppy chopsticks.
 Of late nights in a half-basement where you dread leaving the warmth of your
@@ -250,12 +259,25 @@ upsettingly comfortable position of "fifth wheel."
 
 First things first. A round of Sapporos & sake.
 
-soba salad
-pork dumplings
+With our thinking caps properly fueled we dash around the menu
 
+Edamame; seaweed salad; pork dumplings;
+*kuriimu chiisu hachimitsu* - cream cheese spread with honey, sesame, and miso;
+*kyuuri no kimuchi* - pickled cucumber with chili;
+*shiitake bataa ponzu itame* - shiitake mushrooms with ponzu sauce and butter;
+*ajitama* - soft boiled egg marinated in mirin, sake, and soy sauce;
+*bangbangji* - cold chicken in sesame sauce;
+*chijimi* - spinach & cheese fried pancakes;
 
-As described on my Best Bars book
-Thief rooftop bar (disappointing)
+Based on their policy clearly stated on the menu,
+"WE SEND THE FOOD OUT AS SOON IT IS READY",
+we are treated to a steady stream of delicious morsels in no particular order.
+
+Between courses we order a few more rounds of sake to wash it down. We put the
+finishing touches on the meal with *nama choko* - homemade chocolate truffles
+and *kurogoma aisu* - homemade black sesame ice cream.
+
+My most memorable meal in Oslo.
 
 <h4 class="article-subheader">"Sondre Hates Breakfast"</h4>
 Sondre and I differ in many ways.

@@ -242,12 +242,10 @@ cane for Danny DeVito.
   <figcaption class="figure-caption">That's one hell of a mouth cannon</figcaption>
 </figure>
 
+The Crow also operates a small brewing concern in the back; and as a man who
+supports small business, I order myself a Crow's House Ale.
 
-The Crow also
-operates a small brewing concern in the back, and being a man who supports small
-business, I order myself a Crow's House Ale.
-
-I enjoy a couple rounds of suds with the fellas, until one by one they grow weary
+I enjoy a few rounds of suds with the fellas until one by one they grow weary
 of my company and scuttle away like rats on a sinking ship. I'm on holiday and
 don't have to work tomorrow so I make nonsensical small talk with the bartender
 over a Lindheim &Oslash;ysteinnatten Pale Ale.
