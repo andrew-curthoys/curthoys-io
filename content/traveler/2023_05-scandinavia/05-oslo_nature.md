@@ -171,7 +171,7 @@ We mustn't dally too long, however, since unlike the rest of the saunas we must
 be punctual if we want to take part in *the ritual*.
 
 After downing our cocktails we check into the sauna facility and 
-shuffle into a sauna room  three rows of tiered
+shuffle into a sauna room fashioned with three rows of tiered
 benches. Everyone takes a seat and the most aggressively beautiful woman I've
 ever seen in my life floats into the sauna with a bundle of accessories. She
 explains, in a slightly threatening tone, that *the ritual* will last
@@ -205,19 +205,19 @@ calls out "ONE-TWO-THREE" and
 we all leap into the frigid, Scandinavian water. The initial jolt
 from the plunge is exhilarating. We tread water for a few seconds before
 scampering back to the ladder and the warmth of our towels. Refreshed,
-invigorated, ready to tackle the day.
+invigorated, energized.
 
 
 <h4 class="article-subheader">Gausta</h4>
-"I don't know if you have other plans but if you want we can go skiing tomorrow.
+"I don't know if you have other plans but we can go skiing tomorrow if you want.
 We have a cabin up in the mountains."
-
-"Nope, no other plans."
 
 *closes laptop in the middle of making plans for Stockholm tomorrow*
 
+"Nope, no other plans."
+
 "We have a cabin up in the mountains" is the peak of understatement. Sondre may
-have said we have a *condo* up in the mountains, but whatever the appellation
+have said *condo* whereas I heard *cabin*, but whatever the appellation
 deemed appropriate for the accommodation I was not prepared for this:
 
 <figure class="figure">
@@ -226,16 +226,19 @@ deemed appropriate for the accommodation I was not prepared for this:
 </figure>
 
 The 3 hour drive to the mountain begins as any good road trip does. With shitty
-coffee and nonsense snacks procured at the first gas station you encounter as
+coffee and nonsense snacks procured at the first gas station encountered as
 you enter the amorphous region known as *the edge of town.*
 
-If nonsense snacks had a European soccer-style hierarchy, one Norwegian treasure
-would arrogantly reside in the top tier. The Norwegian gas station waffle, in no
-fear of relegation, sneers at slim jims, laughs at pork rinds, cackles at the
-thought of combos. He nods respectfully at giant dill pickles in a bag. He
-doesn't even acknowledge gummy candy.
+If nonsense snacks had a European soccer-style hierarchy, there exists a
+Norwegian imbecilic treasure that resides, arrogantly, in the top tier.
+The *Norwegian Gas Station Waffle*, in no fear of relegation, sneers at Slim
+Jims, laughs at pork rinds, cackles at the thought of chips. *Chips?? Chips??
+Are you serious??*
 
-The Norwegian gas station waffle is a soggy
+The *Norwegian Gas Station Waffle* nods respectfully at giant dill pickles in a
+bag. He doesn't even acknowledge gummy candy.
+
+The *Norwegian Gas Station Waffle* is a soggy
 surface-impressioned-leavened-batter-bread filled with whatever conceivable
 edible morsels a maniac in charge of such things sees fit. In my case the soggy
 waffle is filled with the Norwegian delicacy
@@ -270,9 +273,9 @@ Gaustatoppen appears between two mountains</p>
   <figcaption class="figure-caption">Dear god it's beautiful</figcaption>
 </figure>
 
-I let out an audible gasp when G-top finally reveals his snowy crest. What
-stands out is not only his enormous stature but his singularity, standing alone,
-stoically towering over his arboreally endowed neighbors.
+As G-top finally reveals his snowy crest I subconsciously release an audible
+gasp. What stands out is not only his enormous stature but his singularity,
+standing alone, stoically towering over his arboreally endowed neighbors.
 
 While nowhere near the top of the list of highest peaks in Norway (which are mostly located
 on the west coast, vestiges of the Caledonian Orogeny, i.e. the mountain
