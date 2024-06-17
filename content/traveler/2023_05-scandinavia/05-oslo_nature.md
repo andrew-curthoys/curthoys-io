@@ -225,18 +225,27 @@ deemed appropriate for the accommodation I was not prepared for this:
   <figcaption class="figure-caption">I could apr&egrave;s my ass off here</figcaption>
 </figure>
 
-The 3 hour drive to the mountain begins as any good road trip does. With shitty
+The 3 hour drive to the mountain begins as any good road trip does: with shitty
 coffee and nonsense snacks procured at the first gas station encountered as
-you enter the amorphous region known as *the edge of town.*
+we enter the amorphous region known as *the edge of town.*
 
-If nonsense snacks had a European soccer-style hierarchy, there exists a
-Norwegian imbecilic treasure that resides, arrogantly, in the top tier.
-The *Norwegian Gas Station Waffle*, in no fear of relegation, sneers at Slim
-Jims, laughs at pork rinds, cackles at the thought of chips. *Chips?? Chips??
-Are you serious??*
+If we lived in a nonsense world in which nonsense snacks had a nonsense European
+soccer-style hierarchy, there exists one Norwegian nonsensical treasure that
+would reside, arrogantly, in the top tier year after year after year of such a
+nonsensical hierarchy.
+
+The *Norwegian Gas Station Waffle*, ruler of all things inane, would make the top
+tier of the *Syndicate of Nonsensical Aliments, Comestibles, Canap&eacute;, and
+Sustenance* (SNACCS) his home.
+
+The *Norwegian Gas Station Waffle*, in no fear of
+relegation, sneers at Slim Jims, laughs at pork rinds, cackles at the thought of
+chips. *Chips?? Chips?? Are you serious??*
 
 The *Norwegian Gas Station Waffle* nods respectfully at giant dill pickles in a
-bag. He doesn't even acknowledge gummy candy.
+bag.
+
+The *Norwegian Gas Station Waffle* doesn't even acknowledge gummy candy.
 
 The *Norwegian Gas Station Waffle* is a soggy
 surface-impressioned-leavened-batter-bread filled with whatever conceivable
@@ -245,9 +254,11 @@ waffle is filled with the Norwegian delicacy
 <a href="/traveler/2023_05-scandinavia/02-saetre?id=cheese" target="_blank" rel="noopener noreferrer">brunost</a>,
 i.e. brown cheese.
 
-It's mealy, it's flaccid, it's repulsive. And it's exactly what I want.
+It's mealy, it's flaccid, it's repulsive.
 
-Sondre & I scarf down our roadwaffles with a hearty helping of brown water
+It's exactly what I want.
+
+My pilot and  I scarf down our roadwaffles with a steamy helping of brown water
 masquerading as coffee. The first hour and a half of the drive is a tranquil
 jaunt through the idyllic rolling hills of the Norwegian countryside.
 
