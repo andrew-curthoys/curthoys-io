@@ -212,12 +212,13 @@ invigorated, energized.
 "I don't know if you have other plans but we can go skiing tomorrow if you want.
 We have a cabin up in the mountains."
 
-*closes laptop in the middle of making plans for Stockholm tomorrow*
+~*closes laptop in the middle of making plans for Stockholm tomorrow*~
 
-"Nope, no other plans."
+"Nope, no plans."
 
-"We have a cabin up in the mountains" is the peak of understatement. Sondre may
-have said *condo* whereas I heard *cabin*, but whatever the appellation
+As it happens the phrase "we have a cabin up in the mountains" turns out to be
+the height of understatement. Sondre *may*
+have said "condo" whereas I heard "cabin", but whatever the appellation
 deemed appropriate for the accommodation I was not prepared for this:
 
 <figure class="figure">
@@ -226,26 +227,26 @@ deemed appropriate for the accommodation I was not prepared for this:
 </figure>
 
 The 3 hour drive to the mountain begins as any good road trip does: a pit stop
-at the first gas station we encounter as we reach the amorphous region known as
-*the edge of town* for coffee and nonsense snacks.
+for coffee and nonsense snacks at the first gas station we encounter as we reach
+the amorphous region known as *the edge of town*.
 
 I've
 <a href="/traveler/2023_05-scandinavia/01-60_deg_north" target="_blank" rel="noopener noreferrer">previously</a>
 <a href="/traveler/2023_05-scandinavia/02-saetre" target="_blank" rel="noopener noreferrer">discussed</a>
-<a href>
-nutritive technology on this soapbox before but I've once again met a Norwegian
-delicacy that must be praised.
+nutritive technology on this soapbox before but at this gas station I once again
+meet a Norwegian culinary innovation that must be praised.
 
 If we were to pit nonsense snacks against each other in a European-soccer-style
 hierarchical league system, a system which we could perhaps call the
-*Syndicate of Nonsensical Aliments, Comestibles, Canap&eacute;, and
-Sustenance* (SNACCS), we would find that there exists a Norwegian delicacy
-sitting arrogantly in the top tier year after year after year with not a
-care in the world.
+*Syndicate of Nonsensical Aliments, Comestibles, Canap&eacute;, and Sustenance*
+(SNACCS), this treat would roost confidently in the top flight year after year
+after year.
 
-The *Norwegian Gas Station Waffle*, in no fear of
-relegation, sneers at Slim Jims, laughs at pork rinds, cackles at the thought of
-chips. *Chips?? Chips?? Are you serious??*
+With no fear of relegation, the *Norwegian Gas Station Waffle* would sneer at
+Slim Jims, laugh in the face of pork rinds, cackle at the thought of
+pretzels.
+
+*Pretzels?? Pretzels?? We talkin' bout pretzels!!??*
 
 The *Norwegian Gas Station Waffle* nods respectfully at giant dill pickles in a
 bag.
@@ -255,15 +256,14 @@ The *Norwegian Gas Station Waffle* doesn't even acknowledge gummy candy.
 The *Norwegian Gas Station Waffle* is a soggy
 surface-impressioned-leavened-batter-bread filled with whatever conceivable
 edible morsels a maniac in charge of such things sees fit. In my case the soggy
-waffle is filled with the Norwegian delicacy
-<a href="/traveler/2023_05-scandinavia/02-saetre?id=cheese" target="_blank" rel="noopener noreferrer">brunost</a>,
-i.e. brown cheese.
+waffle is laden with butter, mystery-berry jam, and
+<a href="/traveler/2023_05-scandinavia/02-saetre?id=cheese" target="_blank" rel="noopener noreferrer">brunost</a>.
 
 It's mealy, it's flaccid, it's repulsive.
 
 It's exactly what I want.
 
-My pilot and  I scarf down our roadwaffles with a steamy helping of brown water
+My pilot and I scarf down our roadwaffles with a steamy helping of brown water
 masquerading as coffee. The first hour and a half of the drive is a tranquil
 jaunt through the idyllic rolling hills of the Norwegian countryside.
 
@@ -282,43 +282,45 @@ jaunt through the idyllic rolling hills of the Norwegian countryside.
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_ship.JPEG" alt="Gausta ship">
 </figure>
 
-<p class="mb-0">And then as we round a bend, the immense protuberance of
-Gaustatoppen appears between two mountains</p>
+<p class="mb-0">And then as we round a bend, we see the immense protuberance of
+Gaustatoppen appear between two mountains</p>
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_mtn.JPEG" alt="Gaustatoppen">
   <figcaption class="figure-caption">Dear god it's beautiful</figcaption>
 </figure>
 
-As G-top finally reveals his snowy crest I subconsciously release an audible
-gasp. What stands out is not only his enormous stature but his singularity,
-standing alone, stoically towering over his arboreally endowed neighbors.
+When GTop, as he's affectionately known, finally reveals his snowy crest I
+subconsciously release an audible
+gasp. I'm struck not only by his enormous stature but his singularity -
+a stoic standing alone, towering over his arboreally endowed neighbors with an
+unshakable equanimity.
 
-While nowhere near the top of the list of highest peaks in Norway (which are mostly located
-on the west coast, vestiges of the Caledonian Orogeny, i.e. the mountain
-building event that gave us the Appalachians & Scottish Highlands), GTop as it's
-colloquially known, is near the top of the list of most visited, due to its
+While nowhere near the top of the list of highest peaks in Norway (which are
+mostly located on the west coast, vestiges of the Caledonian Orogeny, i.e. the
+mountain building event that gave us the Appalachians & Scottish Highlands),
+GTop is one of the most visited (if not the most) given its
 breathtaking views and proximity to Oslo.
 
-As we approach the mountain Sondre tells me about Rjukan, a small town sitting
-in the northern shadow of Gaustatoppen. The town was essentially "built from
-scratch" during the
+As we approach the mountain Sondre tells me about Rjukan, a small town nestled
+in the northern shadow of GTop. The town was essentially built from
+scratch during the
 construction of a fertilizer plant by Norsk Hydro in the early 20th century. At
 the time of its completion in 1911 the Vemork hydroelectric power plant was the
 world's largest hydroelectric power plant, larger even than the hydro plant at
 Niagara Falls. The plant was also the site of Norwegian heavy water sabotage
-operations during WWII, an effort to thwart the German's plant to build an
-atomic bomb (although they were the harbingers of their own demise in that
-arena, directly causing the exodus of hundreds of top scientists starting in 1933).
+operations during WWII - an effort to thwart the German's plant to build an
+atomic bomb (although the Nazis were hoist with their own petard by instigating
+the exodus of their top scientists starting in 1933).
 
 And when I say the town sits in the shadow of Gaustatoppen I mean it. Literally.
 Every winter, from September to March their mountainous compadre completely blocks
 the sun at all hours of the day. In 2013 local artist Martin Andersen
 <a href="https://www.bbc.com/future/article/20170314-the-town-that-built-a-mirror-to-catch-the-sun" target="_blank" rel="noreferrer noopener">
-constructed a series of mirrors</a>connected to a computer driven sun tracker to
-spill sunlight upon the town square during these dismal months. According to
-the town's mayor, “the sun mirror means a lot to Rjukan... It’s a perfect
-combination of technology and art – and of course it is a great welfare activity
-for the citizens of Rjukan.”
+erected a series of mirrors</a> connected to a sun tracker to render the town
+square awash in bright, beautiful sunshine during these dismal months.
+According to the town's mayor, “the sun mirror means a lot to Rjukan... It’s a
+perfect combination of technology and art – and of course it is a great welfare
+activity for the citizens of Rjukan.”
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-mirror1.jpeg" alt="Sun mirror">
@@ -326,11 +328,12 @@ for the citizens of Rjukan.”
   <figcaption class="figure-caption">Looks like she's back, Bill Withers</figcaption>
 </figure>
 
-As we wind our way up the flanks of the mountain to Chalet Bratlie we see lines
+As we wind our way up the Northeastern flank of GTop towards Chalet Bratlie I
+spot lines
 of chairs, strung aloft, sitting idly, softly waving in the breeze. Seeing as
 we're nearly into June the chairlifts of Gausta Skisenter stopped spinning
-weeks ago. However, GTop still presides over a blanket of snow on his lofty
-crest and by god I feel like sliding down it. Thankfully we are in luck - we can
+weeks ago. However, GTop still accommodates a blanket of snow upon his lofty
+ridge and by god I feel like sliding down it. Thankfully we are in luck - we can
 catch a ride to the top of the mountain - but it won't be on a chairlift. Or a
 T-bar. Or a rope tow.
 
@@ -339,26 +342,26 @@ No sir, we're going to ride a tram up the *inside* of the mountain.
 In 1953 Telemark County authorities announced plans for a tunnel tramway to
 ferry tourists to GTop's heavenly summit for sightseeing and to cater to the
 ever growing popularity of alpine skiing. The project was initially planned as a
-joint venture between local municipalities, who were eager to capitalize on
-increased tourism and NATO, who was looking to establish a monitoring and
+joint venture between local municipalities eager to capitalize on
+increased tourism and NATO eager to establish a monitoring and
 communications center to keep tabs on the Soviets. However, as you can imagine,
-the operation was quickly subsumed by the military brass at NATO, shouldering
+the operation was quickly subsumed by the military brass at NATO, strong-arming
 their way to sole ownership and leaving the public in the lurch.
 
 For nearly 60 years the GTop tram was closed to the public, available only to
 military personnel and civilians with the highest security clearance. Finally,
-on 31-July 2010, the first tourists were allowed to ride the tram, fulfilling a
-dream decades in the making.
+on 31-July 2010, a dream decades in the making was finally fulfilled when the
+first tourists climbed aboard a summit-bound tram car.
 
-The tram lumbers a half a mile horizontally into the mountain,
-at which point we disembark and squeeze ourselves and all our gear into a
+Sondre and I climb onto the first stage of the tram, which lumbers a half a mile
+horizontally into the mountain to the transfer point. Here we
+disembark and squeeze ourselves and all our gear into a
 funicular railway car with 4 of our new best friends. Claustrophobics not
 welcome. The funicular climbs a 39 degree grade 3/4 of a mile to the top of the
 mountain where we unfold ourselves from our temporary pretzelation.
 
-
-After At the top we soak in the magnificent views with a couple Aass Lite lagers we
-packed for the occasion.
+Upon GTop's zenith we soak in the magnificent views with a couple Aass Lite
+lagers packed for the occasion.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_aass.JPEG" alt="Aass">
@@ -375,8 +378,8 @@ him wait to free his hoof before I snap a photo because it's just plain silly.
   <figcaption class="figure-caption">Look awful stuck there, partner</figcaption>
 </figure>
 
-But what I really came over here for was an amateur digital photo of the
-breathtaking scenery of Telemark County. According to 
+But the real reason I walked over to the cornice was to snap an amateur digital
+photo of the breathtaking scenery of Telemark County. According to 
 <a href="https://www.westcoastpeaks.com/Peaks/gaustatoppen.html" rel="noopener noreferrer" target="_blank">westcoastpeaks.com</a>,
 our vantage point offers a view of 50,000 square km (19,300 square miles),
 nearly 1/6th of Norway's entire mainland. The amount of
@@ -442,7 +445,6 @@ This must be what a tornado feels like.
 <figcaption class="figure-caption text-start bg-body">The view from the roof of Telemark County<br>
 </div>
 
-
 Once we've had our fill of the views and the Aass I strap on my (Sondre's
 brother's) gear and point my (Sondre's brother's) skis downhill.
 
@@ -463,23 +465,29 @@ There is nobody on the planet who is having a better time than I right now.
   <figcaption class="figure-caption">If you're happy & you know it</figcaption>
 </figure>
 
+The first half of the run takes us along the mountaintop spine before we
+pivot our planks down the fall line towards the Skisenter. The entire run
+takes 15 minutes - a full day of planning, driving, and schlepping gear for
+15 minutes of recreation. But that's just fine by me.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_ski_tracks.PNG" alt="Ski Tracks">
   <figcaption class="figure-caption">One run is all I needed</figcaption>
 </figure>
 
+Because the apr&egrave;s is the real reason we love skiing, right?
 
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_apres_sausage.JPEG" alt="Apres sausage">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_apres_beer.JPEG" alt="Apres beer">
+    </div>
+  </div>
+  <figcaption class="figure-caption">We all know the waiting sausage, but the
+  relaxing sausage is just as magical</figcaption>
+</figure>
 
-Seeing as I have nearly zero proficiency when it comes to the Norwegian
-language, but I have to imagine that the word "Gaustatoppen," when viewed from
-my current vantage point, must translate to "Larry David's cranium." I'm
-currently standing atop a completely bald dome ringed by wispy flecks of foliage.
-
-
-
-
-* Akerselva run
-* Fjord
-* Sauna
-* Island ferry
+Yep, totally worth it.
