@@ -21,7 +21,7 @@ have since changed my perception of what it means to be alive...
 
 You know what? I've never been more ready for anything in my entire life.
 
-A subtlety of the query that I did not immediately realize was "who's ready
+A subtlety of the query that I did not immediately realize was that "who's ready
 for ***some*** waiting sausages?" is an entirely different question than "who's
 ready for ***a*** waiting sausage?"
 Because just as I finish my first *p&oslash;lse; med lompe* another magically

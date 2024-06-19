@@ -225,18 +225,23 @@ deemed appropriate for the accommodation I was not prepared for this:
   <figcaption class="figure-caption">I could apr&egrave;s my ass off here</figcaption>
 </figure>
 
-The 3 hour drive to the mountain begins as any good road trip does: with shitty
-coffee and nonsense snacks procured at the first gas station encountered as
-we enter the amorphous region known as *the edge of town.*
+The 3 hour drive to the mountain begins as any good road trip does: a pit stop
+at the first gas station we encounter as we reach the amorphous region known as
+*the edge of town* for coffee and nonsense snacks.
 
-If we lived in a nonsense world in which nonsense snacks had a nonsense European
-soccer-style hierarchy, there exists one Norwegian nonsensical treasure that
-would reside, arrogantly, in the top tier year after year after year of such a
-nonsensical hierarchy.
+I've
+<a href="/traveler/2023_05-scandinavia/01-60_deg_north" target="_blank" rel="noopener noreferrer">previously</a>
+<a href="/traveler/2023_05-scandinavia/02-saetre" target="_blank" rel="noopener noreferrer">discussed</a>
+<a href>
+nutritive technology on this soapbox before but I've once again met a Norwegian
+delicacy that must be praised.
 
-The *Norwegian Gas Station Waffle*, ruler of all things inane, would make the top
-tier of the *Syndicate of Nonsensical Aliments, Comestibles, Canap&eacute;, and
-Sustenance* (SNACCS) his home.
+If we were to pit nonsense snacks against each other in a European-soccer-style
+hierarchical league system, a system which we could perhaps call the
+*Syndicate of Nonsensical Aliments, Comestibles, Canap&eacute;, and
+Sustenance* (SNACCS), we would find that there exists a Norwegian delicacy
+sitting arrogantly in the top tier year after year after year with not a
+care in the world.
 
 The *Norwegian Gas Station Waffle*, in no fear of
 relegation, sneers at Slim Jims, laughs at pork rinds, cackles at the thought of
