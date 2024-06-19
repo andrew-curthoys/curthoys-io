@@ -17,21 +17,13 @@ summary:
 
 {% import 'macros.html' as m %}
 
-
-Oslo as a great place to live
-* Public transit
-* Not many cars
-* Almost all cars are electric
-* Soccer match
-
 <h4 class="article-subheader">Oslo Has A Smell</h4>
-It takes a week as a temporary resident of Oslo for me to notice the smell.
+I'm a temporary resident of Oslo for nearly a week before I notice the smell.
 
 A pervasive, gaseous odor permeating the city from Sk&oslash;yen to
-H&oslash;ybr&aring;ten.
-Anywhere you go you can't escape it.
+H&oslash;ybr&aring;ten. Anywhere you go you can't escape it.
 
-I finally realize the smell while waiting for an electric streetcar in the
+I finally recognize the smell while waiting for an electric streetcar in the
 heart of downtown. Underneath the light of a streetlamp I notice the
 boulevard is wholly devoid of rambling automobiles; the only passenger vehicles
 within my visual grasp sit idly, oat bags full of
@@ -68,32 +60,20 @@ expectation. Having never been to Europe my expectation of a European capital is
 a glinty skyscraper jungle fit for the opening scenes of a spy thriller.
 Compared to that, Oslofolk might happily consider their hometown *sleepy*.
 
-It's a moderately sized city tucked away in a valley surrounded by *marka*=
-forests. It's a low-slung city with a refined modesty when it comes to the built
+It's a verdant low-slung city tucked in a valley surrounded by *marka*
+forests. The city displays a refined modesty when it comes to the built
 environment, tastefully melding the clean lines of modern design with traditional
-architecture. It's a city whose public transit operates with Scandinavian efficiency.
+architecture.
+
+It feels shockingly intimate - from a quick glance at a map it seems at least
+75% of the city would fit inside a 5 mile radius of the city center. This,
+combined with the city's public transit operating with Scandinavian efficiency, results in the feeling that anywhere in Oslo seems to be *20 minutes away*..
 
 It's a world class city that doesn't make a fuss about it.
 
 It's a city where *shit just works*.
 
 It's a city whose identity I think can be described as *casually modern*.
-
-It's a shockingly intimate city - at any
-point you're no more than a block or two from a subway, tramway, or bus route
-that can quickly convey you about the city. Due to its
-relatively small footprint (from a quick glance at a map it seems at least
-75% of the city would fit inside a 5 mile radius of the city center) it feels
-like everywhere in Oslo is *20 minutes away*.
-
-To my surprise I'm amazed at how intimate Oslo feels. With a
-metropolitan population of 1.5 million, Oslo would slot 42nd in the US metro
-area population rankings, between Oklahoma City and Milwaukee.
-
-
-
-
-
 
 
 <p class="article-sub-subheader">V&aring;lerenga</p>
