@@ -381,25 +381,27 @@ myself one, would you like to try one?"
 
 Talor fills me in on the cap al fred - originating in the Greek islands, this
 cold coffee drink involves dolloping cold, extremely frothy milk over a couple
-shots of iced espresso and topping it with a dash of cocoa powder. I don't
-know where in that process Talor imbued witchcraft because I pick up the glass
-and can't believe how light it is. *Is this glass filled with air??? What is
-happening???* I take a sip and my brain further spirals into a meltdown of
-incomprehension. This drink is *impossibly* smooth.
+shots of iced espresso and topping it with a dash of cocoa powder.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-freddo.jpeg" alt="Cap al fred">
   <figcaption class="figure-caption">That's some caffeine magic right there</figcaption>
 </figure>
 
+I don't
+know where in that process Talor imbued witchcraft because I pick up the glass
+and can't believe how light it is. *Is this glass filled with air??? What is
+happening???* I take a sip and my brain further spirals into a meltdown of
+incomprehension. This drink is *impossibly* smooth.
 
-This Tim Wendelboe fella
+By the end of the beverage I find that I've taken one giant leap into the
+world of *too much coffee*.
 
 <h4 class="article-subheader">Tim Wendelboe</h4>
 My stop at the
 <a href="/traveler/2023_05-scandinavia/04-oslo_culture?id=technology" target="_blank" rel="noopener noreferrer">Norsk Teknisk Technology Museum</a>
-was my penultimate stop in Oslo before boarding the ferry to Copenhagen. Before
-I get on the boat I have one more stop. While I was chatting with Talor she said
+was my penultimate stop in Oslo before my Copenhagen-bound ferry. Before
+I board the boat I have one more stop. While I was chatting with Talor she said
 I had to stop at Tim's shop before I leave, an ultimatum to which I will happily
 oblige.
 
@@ -419,7 +421,7 @@ Tim Wendelboe* is sure to be mobbed right?
 Right?
 
 To my surprise the establishment is merely moderately occupied. A dozen-ish
-small tables line the perimeter of a space no bigger than _______
+small tables line the perimeter of a space no bigger than a drive-thru Starbucks.
 Most of the tables are occupied by couples making small talk or smartly dressed
 Millenials gazing intently at laptop screens. I intend to add a shabbily dressed
 Millenial gazing intently at a laptop screen to the mix.
@@ -434,13 +436,13 @@ with its cultivar (think
 <a href="/traveler/2022_01-ski_trip/03-wine" target="_blank" rel="noopener noreferrer">wine varietals</a>),
 its country of origin, and even its *farm* of origin.
 
-I pick one at random and slink back to my table,
+I pick one at random and slink back to my table, back to the realm of the
+normals.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gastro_tim_w.JPEG" alt="Coffee">
   <figcaption class="figure-caption">Lovely little setup</figcaption>
 </figure>
-
 
 Wendelboe has resisted what must be he opportunity to print money by expanding.
 But his singular focus on finding the perfect cup of coffee precludes him from
