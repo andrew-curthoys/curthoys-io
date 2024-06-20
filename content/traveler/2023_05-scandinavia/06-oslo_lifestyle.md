@@ -76,8 +76,8 @@ It's a city where *shit just works*.
 It's a city whose identity I think can be described as *casually modern*.
 
 
-<p class="article-sub-subheader">V&aring;lerenga</p>
-On Constitution Day Eve Sondre has a day of sporting lined up for me. The
+<h4 class="article-subheader">V&aring;lerenga</h4>
+On Constitution Day Eve Sondre has lined up a day of sporting for me. The
 beloved hometown soccer squad V&aring;lerenga is hosting the lads from
 Hamarkameratene (Hamar Comrades). Often abbreviated HamKam, the Comrades hail
 from Hamar, a town 80 miles to the north of Oslo on lake Mj&oslash;sa,
@@ -169,6 +169,16 @@ arsenal of incendiary devices on the pitch causing a few minute delay.
   <figcaption class="figure-caption">Hooligans</figcaption>
 </figure>
 
+After the match all the V&aring;lerenga faithful gather at an outdoor pavilion
+for round after round of &oslash;l and round after round of sloppy renditions of
+*V&aring;lerenga Kjerke*. I join in with all my new best friends even though I
+don't know a single word to the song.
+
+<figure class="figure container-fluid">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-lifestyle_renga_postgame.JPEG" alt="Postgame">
+  <figcaption class="figure-caption">When in Oslo</figcaption>
+</figure>
+
 What I saw seems to be a bit of a high point for V&aring;lerenga - they finished
 the season in 14th place of 16, placing them in a battle for relegation against
 the winner of the promotion playoff from the Norwegian First Division (which is
@@ -179,7 +189,7 @@ competition to penalties, which V&aring;renga lost in heartbreaking fashion 5
 goals to 4. So next year the lads will be slugging it out in the First Division
 with hopes to be promoted back up with the big dogs.
 
-A last little denoument for this story, as I was doing some light research
+A last little denoument for this story - as I was doing some light research
 about the club I was delighted to see that a club legend on the pitch as well
 as a former manager is cognominated Leif Eriksen.
 

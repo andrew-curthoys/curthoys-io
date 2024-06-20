@@ -425,17 +425,22 @@ Millenials gazing intently at laptop screens. I intend to add a shabbily dressed
 Millenial gazing intently at a laptop screen to the mix.
 
 I step up to the bar to order my jitter juice and I'm greeted by two
-intimidatingly attractive Scandinavians; we'll call him Sven, we'll call her
+intimidatingly attractive Scandinavians; we'll call him Sven, and her
 Olga. Sven & Olga, possessors of a carefree confidence only afforded to the
 breathtakingly beautiful, greet me with a smile and a menu.
 
-As if the baristas weren't intimidating enough, the menu lists 5 coffees, listing
-the cultivar of the coffee (think
+As if the baristas weren't intimidating enough, the menu lists 5 coffees, each
+with its cultivar (think
 <a href="/traveler/2022_01-ski_trip/03-wine" target="_blank" rel="noopener noreferrer">wine varietals</a>),
-the country it comes from, and even the *farm* it comes from.
+its country of origin, and even its *farm* of origin.
 
-And when I say "the" coffee shop I mean *the*
-coffee shop - 
+I pick one at random and slink back to my table,
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gastro_tim_w.JPEG" alt="Coffee">
+  <figcaption class="figure-caption">Lovely little setup</figcaption>
+</figure>
+
 
 Wendelboe has resisted what must be he opportunity to print money by expanding.
 But his singular focus on finding the perfect cup of coffee precludes him from
@@ -447,18 +452,7 @@ And "coffee shop" is perhaps too crude a term. "Coffee roastery, espresso bar,
 and coffee training centre" appears to be the presentment preferred by Tim
 (or more likely the PR firm who runs his website).
 
-to be overrun with patrons right? early 20s. I'm surprised that the shop isn't overrun with guests, seeing as this
-is the only Tim Wendelboe store in the entire world - he is of the belief that
-opening more locations will dilute his grasp on the quality of the coffee he
-serves. I saunter up to the bar helmed by two tall, stunningly attractive
-Norwegians who appear to be in their early 20s.
-
-
-
-
-
-
-They pride themselves on light roast coffee. But why...
+They pride themselves on light roast coffee. 
 <div class="block-quote">
 <p>
 We wish to preserve and enhance as much of the natural coffee flavours as

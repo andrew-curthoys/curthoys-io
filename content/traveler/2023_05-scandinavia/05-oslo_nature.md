@@ -88,73 +88,8 @@ As I'm relaxing at the cafe I discover that this island was the location of the
 original Oslo airport. This revelation I find utterly preposterous until I find
 that it was only for seaplanes.
 
-Which is an objectively 
+Which is an objectively Viking way to design an airport.
 
-
-<h4 class="article-subheader">The Akerselva</h4>
-After recovering from the debauchery of
-<a href="/traveler/2023_05-scandinavia/03-norway_day" target="_blank" rel="noopener noreferrer">Constitution Day</a>,
-I decide to make a survey of
-the main confluence flowing through Oslo to the fjord. The Akerselva (Aker River)
-starts at Maridalsvannet (Lake Maridal), a natural freshwater reservoir perched
-above the city 5 miles to the north and its main source of drinking water.
-
-Sondre's apartment sits approximately halfway from source to mouth. An athlete
-with sufficient gumption could leisurely round trip the entire length of the
-Akerseva in an
-afternoon. I decide to break it up into two separate days. Over the course of
-those two days I run about 80% of the length of the river and its 500 ft
-elevation gain, which I think is a relatively admirable achievement considering
-I'm on holiday.
-
-<figure class="figure">
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker1.JPEG" alt="Akerselva">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker2.JPEG" alt="Akerselva">
-    </div>
-  </div>
-</figure>
-
-The Akerselva was once the manufacturing heart of Oslo, as evidenced by the
-scores of mills, factories, and other industrial-looking brick buildings along
-its length. By the 1970s the river was heavily contaminated from 150 years of
-unbridled industrial pollution, leading to an effort in the 80s to revitalize
-the health of the river.
-
-<figure class="figure">
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker3.JPEG" alt="Akerselva">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker4.JPEG" alt="Akerselva">
-    </div>
-  </div>
-</figure>
-
-The initiative's success can be seen today through the
-river's diverse flora & fauna, none of which I could identify, mainly owing to
-the fact I can't read the Norwegian placards stationed along the walking path.
-In a win for the environment and every living creature in the Akerselva river
-valley the entirety of the river
-has been converted into an eco-park, transforming many of the
-industrial buildings into restaurants, shops, bars, and lovely
-attractions for Oslofolk to enjoy on a beautiful May day.
-
-<figure class="figure">
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker5.JPEG" alt="Akerselva">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker6.JPEG" alt="Akerselva">
-    </div>
-  </div>
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker_vid.gif" alt="Akerselva">
-</figure>
 
 <h4 class="article-subheader">Nordic Cycle</h4>
 The fjord lends itself not only to skirting *atop* the water; just as much
@@ -206,6 +141,71 @@ we all leap into the frigid, Scandinavian water. The initial jolt
 from the plunge is exhilarating. We tread water for a few seconds before
 scampering back to the ladder and the warmth of our towels. Refreshed,
 invigorated, energized.
+
+
+<h4 class="article-subheader">The Akerselva</h4>
+In the days after the debauchery of
+<a href="/traveler/2023_05-scandinavia/03-norway_day" target="_blank" rel="noopener noreferrer">Constitution Day</a>,
+I decide to make a survey of
+the main confluence flowing through Oslo to the fjord. The Akerselva (Aker River)
+starts at Maridalsvannet (Lake Maridal), a natural freshwater reservoir perched
+above the city and its main source of drinking water.
+
+Sondre's apartment sits approximately halfway from source to mouth; an athlete
+with sufficient gumption could leisurely round trip the entire length of the
+river in an afternoon. Seeing as I'm on holiday I decide to break it up into two
+separate days. Over the course of those two days I run about 80% of the length
+of its 5 mile course and its 500 ft elevation gain, which I think is a
+relatively admirable achievement all things considered.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker1.JPEG" alt="Akerselva">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker2.JPEG" alt="Akerselva">
+    </div>
+  </div>
+</figure>
+
+The Akerselva was once the manufacturing heart of Oslo, as evidenced by the
+scores of mills, factories, and other industrial-looking brick buildings along
+its length. By the 1970s the river was heavily contaminated from 150 years of
+unbridled industrial pollution, leading to an effort in the 80s to revitalize
+the health of the river.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker3.JPEG" alt="Akerselva">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker4.JPEG" alt="Akerselva">
+    </div>
+  </div>
+</figure>
+
+The initiative's success can be seen today through the
+river's diverse flora & fauna, none of which I could identify, mainly owing to
+the fact I can't read the Norwegian placards stationed along the walking path.
+In a win for the environment and every living creature in the Akerselva river
+valley the entirety of the river
+has been converted into an eco-park, transforming many of the
+industrial buildings into restaurants, shops, bars, and lovely
+attractions for Oslofolk to enjoy on a beautiful May day.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker5.JPEG" alt="Akerselva">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker6.JPEG" alt="Akerselva">
+    </div>
+  </div>
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-aker_vid.gif" alt="Akerselva">
+</figure>
 
 
 <h4 class="article-subheader">Gausta</h4>

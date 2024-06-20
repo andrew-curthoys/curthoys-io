@@ -129,7 +129,7 @@ Oslo's character as a low-rise city with plentiful green space
 
 <h4 class="article-subheader">Library</h4>
 Joining the Opera House in the group of buildings that are generally revered
-among Oslovians is the Diechman Bj&oslash;rvika Library. From the outside the
+among Oslofolk is the Diechman Bj&oslash;rvika Library. From the outside the
 most stunning feature of the buildings is its stunning terraced cantilever. The
 top floor reaches out towards the Oslofjord, providing a space for quiet
 concentration & contemplation.
@@ -156,14 +156,14 @@ calming & soothing - calming music & pillows, etc.
 
 
 <h4 class="article-subheader" id="technology">Norsk Teknisk</h4>
-Upset that the Viking Ship Museum is closed. Closed from September 2021 until
-2025.
+Norsk Teknisk, i.e. the Norwegian Museum of Science and Technology, sits a
+quarter mile from the source of the Akerselva; steps from where Maridalsvannet
+releases her stored precipitation to begin its journey to the Osloflord. I've
+decided to spend my final day in Oslo here because, I mean, have you met me?
+Also the Viking Ship Museum is closed until 2025.
 
-The Norwegian Museum of Science and Technology sits a quarter mile from the
-source of the Akerselva, where Maridalsvannet releases her stored precipitation
-on its journey to the Osloflord. The museum wastes no time showcasing the
-importance of the Akerselva with a 20' replica water wheel spinning just steps
-inside the museum.
+Norsk Teknisk wastes no time showcasing the importance of the Akerselva with a
+20' replica water wheel spinning inside the main atrium.
 
 <figure class="figure">
   <div class="row">
@@ -183,10 +183,11 @@ the way for Norway's ascension to a modern industrial society. And in one case,
 steamroller, dating to 1878, 30 years before the advent of Ford's Model T.
 
 To my utmost chagrin I am constrained for time today, as my ferry to
-Copenhagen sets sail at 3 PM sharp. This museum trip is going to have to be
-much more of a 
+Copenhagen sets sail at 3 PM sharp. By necessity I'll have to blow through this
+institution at a pace that will not allow me to fully appreciate the science
+and the technology. Alas.
 
-The museum features rooms dedicated to 
+In my whirlwind tour I find rooms dedicated to 
 
 <div class="article-photo-subheader">Music</div>
 <figure class="figure">
