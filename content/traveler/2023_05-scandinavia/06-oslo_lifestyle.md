@@ -126,17 +126,26 @@ is Sondre's friend and works for V&aring;lerenga in whatever official capacity
 requires him to wear a blue suit to games. Whatever his job I'm thrilled to
 lean into his hospitality because our tickets grant us access to the club level
 beneath the home stand, the only place in the stadium where you can drink a
-beer. Unlike our Stateside stadia, festooned with beer ads and vendors walking
+beer.
+
+Unlike our Stateside stadia, festooned with beer ads and vendors walking
 the aisles lest you have to leave your seat for liquid refreshment, European
 soccer arenas have mostly banned alcohol at games in no small part to the
 advanced studies of hooliganry Europeans have amassed.
 
-
-Club beers - two sausages in one lompe trick Sondre shows me.
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-renga_beers.JPEG" alt="Beers">
   <figcaption class="figure-caption">We did some damage in a short period of time</figcaption>
 </figure>
+
+There's also a buffet where Sondre shows me the football special - two sausages
+sharing the same lompe.
+
+<figure class="figure container-fluid">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-renga_sausages.JPEG" alt="Hot dogs">
+  <figcaption class="figure-caption"></figcaption>
+</figure>
+
 
 <figure class="figure">
   <div class="row">

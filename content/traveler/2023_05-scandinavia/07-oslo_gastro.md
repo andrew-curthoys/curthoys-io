@@ -296,24 +296,14 @@ Sondre and I differ in many ways.
 
 One of those ways is our diverging affinity for breakfast foods.
 
-When the thought of fried eggs, toast, yogurt, fresh berries,
-brunost, and hot coffee, all presented on a delightful bamboo tray on a perfect
-Norwegian morning crosses Sondre's brain he thinks,
-
-"Nah that's not for me"
-
-Which is objectively insane.
-
-On the other hand, Nora is a fellow enjoyer of breakfast fare,
-
-"Sondre hates breakfast, what about you, do you like breakfast"
+So when Nora asks, "do you like breakfast?" I instinctively retort,
 
 "Of course I do, I'm not a sociopath"
 
 "Fantastisk!! I love to cook breakfast but don't make it very often because
-Sondre won't eat it. Do you want some breakfast?"
+Sondre hates breakfast. Do you want some breakfast?"
 
-"Do I!!"
+"*Do I!!*"
 
 And as luck would have it Nora is a chef of dawn's early light extraordinaire.
 
@@ -326,11 +316,17 @@ Fried eggs, fresh bread, brunost, yogurt, strawberries, blueberries, and a stack
 of pannekaker (Norwegian pancakes) round out the meal with a hot pot of coffee
 to boot. I just might could get used to all these <a href="/traveler/2023_05-scandinavia/02-saetre?id=brekky" target="_blank" rel="noopener noreferrer">rooftop breakfasts</a>.
 
-I've infrequently found myself as the guest of honour at an international
-rooftop summit.
-As the guest of this international summit 
+As one does when the guest of an international rooftop summit Nora and I
+discuss diplomacy, geopolitics, religion, human rights, education. We become so
+engrossed in the topics of the symposium that Nora looks at her watch and
+exclaims,
 
-Speaking of international summits...
+"Oh crap, I'm going to be late for class!"
+
+"Well go on & git then! Don't worry about cleaning up I'll take care of the
+dishes"
+
+A welcome contrast to the typical paradigm of cleaning up America's messes.
 
 <h4 class="article-subheader">"Your accent, where's it from?"</h4>
 
@@ -397,10 +393,11 @@ incomprehension. This drink is *impossibly* smooth.
 By the end of the beverage I find that I've taken one giant leap into the
 world of *too much coffee*.
 
+
 <h4 class="article-subheader">Tim Wendelboe</h4>
-My stop at the
+On my final day in Norway, my dalliance with the
 <a href="/traveler/2023_05-scandinavia/04-oslo_culture?id=technology" target="_blank" rel="noopener noreferrer">Norsk Teknisk Technology Museum</a>
-was my penultimate stop in Oslo before my Copenhagen-bound ferry. Before
+would prove to be my penultimate stop before my Copenhagen-bound ferry. Before
 I board the boat I have one more stop. While I was chatting with Talor she said
 I had to stop at Tim's shop before I leave, an ultimatum to which I will happily
 oblige.

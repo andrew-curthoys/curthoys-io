@@ -174,7 +174,7 @@ Norsk Teknisk wastes no time showcasing the importance of the Akerselva with a
       <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-water_wheel2.JPEG" alt="Water wheel">
     </div>
   </div>
-  <figcaption class="figure-caption">Harness the power of the mighty Aker<figcaption>
+  <figcaption class="figure-caption">Harness the power of the mighty Aker</figcaption>
 </figure>
 
 The museum's collection features scientific and historical artifacts that paved
@@ -199,7 +199,9 @@ In my whirlwind tour I find rooms dedicated to
 			<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_music2.JPEG" alt="Concert piano">
 		</div>
 	</div>
-  <figcaption class="figure-caption">ADD CAPTION<figcaption>
+  <figcaption class="figure-caption">A pair of gramophones that were used to
+  play music during silent films;<br>A coin-operated phonograph that is the
+  predecessor to today's jukeboxes</figcaption>
 </figure>
 
 
@@ -214,14 +216,18 @@ In my whirlwind tour I find rooms dedicated to
       <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_transpo3.JPEG" alt="Steam turbine">
     </div>
   </div>
-  <figcaption class="figure-caption">ADD CAPTION<figcaption>
+  <figcaption class="figure-caption">A Norwegian biplane seaplane;<br>
+  An historical assortment of bicycles;<br>
+  The innards of a warship's steam turbine used to power the ship</figcaption>
 </figure>
 
 
 <div class="article-photo-subheader">Scientific instruments</div>
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_instruments.JPEG" alt="Scientific instruments">
-  <figcaption class="figure-caption">ADD CAPTION</figcaption>
+<figcaption class="figure-caption">A series of instruments developed by
+researchers at the University of Oslo during a scientific boon in the late
+19th & early 20th centuries.</figcaption>
 </figure>
 
 
@@ -236,11 +242,23 @@ In my whirlwind tour I find rooms dedicated to
       <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_elec3.JPEG" alt="Plasma ball">
     </div>
   </div>
-  <figcaption class="figure-caption">ADD CAPTION<figcaption>
+<figcaption class="figure-caption">An "electromagnetic cannon" - a failed
+attempt to shoot a projectile using electricity instead of gunpowder. The gun
+short-circuited, creating a flame arc that the engineers developed into an
+electric arc process to create fertilizer, leading to the establishment of
+Norsk Hydro in 1905;
+An early capacitor used to run early electrical experiments;
+A magnetized ball (terrella) glowing in a chamber with the same phenomenon that
+brings us the Northern Lights.
 </figure>
 
 
 <div class="article-photo-subheader">Astronomy</div>
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_astro.JPEG" alt="Telescope">
+</figure>
+
 In 1764 Danish historian Peder Frederik Suhm, reflecting on Norway's place in
 the scientific landscape of the era, remarked, "no country in Europe was in
 worse circumstance for scientific growth and progress." This despite a leader of
@@ -257,9 +275,6 @@ achromatic lens, a revolutionary technological advance for the time that
 reduced the blurriness that was common in telescope lenses of the day that
 suffered from chromatic & spherical aberration.
 
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_astro.JPEG" alt="Telescope">
-</figure>
 
 
 <h4 class="article-subheader">Munch</h4>
@@ -289,8 +304,17 @@ It's nothing if not controversial.
   they tell us how they really feel in the article</figcaption>
 </figure>
 
-But what the Munchmuseet lacks in architectural charm it boasts in mindblowing
-works of art.
+The author of the above take is architect Gaute Brochmann, editor of the journal
+*Architecture N*, further clarifies in the article, (as translated by my
+internet browser)
+
+<div class="block-quote">
+"I say that the Munch Museum sucks, both in the sense that it does not look
+good - but also in the sense that it sucks all light out of Bjorvika"
+</div>
+
+But what the Munchmuseet lacks in architectural charm it abounds with
+spectacular works of art.
 
 With installations spanning 6 of the museum's floors (the others are
 used for performances, administrative tasks, and a restaurant/bar) visitors
@@ -332,6 +356,8 @@ artists and a smattering of others from around the world. Each installation
 tells a story, each installation complements the works of Edvard Munch to be seen
 shortly in the floors above.
 
+
+<h4 class="article-subheader">Edvard Munch</h4>
 Norway's most celebrated artist, Edvard Munch was born in a farmhouse in the
 small pastoral town of L&oslash;ten in 1863. Around his first birthday his
 father was appointed medical officer at Akershus Fortress, then the Norwegian
@@ -435,31 +461,13 @@ well worth a visit, despite the harshest critics' opinions of the exterior.
 
 Hell even the the floors are beautiful.
 
-Chamber of Chaos
-
-
-Oslo as Culture
-* Munch
-* Opera house
-* Library
-* Nationaltheateret
-* Technology museum
-
-"Munch Museum sucks"
-https://www.dagbladet.no/kultur/arkitekt---jeg-vil-si-at-munchmuseet-suger/70816188
-
-Architect Gaute Brochmann, editor of the journal Architecture N, describes it
-thusly, (as translated by my internet browser)
-
-<div class="block-quote">
-"I say that the Munch Museum sucks, both in the sense that it does not look
-good - but also in the sense that it sucks all light out of Bjorvika"
-</div>
-
-
-
-
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_building1.jpg" alt="Munch museum">
-  <figcaption class="figure-caption">You be the judge.</figcaption>
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_floors.JPEG" alt="Bill Murray">
 </figure>
+
+Unfortunately the rooftop cafe is closed by the time we summit the charcoal-gray
+brick, but we do make a stop in the Chamber of Chaos - a "fantastical,
+imaginative play-space for children, where normal museum rules do not apply."
+
+So we spend a few minutes breaking normal museum rules because who doesn't want
+to act like a kid every once in a while?
