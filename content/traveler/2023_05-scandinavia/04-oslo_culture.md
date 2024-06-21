@@ -24,8 +24,6 @@ But on this beautiful Norwegian May afternoon I simply can't help myself.
 
 Transfixed, my retinae lock on to the glowing orb.
 
-Incapable of averting their bewitched gaze.
-
 Blinded by its radiant corona.
 
 Blinded, not by the ultraviolet radiation of our life-giving
