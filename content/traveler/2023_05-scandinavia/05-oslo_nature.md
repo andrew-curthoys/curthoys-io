@@ -50,7 +50,7 @@ Estuaries*. Well played.
 
 To a Norwegian a fjord is, I dunno, like *that water out there*.
 
-In Norway a fjord isn't defined. In Norway a fjord is a vibe.
+In Norway a fjord isn't defined. In Norway a fjord is a *vibe*.
 
 If you're cool like the Norwegians and call it a fjord or lame like the
 geological technocrats and call it... a non-fjordian estuary?... the Oslofjord
@@ -94,15 +94,15 @@ Which is an objectively Viking way to design an airport.
 <h4 class="article-subheader">Nordic Cycle</h4>
 The fjord lends itself not only to skirting *atop* the water; just as much
 fun can be had *in* the water. Lining the fjord opposite the Opera House &
-Munch museum sit a handful of saunas affording the opportunity to partake in the
-time honored Scandinavian tradition of hot sauna/cold plunge, also known as
-*The Nordic Cycle*.
+Munch museum sit a handful of saunas billowing the sweet smell of
+burning wood and affording the time honored Scandinavian tradition of hot
+sauna/cold plunge, also known as *The Nordic Cycle*.
 
 Sondre suggests SALT, a self-proclaimed "cultural arena" with six saunas, six
 music stages, and indoor & outdoor bars. I meet him and Nora, along with Will
 and Anna, in the *cultural arena*'s outdoor bar for a round of Aperol Spritzes
 before our schvitzes.
-We mustn't dally too long, however, since unlike the rest of the saunas we must
+We mustn't dally too long, since unlike the rest of the saunas we must
 be punctual if we want to take part in *the ritual*.
 
 After downing our cocktails we check into the sauna facility and 
@@ -114,14 +114,14 @@ approximately 10 minutes and under no circumstances will there be any talking.
 
 After the announcements she turns up some hypnotic music and thus begins, what I
 now know is called, the *aufguss*. Our aufgussmeister (I also just learned that
-word) begins by passing around a container of ice that I do as the aufgussters
-do and scoop a handful onto my head and neck.
+word) begins by passing around a container of ice from which I scoop a handful
+onto my head and neck.
 
 From there our aufgussmeister cranks up the heat before theatrically
 spinning a towel 'round her head like a helicopter, distributing the heat with
 a mesmerizing pattern of steam and smoke. As the steam circulates through the
 sauna, our 'gussmeist pours a wooden ladle-ful of water & essential oils onto the
-sauna coals, releasing a billow of lung-invigorating steam into the air. She
+sauna coals, releasing a plume of lung-invigorating steam into the air. She
 continues to fan the vapors, each revolution of her towel emitting a distinctive
 *whoosh* sound.
 
@@ -143,7 +143,7 @@ scampering back to the ladder and the warmth of our towels. Refreshed,
 invigorated, energized.
 
 
-<h4 class="article-subheader">The Akerselva</h4>
+<h4 class="article-subheader" id="Aker">The Akerselva</h4>
 In the days following the debauchery of
 <a href="/traveler/2023_05-scandinavia/03-norway_day" target="_blank" rel="noopener noreferrer">Constitution Day</a>,
 I decide to make a survey of
@@ -261,6 +261,11 @@ waffle is laden with butter, mystery-berry jam, and
 
 It's mealy, it's flaccid, it's repulsive.
 
+<figure class="figure container-fluid">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_waffle.JPEG" alt="Waffle">
+  <figcaption class="figure-caption">Take a bow, NGSW</figcaption>
+</figure>
+
 It's exactly what I want.
 
 My pilot and I scarf down our roadwaffles with a steamy helping of brown water
@@ -339,6 +344,7 @@ T-bar. Or a rope tow.
 
 No sir, we're going to ride a tram up the *inside* of the mountain.
 
+<h4 class="article-subheader">Gaustabanen</h4>
 In 1953 Telemark County authorities announced plans for a tunnel tramway to
 ferry tourists to GTop's heavenly summit for sightseeing and to cater to the
 ever growing popularity of alpine skiing. The project was initially planned as a
@@ -360,6 +366,18 @@ funicular railway car with 4 of our new best friends. Claustrophobics not
 welcome. The funicular climbs a 39 degree grade 3/4 of a mile to the top of the
 mountain where we unfold ourselves from our temporary pretzelation.
 
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_tram1.JPEG" alt="Tram">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gausta_tram2.JPEG" alt="Tram">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Up we go!!</figcaption>
+</figure>
+
 Upon GTop's zenith we soak in the magnificent views with a couple Aass Lite
 lagers packed for the occasion.
 
@@ -378,8 +396,8 @@ him wait to free his hoof before I snap a photo because it's just plain silly.
   <figcaption class="figure-caption">Look awful stuck there, partner</figcaption>
 </figure>
 
-But the real reason I walked over to the cornice was to snap an amateur digital
-photo of the breathtaking scenery of Telemark County. According to 
+But the real reason I walked over to the cornice was to snap some amateur digital
+photos of the breathtaking scenery of Telemark County. According to 
 <a href="https://www.westcoastpeaks.com/Peaks/gaustatoppen.html" rel="noopener noreferrer" target="_blank">westcoastpeaks.com</a>,
 our vantage point offers a view of 50,000 square km (19,300 square miles),
 nearly 1/6th of Norway's entire mainland. The amount of
@@ -444,6 +462,8 @@ This must be what a tornado feels like.
   </button>
 <figcaption class="figure-caption text-start bg-body">The view from the roof of Telemark County<br>
 </div>
+
+<h4 class="article-subheader">Time to Send!!!</h4>
 
 Once we've had our fill of the views and the Aass I strap on my (Sondre's
 brother's) gear and point my (Sondre's brother's) skis downhill.

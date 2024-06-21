@@ -77,8 +77,9 @@ Speaking of...
 
 <h4 class="article-subheader" id="technology">Norsk Teknisk</h4>
 Norsk Teknisk, i.e. the Norwegian Museum of Science and Technology, sits a
-quarter mile from the source of the Akerselva River; steps from where
-Lake Maridalsvannet
+quarter mile from the source of the
+<a href="/traveler/2023_05-scandinavia/05-oslo_nature?id=Aker" target="_blank" rel="noopener noreferrer">Akerselva River</a>;
+steps from where Lake Maridalsvannet
 releases her stored precipitation to begin its journey to the Osloflord. I've
 decided to spend my final day in Oslo here because, I mean, have you met me?
 Also the Viking Ship Museum is closed until 2025.

@@ -16,14 +16,6 @@ short_sum: Oslo
 summary: 
 
 
-<h4 class="article-subheader">Oslo as Gastronomy</h4>
-* Himkok
-* Nora's breakfast
-* Salmon at the fish market
-* Izakya
-* Bar Lorry
-* Mathallen
-
 <h4 class="article-subheader" id="lorry">Bar Lorry</h4>
 "I'll have a gin & tonic"
 
@@ -272,9 +264,9 @@ Edamame; seaweed salad; pork dumplings;
 *bangbangji* - cold chicken in sesame sauce;
 *chijimi* - spinach & cheese fried pancakes;
 
-In line with their clearly stated policy,
-"WE SEND THE FOOD OUT AS SOON IT IS READY",
-we are treated to a steady stream of delicious morsels in no particular order.
+In line with their clearly stated policy, "WE SEND THE FOOD OUT AS SOON IT IS
+READY", we are treated to a steady stream of delicious victuals in no
+particular order.
 
 <figure class="figure container">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-gastro_izakaya_meal.JPEG" alt="Izakaya meal">
@@ -396,14 +388,13 @@ world of *too much coffee*.
 
 
 <h4 class="article-subheader">Tim Wendelboe</h4>
-On my final day in Norway, my dalliance with the
-<a href="/traveler/2023_05-scandinavia/04-oslo_culture?id=technology" target="_blank" rel="noopener noreferrer">Norsk Teknisk Technology Museum</a>
-would prove to be my penultimate stop before my Copenhagen-bound ferry. Before
-I board the boat I have one more stop. While I was chatting with Talor she said
-I had to stop at Tim's shop before I leave, an ultimatum to which I will happily
-oblige.
+On my final day in Norway, I have one more stop before I board the boat. While I
+was chatting with Talor she implored me to stop at Tim's shop before I leave, an
+ultimatum to which I will happily oblige.
 
-As I leave the Technology Museum I hop aboard the 11N train bound for
+As I leave the
+<a href="/traveler/2023_05-scandinavia/04-oslo_culture?id=technology" target="_blank" rel="noopener noreferrer">Technology Museum</a>
+I hop aboard the 11N train bound for
 Jernbanetorget. A half hour later I jump off at the Sofienbergparken stop for
 the 3 block schlep over cobblestones with my backpack and rollerbag.
 
@@ -442,7 +433,8 @@ normals.
   <figcaption class="figure-caption">Lovely little setup</figcaption>
 </figure>
 
-Wendelboe has resisted what must be he opportunity to print money by expanding.
+Wendelboe has resisted what must be he opportunity to print money by expanding
+his coffee empire.
 But his singular focus on finding the perfect cup of coffee precludes him from
 cashing in on his name.
 "I personally find it more rewarding to have one store where I feel the quality
@@ -452,7 +444,7 @@ And "coffee shop" is perhaps too crude a term. "Coffee roastery, espresso bar,
 and coffee training centre" appears to be the presentment preferred by Tim
 (or more likely the PR firm who runs his website).
 
-They pride themselves on light roast coffee. 
+At Tim Wendleboe's they pride themselves on light roast coffee,
 <div class="block-quote">
 <p>
 We wish to preserve and enhance as much of the natural coffee flavours as
@@ -470,4 +462,4 @@ bitterness and ashy flavours from the roast process.
 
 I slurp down my coffee and head towards the smell of the sea
 
-I have a boat to catch
+I have a boat to catch.

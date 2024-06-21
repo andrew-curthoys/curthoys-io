@@ -77,8 +77,9 @@ It's a city whose identity I think can be described as *casually modern*.
 
 
 <h4 class="article-subheader">V&aring;lerenga</h4>
-On Constitution Day Eve Sondre has lined up a day of sporting for me. The
-beloved hometown soccer squad V&aring;lerenga is hosting the lads from
+Of all the multitudinous activities of which to engage in this wonderful city
+Sondre has arranged a day of sporting for Constitution Day Eve.
+The beloved hometown soccer squad V&aring;lerenga is hosting the lads from
 Hamarkameratene (Hamar Comrades). Often abbreviated HamKam, the Comrades hail
 from Hamar, a town 80 miles to the north of Oslo on lake Mj&oslash;sa,
 Norway's largest lake and also home to Lillehammer.
@@ -93,7 +94,7 @@ catbird seat with their 2-3-1 tally.
 
 After a few beers at the pub we set off for Intility Arena. It's about a half
 hour walk through some neighborhoods, not too far from the V&aring;lerenga
-Kirke (Church), the inspiration for the team's anthem. At some point in the late
+Kirke (Church), the inspiration for the team's anthem - at some point in the late
 70s the church burned down, inspiring Trond Ingebretsen and his band
 Bj&oslash;lsen Valsem&oslash;lle to pen the song *V&aring;lerenga Kjerke*
 honoring the house of worship. Supporters of V&aring;lerenga football club have
@@ -110,11 +111,11 @@ itself as a roof. So that's pretty hardcore.
 </figure>
 
 As we approach the stadium we see a line at least 50 yards long of fans waiting
-to be granted ingress to the stadium. Sondre whips out his phone and dahses off
-what sounds like a few steps of making Swedish meatballs and casually walks
-past the long line of antsy supporters. As we near the entrance to the stadium
-a gentleman in a smart blue suit greets us behind a low wall of temporary
-metal barricades.
+to be granted ingress to the stadium. Sondre whips out his phone and shouts
+what sounds like a few steps of making Swedish meatballs into the receiver and
+casually walks past the lengthy queue of antsy supporters. As we near the
+entrance to the stadium a gentleman in a smart blue suit greets us behind a
+wall of temporary metal barricades.
 
 "Hi I'm Daniel, nice to meet you!"
 
@@ -143,9 +144,14 @@ sharing the same lompe.
 
 <figure class="figure container-fluid">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-renga_sausages.JPEG" alt="Hot dogs">
-  <figcaption class="figure-caption"></figcaption>
+  <figcaption class="figure-caption">Pro move</figcaption>
 </figure>
 
+V&aring;lorenga come out firing, with a goal by Seedyahmed Jatta in the 18th
+minute to open the scoring. This is shortly followed by another by
+Daniel H&aring;kans in the 24th. As halftime draws near we shuffle out to the
+club for some halftime brewskis. Right as we're about to open the door to the
+club we hear a roar erupt from the hometown faithful.
 
 <figure class="figure">
   <div class="row">
@@ -157,10 +163,6 @@ sharing the same lompe.
   <figcaption class="figure-caption">&#x1F1F3;&#x1F1F4; &#x1F1F3;&#x1F1F4; &#x1F1F3;&#x1F1F4;</figcaption>
 </figure>
 
-Goal by Seedyahmed Jatta in the 18th minute, followed shortly by another by
-Daniel H&aring;kans in the 24th. As halftime draws near we shuffle out to the
-club for some halftime brewskis. Right as we're about to open the door to the
-club we hear a roar erupt from the hometown faithful.
 
 3-nil 'renga on a goal from Henrik Bj&oslash;rdal. Well I'll be!
 
@@ -224,14 +226,14 @@ Father Hamill Field.
 
 We met up for supper & a beer at Oslo Street Food food hall, our party staving
 off a ravenous hunger from the day's Nordic Cycle. We catch up over a couple
-teriyaki rice bowls and &Aring;ss lagers, my compadre filling me in on his
-journey to the land of the Norse.
+teriyaki rice bowls and &Aring;ss lagers, my Stateside comrade filling me in on
+his journey to the land of the Norse.
 
 I try to keep up with the barrister banter between Will & Andy Mac, lobbing a
 few precisely timed *Point of Parliamentary Procedure*!! shouts into the
-transript to the chagrin of noone I'm sure.
+transcript to the annoyance of nobody I'm sure.
 
-A few more &oslash;s & a handful of stories later finds us at Crow Bar, a 
+A few more &oslash;ls & a handful of stories later finds us at Crow Bar, a 
 craft beer saloon just a snowball's throw from the food hall. During our jaunt
 to the Crow we pass a fella ripping a stogie that could substitute as a
 cane for Danny DeVito.
