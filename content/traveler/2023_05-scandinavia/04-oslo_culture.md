@@ -22,8 +22,9 @@ Everybody knows that.
 
 But on this beautiful Norwegian May afternoon I simply can't help myself.
 
-Transfixed, my retinae lock on to the glowing orb, incapable of averting their
-lustful gaze.
+Transfixed, my retinae lock on to the glowing orb.
+
+Incapable of averting their lustful gaze.
 
 Blinded by its radiant corona.
 
@@ -38,7 +39,7 @@ indescribably affecting. So indescribably indescribable that I am struggling to,
 well, describe it.
 
 Stretching a staggering *26 feet across* and *15 feet high*, the marvelous
-painting irradiates bright, beautiful sunshine across its sprawling canvas.
+painting irradiates bright, beautiful sunshine from its sprawling canvas.
 In a statement that could be enshrined in the understatement hall of fame,
 Munch pithily described his painting thusly: "I saw the sun rise up above the
 rocks - I painted the sun."  
@@ -47,7 +48,8 @@ Standing beneath the painting I feel its warmth, letting the sun's rays wash
 over me. I was expecting to be
 wowed but I find myself completely bowled over with astonishment.
 
-What is unclear is the sun rising? Or setting? Are we witnessing the aspirational
+The painting does not make clear if the sun is rising or setting. Are we
+witnessing the aspirational
 glow of boundless potential? Or the last glimmers of a brilliant memory?
 
 Much the same as the earth rotates around the sun, the everlasting constant at
@@ -246,46 +248,34 @@ boasts a bright amphitheater with gradual steps down to the fourth floor. The
 cantilever serves multiple purposes, allowing breathtaking views of the
 Oslofjord, while preserving street-level views of the Opera House.
 
-The five-story building is designed in such a way
-that each floor a 
+I was not blessed with the opportunity to grace the halls of the Opera House but
+we did walk on *top* of it. Opened in 2008, the Oslo Opera House finds itself
+in the small minority of structures where the general public is
+encouraged to walk on the roof. The winner of an open competition besting
+350 other entrants, the Opera House's exterior of white granite and Italian
+carrara marble give the impression of an iceberg slinking away into the frigid
+waters of the fjord. The building's sloped roof invites all who arrive to walk
+upon her back, to mount the a humble ediface, a gesture offering stunning
+views of the fjord and city
 
+
+Oslo's character as a low-rise city with plentiful green space
 
 Library June 18 2020
 Opera House: April 12 2008
 Munchmuseet: October 22, 2021
 
-I was not blessed with the opportunity to grace the halls of the Opera House but
-we did walk on *top* of it. Opened in 2008, the Oslo Opera House finds itself
-in the small minority of structures in our built environment where it's
-encouraged to walk on the roof. The winner of an open competition that bested
-350 other entrants, the Opera House's exterior of white granite and Italian
-carrara marble give the impression of an iceberg slinking away into the frigid
-waters of the fjord. The building's sloped roof invites all who arrive to walk
-upon her back, to mount the a humble gesture offering breathtaking views of the fjord and city
-
-
-Oslo's character as a low-rise city with plentiful green space
-
-<h4 class="article-subheader">Library</h4>
-Joining the Opera House in the group of buildings that are generally revered
-among Oslofolk is the Diechman Bj&oslash;rvika Library. From the outside the
-most stunning feature of the buildings is its stunning terraced cantilever. The
-top floor reaches out towards the Oslofjord, providing a space for quiet
-concentration & contemplation.
-
 Dope article on library engineering.
 https://www.autodesk.com/design-make/articles/norway-sustainable-development
 
 
-Stats.
-
 
 <h4 class="article-subheader skewed" style="font-style:normal !important;">Munch</h4>
-The Edvard Munch Museum (stylized <span class="skewed">Munch) commands an
+The Edvard Munch Museum (stylized <span class="skewed">Munch</span>) commands an
 inviting or ominous presence
 on the shores of the Oslofjord depending on who you ask. It's easily the most
 disputatious edifice gracing the Oslo skyline. The angular, 13-story "vertical
-museum" seems to bow towards the Oslofjord, as old man with his
+museum" seems to bow towards the fjord, as old man with his
 hands clasped behind his back talking to squirrels in the park.
 
 <figure class="figure">
