@@ -144,7 +144,7 @@ invigorated, energized.
 
 
 <h4 class="article-subheader">The Akerselva</h4>
-In the days after the debauchery of
+In the days following the debauchery of
 <a href="/traveler/2023_05-scandinavia/03-norway_day" target="_blank" rel="noopener noreferrer">Constitution Day</a>,
 I decide to make a survey of
 the main confluence flowing through Oslo to the fjord. The Akerselva (Aker River)

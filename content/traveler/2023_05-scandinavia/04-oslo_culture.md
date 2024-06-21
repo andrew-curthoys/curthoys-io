@@ -70,6 +70,145 @@ Speaking of...
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/aLdZmqvYuD8?si=rGM0rkDmGLcLmrVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+<h4 class="article-subheader" id="technology">Norsk Teknisk</h4>
+Norsk Teknisk, i.e. the Norwegian Museum of Science and Technology, sits a
+quarter mile from the source of the Akerselva; steps from where Maridalsvannet
+releases her stored precipitation to begin its journey to the Osloflord. I've
+decided to spend my final day in Oslo here because, I mean, have you met me?
+Also the Viking Ship Museum is closed until 2025.
+
+Norsk Teknisk wastes no time showcasing the importance of the Akerselva with a
+20' replica water wheel spinning inside the main atrium.
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-water_wheel1.JPEG" alt="Water wheel">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-water_wheel2.JPEG" alt="Water wheel">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Harness the power of the mighty Aker</figcaption>
+</figure>
+
+The museum's collection features scientific and historical artifacts that paved
+the way for Norway's ascension to a modern industrial society. And in one case,
+*literally* paved the way as the museum features the world's oldest surviving
+steamroller, dating to 1878, 30 years before the advent of Ford's Model T.
+
+To my utmost chagrin I am constrained for time today, as my ferry to
+Copenhagen sets sail at 3 PM sharp. By necessity I'll have to blow through this
+institution at a pace that will not allow me to fully appreciate the science
+and the technology. Alas.
+
+In my whirlwind tour I find rooms dedicated to 
+
+<div class="article-photo-subheader">Music</div>
+<figure class="figure">
+  <div class="row">
+	  <div class="col-6">
+			<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_music1.JPEG" alt="Phonographs">
+		</div>
+		<div class="col-6">
+			<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_music2.JPEG" alt="Concert piano">
+		</div>
+	</div>
+  <figcaption class="figure-caption">A pair of gramophones that were used to
+  play music during silent films;<br>A coin-operated phonograph that is the
+  predecessor to today's jukeboxes.
+  </figcaption>
+</figure>
+
+
+<div class="article-photo-subheader">Transportation</div>
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_transpo1.JPEG" alt="Planes">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_transpo2.JPEG" alt="Bicycles">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_transpo3.JPEG" alt="Steam turbine">
+    </div>
+  </div>
+  <figcaption class="figure-caption">A Norwegian biplane seaplane;<br>
+  An historical assortment of bicycles;<br>
+  The innards of a warship's steam turbine used to power the ship.
+  </figcaption>
+</figure>
+
+
+<div class="article-photo-subheader">Scientific instruments</div>
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_instruments.JPEG" alt="Scientific instruments">
+<figcaption class="figure-caption">A series of instruments developed by
+researchers at the University of Oslo during a scientific boon in the late
+19th & early 20th centuries.
+</figcaption>
+</figure>
+
+
+<div class="article-photo-subheader">Electricity</div>
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_elec1.JPEG" alt="Electric cannon">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_elec2.JPEG" alt="Capacitor">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_elec3.JPEG" alt="Plasma ball">
+    </div>
+  </div>
+<figcaption class="figure-caption">An "electromagnetic cannon" - a failed
+attempt to shoot a projectile using electricity instead of gunpowder. The gun
+short-circuited, creating a flame arc that the engineers developed into an
+electric arc process to create fertilizer, leading to the establishment of
+Norsk Hydro in 1905;<br>
+An early capacitor used to run early electrical experiments;<br>
+A magnetized ball (terrella) glowing in a chamber with the same phenomenon that
+brings us the Northern Lights.
+</figcaption>
+</figure>
+
+
+<div class="article-photo-subheader">Astronomy</div>
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_astro.JPEG" alt="Telescope">
+<figcaption class="figure-caption">A Norwegian telescope built in 1797.</figcaption>
+</figure>
+
+In 1764 Danish historian Peder Frederik Suhm, reflecting on Norway's place in
+the scientific landscape of the era, remarked, "no country in Europe was in
+worse circumstance for scientific growth and progress." This despite a leader of
+European scientific discovery sitting just a short jaunt to the south in
+Copenhagen, most notably at the *Royal Society of Sciences of Copenhagen*.
+
+In an effort to bolster the scientific King Frederik V established *The Free
+Mathematical School* in Oslo, and the *Royal Norwegian Mining Seminar* in
+Kongsberg in the mid 18th Century.
+
+This telescope was built by Abraham Pihl, a Norwegian vicar who had
+assisted Thomas Buffe at the observatory in Copenhagen. It features an
+achromatic lens, a revolutionary technological advance for the time that
+reduced the blurriness that was common in telescope lenses of the day that
+suffered from chromatic & spherical aberration.
+
+
+<h4 class="article-subheader">Industry</h4>
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_steam_engine.JPEG" alt="Steam engine">
+<figcaption class="figure-caption">19th century steam engine.</figcaption>
+</figure>
+This steam engine was used to 
+
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_workshop.JPEG" alt="Workshop">
+<figcaption class="figure-caption">Steam & belt driven workshop.</figcaption>
+</figure>
+
 <h4 class="article-subheader">The Oslo Waterfront</h4>
 Prior to the *Fjord City* urban renewal project in the mid-aughts, the Oslo
 waterfront was an industrial snarl, clogged with maritime shipping infrastructure,
@@ -141,144 +280,9 @@ https://www.autodesk.com/design-make/articles/norway-sustainable-development
 Stats.
 
 
-
-
-
-
-Munch
-shape of freedom
-lost in color
-painting the unspeakable
-Asker Jorn - Danish
-even the floor is beautiful
-chamber of chaos
-calming & soothing - calming music & pillows, etc.
-
-
-<h4 class="article-subheader" id="technology">Norsk Teknisk</h4>
-Norsk Teknisk, i.e. the Norwegian Museum of Science and Technology, sits a
-quarter mile from the source of the Akerselva; steps from where Maridalsvannet
-releases her stored precipitation to begin its journey to the Osloflord. I've
-decided to spend my final day in Oslo here because, I mean, have you met me?
-Also the Viking Ship Museum is closed until 2025.
-
-Norsk Teknisk wastes no time showcasing the importance of the Akerselva with a
-20' replica water wheel spinning inside the main atrium.
-
-<figure class="figure">
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-water_wheel1.JPEG" alt="Water wheel">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-water_wheel2.JPEG" alt="Water wheel">
-    </div>
-  </div>
-  <figcaption class="figure-caption">Harness the power of the mighty Aker</figcaption>
-</figure>
-
-The museum's collection features scientific and historical artifacts that paved
-the way for Norway's ascension to a modern industrial society. And in one case,
-*literally* paved the way as the museum features the world's oldest surviving
-steamroller, dating to 1878, 30 years before the advent of Ford's Model T.
-
-To my utmost chagrin I am constrained for time today, as my ferry to
-Copenhagen sets sail at 3 PM sharp. By necessity I'll have to blow through this
-institution at a pace that will not allow me to fully appreciate the science
-and the technology. Alas.
-
-In my whirlwind tour I find rooms dedicated to 
-
-<div class="article-photo-subheader">Music</div>
-<figure class="figure">
-  <div class="row">
-	  <div class="col-6">
-			<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_music1.JPEG" alt="Phonographs">
-		</div>
-		<div class="col-6">
-			<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_music2.JPEG" alt="Concert piano">
-		</div>
-	</div>
-  <figcaption class="figure-caption">A pair of gramophones that were used to
-  play music during silent films;<br>A coin-operated phonograph that is the
-  predecessor to today's jukeboxes</figcaption>
-</figure>
-
-
-<div class="article-photo-subheader">Transportation</div>
-<figure class="figure">
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_transpo1.JPEG" alt="Planes">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_transpo2.JPEG" alt="Bicycles">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_transpo3.JPEG" alt="Steam turbine">
-    </div>
-  </div>
-  <figcaption class="figure-caption">A Norwegian biplane seaplane;<br>
-  An historical assortment of bicycles;<br>
-  The innards of a warship's steam turbine used to power the ship</figcaption>
-</figure>
-
-
-<div class="article-photo-subheader">Scientific instruments</div>
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_instruments.JPEG" alt="Scientific instruments">
-<figcaption class="figure-caption">A series of instruments developed by
-researchers at the University of Oslo during a scientific boon in the late
-19th & early 20th centuries.</figcaption>
-</figure>
-
-
-<div class="article-photo-subheader">Electricity</div>
-<figure class="figure">
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_elec1.JPEG" alt="Electric cannon">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_elec2.JPEG" alt="Capacitor">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_elec3.JPEG" alt="Plasma ball">
-    </div>
-  </div>
-<figcaption class="figure-caption">An "electromagnetic cannon" - a failed
-attempt to shoot a projectile using electricity instead of gunpowder. The gun
-short-circuited, creating a flame arc that the engineers developed into an
-electric arc process to create fertilizer, leading to the establishment of
-Norsk Hydro in 1905;
-An early capacitor used to run early electrical experiments;
-A magnetized ball (terrella) glowing in a chamber with the same phenomenon that
-brings us the Northern Lights.
-</figure>
-
-
-<div class="article-photo-subheader">Astronomy</div>
-
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_astro.JPEG" alt="Telescope">
-</figure>
-
-In 1764 Danish historian Peder Frederik Suhm, reflecting on Norway's place in
-the scientific landscape of the era, remarked, "no country in Europe was in
-worse circumstance for scientific growth and progress." This despite a leader of
-European scientific discovery sitting just a short jaunt to the south in
-Copenhagen, most notably at the *Royal Society of Sciences of Copenhagen*.
-
-In an effort to bolster the scientific King Frederik V established *The Free
-Mathematical School* in Oslo, and the *Royal Norwegian Mining Seminar* in
-Kongsberg in the mid 18th Century.
-
-This telescope was built in 1797 by Abraham Pihl, a Norwegian vicar who had
-assisted Thomas Buffe at the observatory in Copenhagen. It features an
-achromatic lens, a revolutionary technological advance for the time that
-reduced the blurriness that was common in telescope lenses of the day that
-suffered from chromatic & spherical aberration.
-
-
-
-<h4 class="article-subheader">Munch</h4>
-The Munchmuseet (Edvard Munch Museum) commands an inviting or ominous presence
+<h4 class="article-subheader skewed" style="font-style:normal !important;">Munch</h4>
+The Edvard Munch Museum (stylized <span class="skewed">Munch) commands an
+inviting or ominous presence
 on the shores of the Oslofjord depending on who you ask. It's easily the most
 disputatious edifice gracing the Oslo skyline. The angular, 13-story "vertical
 museum" seems to bow towards the Oslofjord, as old man with his
@@ -471,3 +475,16 @@ imaginative play-space for children, where normal museum rules do not apply."
 
 So we spend a few minutes breaking normal museum rules because who doesn't want
 to act like a kid every once in a while?
+
+
+
+
+Munch
+shape of freedom
+lost in color
+painting the unspeakable
+Asker Jorn - Danish
+even the floor is beautiful
+chamber of chaos
+calming & soothing - calming music & pillows, etc.
+
