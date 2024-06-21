@@ -24,13 +24,13 @@ But on this beautiful Norwegian May afternoon I simply can't help myself.
 
 Transfixed, my retinae lock on to the glowing orb.
 
-Incapable of averting their lustful gaze.
+Incapable of averting their bewitched gaze.
 
 Blinded by its radiant corona.
 
 Blinded, not by the ultraviolet radiation of our life-giving
 <a href="https://en.wikipedia.org/wiki/G-type_main-sequence_star" target="_blank" rel="noreferrer no opener"> G-type main-sequence star</a>,
-but by the brilliant rays of sunshine emanating from the
+but by the brilliant flash of sunlight emanating from the
 Munchmuseet's 6th floor <span class="skewed">Monumental</span> exhibit.
 
 *The Sun*, a painting by Oslo's native son Edvard Munch, is a work that is
@@ -72,12 +72,13 @@ creating these monstrosities, let alone transporting and hanging them.
 
 Speaking of...
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/aLdZmqvYuD8?si=rGM0rkDmGLcLmrVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="mb-2" width="100%" height="315" src="https://www.youtube.com/embed/aLdZmqvYuD8?si=rGM0rkDmGLcLmrVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <h4 class="article-subheader" id="technology">Norsk Teknisk</h4>
 Norsk Teknisk, i.e. the Norwegian Museum of Science and Technology, sits a
-quarter mile from the source of the Akerselva; steps from where Maridalsvannet
+quarter mile from the source of the Akerselva River; steps from where
+Lake Maridalsvannet
 releases her stored precipitation to begin its journey to the Osloflord. I've
 decided to spend my final day in Oslo here because, I mean, have you met me?
 Also the Viking Ship Museum is closed until 2025.
@@ -190,9 +191,9 @@ worse circumstance for scientific growth and progress." This despite a leader of
 European scientific discovery sitting just a short jaunt to the south in
 Copenhagen, most notably at the *Royal Society of Sciences of Copenhagen*.
 
-In an effort to bolster the scientific King Frederik V established *The Free
-Mathematical School* in Oslo, and the *Royal Norwegian Mining Seminar* in
-Kongsberg in the mid 18th Century.
+In an effort to bolster Norway's scientific stature King Frederik V established
+*The Free Mathematical School* in Oslo, and the *Royal Norwegian Mining Seminar*
+in Kongsberg in the mid 18th Century.
 
 This telescope was built by Abraham Pihl, a Norwegian vicar who had
 assisted Thomas Buffe at the observatory in Copenhagen. It features an
@@ -219,7 +220,9 @@ a shaft that ran along the ceiling of the workshop.
 
 This shaft was fitted with numerous drive wheels, which were connected via belts
 to drive shafts on either side of the workshop, which were in turn connected to
-each machine. This seems atavistic by today's standards but at the time it was
+each machine.
+
+This seems atavistic by today's standards but at the time it was
 state of the art. From an engineering perspective it's fascinating to see each
 component of a mechanical system laid bare. From a human perspective it's hard
 not to imagine the interminable hours of excruciating work performed here; how
@@ -252,10 +255,10 @@ find spaces for meeting, rehearsal rooms, gaming rooms, exhibition niches,
 a record studio, silent reading rooms etc. Even though the books still have a
 strong presence this library is designed first and foremost as a place for people."
 
-With the design, the architects not only to bring people together, but to bring
-them together while inviting the outside in. to create a building that would
-bring people together while allowing the outside in. The facade of the building
-is coated in windows and the roof boats three diagonal light shafts that allow
+With their design, the architects hoped to not simply bring people together,
+but to bring them together while inviting the outside in. The building's
+fa&ccedil;ade is wrapped with windows and the roof boasts three diagonal light
+shafts that allow
 for sunlight to spill from the roof all the way to the ground floor.
 
 <figure class="figure">
@@ -273,14 +276,15 @@ for sunlight to spill from the roof all the way to the ground floor.
 The most striking feature of the building, however, is the fifth-floor
 cantilever. Jutting 60 feet towards the fjord, the top floor of the library
 boasts a bright amphitheater with gradual steps down to the fourth floor. The
-cantilever serves multiple purposes, allowing breathtaking views of the
+overhang serves multiple purposes, allowing breathtaking views of the
 Oslofjord, while preserving street-level views of the Opera House.
 
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_library3.jpg" alt="Library">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_library4.jpg" alt="Library">
-<figcaption class="figure-caption">Again, not my photos, you don't want to see how bad mine are</figcaption>
+<figcaption class="figure-caption">Again, not my photos, just imagine a bunch
+more people and that's how it looked when I was there</figcaption>
 </figure>
 
 While I was not blessed with the opportunity to grace the halls of the Opera
@@ -290,12 +294,31 @@ encouraged to walk on the roof. The winner of an open competition besting
 350 other entrants, the Opera House's exterior of white granite and Italian
 carrara marble give the impression of an iceberg slinking away into the frigid
 waters of the fjord. The building's sloped roof invites all who arrive to walk
-upon her back, to mount the a humble ediface, a gesture offering stunning
+upon her back, to mount the humble structure, a gesture offering stunning
 views of the fjord and city
 
-Dope article on library engineering.
-https://www.autodesk.com/design-make/articles/norway-sustainable-development
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_opera_roof1.JPEG" alt="Opera rooftop">
+<figcaption class="figure-caption">Panoramic shot of the fjord</figcaption>
+</figure>
 
+The southerly view offers a glimpse into the joys of summertime Oslo - a throng
+of epicureans in swimming costumes frolic and bask in the beautiful weather on a
+beach fronting the Munch museum.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_opera_roof2.JPEG" alt="Opera rooftop">
+<figcaption class="figure-caption">Looks like a good bit of fun</figcaption>
+</figure>
+
+Just then a surly gull perches on the marble banister
+an arms-length away. This bird, who I'll call Gustav, is perhaps another voice
+in the crowd offering a take on the architecture of the Munch museum.
+
+<figure class="figure container-fluid">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_opera_roof3.JPEG" alt="Opera rooftop">
+<figcaption class="figure-caption"></figcaption>
+</figure>
 
 
 <h4 class="article-subheader skewed" style="font-style:normal !important;">Munch</h4>
@@ -314,23 +337,22 @@ hands clasped behind his back talking to squirrels in the park.
 The (few) proponents of the structure point to its distinctive architecture,
 sustainability bona-fides, and respectful, bow-like posture towards the Oslo
 city center, Opera House, & Oslofjord. Opponents claim it's harsh, orthogonal
-lines mar an otherwise elegant skyline. Others contend that the museum blocks
+lines mar an otherwise elegant skyline. Still others contend that the museum blocks
 the view of the fjord to some of the lower economic neighborhoods in the shadow
-of its edifice.
+of the monolith.
 
 It's nothing if not controversial.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded border" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_sucks.png" alt="Munch museum sucks">
-  <figcaption class="figure-caption">Norwegians are notoriously reserved, let's see if
-  they tell us how they really feel in the article</figcaption>
+  <figcaption class="figure-caption">Tell us how you really feel</figcaption>
 </figure>
 
-The author of the above take is architect Gaute Brochmann, editor of the journal
+The author of the above take, architect Gaute Brochmann, editor of the journal
 *Architecture N*, further clarifies in the article, (as translated by my
 internet browser)
 
-<div class="block-quote">
+<div class="block-quote mb-2">
 "I say that the Munch Museum sucks, both in the sense that it does not look
 good - but also in the sense that it sucks all light out of Bjorvika"
 </div>
@@ -338,13 +360,10 @@ good - but also in the sense that it sucks all light out of Bjorvika"
 But what the Munchmuseet lacks in architectural charm it abounds with
 spectacular works of art.
 
-With installations spanning 6 of the museum's floors (the others are
+With installations spanning 6 of the museum's 13 floors (the others are
 used for performances, administrative tasks, and a restaurant/bar) visitors
 can spend a day at the museum and still not see all there is to see within its
 capacious 500,000 square feet.
-
-The first three floors are dedicated to artists other than Munch, whetting our
-artistic appetites for more floors to come.
 
 As we wind through the halls of the museum I'm enthralled by the third floor's
 *The Shape of Freedom* exhibit. Norway's largest exhibition of abstract
@@ -355,24 +374,23 @@ could do, and it wouldn't even have to be trained that well."
 
 But the museum does a masterful job of telling a story through their collection.
 As you enter the exhibit you are welcomed by a series of pieces that portend the
-storm clouds of war gathering over Europe. 
+storm clouds of war gathering over Europe in the 1930s. 
 
 As you continue through the space the pieces slowly shift from an ominous sense
-of impending doom to 
+of impending doom to doom incarnate.
 Photographs of tattered studios in war torn cities accompany works dominated by
 dark colors and harsh lines. Dispersed between the pieces are are descriptions
 of the milieu in which the artists lived and worked. Art is always an expression
 of its time but I have to imagine wartime only emphasizes the degree to which
-art reflects the world it is made within.
+art reflects the world it inhabits.
 
 By end of the exhibit the mood of the pieces begin to gradually lighten,
 reflective of a world emerging from the largest bloodletting in history,
 hopeful for what lies ahead, thankful for surviving the carnage, and rueful for
 having to live through a catastrophe completely out of their control.
 
-The works, in their entirety, create
-
-The lower floors hold a handful of other exhibits with titles such as *Lost in
+The rest of the lower floors present a handful of other exhibits with titles
+such as *Lost in
 Color* and *Painting the Unspeakable* that highlight works from Scandinavian
 artists and a smattering of others from around the world. Each installation
 tells a story, each installation complements the works of Edvard Munch to be seen
@@ -386,7 +404,7 @@ father was appointed medical officer at Akershus Fortress, then the Norwegian
 royal palace, and moved the family 80 miles south to the city of Christiania.
 
 Christiania was a city constructed from whole cloth by King Christian IV of
-Denmark in 1624. After a fire destroyed the existing polity, Ol King Chris
+Denmark in 1624. After a fire destroyed the existing city, Ol King Chris
 decided to rebuild across the river and, of course, named it after himself.
 In 1877 the name was changed to Kristiania, which lasted until 1 January 1925
 when it was again renamed to... Oslo. The fact that their capital city was
@@ -450,7 +468,7 @@ floors.
 <span class="skewed">Munchmuseet</span>, fully ascribing to the
 give-the-people-what-they-want philosophy of design, immediately satiate the
 visitor's thirst for *Skrik*, as *The Scream* is called in Norwegian. The
-exhibit consists of a dimly lit three-sided alcove with a different version of
+exhibit consists of a dimly lit three-sided alcove featuring a different version of
 *Skrik* on each wall. Since Munch created each version on paper or cardboard
 they are more fragile than works on canvas. As a result they only display one
 version at a time on a rotating schedule, while "the two others rest in
@@ -466,8 +484,8 @@ then again I have absolutely no idea what the hell I'm talking about.
   <figcaption class="figure-caption">Skriiiiiiiiiiiiik</figcaption>
 </figure>
 
-The rest of the 4th floor is filled with Munch's explorations of the human
-experience, filled with sections such as Oneself, Gender, In Motion, Love,
+The rest of the 4th floor is filled with Munch's explorations of humanity,
+filled with sections such as Oneself, Gender, In Motion, Love,
 Others, Alone, Outdoors, To Die.
 
 And a painting of a bartender who looks like Bill Murray.
@@ -477,7 +495,7 @@ And a painting of a bartender who looks like Bill Murray.
   <figcaption class="figure-caption">I'll have a Total Consciousness on the rocks</figcaption>
 </figure>
 
-I'm dancing perilously close to the cliffs of my artistic scholarship, I better
+I'm dancing perilously close to the cliffs of my artistic scholarship, so I better
 quit now. All I have to say is the <span class="skewed">Munchmuseet</span> is
 well worth a visit, despite the harshest critics' opinions of the exterior.
 
@@ -493,16 +511,3 @@ imaginative play-space for children, where normal museum rules do not apply."
 
 So we spend a few minutes breaking normal museum rules because who doesn't want
 to act like a kid every once in a while?
-
-
-
-
-Munch
-shape of freedom
-lost in color
-painting the unspeakable
-Asker Jorn - Danish
-even the floor is beautiful
-chamber of chaos
-calming & soothing - calming music & pillows, etc.
-
