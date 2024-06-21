@@ -40,30 +40,33 @@ well, describe it.
 
 Stretching a staggering *26 feet across* and *15 feet high*, the marvelous
 painting irradiates bright, beautiful sunshine from its sprawling canvas.
-In a statement that could be enshrined in the understatement hall of fame,
-Munch pithily described his painting thusly: "I saw the sun rise up above the
-rocks - I painted the sun."  
+"I saw the sun rise up above the rocks - I painted the sun," Munch once
+pithily described his inspiration for the painting; a statement so modest it
+borders on arrogance.
 
-Standing beneath the painting I feel its warmth, letting the sun's rays wash
-over me. I was expecting to be
-wowed but I find myself completely bowled over with astonishment.
-
-The painting does not make clear if the sun is rising or setting. Are we
-witnessing the aspirational
+Standing beneath the painting I feel its warmth, I feel its resplendent rays
+wash over me. I find myself contemplating, is the sun is rising? Or is it
+setting? Are we witnessing the aspirational
 glow of boundless potential? Or the last glimmers of a brilliant memory?
 
-Much the same as the earth rotates around the sun, the everlasting constant at
-the center of our solar system, the key to all life on earth, so too do our
-lives rotate around *The Sun*. We crawl, we tumble. We walk, we stub our toe.
+Just as the earth rotates around the sun, that eternal galactic constant, so too
+do our lives rotate around *The Sun*. We crawl, we tumble. We walk, we stumble.
 We make friends, we lose touch. We fall in love, we mend a broken heart. We get
 married, we have kids, we travel across oceans, we grow old. All the while
-*The Sun*'s rays remain statically frozen in time, our lives rotating around
-its magical glow. It's neither a rising or setting sun, its our perspective that
-rises and sets around the painting.
+*The Sun*'s rays remain statically frozen in time, our lives revolving around
+its magical glow. It's neither a rising nor setting sun; it's our journey
+through the human experience that rises and sets around the painting.
 
-This prodigious work isn't even his most massive. *The Reserchers*, a
+This prodigious work isn't even his most massive. *The Researchers*, a
 painting of children digging and exploring in the sand, measures an
-astounding 16' x 36'. It's a surreal experience to stand beside these
+astounding 16' x 36'. That's nearly the size of a pickleball court.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-munch_researchers.JPEG" alt="Researchers">
+<figcaption class="figure-caption">Will & Anna doing their best Ferris & Sloane</figcaption>
+</figure>
+
+The feeling is surreal standing beside these
 remarkable works of art, if not for the artistry of it all but the logistics of
 creating these monstrosities, let alone transporting and hanging them.
 
@@ -203,13 +206,26 @@ suffered from chromatic & spherical aberration.
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_steam_engine.JPEG" alt="Steam engine">
 <figcaption class="figure-caption">19th century steam engine.</figcaption>
 </figure>
-This steam engine was used to 
 
+This steam engine was used to power dozens of machines at a factory using
+a purely mechanical linkage. The steam engine would spin the large wheel,
+turning a belt to power the smaller wheel overhead. This wheel was connected to
+a shaft that ran along the ceiling of the workshop.
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_workshop.JPEG" alt="Workshop">
 <figcaption class="figure-caption">Steam & belt driven workshop.</figcaption>
 </figure>
+
+This shaft was fitted with numerous drive wheels, which were connected via belts
+to drive shafts on either side of the workshop, which were in turn connected to
+each machine. This seems atavistic by today's standards but at the time it was
+state of the art. From an engineering perspective it's fascinating to see each
+component of a mechanical system laid bare. From a human perspective it's hard
+not to imagine the interminable hours of excruciating work performed here; how
+many digits, limbs, scalps caught in the drive belts - people caught in the
+literal gears of society, an unseen cost of progress.
+
 
 <h4 class="article-subheader">The Oslo Waterfront</h4>
 Prior to the *Fjord City* urban renewal project in the mid-aughts, the Oslo
@@ -242,28 +258,40 @@ bring people together while allowing the outside in. The facade of the building
 is coated in windows and the roof boats three diagonal light shafts that allow
 for sunlight to spill from the roof all the way to the ground floor.
 
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_library1.jpg" alt="Library">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_library2.jpg" alt="Library">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Not my photos, these are way better than any I took</figcaption>
+</figure>
+
 The most striking feature of the building, however, is the fifth-floor
 cantilever. Jutting 60 feet towards the fjord, the top floor of the library
 boasts a bright amphitheater with gradual steps down to the fourth floor. The
 cantilever serves multiple purposes, allowing breathtaking views of the
 Oslofjord, while preserving street-level views of the Opera House.
 
-I was not blessed with the opportunity to grace the halls of the Opera House but
-we did walk on *top* of it. Opened in 2008, the Oslo Opera House finds itself
-in the small minority of structures where the general public is
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_library3.jpg" alt="Library">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_library4.jpg" alt="Library">
+<figcaption class="figure-caption">Again, not my photos, you don't want to see how bad mine are</figcaption>
+</figure>
+
+While I was not blessed with the opportunity to grace the halls of the Opera
+House I did walk on *top* of it. Opened in 2008, the Oslo Opera House finds
+itself in the small minority of structures where the general public is
 encouraged to walk on the roof. The winner of an open competition besting
 350 other entrants, the Opera House's exterior of white granite and Italian
 carrara marble give the impression of an iceberg slinking away into the frigid
 waters of the fjord. The building's sloped roof invites all who arrive to walk
 upon her back, to mount the a humble ediface, a gesture offering stunning
 views of the fjord and city
-
-
-Oslo's character as a low-rise city with plentiful green space
-
-Library June 18 2020
-Opera House: April 12 2008
-Munchmuseet: October 22, 2021
 
 Dope article on library engineering.
 https://www.autodesk.com/design-make/articles/norway-sustainable-development

@@ -326,7 +326,8 @@ exclaims,
 "Well go on & git then! Don't worry about cleaning up I'll take care of the
 dishes"
 
-A welcome contrast to the typical paradigm of cleaning up America's messes.
+And for once America cleans up its overseas mess.
+
 
 <h4 class="article-subheader">"Your accent, where's it from?"</h4>
 
@@ -379,7 +380,7 @@ Talor fills me in on the cap al fred - originating in the Greek islands, this
 cold coffee drink involves dolloping cold, extremely frothy milk over a couple
 shots of iced espresso and topping it with a dash of cocoa powder.
 
-<figure class="figure">
+<figure class="figure container-fluid">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-freddo.jpeg" alt="Cap al fred">
   <figcaption class="figure-caption">That's some caffeine magic right there</figcaption>
 </figure>
