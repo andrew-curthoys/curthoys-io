@@ -10,10 +10,10 @@ date: 2023-05-18 01:00
 post_date: 2023-12-20
 category: traveler
 subcat: Gallivanting
-photo: 17-paddle3-tall.JPEG
+photo: oslo-culture_skrik.jpg
 activity: 2023 Scandinavian Sk&oslash;yestreker
 short_sum: All the culture Oslo has to offer
-summary: 
+summary: You shouldn't stare directly at the sun. Everybody knows that. But on this beautiful Norwegian May afternoon I simply can't help myself. Transfixed, my retinae lock on to the glowing orb. Incapable of averting their bewitched gaze. Blinded by its radiant corona.
 
 <h4 class="article-subheader">The Sun</h4>
 You shouldn't stare directly at the sun.

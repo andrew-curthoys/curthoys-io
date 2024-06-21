@@ -10,10 +10,10 @@ date: 2023-05-18 02:00
 post_date: 2023-12-20
 category: traveler
 subcat: Gallivanting
-photo: 17-paddle3-tall.JPEG
+photo: oslo-aker1.JPEG
 activity: 2023 Scandinavian Sk&oslash;yestreker
-short_sum: Oslo
-summary: 
+short_sum: A city surrounded by nature, what's not to like?
+summary: Tucked away at at the head of the Oslofjord, Norway's capital city is blessed with an embarrassment of natural riches. Strolling around town you find that the line dividing city from nature is often blurry, an arrangement which feels intentional given that nature walks are part of the national soul
 
 <h4 class="article-subheader">A Fjord By Any Other Name</h4>
 Tucked away at at the head of the Oslofjord, Norway's capital city is blessed with an

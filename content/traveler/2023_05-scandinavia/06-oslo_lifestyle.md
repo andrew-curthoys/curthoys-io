@@ -10,10 +10,10 @@ date: 2023-05-18 04:00
 post_date: 2023-12-20
 category: traveler
 subcat: Gallivanting
-photo: 17-paddle3-tall.JPEG
+photo: oslo-lifestyle_renga_postgame.JPEG
 activity: 2023 Scandinavian Sk&oslash;yestreker
-short_sum: Oslo
-summary: 
+short_sum: What a wonderful place to live
+summary: I'm a temporary resident of Oslo for nearly a week before I notice the smell. A pervasive, gaseous odor permeating the city from Sk&oslash;yen to H&oslash;ybr&aring;ten. Anywhere you go you can't escape it. I finally recognize the smell while waiting for an electric streetcar in the heart of downtown.
 
 {% import 'macros.html' as m %}
 

@@ -10,10 +10,10 @@ date: 2023-05-18 03:00
 post_date: 2023-12-20
 category: traveler
 subcat: Gallivanting
-photo: 17-paddle3-tall.JPEG
+photo: oslo-gastro_izakaya_meal.JPEG
 activity: 2023 Scandinavian Sk&oslash;yestreker
-short_sum: Oslo
-summary: 
+short_sum: Plenty of places to fill your belly
+summary: "I'll have a gin & tonic", "Great, and which gin would you like?", Now... I like gin, but the extent of my knowledge of it is limited to a handful of the most recognizable brands. If you poured me the finest gin in the world and a glass of turpentine I likely couldn't tell the difference.
 
 
 <h4 class="article-subheader" id="lorry">Bar Lorry</h4>
