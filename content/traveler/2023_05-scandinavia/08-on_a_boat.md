@@ -25,3 +25,17 @@ Just about to lose my mind
 
 
 <h4 class="article-subheader">We Just Booked A Cheap Flight To Copenhagen</h4>
+"Here's our flight number if you want to join us"
+
+"Nah, I'm going to take the ferry"
+
+"So.... you're going to take something that's more expensive and takes WAY
+longer? You know the flight is only 45 minutes right?"
+
+"Yes"
+
+"And you're going to take a 19 hour ferry"
+
+"Damn right"
+
+"Ok..."
