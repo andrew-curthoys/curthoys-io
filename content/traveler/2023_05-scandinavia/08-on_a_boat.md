@@ -9,9 +9,10 @@ post_date: 2024-07-25
 category: traveler
 subcat: Gallivanting
 photo: 17-paddle3-tall.JPEG
-activity: *2023 Scandinavian Sk&oslash;yestreker
+activity: 2023 Scandinavian Sk&oslash;yestreker
 short_sum: Why take a plane when you can take a boat?
 summary: 
+status: draft
 
 <h4 class="article-subheader">Andrew, This One's For You</h4>
 

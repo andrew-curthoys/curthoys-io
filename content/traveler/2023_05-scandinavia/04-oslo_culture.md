@@ -170,7 +170,7 @@ attempt to shoot a projectile using electricity instead of gunpowder. The gun
 short-circuited, creating a flame arc that the engineers developed into an
 electric arc process to create fertilizer, leading to the establishment of
 Norsk Hydro in 1905;<br>
-An early capacitor used to run early electrical experiments;<br>
+An early capacitor used to conduct trailblazing electrical experiments;<br>
 A magnetized ball (terrella) glowing in a chamber with the same phenomenon that
 brings us the Northern Lights.
 </figcaption>
