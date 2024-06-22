@@ -6,7 +6,7 @@ slug_base: traveler/2023_05-scandinavia
 day_alias: Oslo as Gastronomy
 prev_day: 06-oslo_lifestyle
 next_day: 08-on_a_boat*
-date: 2023-05-18 03:00
+date: 2023-05-18 04:00
 post_date: 2023-12-20
 category: traveler
 subcat: Gallivanting
