@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+
+{% block title %}{{ "2024 Norwegian Sk&oslash;yestreker" }}{% endblock %}
+
+{% block content %}
+
+{% set photo_list = [
+"60-dog.jpeg",
+"60-norse_legroom.JPEG",
+"60-chippy1.JPEG",
+"60-jefferson1.JPEG",
+"60-oslo_by_air.jpeg",
+]|shuffle
+%}
+
+<style>
+  body{background-color:rgb(230, 230, 230)}
+</style>
+
+<!-- CAROUSEL -->
+    <div id="myCarousel" class="carousel carousel-dark carousel-traveler slide mb-4" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner" style="text-align:center;">
+        {% for photo in photo_list %}
+          {% if photo == photo_list[0] %}
+            <div class="carousel-item active">
+          {% else %}
+            <div class="carousel-item">
+          {% endif %}
+              <img src="/theme/images/traveler/2023_05-scandinavia/{{ photo }}">
+            </div>
+        {% endfor %}
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </button>
+    </div>
+
+<!-- TRIPS -->
+<div class="container">
+  <div class="row mb-2">
+  {% for article in articles|reverse %}
+    {% if article.activity == '2024 Norwegian Sk&oslash;yestreker' %}
+    <div class="col-lg-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static" style="background-color: white">
+          <p class="card-header-traveler mb-0 f-blue-grey">{{ article.title }}</p>
+          <p class="card-text card-text-traveler fst-italic mb-2">{{ article.date.strftime('%B %-d, %Y') }}</p>
+          <p class="card-text card-text-traveler">{{ article.short_sum }}</p>
+          <a href=/{{ article.slug }}.html class="stretched-link"></a>
+        </div>
+        <div class="col-auto d-sm-none">
+          <img class="bd-placeholder-img" width="120" height="100%" src="/theme/images/traveler/2023_05-scandinavia/{{ article.photo }}" alt="Scandinavia" preserveAspectRatio="xMidYMid slice" focusable="false">
+        </div>
+        <div class="col-auto d-none d-sm-block d-md-none">
+          <img class="bd-placeholder-img" width="150" height="100%" src="/theme/images/traveler/2023_05-scandinavia/{{ article.photo }}" alt="Scandinavia" preserveAspectRatio="xMidYMid slice" focusable="false">
+        </div>
+        <div class="col-auto d-none d-md-block">
+          <img class="bd-placeholder-img" width="200" height="250" src="/theme/images/traveler/2023_05-scandinavia/{{ article.photo }}" alt="Scandinavia" preserveAspectRatio="xMidYMid slice" focusable="false">
+        </div>
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>
+
+{% endblock %}

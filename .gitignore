@@ -137,6 +137,7 @@ output/
 *pyc
 locations.js
 locations.txt
-*ods
+*ods**
 content/_notes/
 node_modules/
+requirements.txt
