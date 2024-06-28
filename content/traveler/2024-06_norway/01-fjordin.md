@@ -26,15 +26,18 @@ corner and saw a sign for toilets and when I opened it I
 
 "MICHAEL!!!"
 
-And that's how Jill was introduced to the urinal trough at 
-an incredible purveyor of food and beer and an even better purveyor of
-efficient effluent expulsion.
 
 <h4 class="article-subheader">We Just Landed!!!"</h4>
+8 hours preceding Jill's unfortunate water closet mixup the [size of the wheels]
+wheels of the Boeing 787 Dreamliner carrying the passengers of Norse Atlantic
+[flight number] touched down at Oslo Gardermoen Airport.
+
+[text bubble css thing?]
+
 Welcome to Norway!!!
 
+[text about landing and going through passport control]
 
-Shannon, Jill, and Michael landed at 12:45 Norse Atlantic flight.
 
 
 "Ok they rebooked us on the 4:15"
@@ -84,6 +87,63 @@ you with?"
 "No... that was... really helpful, thank you so much... tusen takk"
 
 "Varsegod"
+
+
+<h4 class="article-subheader">Bergen</h4>
+I'm restuffing my belongings into my knapsack when Jill looks at the big board
+to find our gate for our flight to Bergen.
+
+"Oh, looks like our original flight was canceled"
+
+I divert my attention from my entropy reducing activities and spin around to
+face the departures display.
+
+[Bergen SAS flight number etc time CANCELLED]
+
+Satisfied with my own assessment of the situation I pirouette back to Jill, as
+if she was waiting with bated breath for my affirmation,
+
+"Yeah, looks pretty canceled"
+
+There's no way to know but I'm going to believe that their passport control
+fiasco benefited us. We got seats all in the same row before anybody else had to
+scramble for 
+
+That's the thing about travel mercies. They are mysterious.
+
+Three hours later we are rambling through the streets of Bergen, Norway in a
+rented Toyota Corolla crossover, unsure of what any of the street signs mean,
+
+"Am I going the wrong way? What do these signs with a red X going through them
+mean? I feel like this is wrong but the GPS says to go this way. I think?"
+
+After a sinuous path through the streets of old Bergen we arrive at our airbnb.
+
+
+
+
+And that's how Jill was introduced to the urinal trough at 
+an incredible purveyor of food and beer and an even better purveyor of
+efficient effluent expulsion.
+
+<h4 class="article-subheader">Trains Are So Cool</h4>
+I have been on a couple trips with Jill. Jill is a fabulous trip companion. Jill
+makes spreadsheets of trip plans and activities. We love Jill.
+
+Over rooftop dinner with Big Tom on my first night in Norway I tell him our
+plans,
+
+"I'm meeting Shannon, Jill, and Michael at OSL on Saturday
+
+
+During my first night in Norway, Big Tom 
+
+* Cornelius restaurant
+* Funicular train
+* Edvard Grieg museum
+
+"Oh! I should add that to the spreadsheet!"
+
 
 <h4 class="article-subheader">Mountain Climbers</h4>
 Our plan for the day following our stay in Bergen involves a hike. That's about

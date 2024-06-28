@@ -2,7 +2,7 @@ title: Leg 0: Norway Bound
 subtitle: Weren't You Just Here?
 slug: traveler/2024-06_norway/00-norway_bound
 slug_base: traveler/2024-06_norway
-day_alias: Leg 0: Norway Bound
+day_alias: Leg 00: Norway Bound
 prev_day: /traveler/2024-06_norway
 next_day: 01-fjordin
 date: 2023-06-16
@@ -18,16 +18,28 @@ summary: x
 I look up from my book and see my good ol friend Zach looking down at me with a
 quizzical gaze.
 
-"What the hell are you doing here? I saw you from across the terminal and
-thought no way in hell I run into him two days in a row"
+"Are you on this flight to New YorK?"
 
-Yesterday I bumped into Zach as he was walking his dog through the neighborhood
-on my homestretch of run club.
+"Yeah, are you?"
 
-"Are you on this flight to NYC?"
+"Yeah... what the hell, I saw you from across the terminal and thought there's
+no way I run into you two days in a row"
 
-"Yeah, I'm heading up to the city to spend a few days with my cousin before
-flying out to Norway"
+"I guess it's your lucky day, where are you going in the city?"
+
+"Brooklyn. Bed Stuy. You?"
+
+"Crown Heights"
+
+"Wanna split cab?"
+
+"Hell of a deal"
+
+I ran into Zach yesterday while he was out walking his dog and I was out
+running a few miles to justify a beer after this week's run club Wednesday. I
+ran into him today on his way to spend some time with friends in NYC before his
+cousin's wedding in Boston. He lived in New York for 7 years before succumbing
+to the green throated call of the Northern Carolina trees.
 
 "Oh damn, Norway?"
 
@@ -45,6 +57,17 @@ some friends in New York before heading up"
 "Sounds good to me"
 
 <h4 class="article-subheader">Have You Heard Of Photoville?</h4>
+After splitting up with Zach I head to Michael's to drop my bags, grab a quick
+nap, and take the train into Brooklyn Heights. The Brooklyn Promenade is one of
+my favorite NYC hangs and today lives up to the billing. 75 and sunny with just
+enough people out and about to give a lively "buzzy" feeling but not too many to
+feel crowded. I snag a seat on the bench and read a few chapters of my
+Vonnegut in between contemplative gazes at the Brooklyn Bridge and
+[jealous looks?] of [people?] on jet skis (awesome) on the East River (gross).
+
+I start to feel the 
+
+The day after 
 "No what is that?"
 
 "It's this really cool photography showcase down at Brooklyn Bridge Park, they
