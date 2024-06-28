@@ -28,9 +28,9 @@ corner and saw a sign for toilets and when I opened it I
 
 
 <h4 class="article-subheader">We Just Landed!!!"</h4>
-8 hours preceding Jill's unfortunate water closet mixup the [size of the wheels]
+8 hours preceding Jill's unfortunate water closet mixup the 4 1/2 foot tall
 wheels of the Boeing 787 Dreamliner carrying the passengers of Norse Atlantic
-[flight number] touched down at Oslo Gardermoen Airport.
+flight N02 touched down at Oslo Gardermoen Airport.
 
 [text bubble css thing?]
 
@@ -46,12 +46,12 @@ The process for rebooking was startlingly smooth despite the throng of
 frazzled travelers huddled around the SAS customer service booth as I approach.
 My advanced heigh offers me a vantage point to see a smiling SAS customer
 service representative standing next to a computerized tablet perched atop a
-stylized metal _____________.
+stylized metal monolith.
 
 "Our technicians have fixed the problem and the system will be rebooted shortly,
 we will be with you in just a moment"
 
-Just then a Microsoft Windows logo appears amidst a _______ blue background on
+Just then a Microsoft Windows logo appears amidst an azure blue background on
 the tablet.
 
 The society of automated machines whirring about in Kurt Vonnegut's *Player
@@ -59,7 +59,7 @@ Piano* in the front sleeve of my backpack feels very on the nose at this
 moment. 
 
 I press the "Customer Service" button and a slip of paper gurgitates from the
-mouth of the ________.
+mouth of the droid.
 
 **B103**
 
