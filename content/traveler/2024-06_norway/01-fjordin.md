@@ -15,7 +15,7 @@ short_sum: xxxxx
 summary: xxxxx
 
 
-<h4 class="article-subheader">I Just Saw 2</h4>
+<h4 class="article-subheader">I Just Saw 2 Penises</h4>
 "Ok... so Michael said to go out and to the right... I went out and to the right
 and there was no bathroom so I went down one floor and went to the right and
 the signs were so confusing... It said toilets but there were no toilets, I
@@ -271,7 +271,7 @@ some of the most stunning views I've ever seen in my life.
 
 
 We couldn't possibly be going *all the way up there*. It looks an insurmountable
-task. 1,500 more feet to fight gravity.
+task. 1,500 more feet to fight gravity. 100 calories of potential energy.
 
 
 <h4 class="article-subheader">Trains Are So Cool, Part Deux</h4>
