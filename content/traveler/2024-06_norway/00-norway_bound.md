@@ -7,6 +7,7 @@ prev_day: /traveler/2024-06_norway
 next_day: 01-fjordin
 date: 2023-06-16
 post_date: 2024-07-15
+status: draft
 category: Traveler
 subcat: Gallivanting
 photo: xxxxx 60-dog.jpeg

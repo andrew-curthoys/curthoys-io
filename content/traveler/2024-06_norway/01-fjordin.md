@@ -7,6 +7,7 @@ prev_day: /traveler/2023-06_norway/00-norway_bound
 next_day: 02-oslo_redux
 date: 2023-06-22
 post_date: 2024-07-15
+status: draft
 category: Traveler
 subcat: Gallivanting
 photo: xxxxx 60-dog.jpeg
@@ -15,24 +16,45 @@ short_sum: xxxxx
 summary: xxxxx
 
 
-<h4 class="article-subheader">I Just Saw 2 Penises</h4>
+<h4 class="article-subheader">"I Just Saw 2 Penises"</h4>
+Jill comes back to the table at Bryggeriet Gastropub in the heart of Bergen
+looking like she's seen a ghost,
+
 "Ok... so Michael said to go out and to the right... I went out and to the right
-and there was no bathroom so I went down one floor and went to the right and
+and there was no bathroom... so I went down one floor and *then* to the right and
 the signs were so confusing... It said toilets but there were no toilets, I
 tried the two doors there and they were both locked, I walked around the
-corner and saw a sign for toilets and when I opened it I 
+corner and saw a sign for toilets and when I opened it I saw two old guys with
+their penises flopped right out in the open. Why did you tell me to go that way,
+Michael?"
 
-"Why would you trust me? I haven't been to the bathrooms here"
+"Why would you trust me? I've never been here"
 
 "MICHAEL!!!"
 
 
 <h4 class="article-subheader">We Just Landed!!!"</h4>
-8 hours preceding Jill's unfortunate water closet mixup the 4 1/2 foot tall
+8 hours before Jill's unfortunate water closet mixup the 4 1/2 foot tall
 wheels of the Boeing 787 Dreamliner carrying the passengers of Norse Atlantic
 flight N02 touched down at Oslo Gardermoen Airport.
 
-[text bubble css thing?]
+<div class="sms">
+	<div class="chat">
+		<div class="mine messages">
+			<div class="message">
+				Welcome to Norway!!!
+			</div> 
+			<div class="message last">
+				How about you?
+			</div>
+		</div>
+		<div class="yours messages">
+			<div class="message last">
+				Hello, how's it going?
+			</div>
+		</div>
+	</div>
+</div>
 
 Welcome to Norway!!!
 

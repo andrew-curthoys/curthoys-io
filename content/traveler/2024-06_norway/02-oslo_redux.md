@@ -7,6 +7,7 @@ prev_day: /traveler/2023-06_norway/00-norway_bound
 next_day: 02-oslo_redux
 date: 2023-06-22
 post_date: 2024-07-15
+status: draft
 category: Traveler
 subcat: Gallivanting
 photo: xxxxx 60-dog.jpeg
