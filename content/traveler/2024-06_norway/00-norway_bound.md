@@ -7,7 +7,6 @@ prev_day: /traveler/2024-06_norway
 next_day: 01-fjordin
 date: 2023-06-16
 post_date: 2024-07-15
-status: draft
 category: Traveler
 subcat: Gallivanting
 photo: xxxxx 60-dog.jpeg
@@ -29,7 +28,7 @@ no way I run into you two days in a row"
 I ran into Zach yesterday while he was out walking his dog. I
 ran into him today en route to a week in NYC with friends before his
 cousin's wedding in Boston. He lived in New York for 7 years before succumbing
-to the green throated call of the Northern Carolina timberland.
+to the sylvan call of the Northern Carolina timberland.
 
 "I guess it's your lucky day, where are you headed?"
 

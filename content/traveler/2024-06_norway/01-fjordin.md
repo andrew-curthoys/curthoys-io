@@ -7,7 +7,6 @@ prev_day: /traveler/2023-06_norway/00-norway_bound
 next_day: 02-oslo_redux
 date: 2023-06-22
 post_date: 2024-07-15
-status: draft
 category: Traveler
 subcat: Gallivanting
 photo: xxxxx 60-dog.jpeg
@@ -57,9 +56,6 @@ flight N02 touched down at Oslo Gardermoen Airport.
 </div>
 
 Welcome to Norway!!!
-
-[text about landing and going through passport control]
-
 
 
 "Ok they rebooked us on the 4:15"
@@ -162,6 +158,7 @@ plans,
 "I'm meeting Shannon, Jill, and Michael at OSL on Saturday
 
 
+
 During my first night in Norway, Big Tom 
 
 * Cornelius restaurant
@@ -169,6 +166,26 @@ During my first night in Norway, Big Tom
 * Edvard Grieg museum
 
 "Oh! I should add that to the spreadsheet!"
+
+
+
+At a quarter to ten we walk out into the vibrant nighttime sunlight of Bergen.
+It's bedtime but your body does not want oblige. It's simply too bright for
+sleep.
+
+"What time does that railroad close? What is it? Fernilinder? Funrickider?
+Fundickaler?"
+
+"Funicular" 
+
+"Fundickular!"
+
+"Close enough"
+
+"Looks like it's open till midnight if we want to check it out"
+
+"Let's do it!"
+
 
 
 <h4 class="article-subheader">Fjord Fordin'</h4>
@@ -256,17 +273,18 @@ On either side of the wide valley sprawled before us torrents of water cascade
 from their heavenly perch. 
 
 
-The final tunnel before Fl&aring;m streches ______ miles, the third longest
-road tunnel in Norway. Halfway through the tunnel alights with colorful LED
-lights, washing the inside of the tunnel in a rotating series of bright pinks,
+The final tunnel before Fl&aring;m bores 7 miles through the precambrian gneiss
+of the southern Scandinavian Mountains, making it the third longest
+road tunnel in Norway. Halfway through our subterranean journey the tubular
+cavern alights with colorful LEDs, washing the inside of the tunnel in a
+rotating series of bright pinks,
 purples, blues, and reds. It feels like a dance party might break out at any
-moment. As Jill later discovers, the lights were installed to ______________
-drivers, who had the tendency to daydream under the monotonous tube of the
-tunnel.
+moment. As Jill later discovers, the lights were installed to break up the
+monotony of the miles upon miles of gray tunnel walls.
 
 
 <h4 class="article-subheader">Mountain Climbers</h4>
-The trailhead for our hike sits above the town of Aurland, a stone's throw up
+The trailhead for our hike sits above the town of Aurland, a stone's throw down
 the road from Fl&aring;m. As we mosey through town Jill recalls that Aurland has
 a bakery famous for its cinnamon rolls. We stop just on the other side of the
 bridge for some carbs to gear up for the hike.
@@ -288,8 +306,8 @@ mountain. Will the sun stay out? Is it windy up there?
 
 Sufficiently geared up, we hit the trail. The first half mile of the hike takes
 us up a mild grade to the top of a bluff overlooking the *Sognefjord*. If this
-was the extent of the hike I'd be thrilled. Even from this lower station affords
-some of the most stunning views I've ever seen in my life.
+was the extent of the hike I'd be thrilled. From even this lower station I'm
+afforded what is almost certainly the most stunning view I've ever seen in my life.
 
 
 We couldn't possibly be going *all the way up there*. It looks an insurmountable
@@ -299,11 +317,11 @@ task. 1,500 more feet to fight gravity. 100 calories of potential energy.
 <h4 class="article-subheader">Trains Are So Cool, Part Deux</h4>
 The Fl&aring;m Railway has been described as "the most beautiful train journey
 in the world". Starting at Fl&aring;m, a town of 400 residents at the
-southeastern tip of the *Sognefjord*, the railway winds 866 meters (____ ft)
-up the ___________ valley to ______________.
+southeastern tip of the *Sognefjord*, the railway winds 2,841 ft
+up the Halling Valley to Myrdal.
 
 It's soon made clear that we picked the wrong side of the train. Not to say this
-side is bad, it's just all the best bits are out the windows transverse(?) to
+side is bad, it's just all the best bits are out the windows opposite to
 our position. In that station sit two surly septuagenarian women occupying one
 third of the inventory of a 6-seat alcove.
 
