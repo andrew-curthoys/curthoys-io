@@ -161,6 +161,18 @@ however time operates on a different frequency in a car for some reason.
 We enjoy wonderful conversation during the 45 minute drive to S&aelig;tre, with
 beautiful views of the Oslofjord.
 
+"Oh! Did Sondre tell you the good news?"
+
+"I-I don't think so?"
+
+"He proposed to Nora two days ago!"
+
+"What!! No way!! He didn't say a thing!!"
+
+"She said yes"
+
+"Well I had a suspicion - she asked me when Sondre was going to propose when I
+was here last year"
 
 
 We got too nervous and made our own travel luck

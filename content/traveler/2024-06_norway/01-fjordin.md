@@ -313,17 +313,22 @@ afforded what is almost certainly the most stunning view I've ever seen in my li
 We couldn't possibly be going *all the way up there*. It looks an insurmountable
 task. 1,500 more feet to fight gravity. 100 calories of potential energy.
 
+Part around the cliff mountainside
+
 
 <h4 class="article-subheader">Trains Are So Cool, Part Deux</h4>
 The Fl&aring;m Railway has been described as "the most beautiful train journey
 in the world". Starting at Fl&aring;m, a town of 400 residents at the
-southeastern tip of the *Sognefjord*, the railway winds 2,841 ft
-up the Halling Valley to Myrdal.
+southeastern tip of the *Sognefjord*, the railway winds 12.6 miles and 2,841
+vertical feet up the Halling Valley to the cozy town of Myrdal.
 
-It's soon made clear that we picked the wrong side of the train. Not to say this
-side is bad, it's just all the best bits are out the windows opposite to
-our position. In that station sit two surly septuagenarian women occupying one
+As the electric beast begins its skyward journey we quickly realize that we
+picked the wrong side of the train. Not to say this side is bad, it's just all
+the best bits are out the windows across the aisle from our position. In that
+station sit two surly septuagenarian women occupying one
 third of the inventory of a 6-seat alcove.
+
+As the train 
 
 Trains are so cool because you can talk about the steepness of a hill like "18
 in 1" and say things like "rolling stock".
