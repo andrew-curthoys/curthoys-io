@@ -311,10 +311,22 @@ afforded what is almost certainly the most stunning view I've ever seen in my li
 
 
 We couldn't possibly be going *all the way up there*. It looks an insurmountable
-task. 1,500 more feet to fight gravity. 100 calories of potential energy.
+task. 1,500 feet into the azure Norwegian sky, a climb to the top of the spire
+of the Empire state building, a fight against the relentless pull of gravity,
+with every step.
 
-Part around the cliff mountainside
+<p class="block-quote">
+Colossal palisades<br>
+Heaved to the heavens<br>
+Invite the bold<br>
+To explore their lofty kingdom
+</p>
 
+Halfway up we reach a cliff that looms over a narrow footpath wrapping around
+the left side of the craggy mass. At this point all conversation ceases during
+the 50 yard tightrope maneuver, every ounce of concentration devoted to the
+precise placement of every step, grabbing hold to the edge of the cliff like
+Jimmy Stewart in *Vertigo*.
 
 <h4 class="article-subheader">Trains Are So Cool, Part Deux</h4>
 The Fl&aring;m Railway has been described as "the most beautiful train journey
