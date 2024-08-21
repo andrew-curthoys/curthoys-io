@@ -16,7 +16,7 @@ summary: xxxxx
 
 
 <h4 class="article-subheader">"I Just Saw 2 Penises"</h4>
-Jill comes back to the table at Bryggeriet Gastropub in the heart of Bergen
+Jill returns to our table at Bryggeriet Gastropub in the heart of Bergen
 looking like she's seen a ghost,
 
 "Ok... so Michael said to go out and to the right... I went out and to the right
@@ -73,11 +73,11 @@ Just then a Microsoft Windows logo appears amidst an azure blue background on
 the tablet.
 
 The society of automated machines whirring about in Kurt Vonnegut's *Player
-Piano* in the front sleeve of my backpack feels very on the nose at this
+Piano* in the front sleeve of my backpack feels painfully prescient at this
 moment. 
 
-I press the "Customer Service" button and a slip of paper gurgitates from the
-mouth of the contraption.
+I press the lone button on the tablet, labeled "Customer Service", and a slip of
+paper gurgitates from the mouth of the contraption.
 
 **B103**
 
@@ -92,7 +92,7 @@ increment their tally through the upper nineties until it reads **B103**.
 in the customs line. We're not going to be able to make our flight, would it be
 possible to rebook to a later flight?"
 
-I hand my phone with our 3 PM reservation details to the representative.
+I show our reservation details to the representative.
 
 "Ok, there are 4 of you?"
 
@@ -105,10 +105,29 @@ you with?"
 
 "V&aelig;r s&aring; god"
 
+20 minutes later my compatriots are finally released from their temporary
+imprisonment with 2 hours time served under their belt. We share a round of hugs
+and I commiserate with Jill about the monsters that are Shannon & Michael,
+notorious plane sleepers who conked out the second the wheels left the tarmac.
+Jill suffered through the same planesomnia as I, but seems to be in
+much better spirits than I was when I arrived.
 
-<h4 class="article-subheader">Bergen</h4>
-I'm restuffing my belongings into my knapsack post-security at Oslo Gardermoen
-Airport when Jill looks at the big board for our gate to Bergen.
+"Where's the SAS check in"
+
+"Section 3 - I've had plenty of time to wander around the airport while y'all
+were in the customs line. I'm pretty much an expert on the Oslo Gardermoen
+domestic departures terminal"
+
+"Ok expert, we have a plane to catch"
+
+The entry to the security checkpoint is guarded by an automated glass gate that
+swings open when you scan your boarding pass. We waltz through the gate, plop
+our bags on the conveyor and breeze through the metal detector. Not once were
+we required to show ID during the whole process. Very trusting people, the
+Scandinavians.
+
+As I'm restuffing my belongings into my knapsack Jill peeks at the big board for
+our gate number to Bergen.
 
 "Oh, looks like our original flight was canceled"
 
@@ -132,6 +151,9 @@ fiasco benefited us. We got seats all in the same row before anybody else had to
 scramble for 
 
 That's the thing about travel mercies. They are mysterious.
+
+
+<h4 class="article-subheader">Bergen</h4>
 
 Three hours later we are rambling through the streets of Bergen, Norway in a
 rented Toyota Corolla crossover, unsure of what any of the street signs mean,
@@ -311,9 +333,9 @@ afforded what is almost certainly the most stunning view I've ever seen in my li
 
 
 We couldn't possibly be going *all the way up there*. It looks an insurmountable
-task. 1,500 feet into the azure Norwegian sky, a climb to the top of the spire
-of the Empire state building, a fight against the relentless pull of gravity,
-with every step.
+task. 1,500 feet into the azure Norwegian sky, the equivalent of climbing to the
+tip of the spire of the Empire state building, each step a fight against the
+relentless tug of gravity.
 
 <p class="block-quote">
 Colossal palisades<br>
@@ -322,15 +344,45 @@ Invite the bold<br>
 To explore their lofty kingdom
 </p>
 
-Halfway up we reach a cliff that looms over a narrow footpath wrapping around
-the left side of the craggy mass. At this point all conversation ceases during
-the 50 yard tightrope maneuver, every ounce of concentration devoted to the
+Halfway up our heavenly trek the trail winnows down to a slender footpath
+perched atop a cliff that wraps around the left side of the craggy mass. At this
+point all conversation ceases while our expedition navigates the 50 yard
+tightrope maneuver, every ounce of concentration devoted to the
 precise placement of every step, grabbing hold to the edge of the cliff like
 Jimmy Stewart in *Vertigo*.
 
+The final ascent tracks the moderate pitch of the mountain's shoulder. Patches
+of small, vibrant flowers line the path, explosions of yellows, reds, and pinks
+spackle the mottled green of the dewy moss. Small fields of snow luxuriate in
+shady alcoves, stubbornly clinging to their crystalline structure.
+
+The plateaued summit of Mt Prest  waterlogged with the winter's snowpack.
+Squishy slosh of the mountaintop swamp.
+
+<p class="block-quote">
+swamp on the roof of the world
+elysian sanctuary
+</p>
+
+A cairn stands erect at the R&oslash;yrgrind viewpoint, standing guard over the
+Aurlandsfjord. We snap a few photos at the monument before signing the logbook.
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01-hike_logbook.JPEG" alt="Soggy Loggy">
+  <figcaption class="figure-caption">We did it</figcaption>
+</figure>
+
 <h4 class="article-subheader">Trains Are So Cool, Part Deux</h4>
-The Fl&aring;m Railway has been described as "the most beautiful train journey
-in the world". Starting at Fl&aring;m, a town of 400 residents at the
+After our cruise we have a few hours to kill before our 6:30 PM reservation on
+the Fl&aring;m Railway. Jill found a reasonable hike that we can walk to right
+from town so we strap on our hikin' boots and set off southbound from the town
+center. We stroll along the Nedre Brekkevegan in a valley flanked by towering
+tree-covered cliffsbestride bucolic farms in a
+valley flanked by
+
+
+The 12-mile railway has been described as "the most
+beautiful train journey in the world". Starting at Fl&aring;m, a town of 400 residents at the
 southeastern tip of the *Sognefjord*, the railway winds 12.6 miles and 2,841
 vertical feet up the Halling Valley to the cozy town of Myrdal.
 
