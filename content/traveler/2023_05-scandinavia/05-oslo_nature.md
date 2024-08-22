@@ -26,6 +26,7 @@ in the most benevolent way possible, ensnarls the city. Every which way you wand
 you'll find yourself within a short amble of forests, mountains, lakes,
 rivers, or the great Oslofjord herself.
 
+<span id="fjord"></span>
 While not a *technically* a fjord in the geologic sense, the Oslofjord falls
 under the loosely defined Norwegian concept of a *fjord*. If you go by the
 definition offered by Springer Reference's

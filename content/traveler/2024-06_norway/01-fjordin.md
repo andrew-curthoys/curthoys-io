@@ -306,8 +306,31 @@ monotony of the miles upon miles of gray tunnel walls.
 
 
 <h4 class="article-subheader">Mountain Climbers</h4>
+5
+Heaved to the heavens
+soaring palisades
+
+7
+Explore their lofty kingdom
+swamp on the roof of the world
+
+
 The trailhead for our hike sits above the town of Aurland, a stone's throw down
-the road from Fl&aring;m. As we mosey through town Jill recalls that Aurland has
+the road from Fl&aring;m. As our Toyota moseys through town Jill recognizes a
+landmark from her research,
+
+"Oh! Marianne Bakery! I remember reading about this place, they are supposed to
+have amazing cinnamon rolls!"
+
+In silent unison the entire car unanimously approves Jill's motion to adjourn
+for cinnamon rolls and Michael smoothly pulls into a parking space across the
+street from the bakery. 10 minutes later we are back on the road scarfing down
+a round of spiced pastries that exceed even Jill's prodigious expectations. 
+Unlike the gooey, hyperglycemic masonry bricks that we're accustomed to,
+the *Kanelboller* dispense with the goo and  all your nutmeg, cardamon, allspice,
+and, of course, the namesake cinnamon.
+
+Aurland has
 a bakery famous for its cinnamon rolls. We stop just on the other side of the
 bridge for some carbs to gear up for the hike.
 
@@ -371,6 +394,16 @@ Aurlandsfjord. We snap a few photos at the monument before signing the logbook.
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01-hike_logbook.JPEG" alt="Soggy Loggy">
   <figcaption class="figure-caption">We did it</figcaption>
 </figure>
+
+While gazing out over the 
+<a href="/traveler/2023_05-scandinavia/05-oslo_nature.html?id=fjord" target="_blank" rel="noopener noreferrer">glacially eroded sea inlet trough</a>
+the weather starts to change. The scattered clouds start to scatter together;
+the fjord evaporates behind the veil of a misty fog. Our lofty kingdom
+enveloped by a damp grey specter.
+
+And just as quickly as it came it went, the sharp  its only memory the wispy tendrils
+
+
 
 <h4 class="article-subheader">Trains Are So Cool, Part Deux</h4>
 After our cruise we have a few hours to kill before our 6:30 PM reservation on
