@@ -61,29 +61,35 @@ Welcome to Norway!!!
 "Ok they rebooked us on the 4:15"
 
 The process for rebooking was startlingly smooth despite the throng of
-frazzled travelers huddled around the SAS customer service booth as I approach.
-My advanced heigh offers me a vantage point to see a smiling SAS customer
-service representative standing next to a computerized tablet perched atop a
-stylized metal monolith.
+frazzled travelers huddled around the SAS customer service booth. As I approach
+the scrum my advanced height affords a favorable vantage to observe the object
+of the collective's worship. A stylized aluminum monolith brandished with the
+italic uppercase blue <span style="color:#2B3087; font-style:italic; font-weight:bold;">SAS</span> logo bolsters a Microsoft Surface tablet in the
+middle stages of a hard reset.
+
+Beside the apparatus stands a SAS customer service representative in a smart,
+light blue skirt suit smiling beneath her tight ponytail.
 
 "Our technicians have fixed the problem and the system will be rebooted shortly,
 we will be with you in just a moment"
 
-Just then a Microsoft Windows logo appears amidst an azure blue background on
-the tablet.
-
-The society of automated machines whirring about in Kurt Vonnegut's *Player
-Piano* in the front sleeve of my backpack feels painfully prescient at this
-moment. 
-
-I press the lone button on the tablet, labeled "Customer Service", and a slip of
-paper gurgitates from the mouth of the contraption.
+Just then a Microsoft Windows logo appears amidst a blue digital background.
+A few seconds later the logo dissolves to reveal a customer service help screen,
+a lone button labeled "Customer Service" floating atop a sea of light grey that
+can only be described as *Windows 95-esque*. Once it's been determined I've
+waited the requisite amount of time based on my arrival time to the queuemob I
+press the button and a slip of paper gurgitates from the mouth of the contraption.
 
 **B103**
 
-Scandinavian Airlines is employing a device with more computing power than
+I pause for just a second to revel in the absurdity of this moment. Scandinavian
+Airlines is employing a device with more computing power than
 existed on earth when we put a man on the moon to serve the same function as a
 roll of perforated paper at a deli counter.
+
+The society of automated machines whirring about in Kurt Vonnegut's 1952 novel
+*Player Piano* in the front sleeve of my backpack feels painfully prescient at this
+moment. 
 
 I wait about 5 minutes, watching the LED ticker above the booths smoothly
 increment their tally through the upper nineties until it reads **B103**.
