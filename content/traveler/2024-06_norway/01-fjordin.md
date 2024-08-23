@@ -17,11 +17,15 @@ summary: xxxxx
 
 <h4 class="article-subheader">"I Just Saw 2 Penises"</h4>
 Jill returns to our table at Bryggeriet Gastropub in the heart of Bergen
-looking like she's seen a ghost,
+looking like she's seen a ghost
 
-"Ok... so Michael said to go out and to the right... I went out and to the right
-and there was no bathroom... so I went down one floor and *then* to the right and
-the signs were so confusing... It said toilets but there were no toilets, I
+"Ok... so Michael said the bathrooms were out and to the right so I went out and
+to the right... and there was no bathroom...
+
+So I went down one floor and *then* to the right and
+the signs were so confusing...
+
+It said toilets but there were no toilets, I
 tried the two doors there and they were both locked, I walked around the
 corner and saw a sign for toilets and when I opened it I saw two old guys with
 their penises flopped right out in the open. Why did you tell me to go that way,
@@ -39,24 +43,39 @@ flight N02 touched down at Oslo Gardermoen Airport.
 
 <div class="sms">
 	<div class="chat">
-		<div class="mine messages">
+		<div class="yours messages">
 			<div class="message">
-				Welcome to Norway!!!
+				We made it!!!!!!!!
 			</div> 
 			<div class="message last">
-				How about you?
-			</div>
+				Yay yay yay yay!!!!
+			</div> 
 		</div>
-		<div class="yours messages">
+		<div class="mine messages">
 			<div class="message last">
-				Hello, how's it going?
+				Welcome to Norway!!! 
 			</div>
 		</div>
 	</div>
 </div>
 
-Welcome to Norway!!!
-
+<div class="sms">
+	<div class="chat">
+		<div class="yours messages">
+			<div class="message">
+				Are you at the airport? We just got in line for passport control
+			</div> 
+			<div class="message last">
+				Yay yay yay yay!!!!
+			</div> 
+		</div>
+		<div class="mine messages">
+			<div class="message last">
+				Welcome to Norway!!! 
+			</div>
+		</div>
+	</div>
+</div>
 
 "Ok they rebooked us on the 4:15"
 
@@ -164,7 +183,7 @@ That's the thing about travel mercies. They are mysterious.
 Three hours later we are rambling through the streets of Bergen, Norway in a
 rented Toyota Corolla crossover, unsure of what any of the street signs mean,
 
-"Am I going the wrong way? What do these signs with a red X going through them
+"Are we going the wrong way? What do these signs with a red X going through them
 mean? I feel like this is wrong but the GPS says to go this way. I think?"
 
 After a sinuous path through the streets of old Bergen we arrive at our airbnb.
@@ -175,6 +194,7 @@ After a sinuous path through the streets of old Bergen we arrive at our airbnb.
 And that's how Jill was introduced to the urinal trough at 
 an incredible purveyor of food and beer and an even better purveyor of
 efficient effluent expulsion.
+
 
 <h4 class="article-subheader">Trains Are So Cool</h4>
 I have been on a couple trips with Jill. Jill is a fabulous trip companion. Jill
