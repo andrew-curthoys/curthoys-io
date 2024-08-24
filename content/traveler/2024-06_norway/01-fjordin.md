@@ -37,7 +37,7 @@ Michael?"
 
 
 <h4 class="article-subheader">We Just Landed!!!"</h4>
-8 hours before Jill's unfortunate water closet mixup the 4 1/2 foot tall
+8 hours before Jill's unfortunate water closet mixup the 4.5 ft diameter
 wheels of the Boeing 787 Dreamliner carrying the passengers of Norse Atlantic
 flight N02 touched down at Oslo Gardermoen Airport.
 
@@ -63,10 +63,10 @@ flight N02 touched down at Oslo Gardermoen Airport.
 	<div class="chat">
 		<div class="yours messages">
 			<div class="message">
-				Are you at the airport? We just got in line for passport control
+				Are you at the airport? We just got in the passport line
 			</div> 
 			<div class="message last">
-				Yay yay yay yay!!!!
+				Yeah I just got here a few 
 			</div> 
 		</div>
 		<div class="mine messages">
@@ -77,17 +77,28 @@ flight N02 touched down at Oslo Gardermoen Airport.
 	</div>
 </div>
 
-"Ok they rebooked us on the 4:15"
 
-The process for rebooking was startlingly smooth despite the throng of
-frazzled travelers huddled around the SAS customer service booth. As I approach
-the scrum my advanced height affords a favorable vantage to observe the object
-of the collective's worship. A stylized aluminum monolith brandished with the
-italic uppercase blue <span style="color:#2B3087; font-style:italic; font-weight:bold;">SAS</span> logo bolsters a Microsoft Surface tablet in the
-middle stages of a hard reset.
+The process for rebooking was startlingly smooth; my initiation to the process,
+however, was less than encouraging. As I ascended the escalator to the
+departures gallery I was confronted with the maelstrom of humanity that tends
+to agglomerate at the transportation chokepoints of our global economy. Lines
+snaking, nerves fraying, masses huddling. I wove my way through crowds whose
+faces have been locked in a state of anguish so long they've acquired
+an air of acceptance. *I live at this airport now* energy is a real buzzkill.
 
-Beside the apparatus stands a SAS customer service representative in a smart,
-light blue skirt suit smiling beneath her tight ponytail.
+So I was especially dismayed to trundle upon the SAS customer service booth
+thronged with a horde of frazzled travelers. As I hesitantly approached
+the scrum, cautious to hide my cheery demeanor afforded by a few nights of good
+sleep and the imminent reunion with my sweetie and some dear friends, my
+advanced height afforded a favorable vantage to observe the focus of the
+collective's attention. A stylized aluminum monolith brandished with the
+italic uppercase blue
+<span style="color:#2B3087; font-style:italic; font-weight:bold;">SAS</span>
+logo bolstered a Microsoft Surface tablet in the middle stages of a hard reset.
+
+Beside the apparatus stood a SAS customer service representative in a smart,
+light blue skirt suit with a tight ponytail and strained smile that suggests,
+"Don't let this smile distract from the fact that all of you are morons"
 
 "Our technicians have fixed the problem and the system will be rebooted shortly,
 we will be with you in just a moment"
