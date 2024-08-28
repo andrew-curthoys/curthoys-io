@@ -98,7 +98,7 @@ logo bolstered a Microsoft Surface tablet in the middle stages of a hard reset.
 
 Beside the apparatus stood a SAS customer service representative in a smart,
 light blue skirt suit with a tight ponytail and strained smile that suggests,
-"Don't let this smile distract from the fact that all of you are morons"
+*don't let this smile distract from the fact that all of you are morons*
 
 "Our technicians have fixed the problem and the system will be rebooted shortly,
 we will be with you in just a moment"
@@ -112,7 +112,7 @@ press the button and a slip of paper gurgitates from the mouth of the contraptio
 
 **B103**
 
-I pause for just a second to revel in the absurdity of this moment. Scandinavian
+I pause for a moment to revel in the absurdity of this moment. Scandinavian
 Airlines is employing a device with more computing power than
 existed on earth when we put a man on the moon to serve the same function as a
 roll of perforated paper at a deli counter.
@@ -241,10 +241,24 @@ Fundickaler?"
 
 "Close enough"
 
-"Looks like it's open till midnight if we want to check it out"
+"Looks like it's open till midnight if we want to check it out. I think everyone
+knows my answer, how do y'all feel about it?"
 
 "Let's do it!"
 
+
+
+
+<figure class="figure container">
+  <object type="image/svg+xml" data="/theme/images/traveler/2024-06_norway/01-bergen_funicular.svg" width="100%">
+    Your browser does not support SVG, but it was a pretty cool animation of some
+    cool trains.
+  </object>
+  <figcaption class="figure-caption">
+    Click the cartoon to watch an animation how they work! Ours was a 2 rail
+    design as depicted on the right.
+  </figcaption>
+</figure>
 
 
 <h4 class="article-subheader">Fjord Fordin'</h4>
