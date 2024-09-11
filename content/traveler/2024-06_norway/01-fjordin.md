@@ -16,8 +16,7 @@ summary: xxxxx
 
 
 <h4 class="article-subheader">"I Just Saw 2 Penises"</h4>
-Jill returns to our table at Bryggeriet Gastropub in the heart of Bergen
-looking like she's seen a ghost
+White as a ghost, Jill sits down to tell the tale of her downstairs mixup,
 
 "Ok... so Michael said the bathrooms were out and to the right so I went out and
 to the right... and there was no bathroom...
@@ -37,8 +36,8 @@ Michael?"
 
 
 <h4 class="article-subheader">We Just Landed!!!"</h4>
-8 hours before Jill's unfortunate water closet mixup the 4.5 ft diameter
-wheels of the Boeing 787 Dreamliner carrying the passengers of Norse Atlantic
+8 hours ago the 4.5 ft diameter
+wheels of a Boeing 787 Dreamliner carrying the passengers of Norse Atlantic
 flight N02 touched down at Oslo Gardermoen Airport.
 
 <div class="sms">
@@ -52,12 +51,31 @@ flight N02 touched down at Oslo Gardermoen Airport.
 			</div> 
 		</div>
 		<div class="mine messages">
-			<div class="message last">
-				Welcome to Norway!!! 
+			<div class="message">
+				Welcome to Norway!!! &#x1F1F3;&#x1F1F4; &#x1F973;
 			</div>
+			<div class="message">
+				It's all so very exciting &#x1F633;
+			</div>
+			<div class="message last">
+				How do you feel?
+			</div>
+		</div>
+		<div class="yours messages">
+			<div class="message last">
+				I feel good! I slept the whole entire flight. Like dead to the world
+				slept &#x1F634; &#x1F634;
+			</div>
+		</div>
+		<div class="mine messages">
+			<div class="message last">
+				Omg that's amazing
+			</div> 
 		</div>
 	</div>
 </div>
+
+<br>
 
 <div class="sms">
 	<div class="chat">
@@ -86,7 +104,7 @@ snaking, nerves fraying, masses huddling. I wove my way through crowds whose
 faces have been locked in a state of anguish so long they've acquired
 an air of acceptance. *I live at this airport now* energy is a real buzzkill.
 
-So I was especially dismayed to trundle upon the SAS customer service booth
+So I was especially dismayed to perambulate upon the SAS customer service booth
 thronged with a horde of frazzled travelers. As I hesitantly approached
 the scrum, cautious to hide my cheery demeanor afforded by a few nights of good
 sleep and the imminent reunion with my sweetie and some dear friends, my
@@ -198,37 +216,52 @@ rented Toyota Corolla crossover, unsure of what any of the street signs mean,
 mean? I feel like this is wrong but the GPS says to go this way. I think?"
 
 After a sinuous path through the streets of old Bergen we arrive at our airbnb.
+We drop our bags and trundle down to the city center. We walk past
+*Bryggen* (Norwegian for "the dock"), a series of shops, museums, restaurants,
+and pubs lining the east side of V&aring;gen harbor dating back to the 11th
+century.
 
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01-bergen_bryggen.jpeg" alt="Bryggen">
+  <figcaption class="figure-caption">Like something out of a fairytale</figcaption>
+</figure>
 
+All this traveling has worked up an appetite so we duck into Bryggeriet Gastropub
+at the southernmost terminus of the harbor. And this is where Jill is introduced
+to the *urinal trough*, the most efficient expulsion of effluent in civilized
+society.
 
-
-And that's how Jill was introduced to the urinal trough at 
-an incredible purveyor of food and beer and an even better purveyor of
-efficient effluent expulsion.
+*Supper*
 
 
 <h4 class="article-subheader">Trains Are So Cool</h4>
-I have been on a couple trips with Jill. Jill is a fabulous trip companion. Jill
+I have been on a few trips with Jill. Jill is a fabulous trip companion. Jill
 makes spreadsheets of trip plans and activities. We love Jill.
 
 Over rooftop dinner with Big Tom on my first night in Norway I tell him our
 plans,
 
-"I'm meeting Shannon, Jill, and Michael at OSL on Saturday
+"I'm meeting Shannon, Jill, and Michael at OSL on Saturday then flying out to
+Bergen. We are going to stay in Bergen that night then rent a car the next day
+to drive out to the fjords - I think we're staying a couple nights in
+a place called Fl&aring;m?"
 
+"Oh yes, I know Fl&aring;m - it's wonderful, you're going to love it there."
 
+"Fantastic, I didn't plan any of this so I'm just along for the ride."
 
-During my first night in Norway, Big Tom 
+"Well if you have time while you're in Bergen I would recommend the funicular
+train that takes you to the top of the mountain in the middle of the city."
 
-* Cornelius restaurant
-* Funicular train
-* Edvard Grieg museum
+"Oh! I'll add that to the spreadsheet!"
 
-"Oh! I should add that to the spreadsheet!"
+"The spreadsheet?"
 
+"Yeah, our friend Jill made a spreadsheet for the trip with all the plans and
+ideas. I'm definitely adding that because I love funiculars!"
 
-
-At a quarter to ten we walk out into the vibrant nighttime sunlight of Bergen.
+Back in Bergen, after the conclusion of supper, we walk out into the vibrant
+nighttime sunlight of Bergen at quarter to ten.
 It's bedtime but your body does not want oblige. It's simply too bright for
 sleep.
 
@@ -241,13 +274,11 @@ Fundickaler?"
 
 "Close enough"
 
-"Looks like it's open till midnight if we want to check it out. I think everyone
-knows my answer, how do y'all feel about it?"
+"Looks like it's open till midnight, what do y'all think?"
 
 "Let's do it!"
 
-
-
+The 
 
 <figure class="figure container">
   <object type="image/svg+xml" data="/theme/images/traveler/2024-06_norway/01-bergen_funicular.svg" width="100%">
@@ -260,13 +291,20 @@ knows my answer, how do y'all feel about it?"
   </figcaption>
 </figure>
 
+Atop the train we venture out onto a multi-level promenade overlooking the city.
+The panoramic vista outstretched before us stretches our credulity.
+
+Soaking in the experience
+
+In our meanderings we happen upon a small building with a 
+
 
 <h4 class="article-subheader">Fjord Fordin'</h4>
 Our plan for the day following our stay in Bergen involves a hike. That's about
 the extent of my knowledge of the plans, I'm just along for the ride. Thankfully
 I brought hiking boots for just this occasion.
 
-We mosey about after our late night enjoying the midnight sun and trundle onto
+We mosey about after our late night enjoying the midnight sun and spill onto
 the streets of Bergen just before checkout time. We make our way to G&oslash;dt
 Br&oslash;d for some breakfast and coffee. Seeing as it's nearly noon our
 breakfast consists of deli sandwiches hand crafted to order by perhaps the
@@ -298,7 +336,7 @@ between the myriad tunnels (we drove through _____ tunnels along the way)
 As we approach the eastern flank of the *Sognefjord* the rain slowly begins to
 lift and we catch our first glimpses of the majesty of the fjords.
 
-Steep walled canyons flanking placid emerald wa-
+Our jaws slack agape 'neath steep walled canyons flanking placid emerald wa-
 
 *TUNNEL*
 *TUNNEL*
@@ -332,12 +370,12 @@ moss; trees thriving on the sides of cli-
 -ffs; 
 
 Sitting dutifully in the driver's seat, Michael is the only occupant of our
-coach looking straight ahead. Despite our fixed port-side gazes, Shannon, Jill,
-and I can almost assuredly predict when a tunnel is approaching - once Shannon
+motor coach looking straight ahead. Despite our fixed port-side gazes, Jill
+and I can almost assuredly predict an approaching tunnel - if Shannon
 starts to take a video a tunnel is surely soon to follow.
 
-As we begin the final descent to our destination our red Toyota Corolla cross
-emerges from a tunnel to a valley that draws our gaze frontward.
+As our red Toyota Corolla Cross begins its final descent to our destination 
+the crimson steed emerges from a tunnel to a valley that draws our gaze frontward.
 
 "This must be the Valley of the Waterfalls I read about," Jill declares, the
 only one of us who has done advanced scouting of the area.
@@ -373,17 +411,13 @@ landmark from her research,
 "Oh! Marianne Bakery! I remember reading about this place, they are supposed to
 have amazing cinnamon rolls!"
 
-In silent unison the entire car unanimously approves Jill's motion to adjourn
+In silent unison the entire car approves Jill's motion to adjourn
 for cinnamon rolls and Michael smoothly pulls into a parking space across the
 street from the bakery. 10 minutes later we are back on the road scarfing down
 a round of spiced pastries that exceed even Jill's prodigious expectations. 
-Unlike the gooey, hyperglycemic masonry bricks that we're accustomed to,
-the *Kanelboller* dispense with the goo and  all your nutmeg, cardamon, allspice,
-and, of course, the namesake cinnamon.
-
-Aurland has
-a bakery famous for its cinnamon rolls. We stop just on the other side of the
-bridge for some carbs to gear up for the hike.
+Unlike the gooey, hyperglycemic blobs of masonry paste that we're accustomed to,
+the *Kanelboller* dispense with the goo and go all in on nutmeg, cardamon,
+allspice, and, of course, the namesake cinnamon.
 
 The drive to the trailhead is up a one-lane switchback road overlooking Aurland.
 And when I say one-lane I mean *ONE* lane. Uphill and downhill traffic must
@@ -403,7 +437,11 @@ mountain. Will the sun stay out? Is it windy up there?
 Sufficiently geared up, we hit the trail. The first half mile of the hike takes
 us up a mild grade to the top of a bluff overlooking the *Sognefjord*. If this
 was the extent of the hike I'd be thrilled. From even this lower station I'm
-afforded what is almost certainly the most stunning view I've ever seen in my life.
+afforded what is almost certainly the most stunning view I've ever seen in my
+life.
+
+
+While soaking in the surroundings I crane my neck up the face of a massive
 
 
 We couldn't possibly be going *all the way up there*. It looks an insurmountable
