@@ -238,12 +238,12 @@ society.
 I have been on a few trips with Jill. Jill is a fabulous trip companion. Jill
 makes spreadsheets of trip plans and activities. We love Jill.
 
-Over rooftop dinner with Big Tom on my first night in Norway I tell him our
-plans,
+I told Big Tom about Jill's predilection for planning over supper on the rooftop
+my first night in Norway,
 
-"I'm meeting Shannon, Jill, and Michael at OSL on Saturday then flying out to
-Bergen. We are going to stay in Bergen that night then rent a car the next day
-to drive out to the fjords - I think we're staying a couple nights in
+"I'm meeting Shannon, Jill, and Michael at the airport on Saturday then flyin
+out to Bergen. We're going to stay in Bergen that night then rent a car the next
+day to drive out to the fjords - I think we're staying a couple nights in
 a place called Fl&aring;m?"
 
 "Oh yes, I know Fl&aring;m - it's wonderful, you're going to love it there."
@@ -258,12 +258,16 @@ train that takes you to the top of the mountain in the middle of the city."
 "The spreadsheet?"
 
 "Yeah, our friend Jill made a spreadsheet for the trip with all the plans and
-ideas. I'm definitely adding that because I love funiculars!"
+ideas. I'm definitely adding that! I love funiculars!"
 
-Back in Bergen, after the conclusion of supper, we walk out into the vibrant
-nighttime sunlight of Bergen at quarter to ten.
-It's bedtime but your body does not want oblige. It's simply too bright for
-sleep.
+Big Tom, knowing me, only smiles with an *I'm sure you do* smirk. Any normal
+person he'd be working through the F.A.S.T. checklist of stroke symptoms.
+*I love funiculars*. What a weirdo.
+
+Anyways, back in Bergen, we settle up at the Gastropub and walk out into the
+vibrant nighttime sunlight. It's quarter to ten. Around when you might expect
+evening drowsiness to ensue. But your body is not the least bit somnolent.
+It's simply too bright for sleep.
 
 "What time does that railroad close? What is it? Fernilinder? Funrickider?
 Fundickaler?"
@@ -274,11 +278,18 @@ Fundickaler?"
 
 "Close enough"
 
-"Looks like it's open till midnight, what do y'all think?"
+"Google says it's open till midnight, what do y'all think?"
 
 "Let's do it!"
 
-The 
+The Fl&oslash;ibanen is a 2,760 ft funicular railway in the center of Bergen
+that shepherds over a million passengers a year one thousand feet into the sky.
+The trains run every half hour and as luck would have it the next car leaves
+in 3 minutes. Typically this may cause a small degree of anxiety but we're in
+Scandinavia and the efficiency with which every transaction occurs is
+unrivaled. I click the Union Jack for English and a few taps later we have our
+entry vouchers. Once I saw the price I decided to purchase all vouchers for the
+group lest they see the cost and demur against the inclined railway adventure.
 
 <figure class="figure container">
   <object type="image/svg+xml" data="/theme/images/traveler/2024-06_norway/01-bergen_funicular.svg" width="100%">

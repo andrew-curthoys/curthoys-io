@@ -69,7 +69,7 @@ I take a deep breath, map my line, and shred. I get to the lift at 2:55 and my l
 
 I get to Cloudchaser at 3:15, which closes at 3:30. Looks like my last ride up the Chaser. That ain’t no problem, I still haven’t ridden the trails off the Skyliner lift, the only non-bunny hill lift I haven’t hit. I cut across to that area and cruise down some groomies to the bottom. Back up and the end of the day is nigh. I make my way back over to the base of the Sunrise Lift and look at my SkiTracks app. 29,917 ft of vertical. Fuck it, let’s get to 30k. It’s 3:40 and I get my ass on the Sunrise chair for one more run.
 
-<h4 class="article-subheader">Grateful</h4>
+<h4 class="article-subheader" id="grateful">Grateful</h4>
 
 As I get off the lift the song I was listening to ends and fades into Ripple.
 
