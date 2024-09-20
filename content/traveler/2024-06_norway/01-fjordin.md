@@ -14,6 +14,7 @@ activity: 2024 Norwegian Sk&oslash;yestreker
 short_sum: xxxxx
 summary: xxxxx
 
+{% import 'macros.html' as m %}
 
 <h4 class="article-subheader">"I Just Saw 2 Penises"</h4>
 White as a ghost, Jill sits down to tell the tale of her downstairs mixup,
@@ -330,65 +331,80 @@ in our eyes.
 
 "We should go get another refill right?"
 
-As Shannon is standing at the counter waiting to receive our illicit java a
-woman in front of her in line mistakes Shannon's modicum of hap for a hapless
+While Shannon is waiting in line for our illicit java a middle-aged woman in a
+plaid rain jacket mistakes Shannon's hap modesty for a hapless
 American and flags down the barista. "Can you give this American a refill when
-you finish ringing me up" she presumably says in Norwegian, turns and smiles at
-Shannon.
+you finish ringing me up" she presumably says in Norwegian and turns to Shannon
+with a tight smile Shannon bordering on condescension,
 
 "She will help you with the refill in just a moment"
 
-Once satisfied with brekky we walk back to the car in the rain. From all accounts
-this seems to be the default weather pattern in Bergen, sitting directly in the
+{{ m.divider() }}
+
+Sated and over caffeinated, we walk back to the car in the rain. From all accounts
+this seems to be the default weather pattern in Bergen. sitting directly in the
 path of moist air from the gulf stream. The rain holds for the first two hours
 of the three hour drive to Fl&aring;m, blanketing our view of the fjords
-between the myriad tunnels (we drove through _____ tunnels along the way)
+between the myriad tunnels (more than 30 along the route)
 
 As we approach the eastern flank of the *Sognefjord* the rain slowly begins to
 lift and we catch our first glimpses of the majesty of the fjords.
 
 Our jaws slack agape 'neath steep walled canyons flanking placid emerald wa-
 
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
+<div class="text-center mb-2 fst-italic">
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+</div>
 
--ters; rocky outcrops [angled beds jutting into the air]
+-ters
 
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
+Rocky outcrops reaching their craggy promontories to the sky
 
-lush carpets of trees as far as the eye can see; mountain crests covered in
-moss; trees thriving on the sides of cli-
+Lush carpets of tr-
 
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
-*TUNNEL*
+<div class="text-center mb-2 fst-italic">
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+</div>
 
--ffs; 
+-ees as far as the eye can see
+
+Mountain crests covered in moss
+
+Waterfalls tracing magnificent arcs from the tops of cli-
+
+<div class="text-center mb-2 fst-italic">
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+TUNNEL<br>
+</div>
+
+-ffs
 
 Sitting dutifully in the driver's seat, Michael is the only occupant of our
 motor coach looking straight ahead. Despite our fixed port-side gazes, Jill
-and I can almost assuredly predict an approaching tunnel - if Shannon
-starts to take a video a tunnel is surely soon to follow.
+and I can almost assuredly predict an approaching tunnel: every time Shannon
+starts a video we're inevitably seconds away from a tunnel.
 
 As our red Toyota Corolla Cross begins its final descent to our destination 
 the crimson steed emerges from a tunnel to a valley that draws our gaze frontward.
 
-"This must be the Valley of the Waterfalls I read about," Jill declares, the
+"This must be the *Valley of the Waterfalls* I read about," Jill declares, the
 only one of us who has done advanced scouting of the area.
 
 On either side of the wide valley sprawled before us torrents of water cascade
