@@ -271,20 +271,25 @@ society.
 I have been on a few trips with Jill. Jill is a fabulous trip companion. Jill
 makes spreadsheets of trip plans and activities. We love Jill.
 
-I told Big Tom about Jill's predilection for planning over supper on the rooftop
-my first night in Norway,
+On my first night in Norway I told Big Tom about Jill's predilection for
+planning over supper on the rooftop,
 
-"I'm meeting Shannon, Jill, and Michael at the airport on Saturday then flyin
-out to Bergen. We're going to stay in Bergen that night then rent a car the next
-day to drive out to the fjords - I think we're staying a couple nights in
+"I'm meeting Shannon, Jill, and Michael at the airport on Saturday then flying
+directly to Bergen. We're going to stay that night in Bergen then rent a car to drive
+out to the fjords - I think we're staying a couple nights in
 a place called Fl&aring;m?"
 
 "Oh yes, I know Fl&aring;m - it's wonderful, you're going to love it there."
 
-"Fantastic, I didn't plan any of this so I'm just along for the ride."
+"Amazing! I didn't plan any of this so I'm just along for the ride."
 
-"Well if you have time while you're in Bergen I would recommend the funicular
-train that takes you to the top of the mountain in the middle of the city."
+"If you have time in Bergen you should take the railway, how do you say it in
+English? It goes up the mountain with the cable"
+
+"Funicular?"
+
+"Yes! The funicular! You should take the funicular, you get great views of
+the city up on the mountain."
 
 "Oh! I'll add that to the spreadsheet!"
 
@@ -293,13 +298,11 @@ train that takes you to the top of the mountain in the middle of the city."
 "Yeah, our friend Jill made a spreadsheet for the trip with all the plans and
 ideas. I'm definitely adding that! I love funiculars!"
 
-Big Tom, knowing me, only smiles with an *I'm sure you do* smirk. Any normal
-person he'd be working through the F.A.S.T. checklist of stroke symptoms.
 *I love funiculars*. What a weirdo.
 
 Anyways, back in Bergen, we settle up at the Gastropub and walk out into the
 vibrant nighttime sunlight. It's quarter to ten. Around when you might expect
-evening drowsiness to ensue. But your body is not the least bit somnolent.
+evening drowsiness to ensue. But we feel not the least bit somnolent.
 It's simply too bright for sleep.
 
 "What time does that railroad close? What is it? Fernilinder? Funrickider?
@@ -320,9 +323,15 @@ that shepherds over a million passengers a year one thousand feet into the sky.
 The trains run every half hour and as luck would have it the next car leaves
 in 3 minutes. Typically this may cause a small degree of anxiety but we're in
 Scandinavia and the efficiency with which every transaction occurs is
-unrivaled. I click the Union Jack for English and a few taps later we have our
-entry vouchers. Once I saw the price I decided to purchase all vouchers for the
-group lest they see the cost and demur against the inclined railway adventure.
+unrivaled.
+
+I click the Union Jack for English and once I see the price I make a quick
+decision to purchase all vouchers for the group. I choose to act as benefactor
+out of magnanimity, but out of pure selfishness. The price
+of the ticket, while not expensive, falls in the grey area of "this seems
+cool I guess but I don't know if I want to pay that much." As a funicular-head
+in a group of non-fheads I decided to incur the cost of the group lest they
+demur against the inclined railway adventure.
 
 <figure class="figure container">
   <object type="image/svg+xml" data="/theme/images/traveler/2024-06_norway/01-bergen_funicular.svg" width="100%">
