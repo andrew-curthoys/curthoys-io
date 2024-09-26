@@ -1,10 +1,10 @@
-title: Leg 1: Fjordin
+title: Leg 1A: Bergen
 subtitle: 
-slug: traveler/2024-06_norway/01-fjordin
+slug: traveler/2024-06_norway/01a-bergen
 slug_base: traveler/2024-06_norway
-day_alias: Leg 1: Fjordin
+day_alias: Leg 1A: Bergen
 prev_day: /traveler/2023-06_norway/00-norway_bound
-next_day: 02-oslo_redux
+next_day: 01b-fjordin
 date: 2023-06-22
 post_date: 2024-07-15
 category: Traveler
@@ -17,29 +17,41 @@ summary: xxxxx
 {% import 'macros.html' as m %}
 
 <h4 class="article-subheader">"I Just Saw 2 Penises"</h4>
-White as a ghost, Jill sits down to tell the tale of her downstairs mixup,
+
+Wait....
+
+What??
+
+Jill is nearly shaking from a confusing mixture of embarrassment, bewilderment,
+and based on what she's soon to tell us, pity.
 
 "Ok... so Michael said the bathrooms were out and to the right so I went out and
-to the right... and there was no bathroom...
+to the right...
 
-So I went down one floor and *then* to the right and
-the signs were so confusing...
+and there was no bathroom...
 
-It said toilets but there were no toilets, I
-tried the two doors there and they were both locked, I walked around the
-corner and saw a sign for toilets and when I opened it I saw two old guys with
-their penises flopped right out in the open. Why did you tell me to go that way,
-Michael?"
+so I went down one floor and *then* to the right...
 
-"Why would you trust me? I've never been here"
+and there was no bathroom...
+
+I saw signs for toilets but there were no toilets! It was so confusing! So I
+turned the corner and pushed open the first door that looked like a bathroom -
+with no gender markings whatsoever - and saw two old guys with their penises
+flopped right out there in the open!"
+
+"Oh my god are you serious!!??"
+
+"Yeah do guys just pee with their dicks out like that? What the hell.... Why did
+you tell me to go that way, Michael?"
+
+"I've never been here, why would you trust me?"
 
 "MICHAEL!!!"
 
 
 <h4 class="article-subheader">We Just Landed!!!"</h4>
-8 hours ago the 4.5 ft diameter
-wheels of a Boeing 787 Dreamliner carrying the passengers of Norse Atlantic
-flight N02 touched down at Oslo Gardermoen Airport.
+8 hours prior to Jill's downstairs mixup the 4.5 ft diameter
+wheels of a Boeing 787 Dreamliner touched down at Oslo Gardermoen Airport.
 
 <div class="sms">
 	<div class="chat">
@@ -203,20 +215,22 @@ if she was waiting with bated breath for my affirmation,
 
 There's no way to know but I'm going to believe that their passport control
 fiasco benefited us. We got seats all in the same row before anybody else had to
-scramble for 
+scramble for the scraps.
 
 That's the thing about travel mercies. They are mysterious.
 
 
 <h4 class="article-subheader">Bergen</h4>
 
-Three hours later we are rambling through the streets of Bergen, Norway in a
-rented Toyota Corolla crossover, unsure of what any of the street signs mean,
+Three hours later our peregrinating posse is rambling through the streets of
+Bergen, Norway in a rented ruby red Toyota Corolla crossover, unsure of what any
+of the street signs mean,
 
 "Are we going the wrong way? What do these signs with a red X going through them
-mean? I feel like this is wrong but the GPS says to go this way. I think?"
+mean? I feel like this is wrong but the GPS says to go this way... I think?"
 
-After a sinuous path through the streets of old Bergen we arrive at our airbnb.
+After a few questionable but ostensibly legal side alleys in the heart of
+old Bergen we find ourselves us at our accommodation at last.
 We drop our bags and trundle down to the city center. We walk past
 *Bryggen* (Norwegian for "the dock"), a series of shops, museums, restaurants,
 and pubs lining the east side of V&aring;gen harbor dating back to the 11th
@@ -228,11 +242,29 @@ century.
 </figure>
 
 All this traveling has worked up an appetite so we duck into Bryggeriet Gastropub
-at the southernmost terminus of the harbor. And this is where Jill is introduced
+at the southernmost terminus of the harbor. The host leads us to a capacious
+live edge wooden table situated against a long leather booth festooned with
+pelts from unidentified mammals on each seat.  At the far end of the table
+floor-to-ceiling windows facilitate panoramic views of the harbor and the 9
+o'clock sun hanging high in the sky.
+
+We begin, naturally, with a round of suds. Shannon opts for the Kjaugutt Amber
+Ale from 7 Fjell Bryggeri of Bergen, our only local selection. The rest of us
+choose offerings from N&oslash;gne &Oslash;, a brewery in the small seaside town
+of Grimstad. Jill settles on the Rygene Lager, described in the menu by what I'm
+assuming is the effluence of a hastily presented google translate query as a
+*"Fantastic, refreshing lager made with a dedication for us"*.
+
+Finally, the fellas, feelin' rascally, order a couple of 11.5% ham sammiches.
+Michael, the Three Sheets strong ale, and yours truly opting for the Wegelage
+spontaneous ale brewed with "Norwegian floor malted barley, wheat, oats, and
+sweet cherries from Frederiksdal."
+
+
+And this is where Jill is introduced
 to the *urinal trough*, the most efficient expulsion of effluent in civilized
 society.
 
-*Supper*
 
 
 <h4 class="article-subheader">Trains Are So Cool</h4>
@@ -425,6 +457,7 @@ monotony of the miles upon miles of gray tunnel walls.
 5
 Heaved to the heavens
 soaring palisades
+walking in the clouds
 
 7
 Explore their lofty kingdom
@@ -517,18 +550,22 @@ the weather starts to change. The scattered clouds start to scatter together;
 the fjord evaporates behind the veil of a misty fog. Our lofty kingdom
 enveloped by a damp grey specter.
 
-And just as quickly as it came it went, the sharp  its only memory the wispy tendrils
+And just as quickly as it came it went, the sharp wind slices the fog into
+ribbons of ghostly , its only memory the wispy tendrils
 
+
+<h4 class="article-subheader">Cruisin'</h4>
+electric boat
 
 
 <h4 class="article-subheader">Trains Are So Cool, Part Deux</h4>
 After our cruise we have a few hours to kill before our 6:30 PM reservation on
 the Fl&aring;m Railway. Jill found a reasonable hike that we can walk to right
 from town so we strap on our hikin' boots and set off southbound from the town
-center. We stroll along the Nedre Brekkevegan in a valley flanked by towering
-tree-covered cliffsbestride bucolic farms in a
-valley flanked by
+center. We stroll along the Nedre Brekkevegan in a valley of bucolic farms
+flanked by towering tree-covered cliffs.
 
+A mile south of town we encounter a trail leading 
 
 The 12-mile railway has been described as "the most
 beautiful train journey in the world". Starting at Fl&aring;m, a town of 400 residents at the
