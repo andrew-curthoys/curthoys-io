@@ -326,12 +326,25 @@ Scandinavia and the efficiency with which every transaction occurs is
 unrivaled.
 
 I click the Union Jack for English and once I see the price I make a quick
-decision to purchase all vouchers for the group. I choose to act as benefactor
+decision to purchase all vouchers for the group. This choice to act as
+benefactor for the group was not done
 out of magnanimity, but out of pure selfishness. The price
-of the ticket, while not expensive, falls in the grey area of "this seems
+of the ticket, while not expensive, fell in the grey area of "this seems
 cool I guess but I don't know if I want to pay that much." As a funicular-head
-in a group of non-fheads I decided to incur the cost of the group lest they
+in a group of non-fheads I decided to incur the cost of the collective lest they
 demur against the inclined railway adventure.
+
+Funiculars are so fun because they typically terminate at an elevated vista with
+wonderful views plus they employ some clever design and engineering. What's not
+to love! Funicular railways are characterized by a cable attached to the railway
+carriages to
+provide locomotion. If not for the cable the steel-on-steel contact of wheels
+on track would not generate enough friction to overcome the pull of gravity.
+Funiculars cleverly employ two train cars, each attached to one end of the rope,
+that counterbalance each other on their trips up & down the incline. The only
+power the motor needs to provide is the difference in weight of the two cars
+(typically the combined weight of the passengers) and various frictional losses
+in the system.
 
 <figure class="figure container">
   <object type="image/svg+xml" data="/theme/images/traveler/2024-06_norway/01-bergen_funicular.svg" width="100%">
