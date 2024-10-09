@@ -27,6 +27,9 @@ walking in the clouds
 Explore their lofty kingdom
 swamp on the roof of the world
 
+Asgard at the right hand of Odin
+
+
 
 The trailhead for our hike sits above the town of Aurland, a stone's throw down
 the road from Fl&aring;m. As our Toyota moseys through town Jill recognizes a
@@ -65,11 +68,17 @@ afforded what is almost certainly the most stunning view I've ever seen in my
 life.
 
 
-While soaking in the surroundings I crane my neck up the face of a massive
+While soaking in the surroundings I feel the ominous presence of a dark slab of
+acclivitous banded metamorphic rock looms over my right shoulder.
+We couldn't possibly be going *all the way up there*???
 
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_mountain_face.JPEG" alt="Big mountain">
+  <figcaption class="figure-caption">Let me know when they put in a chairlift</figcaption>
+</figure>
 
-We couldn't possibly be going *all the way up there*. It looks an insurmountable
-task. 1,500 feet into the azure Norwegian sky, the equivalent of climbing to the
+It looks an insurmountable
+task. 1,500 feet into the cerulean Norwegian sky, the equivalent of climbing to the
 tip of the spire of the Empire state building, each step a fight against the
 relentless tug of gravity.
 
@@ -129,12 +138,14 @@ we strap on our hikin' boots and set off southbound from town. We stroll along
 the Nedre Brekkevegan river bestride bucolic farms
 flanked by towering tree-covered cliffs.
 
-A mile south of town we veer right onto a trail cut through the vegetation up
-the side of yet another of Norway's innumerable mountains. The entire length of
-the trail is littered with the heaving breaths of ambitious decisions made by
-cruise-ship passengers whose collective fitness level skews towards couch
-potato. The unrelenting mid-summer sun intensifies the distress of all hikers on
-the trail; I pop my tarp halfway up due to increasing sweat volume.
+A mile south of town we veer right through a cut in the vegetation onto a
+well-trod path ascending yet another of Norway's innumerable mountains. The
+length of the trail is littered with the heaving breaths of ambitious decisions
+made by cruise-ship passengers whose collective fitness level skews towards couch
+potato. The unrelenting mid-summer sun intensifies the collective distress;
+I pop my tarp.
+
+
 
 
 <h4 class="article-subheader">Trains Are So Cool, Part Deux</h4>
