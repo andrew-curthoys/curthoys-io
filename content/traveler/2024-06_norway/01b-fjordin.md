@@ -28,7 +28,10 @@ Explore their lofty kingdom
 swamp on the roof of the world
 
 Asgard at the right hand of Odin
+Squishy slosh of the mountaintop swamp.
 
+swamp on the roof of the world
+elysian sanctuary
 
 
 The trailhead for our hike sits above the town of Aurland, a stone's throw down
@@ -67,20 +70,19 @@ was the extent of the hike I'd be thrilled. From even this lower station I'm
 afforded what is almost certainly the most stunning view I've ever seen in my
 life.
 
-
 While soaking in the surroundings I feel the ominous presence of a dark slab of
-acclivitous banded metamorphic rock looms over my right shoulder.
-We couldn't possibly be going *all the way up there*???
+metamorphic rock looming over my right shoulder. I turn round and crane my neck,
+we couldn't possibly be going *all the way up there*???
 
 <figure class="figure container">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_mountain_face.JPEG" alt="Big mountain">
   <figcaption class="figure-caption">Let me know when they put in a chairlift</figcaption>
 </figure>
 
-It looks an insurmountable
-task. 1,500 feet into the cerulean Norwegian sky, the equivalent of climbing to the
-tip of the spire of the Empire state building, each step a fight against the
-relentless tug of gravity.
+1,500 feet into the cerulean Norwegian sky. If we were standing on the pavement
+on 5th Avenue the top of this mountain would look down of the tip of the
+spire of the Empire State Building. It looks an
+insurmountable task; a hopeless fight against the relentless tug of gravity.
 
 <p class="block-quote">
 Colossal palisades<br>
@@ -89,8 +91,9 @@ Invite the bold<br>
 To explore their lofty kingdom
 </p>
 
-Halfway up our heavenly trek the trail winnows down to a slender footpath
-perched atop a cliff that wraps around the left side of the craggy mass. At this
+No adventure story is complete without a harrowing test of mettle - ours occurs
+halfway through the hike when the trail winnows down to a slender footpath
+perched atop a cliff hugging the left side of the craggy mass. At this
 point all conversation ceases while our expedition navigates the 50 yard
 tightrope maneuver, every ounce of concentration devoted to the
 precise placement of every step, grabbing hold to the edge of the cliff like
@@ -101,12 +104,10 @@ of small, vibrant flowers line the path, explosions of yellows, reds, and pinks
 spackle the mottled green of the dewy moss. Small fields of snow luxuriate in
 shady alcoves, stubbornly clinging to their crystalline structure.
 
-The plateaued summit of Mt Prest  waterlogged with the winter's snowpack.
-Squishy slosh of the mountaintop swamp.
+The plateaued summit of Mt Prest sinks beneath our hiking boots, waterlogged
+from the winter's snowpack.
 
 <p class="block-quote">
-swamp on the roof of the world
-elysian sanctuary
 </p>
 
 A cairn stands erect at the R&oslash;yrgrind viewpoint, standing guard over the
@@ -119,17 +120,45 @@ Aurlandsfjord. We snap a few photos at the monument before signing the logbook.
 
 While gazing out over the 
 <a href="/traveler/2023_05-scandinavia/05-oslo_nature.html?id=fjord" target="_blank" rel="noopener noreferrer">glacially eroded sea inlet trough</a>
-the weather starts to change. The scattered clouds start to scatter together;
-the fjord evaporates behind the veil of a misty fog. Our lofty kingdom
-enveloped by a damp grey specter.
+the weather starts to change. The scattered clouds begin a descattering
+maneuver, enveloping the view of the fjord behind the veil of a misty fog. Our
+lofty kingdom enveloped by a damp grey specter.
 
-And just as quickly as it came it went, sliced into ghostly ribbons against the
-jagged outcrop, its only memory wispy tendrils carried away by the sharp wind.
+Thankfully our chagrin is short lived; as quickly as it came it's gone,
+sliced into ghostly ribbons of ethereal vapor. Its final memory wispy
+tendrils carried away by the terminal gasp of the North Atlantic jet stream.
+
 
 
 
 <h4 class="article-subheader">Cruisin'</h4>
-electric boat
+The morning after our mountaineering escapades Jill has procured passage on a
+sightseeing cruise through the fjords. Unfortunately so too have hordes of
+visitors aboard the *MV Brittania*, a cruise ship that snuck into port overnight
+much to our chagrin.
+
+According to the *Brittania*'s website their *passengers-to-space-ratio* is 33.
+It does not specify units. Since this is the first cruise ship website I've
+had the pleasure of visiting I'm unsure if that's a good number. Is that a
+selling point among cruise lines? *Climb aboard the luxurious USS Dysentery with
+an industry leading 25 passengers-to-space-ratio! USS Dysentery. Escape the smell.*
+
+
+
+Bright and early we hop aboard the *Future of the Fjords*, the first
+all-electric carbon fiber vessel in the world. With two 600 horsepower engines
+powered by an 1800 kWh battery pack the *Future* can cruise at a breezy 16 knots
+for 40 nautical miles on a single charge. To put that into a little perspective,
+making some rough assumptions on average car gas tank size and EV battery pack
+capacity that's roughly equivalent to 1000 gallons of gasoline.
+
+As we're standing on the deck navigating the roiling sea of humanity belched
+upon Fl&aring;m by the *Brittania*
+
+Her 4000 passengers have the permanent residents of Fl&aring;m
+outnumbered 10 to 1. Much to their chagrin one would presume.
+
+*Brittania* 
 
 
 After our cruise we have a few hours to kill before our 6:30 PM reservation on
