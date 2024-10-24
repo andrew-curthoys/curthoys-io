@@ -25,7 +25,7 @@ It’s about 20 more minutes up I-5 then another hour or so of 2-lane driving. I
 
 I get geared up and ready to snag a lift ticket when I realize they didn’t give me poles. Dammit… I bet there’s a rental shop on the mountain and hopefully they can hook me up with a set of spears. I snag a lift ticket and head in to the rental shop, where they inform me to fill out a rental form. For a set of poles? *Come on*. They claim to need my license plate number so I have to lumber back out to the lot to write that down; it’s a ridiculous amount of paperwork for a set of aluminum sticks.
 
-One absurd rental form and $11 down the drain I’m finally ready to ski. It’s almost 9:30, definitely later than I had hoped to get out here; hopefully the snow isn’t too carved up already. As I ride the lift up I can see a lot of places that have already been skied out but a few sections with some nice fresh pow. They only got 1” last night but I can’t complain about the first fresh snow of the trip.
+One absurd rental form and \$11 down the drain I’m finally ready to ski. It’s almost 9:30, definitely later than I had hoped to get out here; hopefully the snow isn’t too carved up already. As I ride the lift up I can see a lot of places that have already been skied out but a few sections with some nice fresh pow. They only got 1” last night but I can’t complain about the first fresh snow of the trip.
 
 <h3 class="article-subheader">Stop, Powder Time</h3>
 

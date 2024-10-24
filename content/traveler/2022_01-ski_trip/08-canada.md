@@ -921,7 +921,7 @@ As I walk up to the complex I see a line forming outside the door. Looks like
 we have about 15 minutes before the 10:30 opening time. I spend the time watching
 a mountain goat scrambling about on the cliffs above. By the time the gates open
 the crowd has swelled to over 100 by my best guesstimate. I enter the facility
-& pay the $8 for a single entry pass. I pop on my trunks in the changing room
+& pay the \$8 for a single entry pass. I pop on my trunks in the changing room
 and make my way out to the hot pool.
 
 The steamy, mineral water soothes achy muscles, overworked from weeks of skiing.

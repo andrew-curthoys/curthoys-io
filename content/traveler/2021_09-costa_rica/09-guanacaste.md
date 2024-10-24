@@ -175,7 +175,7 @@ the will to harm it"
 
 If you acknowledge they are trying to feed their families you wouldn't
 say something so fucking stupid. Cameron politely tells her that when you're
-making $20/day it's hard to turn down $100 from some gringo in a sportcoat to
+making \$20/day it's hard to turn down \$100 from some gringo in a sportcoat to
 tear down a tree. That doesn't even begin to register with Elizabeth from Palo
 Alto. Cam does his best to keep his composure, offering the couple some
 beers, y'know seeing as we're at a brewery and all.

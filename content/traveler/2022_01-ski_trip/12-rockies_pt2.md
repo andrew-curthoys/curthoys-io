@@ -649,7 +649,7 @@ century. Doc Holliday briefly called Leadville home in 1883 shortly after the
 gunfight at the OK Corral. He moved in to deal faro at the plentiful gambling
 houses & saloons around town and we all know Doc
 says that poker's an honest trade. He stayed until an old enemy came to town
-and threatened his life over a $5 debt. So Doc shot him. And got away
+and threatened his life over a \$5 debt. So Doc shot him. And got away
 with it - a jury of his peers acquitted him of the shooting.
 
 We don't plan to get into as much trouble as Doc, but who knows when it comes

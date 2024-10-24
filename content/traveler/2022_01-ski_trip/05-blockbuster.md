@@ -132,7 +132,7 @@ know as the former owner of the
 Miami Dolphins, Florida Panthers, and Florida Marlins, took a
 controlling stake in the company. It was he, not David Cook, who spurred on
 Blockbuster's explosive growth in the late 80s/early 90s. By 1994, the company
-was making $4 billion a year from 3,600 locations, making it larger than its
+was making \$4 billion a year from 3,600 locations, making it larger than its
 next 375 competitors combined. At its peak in 2004, Blockbuster boasted over
 9,000 locations, with nearly 85,000 employees in 15 countries worldwide.
 
@@ -621,7 +621,7 @@ Domaine Serene 'Grand Cheval' Oregon Red Wine, a Syrah/Pinot Noir blend that
 palate tonight." I'm an idiot.
 
 We enjoy the red wine like a couple of snobbish dipshits. They could have poured
-us a $5 bottle of bag wine & we wouldn't have been the wiser. The highlight of
+us a \$5 bottle of bag wine & we wouldn't have been the wiser. The highlight of
 the wine bar had to be a woman who was *very* upset that they didn't have a
 table for her. There's something about entitled assholes not getting their way
 that just makes life that much sweeter.

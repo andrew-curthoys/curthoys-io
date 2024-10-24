@@ -2,8 +2,8 @@ title: Leg 1B: Fjordin
 subtitle: 
 slug: traveler/2024-06_norway/01b-fjordin
 slug_base: traveler/2024-06_norway
-day_alias: Leg 1B: Fjordin
-prev_day: /traveler/2023-06_norway/01-bergen
+day_alias: Fjordin
+prev_day: 01a-bergen
 next_day: 02-oslo_redux
 date: 2023-06-23
 post_date: 2024-07-15
@@ -131,6 +131,10 @@ tendrils carried away by the terminal gasp of the North Atlantic jet stream.
 
 
 
+From our vantage we spot a ship upon the fjord not much larger than a
+grain of rice. If not for its slender emerald tail of churned seawater its
+movements would be imperceptible to the naked eye.
+
 <h4 class="article-subheader">Cruisin'</h4>
 The morning after our mountaineering escapades Jill has procured passage on a
 sightseeing cruise through the fjords. Unfortunately so too have hordes of
@@ -138,11 +142,9 @@ visitors aboard the *MV Brittania*, a cruise ship that snuck into port overnight
 much to our chagrin.
 
 According to the *Brittania*'s website their *passengers-to-space-ratio* is 33.
-It does not specify units. Since this is the first cruise ship website I've
-had the pleasure of visiting I'm unsure if that's a good number. Is that a
-selling point among cruise lines? *Climb aboard the luxurious USS Dysentery with
+It does not specify units. I'm unsure if this is good. Is *PTSR* a selling
+point among cruise ships? *Climb aboard the luxurious USS Dysentery with
 an industry leading 25 passengers-to-space-ratio! USS Dysentery. Escape the smell.*
-
 
 
 Bright and early we hop aboard the *Future of the Fjords*, the first

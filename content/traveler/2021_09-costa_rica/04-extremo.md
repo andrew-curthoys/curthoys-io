@@ -60,7 +60,7 @@ on their calendars for today.
 <h4 class="article-subheader">Monteverde</h4>
 
 We make it to Monteverde shortly thereafter and stumble into the Sleepers hostel,
-where C&eacute;cile has booked us a room for $8/night per person.
+where C&eacute;cile has booked us a room for \$8/night per person.
 We talk to the very
 nice young man at the front about activities for tomorrow and he gets
 C&eacute;cile and I scheduled for the

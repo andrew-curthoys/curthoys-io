@@ -173,7 +173,7 @@ You want to make it a double?
 
 Absolutely.
 
-A few minutes later my drink arrives in a pint glass and I have to say I don’t think I’ve ever had a cocktail in a pint glass. At least at a place that serves cocktails as opposed to $3 wells. I take a sip and it’s without a doubt the worst Old Fashioned I’ve ever had. I think there’s 7-Up in it. I’m glad I just charged it to the room and didn’t see the price because that likely would have upset me. I just imagine that I’m hanging out at a friend’s cabin drinking a Seagrams & 7.
+A few minutes later my drink arrives in a pint glass and I have to say I don’t think I’ve ever had a cocktail in a pint glass. At least at a place that serves cocktails as opposed to \$3 wells. I take a sip and it’s without a doubt the worst Old Fashioned I’ve ever had. I think there’s 7-Up in it. I’m glad I just charged it to the room and didn’t see the price because that likely would have upset me. I just imagine that I’m hanging out at a friend’s cabin drinking a Seagrams & 7.
 
 I take the drink and start perusing the lodge. It’s a sort of combination hotel and museum so there are plenty of exhibits, plaques, and memorabilia everywhere. As I’m walking around reading about the hotel I remember the pot that I purchased in Oregon. It’s still 4/20 and a left handed cigarette would certainly add to the spookiness and silliness of this place.
 

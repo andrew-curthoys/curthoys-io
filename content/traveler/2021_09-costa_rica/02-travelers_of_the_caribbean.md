@@ -50,7 +50,7 @@ She's volunteering for a month at the hostel & just arrived late last night so
 she's still getting oriented with the place. She thinks there are beds for Mia
 and me but sends her boss a text to make sure. Turns out there is only one
 bed available in the dorm but there is a vacancy for a private room. The dorm is
-$15/night and the room is $30. Mia is content with the dorm so I take the room.
+\$15/night and the room is \$30. Mia is content with the dorm so I take the room.
 In a stroke of mighty good fortune, the proprietor of the place texts Emily back
 and informs her that I can stay in the room for the same price as the dorm.
 

@@ -754,7 +754,7 @@ a tchotchke you want, they've got it.*
 *As long as the tchotchke you want has a sea lion on it.
 
 The woman in the back of the store beckons me to her desk like a
-carnival barker. For $16 I can take an elevator 200' down to the cave, where
+carnival barker. For \$16 I can take an elevator 200' down to the cave, where
 "*as we speak 150 sea lions are lounging on the rocks!*" She even shows me a
 small TV with live closed circuit footage of what presumably is 150 sea lions
 doing just that. She's very excited about the sea lions.

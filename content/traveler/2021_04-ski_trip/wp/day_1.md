@@ -60,7 +60,7 @@ only takes a few minutes to realize that it was a good idea to trust Randy on
 the scenic route. We work our way up the mountain and with every switchback we
 get a better view of the landscape. Randy regales me of riding down these windy
 mountain roads on his mountain bike to go buy a car when he first moved here in
-1991 at the ripe old age of 22 (He took a Greyhound bus with $69 in his pocket
+1991 at the ripe old age of 22 (He took a Greyhound bus with \$69 in his pocket
 after graduating college because it looked like a cool place to live on a map.
 He stayed for 9 years. Randy is pretty kickass). I asked Randy what he would have
 done if he didn’t find a car to buy and had to ride back up that huge ass
@@ -130,14 +130,14 @@ luck into some cold hard cash.
 
 I pull out a few bills from the ATM and head to the craps table. Randy ventures
 over to play some blackjack and I wish him luck. I wait for the current shooter
-to end his turn and buy in with $100. Right as I get my chips I see Randy plop
+to end his turn and buy in with \$100. Right as I get my chips I see Randy plop
 down in a chair behind me. What the hell? Did you already lose all your money?
 No sir, he won 3 straight hands then his dealer left and he didn’t like the vibe. Good man.
 
-Anyhow, I get my chips and set $10 on the pass line. I make up enough money on
+Anyhow, I get my chips and set \$10 on the pass line. I make up enough money on
 6s and 8s that I end up back about even by the time he craps out. Next shooter.
 He sets the point at 4 and first roll craps out. My roll. I set the point at 6
-and after about 4 non-consequential rolls crap out myself. $75 down in the span
+and after about 4 non-consequential rolls crap out myself. \$75 down in the span
 of 5 minutes. Ouch.
 
 I decide to cut my losses & we head to the cashier and back to the car. We are
@@ -183,8 +183,6 @@ the shore a bit. We find a pier that’s not locked and walk out to take in the
 moment. I discover what the fresh mountain lake air can do for a man’s health.
 We stand on the pier a few minutes in silence, taking in the dazzling quilt of
 stars overhead. Tahoe is a special place.
-
-:%s/\/theme\/images\//\/theme\/images\/traveler\/2021_04-ski_trip\/
 
 <figure class="figure">
   <img class="figure-img img-fluid rounded" src="/theme/images/traveler/2021_04-ski_trip/marina.jpg" alt="Tahoe marina">

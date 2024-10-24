@@ -484,7 +484,7 @@ draw business.
 That was August 1993. Carpenter died in a car accident in February 1994.
 
 The statue has been sitting at the corner of Fremont Place and North 36th
-Street ever since, waiting for a buyer. It can be yours for $250,000.
+Street ever since, waiting for a buyer. It can be yours for \$250,000.
 
 It seems fitting for a neighborhood whose motto is *Libertas Quirkas* -
 freedom to be peculiar. Seattle is wild.
@@ -627,7 +627,7 @@ that's *95 feet* of snow in one season. Outrageous.
 
 The skiing last year was tremendous, and while not on my Ikon pass, I *must* go
 back. Luckily it's more remote, less developed, and more moderately priced
-than some of the resorts that charge $200+ for a day of skiing. It's so old
+than some of the resorts that charge \$200+ for a day of skiing. It's so old
 school the only place you can buy a lift ticket is at the window. None of this
 fancy online shit. I love it.
 
@@ -919,7 +919,7 @@ other & know that we have to duck in. Everyone in the family's nickname for
 Joanne is Josie so we couldn't *not* get a drink here.
 
 Laura and I belly up to the bar and she immediately spots her swill of choice.
-$10 for a shot of Hornitos and a tallboy Modelo. Damn good deal, I'll take that
+\$10 for a shot of Hornitos and a tallboy Modelo. Damn good deal, I'll take that
 deal.
 
 <figure class="figure">

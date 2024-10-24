@@ -109,7 +109,7 @@ on.
   <figcaption class="figure-caption"></figcaption>
 </figure>
 
-In 2021 Fred's Team has raised $7,195,425, 100% of which goes to research at
+In 2021 Fred's Team has raised \$7,195,425, 100% of which goes to research at
 the MSK Cancer Center. If you're reading this you probably contributed to that
 total. I sincerely thank you for that and I'm sure the wonderful people at MSK
 appreciate every penny.

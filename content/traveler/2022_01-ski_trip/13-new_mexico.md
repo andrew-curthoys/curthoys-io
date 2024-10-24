@@ -292,7 +292,7 @@ find the scribe. He's fully clocked out because I don't remember *any* of this.
 You'd think I would have retained at least a
 faint recollection of the six-story Swiss chalet-style hotel and Bavarian
 village at the base of the hill. I only learn later that most of this was built
-within the past decade, after the 2013 sale of the resort and the $330 million
+within the past decade, after the 2013 sale of the resort and the \$330 million
 master development plan that came along with it. It's at least somewhat
 relieving to find that I haven't completely lost my marbles.
 
@@ -404,7 +404,7 @@ Seeing as Kachina is off the menu I might as well see what's on the menu at the
 big Bavarian lodge at the bottom of Lift 4. I slalom my way back down with a
 hankerin' for a bratwurst & liter of Warsteiner. I
 shuffle into the lodge and quickly discover that I'm not the only one who has
-decided to break for lunch. I take a quick peek at the menu and an $18 brat
+decided to break for lunch. I take a quick peek at the menu and an \$18 brat
 seems a bit less than ideal, but it's my last day, let's splurge a little.
 
 I stand by the

@@ -4,7 +4,7 @@ slug: traveler/2024-06_norway/00-norway_bound
 slug_base: traveler/2024-06_norway
 day_alias: Leg 0: Norway Bound
 prev_day: /traveler/2024-06_norway
-next_day: 01-fjordin
+next_day: 01a-bergen
 date: 2023-06-16
 post_date: 2024-07-15
 category: Traveler

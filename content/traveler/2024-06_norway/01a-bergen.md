@@ -2,8 +2,8 @@ title: Leg 1A: Bergen
 subtitle: 
 slug: traveler/2024-06_norway/01a-bergen
 slug_base: traveler/2024-06_norway
-day_alias: Leg 1A: Bergen
-prev_day: /traveler/2023-06_norway/00-norway_bound
+day_alias: Bergen
+prev_day: 00-norway_bound
 next_day: 01b-fjordin
 date: 2023-06-22
 post_date: 2024-07-15
@@ -474,5 +474,5 @@ purples, blues, and reds. It feels like a dance party might break out at any
 moment. As Jill later discovers, the lights were installed to break up the
 monotony of the miles upon miles of gray tunnel walls.
 
-Finally, our red Toyota spews from the eastern end of the ____________(?)
-Tunnel above the town of Fl&aring;m.
+Finally, our red Toyota rumbles from the eastern end of the 3.1 mile
+Flenjatunnelen above the pastoral fjordtown of Fl&aring;m.

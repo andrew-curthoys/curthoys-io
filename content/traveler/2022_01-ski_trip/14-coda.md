@@ -167,7 +167,7 @@ what'll it be for ya?" Damn you Santa Fe.
 "You got it"
 
 And before I finish checking for glass shards on my barstool he returns with an
-$18 Rye Old Fashioned. Wait. There's no possible way you whipped up an Old
+\$18 Rye Old Fashioned. Wait. There's no possible way you whipped up an Old
 Fashioned that fast. Do you have these things pre-mixed? And you expect
 me to pay 18 USD for it? Damn you again Santa Fe.
 

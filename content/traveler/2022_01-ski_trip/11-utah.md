@@ -284,7 +284,7 @@ island. If you don't know how to ski then get the hell out of the way.
 A quick story that perfectly encapsulates the milieu of Deer Valley: last year
 amid the cruising, we stopped off at a mountaintop bar for some refreshments.
 Seeing as it was our last day we decided to *treat ourselves* and splurged on a
-$150 bottle of Veuve Clicquot to split 5 ways. In
+\$150 bottle of Veuve Clicquot to split 5 ways. In
 a surprising, but not altogether disappointing, development they were sold out.
 *Of a hundred and fifty freaking dollar bottle of champagne*. By noon! That's
 the kind of clientele that comes to Deer Valley. That's the kind of clientele
@@ -320,7 +320,7 @@ in life it's all about tradeoffs.
   <figcaption class="figure-caption">Nice little dusting overnight</figcaption>
 </figure>
 
-There are no $150 bottles of champagne in my future, however a bowl of turkey
+There are no \$150 bottles of champagne in my future, however a bowl of turkey
 chili sure is. LaGayle told me as I left the house this morning that the Deer
 Valley turkey chili is a must, it's the best meal she's
 ever had on a ski mountain. And Bob has a fondness for Deer Valley due to its
@@ -335,7 +335,7 @@ until 2007 when the they succumbed to the pot-smokin' board jockeys,
 which did not come without its rumblings.
 <a href="https://www.deseret.com/2007/12/27/20061387/skiers-only-two-utah-resorts-among-three-in-the-nation-without-snowboards" target="_blank" rel="noopener noreferrer">One family</a>, who purchased a ski
 chalet in Taos
-for $1 million and sank another cool $1 million into remodeling, put it up for
+for \$1 million and sank another cool \$1 million into remodeling, put it up for
 sale when the snowboard ban was lifted. They must *really* hate snowboarders.
 
 My first few runs at Deer Valley are spent weaving between sloppy piles of snow

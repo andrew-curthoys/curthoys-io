@@ -405,7 +405,7 @@ cursing.
 I make it back to Matt & Caitlin's before sundown, just as Muscle Milk Matt is
 heading to the gym. He invites me to join him as the gymnasium has a hot tub
 where I can soak my sore muscles. Y'damn right. We check in at the front
-counter, where I pay the $10 vigorish for a day pass. I head to the locker room
+counter, where I pay the \$10 vigorish for a day pass. I head to the locker room
 to change into my trunks before a hastily scribbled sign triggers an overwhelming
 tsunami of despair in my soul.
 
@@ -562,7 +562,7 @@ disproportionate indignation these days.
 I give Randy a big bear hug & load his gear into the car. We set our course for
 the Mountainview Lodge a few miles north of downtown Bozeman, one of the very few
 reasonable accommodation options. The most modestly priced room in
-downtown Bozeman is over $600/night and if we want to get near the ski hill it
+downtown Bozeman is over \$600/night and if we want to get near the ski hill it
 would set us back over a grand. This is my fourth time coming to Big Sky and I
 have never seen prices even approach this level of lunacy. I've always stayed
 right by the mountain for a decent rate. Hell last year we got a ski-in/ski-out
@@ -705,11 +705,11 @@ known to eclipse two hours.
 </figure>
 
 This year the corporate bigwigs running the mountain have decided to begin
-charging for access to the tram. Today it's $80. Yikes. When we
+charging for access to the tram. Today it's \$80. Yikes. When we
 reach the top I peek over to the tram and see that the line at least an hour
-long. $80 and an hour wait for each ride. Double yikes. I'd love to show Randy
+long. \$80 and an hour wait for each ride. Double yikes. I'd love to show Randy
 the outstanding views and killer lines from the top but it's hard to justify.
-If it were $80 and no wait or an hour wait and no charge I think we'd give it a
+If it were \$80 and no wait or an hour wait and no charge I think we'd give it a
 look. But not both. Ain't nobody got time for that.
 
 <figure class="figure">
@@ -874,7 +874,7 @@ skiers. The association was governed by a nine-member volunteer board of
 directors and still operates this way to this day. All of the operating profits
 since day one have gone back into the mountain, creating incremental, yet
 organic growth. Membership in the association is open to all Montana residents
-over the age of 18 who can scrounge together $25 for the application fee. Any
+over the age of 18 who can scrounge together \$25 for the application fee. Any
 new development needs to be approved by the membership, which means we won't be seeing any
 luxury lodges heated lifts like down south at Big Sky. And that's just the way
 they like it.
@@ -1010,9 +1010,9 @@ enjoying the balmy 15 &deg;F weather.
 
 We gear up & head right up to Powder Seeker for some warmup runs. Our first time
 up we peek over at the tram line and once again, it looks like it's at least an
-hour. The price even increased today to $100. So if you are buying a day pass
+hour. The price even increased today to \$100. So if you are buying a day pass
 (which luckily we aren't because of the Ikon) and a tram pass you're
-shelling out **$330**: $230 for the main lift ticket & $100 for the tram. Good
+shelling out **\$330**: \$230 for the main lift ticket & \$100 for the tram. Good
 god almighty. We settle for a couple spins in the shadow of Lone Peak before
 deciding to head over to Challenger. Outside
 of LP, this is probably my favorite section of the mountain. It's steep,

@@ -178,7 +178,6 @@ brings us the Northern Lights.
 
 
 <div class="article-photo-subheader">Astronomy</div>
-
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_astro.JPEG" alt="Telescope">
 <figcaption class="figure-caption">A Norwegian telescope built in 1797.</figcaption>
@@ -201,7 +200,7 @@ reduced the blurriness that was common in telescope lenses of the day that
 suffered from chromatic & spherical aberration.
 
 
-<h4 class="article-subheader">Industry</h4>
+<div class="article-photo-subheader">Industry</div>
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-teknisk_steam_engine.JPEG" alt="Steam engine">
 <figcaption class="figure-caption">19th century steam engine.</figcaption>

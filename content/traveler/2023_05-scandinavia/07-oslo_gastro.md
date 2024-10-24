@@ -257,11 +257,17 @@ First things first. A round of Sapporos & sake.
 With our thinking caps properly fueled we dash around the menu
 
 Edamame; seaweed salad; pork dumplings;
+
 *kuriimu chiisu hachimitsu* - cream cheese spread with honey, sesame, and miso;
+
 *kyuuri no kimuchi* - pickled cucumber with chili;
+
 *shiitake bataa ponzu itame* - shiitake mushrooms with ponzu sauce and butter;
+
 *ajitama* - soft boiled egg marinated in mirin, sake, and soy sauce;
+
 *bangbangji* - cold chicken in sesame sauce;
+
 *chijimi* - spinach & cheese fried pancakes;
 
 In line with their clearly stated policy, "WE SEND THE FOOD OUT AS SOON IT IS
@@ -274,7 +280,7 @@ particular order.
   inferior representation of the assemblage</figcaption>
 </figure>
 
-Between courses a few more rounds of sake adown the table at our behest. The
+Between courses a few more rounds of sake adorn the table at our behest. The
 meal is rounded out with *nama choko* - homemade chocolate truffles
 and *kurogoma aisu* - homemade black sesame ice cream.
 
@@ -321,12 +327,12 @@ dishes"
 And for once America cleans up its overseas mess.
 
 
-<h4 class="article-subheader">"Your accent, where's it from?"</h4>
+<h4 class="article-subheader" id="talormade">"Your accent, where's it from?"</h4>
 
-"I'm Australian, originally from Melbourne"
+"Australia, how ya goin'?"
 
-"No way! My cousin lives in Perth! Beautiful country. How the hell did you end
-up all the way up here??"
+"No way! My cousin lives in Perth! Beautiful country, I love it down there!
+How the hell did you end up all the way up here??"
 
 "Well.... it's a little bit of a long story"
 

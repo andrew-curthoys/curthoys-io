@@ -66,7 +66,7 @@ and I reply that it's just me.
 
 "Okkkkk? Hmmmmm"
 
-Don't give me that attitude. The room is $45/night, it's not like I'm a Saudi prince.
+Don't give me that attitude. The room is \$45/night, it's not like I'm a Saudi prince.
 Leave your sour disposition at home and lead me to my palace. You
 really need more *Pura* in your *Vida*.
 
@@ -198,8 +198,8 @@ around but the Bills really need more out of their
 offense. 16 points for a team that averaged over 30 points last year just ain't
 gonna cut it. Oh well it's a long season, just gotta trust the process.
 
-I close out my tab, which was in the tens of thousands, could be $10 could be
-$100, we'll see when I report my credit card stolen at the end of this trip
+I close out my tab, which was in the tens of thousands, could be \$10 could be
+\$100, we'll see when I report my credit card stolen at the end of this trip
 (kidding... sorta). I then violate Sharky's Covid Commandment #6 when I see a
 woman sitting at a table by herself and shamelessly saunter up and begin
 chatting.

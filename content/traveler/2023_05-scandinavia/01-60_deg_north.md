@@ -92,7 +92,7 @@ your bluetooth range is great! Then looked down and saw your phone.'"
 "Thank you so much Dani. I am a moron."
 
 Catastrophe averted, my situation improves considerably when the American
-Airlines kiosk offers me a seat in first class for $45. That's a damn good deal,
+Airlines kiosk offers me a seat in first class for \$45. That's a damn good deal,
 I'll take that deal. I am on holiday after all.
 
 The flight to JFK is quick and easy, but not too quick to forego a few
@@ -212,7 +212,7 @@ fingers. When the food arrives we look around for a hidden camera because each
 offering is comedically tiny. The flatbread is scant larger than a half dollar,
 the quesadilla was made for ants, and the chicken fingers were certainly modeled
 after the fingers of that orange lady who used to be president. At least the
-pints are $5. So we got that goin' for us, which is nice.
+pints are \$5. So we got that goin' for us, which is nice.
 
 At a quarter to 8 Brett & Cat scoot across the street for their
 Empire State Building tour and I shuffle over to the 3 train back to
@@ -226,7 +226,7 @@ To a simpler place in time*
 
 I would have
 much preferred an early morning flight that puts me in Oslo in the evening,
-seeing as I am wholly incapable of sleeping on planes. But when you book a $400
+seeing as I am wholly incapable of sleeping on planes. But when you book a \$400
 trans-Atlantic flight you can't be too choosy.
 
 <h4 class="article-subheader"></h4>
@@ -306,7 +306,7 @@ Praise be to Thor!
 I snag my bag and make a quick pit stop at a vending machine to calm my rumbling
 stomach. I haven't checked the exchange rate so when the price of 45 NOK flashes
 across the screen I mindlessly tap my card on the reader. I don't care
-if it's $2 or $200 I just need *something* to eat. The proud owner of a Kvikk
+if it's \$2 or \$200 I just need *something* to eat. The proud owner of a Kvikk
 Lunsj candy bar I dart towards the Flytoget train bound for downtown Oslo.
 
 3,700 miles, 6 timezones, and 1 ocean later I've made it at last.

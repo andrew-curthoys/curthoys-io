@@ -360,7 +360,7 @@ We finish up at Le Chamois and hit another local tavern called
 the Slot Bar. We walk in and I immediately fall in love. It's a narrow
 hole-in-the wall joint where everyone sitting at the bar seems to know each
 other. A place where you can get a pint of Montucky Cold
-Snacks for $3, a far cry from the $11 beers on the mountain. So we do just that.
+Snacks for \$3, a far cry from the \$11 beers on the mountain. So we do just that.
 One of the
 guys working notices the Bills toques that James and I are wearing and hits us
 with a Go Bills. He grew up in Buffalo and we discuss the upcoming

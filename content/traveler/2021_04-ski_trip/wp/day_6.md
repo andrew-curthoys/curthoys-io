@@ -57,7 +57,7 @@ Kevin!
 
 What an animal. I press him for details and the first incident happened on a camping trip with some friends. He had just procured a new campfire coffee maker and wanted to show off the new rig. He brewed up two pots of coffee and was rebuffed by all others when he offered the tasty brew. So Kevin being Kevin threw back 2 liters of joe before heading off on a hike. Well it didn’t take long for coffee to do what coffee does and while striding over a rock the floodgates opened. Yikes. The second time happened when he was in some town and tried to find the best Chinese restaurant. You can guess how that went.
 
-The rest of the conversation was not nearly as memorable. It’s about 10 minutes to the turnoff and another 5 up a windy mountain road to Kevin’s van. He thanks me and drops a $10 bill on the front seat and tells me to use it to buy a beer when I get to Hood River. I think I’ll do just that.
+The rest of the conversation was not nearly as memorable. It’s about 10 minutes to the turnoff and another 5 up a windy mountain road to Kevin’s van. He thanks me and drops a \$10 bill on the front seat and tells me to use it to buy a beer when I get to Hood River. I think I’ll do just that.
 
 As I pull out of the lot I get a brief moment of panic when I see my gas gauge sitting precariously close to E. I have 27 miles to Hood River and the car says I have a range of 33 miles. Let’s hope it’s accurate. I descend the mountain road and pull back out onto the highway. A few minutes later I see a clearing and pull off to get a photo of Mt. Hood. It really is stunning from this side - thanks for the tip Bruce. I can also see the route that Kevin took up the mountain, and it looks treacherous. Goodness gracious. I hop back in and about 20 minutes later I’m in Hood River, gas gauge showing a range of 27 miles. Glad that whole stretch was downhill.
 
@@ -69,7 +69,7 @@ As I pull out of the lot I get a brief moment of panic when I see my gas gauge s
 
 I park on the main drag and walk around a few blocks. It’s a nice, buzzy downtown area, complete with shops, restaurants, bars, and the occasional weird office for a lawyer or accountant. I wander around and see signs for Full Sail Brewing. Wait a second, they are based out of tiny ass Hood River, Oregon? I look it up and indeed, they are based out of tiny ass Hood River, Oregon. Who woulda thought. I walk over to the brewery and to my chagrin they aren’t open on Wednesdays. Damn, Deschutes and now this? You hate to see it.
 
-Luckily Double Mountain Brewing is across the street and I find an outdoor table in the shade. I order a Hop Lava Northwest IPA and some pretzel bites to tide me over until I get to Joanne’s. The pretzels make me thirsty and I slurp down the draft beer in good order. I remember the $10 Kevin gave me for the beer but the pretzels put my tab over that threshold. I charge the tab to my card and give the waitress the Kevin’s $10 as a tip. I hope she spends it on something ridiculous.
+Luckily Double Mountain Brewing is across the street and I find an outdoor table in the shade. I order a Hop Lava Northwest IPA and some pretzel bites to tide me over until I get to Joanne’s. The pretzels make me thirsty and I slurp down the draft beer in good order. I remember the \$10 Kevin gave me for the beer but the pretzels put my tab over that threshold. I charge the tab to my card and give the waitress the Kevin’s \$10 as a tip. I hope she spends it on something ridiculous.
 
 <h4 class="article-subheader" id="emerald">Emerald City Bound</h4>
 

@@ -91,7 +91,7 @@ Anyways the next step is to pick up the pig. Remember how I said we talked about
 a 120 lb pig? Well I get a text from Nate that casually says the hog is ready at
 the farm & it weighed in at 170 lbs. *170 lbs!!?? What the hell Nate?* We agreed
 on 120 lbs. How much longer will this beast take to cook? I was planning on 12
-hours but who knows with this monster. And seeing as we're dealing in a $/lb
+hours but who knows with this monster. And seeing as we're dealing in a \$/lb
 business here I'm going to have to outlay a good amount more cash than I had
 expected. Not a great start to the festivities.
 
@@ -236,7 +236,7 @@ or smoking this is the place to get it.
 </figure>
 
 Wood guy shows us the different sections, most of it is oak with a good amount
-of pecan and a bit of hickory. He charges me $50 and tells us about how much we
+of pecan and a bit of hickory. He charges me \$50 and tells us about how much we
 should take but doesn't seem too worried about it. He runs to make another
 delivery so Kyle and I are left to pile wood into the truck. My nerves
 adequately settled we make our way back to the house where we unload the wood

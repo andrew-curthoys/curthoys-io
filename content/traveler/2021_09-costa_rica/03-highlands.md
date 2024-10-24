@@ -127,7 +127,7 @@ Costa Rican pesos or whatever the hell. If I buy a beer and it's in the
 thousands I'm never going to figure that currency out. You could bamboozle me
 pretty easily by charging double for happy hour & I would have no idea.
 
-We have to put down a $1
+We have to put down a \$1
 deposit for a room key, but the idea of a key seems a little unnecessary given
 that our room has a window that you can just step through to get in.
 
@@ -173,7 +173,7 @@ volcanic eruption since records began in 1750. It towers over the town of La
 Fortuna, but is obscured from view most days due to clouds, as it has been since
 we arrived to town.
 
-We walk up to the main entrance and learn that the entrance fee is $20 and when
+We walk up to the main entrance and learn that the entrance fee is \$20 and when
 you're ballin on a budget that aggression will not stand, man. One of the German
 kids finds a spot where the trail is only ~20m from the main road so we illicitly
 duck into the forest & make it to the main trail pretty
@@ -292,7 +292,7 @@ The next morning we are discussing plans for an Uber when an Israeli gentleman
 named Nir overhears
 us and offers to give us a ride in his rental car. He was wanting to do the hike
 too and joins the crew. The ride to the park is short, where the guard at the little 
-parking hut charges us $12 and gives us directions to get to the trail. He tells
+parking hut charges us \$12 and gives us directions to get to the trail. He tells
 us that the trail goes a bit up the side of the volcano and ends at an
 observation point. This is where the trail officially ends and any hiking done
 above this point is illegal. If we choose to continue we are "on our

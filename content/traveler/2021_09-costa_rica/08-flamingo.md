@@ -149,7 +149,7 @@ infinity pool and great views. Well I'm sold. Everyone finishes their lunch
 and we pile into the van.
 
 We pull into the driveway and their description is accurate. Definitely a far
-cry from an $8/night hostel. The
+cry from an \$8/night hostel. The
 enormous foyer looks out over the mountains to Playa Flamingo and opens up to
 a kitchen that's bigger than most NYC apartments. But the real star of the show 
 is the pool.
