@@ -13,6 +13,7 @@ photo: xxxxx 60-dog.jpeg
 activity: 2024 Norwegian Sk&oslash;yestreker
 short_sum: xxxxx
 summary: xxxxx
+status: draft
 
 
 <h4 class="article-subheader">Sea Buckthorn</h4>
@@ -156,5 +157,16 @@ table for inspection." Kate drops her backpurse onto the table
 
 And with that bulletproof logic Kate slinks off tail between her legs to deposit
 her 2-strap bag into the lockers.
+
+On our escalator ride up to the exhibits I quickly check wikipedia for the
+definition of a backpack
+
+<div class="block-quote">
+A backpack—also called knapsack, schoolbag, rucksack, pack, booksack, bookbag,
+haversack or backsack—is, in its simplest frameless form, a fabric sack carried
+on one's back and secured with <b>two straps</b> that go over the shoulders; but
+it can have an external or internal frame, and there are bodypacks
+[emphasis mine].
+</div>
 
 Kate backpack

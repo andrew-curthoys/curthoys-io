@@ -13,6 +13,7 @@ photo: xxxxx 60-dog.jpeg
 activity: 2024 Norwegian Sk&oslash;yestreker
 short_sum: xxxxx
 summary: xxxxx
+status: draft
 
 {% import 'macros.html' as m %}
 

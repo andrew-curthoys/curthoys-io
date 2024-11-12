@@ -90,5 +90,7 @@ def filter_shuffle(seq):
     except:
         return seq
 
-JINJA_FILTERS = {'shuffle': filter_shuffle,
-                 'zip': zip}
+JINJA_FILTERS = {
+    'shuffle': filter_shuffle,
+    'zip': zip
+}

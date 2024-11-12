@@ -101,456 +101,50 @@
           <div class="row">
             <div class="pt-4">
               <h3 class="f-blue-grey">What I'm Reading</h3>
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9781524743031.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">Something Deeply Hidden: Quantum Worlds and
-                    the Emergence of Spacetime
-                  </h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Sean Carroll</p>
-                  <p>Physics</p>
-                  <p class="card-text mb-0">
-                  Sean Carroll is one of the best science communicators out
-                  there. This book is a distillation of his
-                  preferred interpretation of quantum physics, the "Many
-                  Worlds" interpretation. In contrast to the conventional
-                  "Copenhagen Interpretation", which hand-wavily claims
-                  that the Schr&ouml;dinger equation collapses when an observer
-                  makes a measurement, the Many Worlds interpretation insists
-                  that the Schr&ouml;dinger equation <i>always</i> holds - it's
-                  the <i>entire universe</i> that splits into separate copies.
-                  It's a trippy concept but Carroll, as always, does an expert
-                  job of making the most complex concepts in physics approachable.
-                  </i>
-                  </p>
-                  <a href="https://bookshop.org/p/books/something-deeply-hidden-quantum-worlds-and-the-emergence-of-spacetime-sean-carroll/10223344?ean=9781524743031" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780307455802.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">Dirt: Adventures in Lyon as a Chef in Training,
-                    Father, and Sleuth Looking for the Secret of French Cookin
-                  </h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Bill Buford</p>
-                  <p>Food</p>
-                  <p class="card-text mb-0">
-                  This one's been collecting dust on my bookshelf for a few years.
-                  I read Buford's earlier book, <i>Heat</i>, which chronicled
-                  his journey leaving a perfectly good job as an editor at
-                  <i>The New Yorker</i> to work as a line cook in a fancy NYC
-                  restaurant, which led to an Italian sojurn making artisanal pasta,
-                  and a stint with an authentic Italian butcher. This time
-                  it's France & he has a family in tow. Bill Buford is a madman
-                  and I will read anything he writes.
-                  </p>
-                  <a href="https://bookshop.org/p/books/dirt-adventures-in-lyon-as-a-chef-in-training-father-and-sleuth-looking-for-the-secret-of-french-cooking-bill-buford/13326148?ean=9780307455802" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
+              {% for book in DATA_BOOKS %}
+                {% if book.category == "reading" %}
+                  <div class="row g-0 rounded flex-md-row mb-5 position-relative">
+                    <div class="col-auto d-block p-3">
+                      <img class="bd-placeholder-img"  width="200" height="250" src={{ book.cover_image }} alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    </div>
+                    <div class="col px-4 pt-1 d-flex flex-column position-static">
+                      <h4 class="mb-0">{{ book.title }}</h4>
+                      <p class="fst-italic text-semimuted fs-5 mb-0">{{ book.author }}</p>
+                      <p>{{ book.genres }}</p>
+                      <p class="card-text mb-0">
+                        {{ book.summary }}
+                      </p>
+                      <a href="https://bookshop.org/p/books/something-deeply-hidden-quantum-worlds-and-the-emergence-of-spacetime-sean-carroll/10223344?ean=9781524743031" class="stretched-link fs-5">Find it here!</a>
+                    </div>
+                  </div>
+                {% endif %}
+              {% endfor %}
             </div>
           </div>
           <hr class="mt-4">
           <div class="row">
             <div class="pt-2">
               <h3 class="f-blue-grey">Reading Archive</h3>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780061136085.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">Chief Joseph & the Flight of the Nez Perce</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Kent Nerburn</p>
-                  <p>History; American Indigenous History</p>
-                  <p class="card-text mb-0">
-                  I did a book report on Chief Joseph in 6th grade. It was not
-                  on this book mostly because it was published when I was 18
-                  years old. I picked this up on a whim at
-                  <a href="https://www.lettersbookshop.com/" target="_blank" rel="noopener noreferrer">Letters Bookshop</a>,
-                  my outstanding local bookstore. Chief Joseph holds a venerated
-                  place in the American public consciousness that perhaps only
-                  Sitting Bull can rival. I was wholly unaware of the details of
-                  the Nez Perce War and I'm looking forward to understanding the
-                  details of a man who we've built up as a hero over the years.
-                  </p>
-                  <a href="https://bookshop.org/p/books/chief-joseph-the-flight-of-the-nez-perce-the-untold-story-of-an-american-tragedy-kent-nerburn/16596628?ean=9780061136085" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780385534260.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">The Wager: A Tale of Shipwreck, Mutiny, & Murder</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">David Grann</p>
-                  <p>History; Shipwrecks</p>
-                  <p class="card-text mb-0">
-                  This book was handed to me by my best good buddy Kyle as we
-                  were leaving Copenhagen in the summer of 2023. He had just
-                  finished it and apparently doesn't have the same hording
-                  instinct that I do. I started it on the return journey to the
-                  States & was immediately engrossed. From the author of the
-                  fabulous <i>Killers of the Flower Moon</i>, this tells the
-                  story of the shipwreck of a British man-of-war off the
-                  southern coast of Chile. Miraculously two separate castaway
-                  parties washed ashore months apart on opposite sides of the
-                  South American landmass. Shipwreck, mutiny, murder. What's not
-                  to love?
-                  </p>
-                  <a href="https://bookshop.org/p/books/the-wager-a-tale-of-shipwreck-mutiny-and-murder-david-grann/18732445?ean=9780385534260" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9781951213657.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">City of Blows</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Tim Blake Nelson</p>
-                  <p>Novel</p>
-                  <p class="card-text mb-0">
-                  I scooped this one up at Magic City Books during a trip to
-                  Tulsa for the 2023 NCAA Wrestling Championships. I originally
-                  heard of the book while listening to TBN on Mark Maron's
-                  WTF podcast & reckoned 'twould be nice to snag a novel from
-                  a fellow Tulsan while in Tulsa. A sharp critique of the
-                  Hollywood making machine, I'm excited to dive into Timmy
-                  Blake's debut novel.
-                  </p>
-                  <a href="https://bookshop.org/p/books/city-of-blows-tim-blake-nelson/18365485?ean=9781951213657" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9781335081117.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">Powder Days: Ski Bums, Ski Towns, and the Future of Chasing Snow</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Heather Hansman</p>
-                  <p>Skiing</p>
-                  <p class="card-text mb-0">
-                  The ski bum. How much is legend, how much is fact? What
-                  are the roots of the men (and they were mostly men) who scratched
-                  out a living on the periphery of ski towns just to experience
-                  the momentary surge of adrenaline that comes with ripping the
-                  perfect line on a powder day. Hansman talks to what seems like
-                  the last of a dying breed to discover the history, the stories,
-                  the secrets of the iconic ski bum. With the corporatization of the
-                  ski industry is there even a place for the ski bum anymore?
-                  </p>
-                  <a href="https://bookshop.org/p/books/powder-days-ski-bums-ski-towns-and-the-future-of-chasing-snow-heather-hansman/15926526?ean=9781335081117" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9781439170915.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">The Emperor of All Maladies: A Biography of Cancer</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Siddhartha Mukherjee</p>
-                  <p>Medicine; Science; Medical History</p>
-                  <p class="card-text mb-0">
-                  A disease as old as humanity, tumors have been found in fossilized
-                  remains of our ancestors that were walking the Earth thousands
-                  of years ago. In this epic work, Mukherjee guides the reader
-                  on a journey to the beginnings of our understanding of this disease
-                  (we meet Galen of course), the long standing attempt to find a
-                  cure, and the current state of cancer research. We make detours
-                  through Halstead's ill advised radical mastectomy, the advances,
-                  setbacks, and deadends of chemotherapy, and the retrospectively
-                  wasteful and premature War on Cancer. This is truly a masterpiece
-                  and a must read for the layman to understand the difficulties
-                  and complexities of dealing with a disease as obstinately
-                  pernicious as cancer.
-                  </p>
-                  <a href="https://bookshop.org/p/books/the-emperor-of-all-maladies-a-biography-of-cancer-siddhartha-mukherjee/15283370?ean=9781439170915" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-              
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780316392426.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">Calypso</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">David Sedaris</p>
-                  <p>Humor; Essays</p>
-                  <p class="card-text mb-0">
-                  You'd be hard pressed to find a funnier writer than David Sedaris.
-                  He makes the most mundane aspects of the modern human experience
-                  brutally hilarious with an acerbic wit and matter-of-fact delivery.
-                  From the highs and lows of a large Greek family, to the loss of
-                  a sibling, Sedaris brings his unique perspective and storytelling
-                  to even the darkest of topics. I nearly read this cover to cover
-                  on a flight. Do yourself a favor and grab it today.
-                  </p>
-                  <a href="hhttps://bookshop.org/p/books/powder-days-ski-bums-ski-towns-and-the-future-of-chasing-snow-heather-hansman/15926526?ean=9781335081117" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9781984878106.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">Think Again: The Power of Knowing What You Don't Know</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Adam Grant</p>
-                  <p>Psychology; Personal Growth</p>
-                  <p class="card-text mb-0">
-                  Organizational psychologist Adam Grant of TED Talk fame dives
-                  into commonly held beliefs and urges the reader to *ahem*
-                  <i>think again</i>. The ideas are fresh, though I wouldn't
-                  imagine anybody under 40 would consider them revolutionary.
-                  There are a few good tidbits in there but I think an
-                  introspective personality would arrive at the same conclusions
-                  as Dr. Grant. But maybe that's what led him to compile the
-                  mounds of research to back up his points in the first place.
-                  In any case his writing style is light and informal, with a
-                  flippant sense of humor that I appreciate. I'd like to see
-                  what a more headstrong personality would think of it.
-                  </p>
-                  <a href="https://bookshop.org/p/books/think-again-the-power-of-knowing-what-you-don-t-know-adam-grant/15174400?ean=9781984878106" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780143108146.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">Bourbon Empire: The Past & Future of America's Whiskey</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Reid Mitenbuler</p>
-                  <p>History; Booze</p>
-                  <p class="card-text mb-0">
-                    That bottle of whiskey sitting on your bar cart with a photo
-                    of a bearded ol' settler and a story about how the recipe
-                    for this particular hooch has been passed down by pappys for
-                    generations? Well that's all bullshit. That's not to say it
-                    ain't good whiskey. It's just that nearly all whiskeys can
-                    only trace their origins to the 20th century, plus the vast
-                    majority are only made by a handful of mega-conglomerate
-                    distillers with technology that would make NASA mission
-                    control blush. Mitenbuler traces the earliest iterations of
-                    fermenting corn, the All-American grain, through to present
-                    day. Your Jim Beams, your Evan Williamses, your Makers Marks,
-                    they are all represented, as well as the burgeoning "craft"
-                    whiskey market, aiming to cater to traditional methods and
-                    local ingredients. This book earns a full 5 Old Fashioneds
-                    from me.
-                  </p>
-                  <a href="https://bookshop.org/p/books/bourbon-empire-the-past-and-future-of-america-s-whiskey-reid-mitenbuler/11706776?ean=9780143108146" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9781476730400.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">The Disaster Artist: My Life Inside <i>The Room</i>, the Greatest Bad Movie Ever Made</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Reid Mitenbuler</p>
-                  <p>Biography; History; Film</p>
-                  <p class="card-text mb-0">
-                    <i>I did not hit her, it's not true! It's bullshit! I did
-                      not hit her, I did <b>nottt!</b> Oh hi Mark!
-                    </i>
-                    And so goes one of the most (in)famous lines of *The Room*,
-                    possibly the worst movie of all time with the grandest of
-                    aspirations. I was lucky enough to watch a live screening of
-                    *The Room* at the Carolina Theatre with commentary and Q&A
-                    from Greg Sestero, the author & portrayer of Mark. I'd been
-                    wanting to watch the movie for quite a few years because I'd
-                    heard how terrible it was and boy was I not disappointed.
-                    Greg even signed my book "Oh hi, Andrew," which was a nice
-                    touch that he's probably done thousands of times. The book
-                    is a fascinating look into the process of making a movie
-                    with one of the strangest specimens of *Homo Sapiens* to ever
-                    walk the planet, who legitimately might be a vampire.
-                  </p>
-                  <a href="https://bookshop.org/p/books/the-disaster-artist-my-life-inside-the-room-the-greatest-bad-movie-ever-made-tom-bissell/10348609?ean=9781476730400" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780140042597.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div> 
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">On the Road</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Jack Kerouac</p>
-                  <p>Fiction; Roman &agrave; Clef; Beat</p>
-                  <p class="card-text mb-0">
-                    As unlikely as it may seem, I was largely unaware of this
-                    book before setting off on my 11,000 mile ski journey. I
-                    knew Jack Kerouac was a famous American writer & <i>On the
-                    Road</i> was perhaps his most well known work. Presumably
-                    about being on the road. But that's all I knew. As I read it
-                    I am delighted at some of the similarities between his
-                    journeys and my own. Mine, of course, involve much less
-                    hitchhiking. But while I was not <i>directly</i> influenced by this
-                    book, I was certainly <i>indirectly</i> influenced. I can almost
-                    guarantee that my travel writing spirit animal, Bill Bryson,
-                    drew inspiration from this novel, as well as the many others
-                    that undeniably did the same.
-                  </p>
-                  <a href="https://bookshop.org/books/on-the-road-9781470833848/9780140042597" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>             
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780440180296.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">Slaughterhouse 5</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Kurt Vonnegut</p>
-                  <p>Fiction; Dark Comedy; Satire; History</p>
-                  <p class="card-text mb-0">
-                    Time travel and alien encounters are not what you'd expect
-                    from an anti-war novel by an author who lived through the
-                    horrors of the fire bombing of Dresden. But that's exactly
-                    what we have here. A younger me would have taken it at face
-                    value & just said "well that's a weird book." However, when
-                    you realize what he's trying to tell you through these
-                    narrative devices (it's really not that thinly veiled) you
-                    begin to realize the absurdity of the human condition.
-                    His insouciant tone throughout somehow makes the senseless
-                    bloodshed even more heartbreaking. So it goes.
-                  </p>
-                  <p class="pt-3">
-                    <i>That's one thing earthlings might learn to do, if they
-                    tried hard enough: ignore the awful times, and concentrate
-                    on the good ones</i>
-                  </p>
-                  <a href="https://bookshop.org/books/slaughterhouse-five-or-the-children-s-crusade-a-duty-dance-with-death/9780440180296" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780743273565.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">The Great Gatsby</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">F. Scott Fitzgerald</p>
-                  <p>Fiction</p>
-                  <p class="card-text mb-0">
-                    The Great American Novel is, well, great. An captivating
-                    story about nostalgia and the insatiable quest for something
-                    that once was. Or perhaps never was. Set against the
-                    excesses of 1920s New York, there's a reason this book has
-                    stood the test of time.
-                  </p>
-                  <a href="https://bookshop.org/books/the-great-gatsby-9780008509491/9780743273565" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9781400032051.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">1491</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Charles C. Mann</p>
-                  <p>History</p>
-                  <p class="card-text mb-0">
-                    I found this title in the visitor center at Redwood National
-                    Park. I was on the lookout for a book related to the
-                    way of life of the indigenous peoples of the Redwood forests,
-                    and while this is a more general overview of all
-                    civilizations of the American continents, I deemed it worthy
-                    of my interest. Mann's main thesis is centered on the
-                    historical underestimation of the level that indigenous
-                    societies molded the environment to suit their needs. The
-                    conception by many of a "pristine" pre-Columbian American
-                    continent is turned on its head. Mann goes a little too
-                    deep into the weeds on some stories that aren't as relevant
-                    to the overall theme of the book, but aside from that it's
-                    an illuminating read on the early history of the peoples
-                    of the Western Hemisphere.
-                  </p>
-                  <a href="https://bookshop.org/books/1491-second-edition-new-revelations-of-the-americas-before-columbus/9781400032051" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780062997456.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">First Principles</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Thomas E. Ricks</p>
-                  <p>History</p>
-                  <p class="card-text mb-0">
-                    I'm on an early American history kick right now & happened
-                    across this title while perusing the shelves at Magic City
-                    Books in Tulsa. It's a really great look into the influence
-                    that the ancient scholars of Greece & Rome had on the
-                    Founding Fathers. My only minor quibbles are a bit of editorializing at the
-                    beginning that I didn't really care for (although I do
-                    agree with him) and a bit in the middle about
-                    Washington's military history that I found fascinating but
-                    didn't seem to flow with the thesis of the book, but those
-                    are minor qualms in an otherwise outstanding read. My
-                    used bookstore list has grown substantially from reading
-                    this book.
-                  </p>
-                  <a href="https://bookshop.org/books/first-principles-what-america-s-founders-learned-from-the-greeks-and-romans-and-how-that-shaped-our-country/9780062997456" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780812976847.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">Plain, Honest Men</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Richard Beeman</p>
-                  <p>History</p>
-                  <p class="card-text mb-0">
-                    A fascinating look at the Constitutional Convention of 1787
-                    that led to our nation's founding document. While the
-                    Constitution today is often viewed with a reverence
-                    typically reserved for divinely inspired texts, the gritty
-                    details shed a light on the divides between delegates from
-                    large states vs small states, Northern states vs
-                    Southern states and the compromises reached in the effort to
-                    form a more perfect union.
-                  </p>
-                  <a href="https://bookshop.org/books/plain-honest-men-the-making-of-the-american-constitution/9780812976847" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
-
-              <div class="row g-0 rounded flex-md-row mb-5 position-relative">
-                <div class="col-auto d-block p-3">
-                  <img class="bd-placeholder-img"  width="200" height="250" src="https://images-us.bookshop.org/ingram/9780374175337.jpg?height=500&v=v2" alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
-                </div>
-                <div class="col px-4 pt-1 d-flex flex-column position-static">
-                  <h4 class="mb-0">Impossible Owls</h4>
-                  <p class="fst-italic text-semimuted fs-5 mb-0">Brian Phillips</p>
-                  <p>Essays</p>
-                  <p class="card-text mb-0">
-                    A globetrotting collection of essays from fellow Okie and 
-                    master storyteller Brian Phillips, formerly of Grantland
-                    & MTV News. Each essay takes the reader on an adventure to a
-                    part of the globe that's overlooked, undervalued, or
-                    completely unknown to the rest of the world. Talking about
-                    the book with a friend, I said that his writing is
-                    "mesmerizing and ordinary at the same time," a perfect
-                    companion on the NYC subway.
-                  </p>
-                  <a href="https://bookshop.org/books/impossible-owls-essays/9780374175337" class="stretched-link fs-5">Find it here!</a>
-                </div>
-              </div>
+              {% for book in DATA_BOOKS %}
+                {% if book.category != "reading" %}
+                  <div class="row g-0 rounded flex-md-row mb-5 position-relative">
+                    <div class="col-auto d-block p-3">
+                      <img class="bd-placeholder-img"  width="200" height="250" src={{ book.cover_image }} alt="Book Cover" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    </div>
+                    <div class="col px-4 pt-1 d-flex flex-column position-static">
+                      <h4 class="mb-0">{{ book.title }}</h4>
+                      <p class="fst-italic text-semimuted fs-5 mb-0">{{ book.author }}</p>
+                      <p>
+                        {{ book.genres | join("; ") }}
+                      </p>
+                      <p class="card-text mb-0">
+                        {{ book.summary }}
+                      </p>
+                      <a href="https://bookshop.org/p/books/something-deeply-hidden-quantum-worlds-and-the-emergence-of-spacetime-sean-carroll/10223344?ean=9781524743031" class="stretched-link fs-5">Find it here!</a>
+                    </div>
+                  </div>
+                {% endif %}
+              {% endfor %}
             </div>
           </div>
         </div>

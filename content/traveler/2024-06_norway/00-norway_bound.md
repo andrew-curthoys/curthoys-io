@@ -13,6 +13,7 @@ photo: xxxxx 60-dog.jpeg
 activity: 2024 Norwegian Sk&oslash;yestreker
 short_sum: Headed to Norway... Again
 summary: x
+status: draft
 
 <h4 class="article-subheader">Are You Following Me?</h4>
 I glance up from my book to see my good ol friend Zach looking down at me with a

@@ -12,13 +12,13 @@ C-F are separate files located below the main document.
 <center>
   <div style="width:100%; min-height:100vh;">
     <object
-      data='/theme/images/career/TCPD Solar Paper- Final Draft.pdf'
+      data="/theme/images/career/TCPD Solar Paper- Final Draft.pdf"
       type="application/pdf"
       style="width:100%; height:90vh"
     >
       <p>Looks like you don't have a PDF plugin installed for this browser.
-        <a href='/theme/images/career/TCPD Solar Paper- Final Draft.pdf'>Click
-        here to download the PDF file.</a>
+        <embed href='/theme/images/career/TCPD Solar Paper- Final Draft.pdf'/>Click
+        here to download the PDF file.
     </object>
   </div>
 </center>

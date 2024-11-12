@@ -13,6 +13,7 @@ photo: xxxxx 60-dog.jpeg
 activity: 2024 Norwegian Sk&oslash;yestreker
 short_sum: xxxxx
 summary: xxxxx
+status: draft
 
 {% import 'macros.html' as m %}
 
@@ -347,8 +348,8 @@ power the motor needs to provide is the difference in weight of the two cars
 in the system.
 
 <figure class="figure container">
-  <object type="image/svg+xml" data="/theme/images/traveler/2024-06_norway/01-bergen_funicular.svg" width="100%">
-    Your browser does not support SVG, but it was a pretty cool animation of some
+  <object type="image/svg+xml" data="/theme/images/traveler/2024-06_norway/01-bergen_funicular.svg" width="100%">    Your browser does not support SVG, but it was a pretty cool animation of some
+
     cool trains.
   </object>
   <figcaption class="figure-caption">
@@ -362,7 +363,10 @@ The panoramic vista
 
 Soaking in the experience
 
-In our meanderings we happen upon a small building with a 
+In our meanderings we happen upon a small building with a sign posted on the
+side that says "Say hi to the goats" and photos of 10 goats named Pippi,
+Waldemar, Fl&oslash;ydis, Alex, Fr&oslash;ya, Ferdinand, Stjerna, Gucci, Trym,
+and, of course, Spot. 
 
 
 <h4 class="article-subheader">Fjord Fordin'</h4>
