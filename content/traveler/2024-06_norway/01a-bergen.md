@@ -13,7 +13,6 @@ photo: xxxxx 60-dog.jpeg
 activity: 2024 Norwegian Sk&oslash;yestreker
 short_sum: xxxxx
 summary: xxxxx
-status: draft
 
 {% import 'macros.html' as m %}
 
@@ -23,31 +22,44 @@ Wait....
 
 What??
 
-Jill is nearly shaking from a confusing mixture of embarrassment, bewilderment,
-and based on what she's soon to tell us, pity.
+Trembling, Jill falls into her chair at Zachariasbryggen in the heart of
+downtown Bergen, reeling from an experience that left her spinning in a
+confusing maelstrom of embarrassment, bewilderment, and based on what she's soon
+to tell us, pity.
 
-"Ok... so Michael said the bathrooms were out and to the right so I went out and
-to the right...
-
-and there was no bathroom...
-
-so I went down one floor and *then* to the right...
-
-and there was no bathroom...
-
-I saw signs for toilets but there were no toilets! It was so confusing! So I
-turned the corner and pushed open the first door that looked like a bathroom -
-with no gender markings whatsoever - and saw two old guys with their penises
-flopped right out there in the open!"
-
-"Oh my god are you serious!!??"
-
-"Yeah do guys just pee with their dicks out like that? What the hell.... Why did
-you tell me to go that way, Michael?"
-
-"I've never been here, why would you trust me?"
-
-"MICHAEL!!!"
+<div class="block-quote">
+  <p>
+		"Ok... so Michael said the bathrooms were out and to the right so I went out and
+		to the right...
+	</p>
+  <p>
+		and there was no bathroom...
+	</p>
+		so I went down one floor and *then* to the right...
+  </p>
+	<p>
+		and there was no bathroom...
+  </p>
+	<p>
+		Then I saw signs for toilets but there were no toilets! It was so confusing! So I
+		turned the corner and pushed open the first door that looked like a bathroom -
+		with no gender markings whatsoever - and saw two old guys with their penises
+		flopped right out there in the open!"
+  </p>
+	<p>
+		"Oh my god are you serious!!??"
+  </p>
+	<p>
+		"Yeah do guys just pee with their dicks out like that? What the hell.... Why did
+		you tell me to go that way, Michael?"
+  </p>
+	<p>
+		"I've never been here, why would you trust me?"
+  </p>
+	<p>
+		"MICHAEL!!!"
+	</p>
+  </div>
 
 
 <h4 class="article-subheader">We Just Landed!!!"</h4>
@@ -86,43 +98,155 @@ wheels of a Boeing 787 Dreamliner touched down at Oslo Gardermoen Airport.
 				Omg that's amazing
 			</div> 
 		</div>
+		<div class="yours messages">
+			<div class="message last">
+				Jill not so much. Michael slept great too and feeling energized!!
+			</div>
+		</div>
+		<div class="mine messages">
+			<div class="message last">
+				Aww poor Jill &#x1F622;
+			</div>
+		</div>
 	</div>
 </div>
 
-<br>
+While the crew deplanes I put the finishing touches on the day's crossword aided
+by the last remnants of my coffee. As an aside, I find it a sad state of affairs
+when Norwegian airport coffee is considerably superior to nearly all coffee you
+get in the states. Thanks Charbucks.
+
+Anyways, just as I'm about to traverse across the terminal to greet our
+Transatlantic Travelers I receive another text from Shannon,
+
+<div class="sms">
+	<div class="chat">
+		<div class="yours messages">
+			<div class="message last">
+				Are you at the airport? We just got in the passport line
+			</div> 
+		</div>
+		<div class="mine messages">
+			<div class="message last">
+				Yeah I just grabbed a cup of coffee & headed to meet you at arrivals!
+			</div> 
+		</div>
+		<div class="yours messages">
+			<div class="message last">
+				Ok, well it might be a while, the line looks v long
+			</div>
+		</div>
+		<div class="mine messages">
+			<div class="message last">
+				Oof yeah it was really long for me too &#x1F629;
+			</div> 
+		</div>
+		<div class="yours messages">
+			<div class="message last">
+				We're still decently far back. There's only two stations open
+			</div>
+		</div>
+		<div class="mine messages">
+			<div class="message last">
+				Yikes
+			</div> 
+		</div>
+	</div>
+</div>
+
+<h4 class="block-quote">30 minutes later....</h4>
 
 <div class="sms">
 	<div class="chat">
 		<div class="yours messages">
 			<div class="message">
-				Are you at the airport? We just got in the passport line
+				This is sooooooo slow
 			</div> 
 			<div class="message last">
-				Yeah I just got here a few 
+				This line is crazzzzzzzzy it still feels like we're v far away from the
+				front
 			</div> 
 		</div>
 		<div class="mine messages">
 			<div class="message last">
-				Welcome to Norway!!! 
+				Ughhhh
+			</div>
+		</div>
+	</div>
+</div>
+
+<h4 class="block-quote">30 minutes later....</h4>
+
+<div class="sms">
+	<div class="chat">
+		<div class="yours messages">
+			<div class="message">
+				This is so frustrating &#x1F621;
+			</div> 
+			<div class="message last">
+				How long did it take you to get through?
+			</div> 
+		</div>
+		<div class="mine messages">
+			<div class="message">
+				About an hour
+			</div>
+			<div class="message last">
+				When I came last year it was like 10 minutes
+			</div>
+		</div>
+		<div class="yours messages">
+			<div class="message">
+				It's going to take us 2 hours to make it through this line. So insane
+			</div>
+			<div class="message last">
+				Why do I have worst travel luck &#x1F62D;
+			</div>
+		</div>
+	</div>
+</div>
+
+<h4 class="block-quote">30 minutes later....</h4>
+
+<div class="sms">
+	<div class="chat">
+		<div class="yours messages">
+			<div class="message">
+				I don't think we'll make it out of this damn line in time
+			</div> 
+			<div class="message last">
+				I think the baggage drop for our flight to Bergen closes in 10 minutes
+			</div> 
+		</div>
+		<div class="mine messages">
+			<div class="message last">
+				Should I go talk to SAS to reschedule?
+			</div>
+		</div>
+		<div class="yours messages">
+			<div class="message">
+				Yeah you should
+			</div>
+			<div class="message last">
+				Tell them to wait for us &#x1F61C;
 			</div>
 		</div>
 	</div>
 </div>
 
 
-The process for rebooking was startlingly smooth; my initiation to the process,
-however, was less than encouraging. As I ascended the escalator to the
+The process to rebook was startlingly smooth; when I arrived at the counter I
+thought it would be anything but. As I ascended the escalator to the
 departures gallery I was confronted with the maelstrom of humanity that tends
 to agglomerate at the transportation chokepoints of our global economy. Lines
 snaking, nerves fraying, masses huddling. I wove my way through crowds whose
 faces have been locked in a state of anguish so long they've acquired
 an air of acceptance. *I live at this airport now* energy is a real buzzkill.
 
-So I was especially dismayed to perambulate upon the SAS customer service booth
-thronged with a horde of frazzled travelers. As I hesitantly approached
-the scrum, cautious to hide my cheery demeanor afforded by a few nights of good
-sleep and the imminent reunion with my sweetie and some dear friends, my
-advanced height afforded a favorable vantage to observe the focus of the
+So my disposition was was already bleak as I perambulated upon a SAS customer
+service booth thronged with a horde of frazzled travelers. As I hesitantly
+approached the scrum, my advanced height afforded a favorable vantage from which
+to observe the locus of the
 collective's attention. A stylized aluminum monolith brandished with the
 italic uppercase blue
 <span style="color:#2B3087; font-style:italic; font-weight:bold;">SAS</span>
