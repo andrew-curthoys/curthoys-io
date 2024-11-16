@@ -24,7 +24,7 @@ What??
 
 Trembling, Jill falls into her chair at Zachariasbryggen in the heart of
 downtown Bergen, reeling from an experience that left her spinning in a
-confusing maelstrom of embarrassment, bewilderment, and based on what she's soon
+confusing whirlwind of embarrassment, bewilderment, and based on what she's soon
 to tell us, pity.
 
 <div class="block-quote">
@@ -236,21 +236,21 @@ Transatlantic Travelers I receive another text from Shannon,
 
 
 The process to rebook was startlingly smooth; when I arrived at the counter I
-thought it would be anything but. As I ascended the escalator to the
-departures gallery I was confronted with the maelstrom of humanity that tends
-to agglomerate at the transportation chokepoints of our global economy. Lines
+thought it would be anything but. Ascending the escalator to the departures
+gallery I'm confronted with the typical roiling swarm of humanity that
+agglomerates at transportation chokepoints in our global economy. Lines
 snaking, nerves fraying, masses huddling. I wove my way through crowds whose
-faces have been locked in a state of anguish so long they've acquired
-an air of acceptance. *I live at this airport now* energy is a real buzzkill.
+faces have been locked in a state of anguish so thoroughly complete that
+they've acquired an air of acceptance. *I live at this airport now* energy is a
+real buzzkill.
 
-So my disposition was was already bleak as I perambulated upon a SAS customer
+So my disposition is already bleak as I perambulate upon a SAS customer
 service booth thronged with a horde of frazzled travelers. As I hesitantly
-approached the scrum, my advanced height afforded a favorable vantage from which
-to observe the locus of the
-collective's attention. A stylized aluminum monolith brandished with the
-italic uppercase blue
+approach the scrum my advanced height affords a favorable vantage from which
+to observe the locus of the collective's attention: a stylized aluminum
+monolith brandished with the italic uppercase blue
 <span style="color:#2B3087; font-style:italic; font-weight:bold;">SAS</span>
-logo bolstered a Microsoft Surface tablet in the middle stages of a hard reset.
+logo shouldering a Microsoft Surface tablet in the middle stages of a hard reset.
 
 Beside the apparatus stood a SAS customer service representative in a smart,
 light blue skirt suit with a tight ponytail and strained smile that suggests,
@@ -269,16 +269,17 @@ press the button and a slip of paper gurgitates from the mouth of the contraptio
 **B103**
 
 I pause for a moment to revel in the absurdity of this moment. Scandinavian
-Airlines is employing a device with more computing power than
-existed on earth when we put a man on the moon to serve the same function as a
-roll of perforated paper at a deli counter.
+Airlines is employing a device to serve as a glorified roll of perforated paper
+at a deli counter with more computing power than existed on Earth when we put a
+man on the moon.
 
 The society of automated machines whirring about in Kurt Vonnegut's 1952 novel
-*Player Piano* in the front sleeve of my backpack feels painfully prescient at this
-moment. 
+*Player Piano* in the front sleeve of my backpack feels painfully on-the-nose at
+this moment. 
 
-I wait about 5 minutes, watching the LED ticker above the booths smoothly
-increment their tally through the upper nineties until it reads **B103**.
+I press the button, pull a slip and wait about 5 minutes, watching the TV
+display above the service counter smoothly
+increment through the upper nineties until it reads **B103**.
 
 "Hi, I'm on the 3 PM flight to Bergen with 3 friends but they are still stuck
 in the customs line. We're not going to be able to make our flight, would it be
@@ -380,7 +381,7 @@ of Grimstad. Jill settles on the Rygene Lager, described in the menu by what I'm
 assuming is the effluence of a hastily presented google translate query as a
 *"Fantastic, refreshing lager made with a dedication for us"*.
 
-Finally, the fellas, feelin' rascally, order a couple of 11.5% ham sammiches.
+Finally, the fellas, feelin' rascally, order a couple of 11.5% ABV ham sammiches.
 Michael, the Three Sheets strong ale, and yours truly opting for the Wegelage
 spontaneous ale brewed with "Norwegian floor malted barley, wheat, oats, and
 sweet cherries from Frederiksdal."
@@ -584,14 +585,15 @@ and I can almost assuredly predict an approaching tunnel: every time Shannon
 starts a video we're inevitably seconds away from a tunnel.
 
 As our red Toyota Corolla Cross begins its final descent to our destination 
-the crimson steed emerges from a tunnel to a valley that draws our gaze frontward.
+the crimson steed emerges from a tunnel into a steep-walled valley that snaps
+our gaze frontward.
 
-"This must be the *Valley of the Waterfalls* I read about," Jill declares, the
-only one of us who has done advanced scouting of the area.
+"This must be the *Valley of the Waterfalls*," Jill declares, the
+only one of us who has done any advanced scouting.
 
-On either side of the wide valley sprawled before us torrents of water cascade
-from their heavenly perch. 
-
+If it weren't the majestic torrents of water cascading from both sides of the
+jagged chasm stretched before us I would have thought she was talking about an
+entry on Reese's Witherspoon's book list.
 
 The final tunnel before Fl&aring;m bores 7 miles through the precambrian gneiss
 of the southern Scandinavian Mountains, making it the third longest
