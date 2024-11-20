@@ -47,19 +47,12 @@ to tell us, pity.
 		flopped right out there in the open!"
   </p>
 	<p>
-		"Oh my god are you serious!!??"
+		"Like, what the fuck? How did that happen... And do guys just pee with their
+		dicks out like that?... Why did you tell me to go that way, Michael?"
   </p>
-	<p>
-		"Yeah do guys just pee with their dicks out like that? What the hell.... Why did
-		you tell me to go that way, Michael?"
-  </p>
-	<p>
-		"I've never been here, why would you trust me?"
-  </p>
-	<p>
-		"MICHAEL!!!"
-	</p>
-  </div>
+</div>
+
+"I've never been here, why would you trust me?"
 
 
 <h4 class="article-subheader">We Just Landed!!!"</h4>
@@ -369,7 +362,7 @@ century.
 
 All this traveling has worked up an appetite so we duck into Bryggeriet Gastropub
 at the southernmost terminus of the harbor. The host leads us to a capacious
-live edge wooden table situated against a long leather booth festooned with
+live-edge wooden table situated against a long leather booth festooned with
 pelts from unidentified mammals on each seat.  At the far end of the table
 floor-to-ceiling windows facilitate panoramic views of the harbor and the 9
 o'clock sun hanging high in the sky.
@@ -378,8 +371,8 @@ We begin, naturally, with a round of suds. Shannon opts for the Kjaugutt Amber
 Ale from 7 Fjell Bryggeri of Bergen, our only local selection. The rest of us
 choose offerings from N&oslash;gne &Oslash;, a brewery in the small seaside town
 of Grimstad. Jill settles on the Rygene Lager, described in the menu by what I'm
-assuming is the effluence of a hastily presented google translate query as a
-*"Fantastic, refreshing lager made with a dedication for us"*.
+assuming is the effluence spilling forth from a hastily presented google
+translate query as a *"Fantastic, refreshing lager made with a dedication for us"*.
 
 Finally, the fellas, feelin' rascally, order a couple of 11.5% ABV ham sammiches.
 Michael, the Three Sheets strong ale, and yours truly opting for the Wegelage
@@ -390,7 +383,6 @@ sweet cherries from Frederiksdal."
 And this is where Jill is introduced
 to the *urinal trough*, the most efficient expulsion of effluent in civilized
 society.
-
 
 
 <h4 class="article-subheader">Trains Are So Cool</h4>
@@ -484,23 +476,23 @@ in the system.
 </figure>
 
 Atop the train we venture out onto a multi-level promenade overlooking the city.
-The panoramic vista 
-
-Soaking in the experience
+Approaching the precipice of the panoramic vista renders the group speechless.
+An entire city going about their business down there. Don't they know how
+beautiful it is up here? I convince myself that Norwegians are the hardest
+working people on earth. There's no way I could ever bring myself to work in
+this environment. It's so stunning I'd just waste away, asking passersby *can
+you believe this view??*
 
 In our meanderings we happen upon a small building with a sign posted on the
 side that says "Say hi to the goats" and photos of 10 goats named Pippi,
 Waldemar, Fl&oslash;ydis, Alex, Fr&oslash;ya, Ferdinand, Stjerna, Gucci, Trym,
-and, of course, Spot. 
+and, of course, Spot.
 
 
 <h4 class="article-subheader">Fjord Fordin'</h4>
-Our plan for the day following our stay in Bergen involves a hike. That's about
-the extent of my knowledge of the plans, I'm just along for the ride. Thankfully
-I brought hiking boots for just this occasion.
-
-We mosey about after our late night enjoying the midnight sun and spill onto
-the streets of Bergen just before checkout time. We make our way to G&oslash;dt
+We take our time rousing ourselves after our late night enjoying the midnight
+sun. Haphazardly packed, we spill onto the streets of Bergen just before
+checkout time. After a bit of moseying we make our way to G&oslash;dt
 Br&oslash;d for some breakfast and coffee. Seeing as it's nearly noon our
 breakfast consists of deli sandwiches hand crafted to order by perhaps the
 nicest Gen Z'er to ever slap mayonnaise on focaccia.
@@ -525,10 +517,10 @@ with a tight smile Shannon bordering on condescension,
 {{ m.divider() }}
 
 Sated and over caffeinated, we walk back to the car in the rain. From all accounts
-this seems to be the default weather pattern in Bergen. sitting directly in the
-path of moist air from the gulf stream. The rain holds for the first two hours
-of the three hour drive to Fl&aring;m, blanketing our view of the fjords
-between the myriad tunnels (more than 30 along the route)
+this seems to be the default weather pattern in Bergen. Like a sitting duck in
+the direct line of fire of the gulf stream's moist air. The rain continues for
+the first two hours of the three hour drive to Fl&aring;m, blanketing our view
+of the fjords between the myriad tunnels (more than 30 along the route).
 
 As we approach the eastern flank of the *Sognefjord* the rain slowly begins to
 lift and we catch our first glimpses of the majesty of the fjords.
@@ -536,13 +528,27 @@ lift and we catch our first glimpses of the majesty of the fjords.
 Our jaws slack agape 'neath steep walled canyons flanking placid emerald wa-
 
 <div class="text-center mb-2 fst-italic">
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
 </div>
 
 -ters
@@ -551,30 +557,66 @@ Rocky outcrops reaching their craggy promontories to the sky
 
 Lush carpets of tr-
 
-<div class="text-center mb-2 fst-italic">
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
+<div class="tunnel skewed">
+<div style="margin-right: 75%;">
+	TUNNEL
+</div>
+<div style="margin-right: 70%;">
+	TUNNEL
+</div>
+<div style="margin-right: 64%;">
+	TUNNEL
+</div>
+<div style="margin-right: 55%;">
+	TUNNEL
+</div>
+<div style="margin-right: 46%;">
+	TUNNEL
+</div>
+<div style="margin-right: 35%;">
+	TUNNEL
+</div>
+<div style="margin-right: 26%;">
+	TUNNEL
+</div>
+<div style="margin-right: 20%;">
+	TUNNEL
+</div>
+<div style="margin-right: 15%;">
+	TUNNEL
+</div>
 </div>
 
+<div class="mx-5 mb-5">
 -ees as far as the eye can see
+</div>
 
 Mountain crests covered in moss
 
 Waterfalls tracing magnificent arcs from the tops of cli-
 
 <div class="text-center mb-2 fst-italic">
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
-TUNNEL<br>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
+<p>
+	TUNNEL
+</p>
 </div>
 
 -ffs
@@ -605,4 +647,8 @@ moment. As Jill later discovers, the lights were installed to break up the
 monotony of the miles upon miles of gray tunnel walls.
 
 Finally, our red Toyota rumbles from the eastern end of the 3.1 mile
-Flenjatunnelen above the pastoral fjordtown of Fl&aring;m.
+Flenjatunnelen above the pastoral fjordtown of Fl&aring;m. Outstretched before
+us lies the southeastern extent of the *Sognefjord*, our majestic playground for
+the next 3 days.
+
+Let's play

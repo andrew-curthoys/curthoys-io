@@ -22,15 +22,15 @@ summary: xxxxx
 Heaved to the heavens
 soaring palisades
 walking in the clouds
+right hand of Odin
 
 7
 Explore their lofty kingdom
+Squishy slosh mountaintop swamp
 swamp on the roof of the world
 
-Asgard at the right hand of Odin
-Squishy slosh of the mountaintop swamp.
+Asgard at the 
 
-swamp on the roof of the world
 elysian sanctuary
 
 

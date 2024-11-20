@@ -141,6 +141,11 @@
          -o-transform: skewx(20deg);
             transform: skewx(20deg);
 }
+.tunnel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
 
 /* Style all font awesome icons */
 .fa {
