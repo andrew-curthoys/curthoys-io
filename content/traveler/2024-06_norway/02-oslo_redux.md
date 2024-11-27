@@ -125,7 +125,7 @@ specialty coffee and
 <h4 class="article-subheader">Munch</h4>
 "I wouldn't exactly describe this crowd as *museum people*"
 
-Shannon hits me with a bombshell just as we're about to enter
+Shannon hits me with this bombshell just as we're about to enter
 <span class="skewed">Munch</span>, i.e. the Edvard Munch museum. Overlooking the
 waterfront, <span class="skewed">Munch</span> is Oslo's most controversial
 architectural choice but the museum is a must-do in my book.
@@ -134,9 +134,11 @@ As we enter I scan the QR code and quickly purchase tickets for all 6 patrons.
 There will be no waffling on my watch and if anybody asks me how much it cost
 I will lie.
 
-Knowing how strict the security guards are based on my attendance last year I
-gather the gang's water bottles, bags, and jackets and secure them in a locker
-near the entrance. Kate eyes the "NO backpacks" sign, looks down at her small
+Between the front doors and the entrance to the exhibits I begin to gather
+everyone's water bottles, bags, jackets, purses, and any personal belongings
+that may be deemed as contraband to stow in a bank of lockers near the entrance. 
+Based on my visit last year I know the security guards take their jobs
+*very* seriously. Kate eyes the "NO backpacks" sign, looks down at her small
 satchel of belongings and declares, "I'll just wear it over my shoulder like a
 purse, it'll be fine."
 
@@ -154,10 +156,12 @@ table for inspection." Kate drops her backpurse onto the table
 
 "No it's a backpack. It has 2 straps"
 
-And with that bulletproof logic Kate slinks off tail between her legs to deposit
-her 2-strap bag into the lockers.
+"But it's.... a purse"
 
-On our escalator ride up to the exhibits I quickly check wikipedia for the
+Defeated, Kate realizes she has no effective counterargument to the *2 strap
+defense* and slinks away to deposit her 2-strap bag into the locked receptacles.
+
+As we ride the escalator up to the exhibits I quickly check wikipedia for the
 definition of a backpack
 
 <div class="block-quote">
@@ -168,4 +172,26 @@ it can have an external or internal frame, and there are bodypacks
 [emphasis mine].
 </div>
 
-Kate backpack
+"Kate, it looks like Wikipedia agrees with the security detail. 2 straps a
+backpack does make."
+
+"Whose side are you on??"
+
+
+
+In contrast with last year's exhibition, this year's offerings focus almost
+exclusively on the works of Edvard Munch. Whereas the first two floors of the
+museum showcased works from other artists last year, this time 'round it's
+wall-to-wall Munch. Which seems like they may be stretching the collection,
+seeing as it's only one man, but the museum boasts over *27,000* pieces from
+Munch alone.
+
+As we wander the halls I'm taking a continuous temperature check on the group,
+assessing their boredom levels as we weave through the 13 floors of the
+Munchmuseet. To my delight everyone seems to be enthralled by the activity.
+Eyes are wide and excited, faces are beaming,  
+
+The space is more light and vibrant than many cold, stodgy spaces that may have
+sparked the group's aversion to museums.
+
+On the 4th floor the group gets their "Ohhhh THAT guy!! moment".

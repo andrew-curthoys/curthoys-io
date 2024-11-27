@@ -81,7 +81,7 @@ we couldn't possibly be going *all the way up there*???
 
 1,500 feet into the cerulean Norwegian sky. If we were standing on the pavement
 on 5th Avenue the top of this mountain would look down of the tip of the
-spire of the Empire State Building. It looks an
+Empire State Building. It looks an
 insurmountable task; a hopeless fight against the relentless tug of gravity.
 
 <p class="block-quote">

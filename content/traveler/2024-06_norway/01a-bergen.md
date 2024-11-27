@@ -23,9 +23,7 @@ Wait....
 What??
 
 Trembling, Jill falls into her chair at Zachariasbryggen in the heart of
-downtown Bergen, reeling from an experience that left her spinning in a
-confusing whirlwind of embarrassment, bewilderment, and based on what she's soon
-to tell us, pity.
+downtown Bergen, reeling from a bewildering encounter that left her spinning.
 
 <div class="block-quote">
   <p>
@@ -53,6 +51,10 @@ to tell us, pity.
 </div>
 
 "I've never been here, why would you trust me?"
+
+<div class="block-quote">
+	MICHAEL!!!!
+</div>
 
 
 <h4 class="article-subheader">We Just Landed!!!"</h4>
