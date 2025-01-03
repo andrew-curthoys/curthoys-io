@@ -100,10 +100,11 @@ the lunch rush.
 
 "Wait, what is this? Is it... like a bike rack for your dog?"
 
-Everybody spins around to see a   shaped like a tiny airplane hangar.
-Emblazoned on the side of the structure is *Hundhus*??? with a picture of a
-dog. I know *hund* means dog and *hus* means house. But not house in the strict
-sense that we use it. We frequently see the words *parkeringhus* associated with
+Everybody spins around to see a metal enclosure shaped like a tiny blimp
+hangar. Above the vessel stands a sign with a cartoon picture of a dog and the
+word *Hundeparkering*, which translates to "dog parking".
+
+We frequently see the words *parkeringshus* associated with
 parking garages. A *parking house*, it seems so quaint. So this *hundhus* seems
 to be more in line with the more liberal sense of the word, a tiny parking
 garage for your dog. I would assume it's only used for owners to run in and
