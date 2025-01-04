@@ -189,7 +189,21 @@ picked the wrong side of the train. Not to say this side is bad, it's just all
 the best bits are out the windows across the aisle where two surly
 septuagenarian women haughtily occupy one third of the inventory of a 6-seat alcove.
 
+The train slithers its way up the gorge, courageously clinging to the sheer
+canyon walls like a sure-footed Norwegian coastal goat.
 
+Halfway through the journey the ferric goat rumbles to a stop, whereupon the
+conductor announces over the intercom that we will be stopping at the 
+
+
+Above the waterfall things 
+Switchbacks 
+The only indication that you're not on a Disney ride is the swiftness with which
+the wooden support beams whiz by the train window.
+
+
+This guy's review is awesome, he has a few other hilarious reviews
+https://www.google.com/maps/contrib/116430857683765208067/reviews/@52.1515859,-53.0357885,21515326m/data=!3m2!1e3!4b1!4m3!8m2!3m1!1e1?hl=en&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
 
 Trains are so cool because you can talk about the steepness of a hill like "18
 in 1" and say things like "rolling stock".

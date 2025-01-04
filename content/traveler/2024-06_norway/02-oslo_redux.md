@@ -102,17 +102,12 @@ the lunch rush.
 
 Everybody spins around to see a metal enclosure shaped like a tiny blimp
 hangar. Above the vessel stands a sign with a cartoon picture of a dog and the
-word *Hundeparkering*, which translates to "dog parking".
-
-We frequently see the words *parkeringshus* associated with
-parking garages. A *parking house*, it seems so quaint. So this *hundhus* seems
-to be more in line with the more liberal sense of the word, a tiny parking
-garage for your dog. I would assume it's only used for owners to run in and
-get a coffee but unfortunately for our curiosity there are no hunds parked in
-the hus at the moment.
+word *Hundeparkering*, i.e. a tiny parking garage for your hound. I would assume
+it's only used for owners to run in and grab a coffee but unfortunately for our
+curiosity there are no hunds parked in the hus at the moment.
 
 Our southerly stroll continues past a gaggle of schoolchildren running about
-during their recess, go-getters out for a jog, people posted up on blankets in 
+during recess, go-getters out for a jog, people posted up on blankets in 
 the park. All things you do when you have a bipolar relationship with the sun.
 Eventually we find ourselves on the outskirts of the city center, where we
 cross the *Arkobaten* bridge, i.e. The Acrobat. This asymmetrical steel, glass,
@@ -137,16 +132,24 @@ read her website wrong. Anybody want another coffee?"
 
 "I could do another coffee"
 
-Everybody orders a donut and a coffee, mine combined with a cappuccino al freddo
-so everyone can try this magical espresso elixir.
+Everybody orders a donut and a coffee; I augment my order with a cappuccino al
+freddo for old times sake. Unfortunately (for me) Talor is not at the shop;
+fortunately (for Talor) Talor is not at the shop lest she pull a muscle feigning
+interest in my story of meeting her the year previous.
+
+In any case we're all hopped up on doughnuts and caffeine, champing at the bit
+to peruse the halls of my favorite museum, buoyed by an collective enthusiasm
+for the arts.
+
 
 <h4 class="article-subheader">Munch</h4>
 "I wouldn't exactly describe this crowd as *museum people*"
 
 Shannon hits me with this bombshell just as we're about to enter
 <span class="skewed">Munch</span>, i.e. the Edvard Munch museum. Overlooking the
-waterfront, <span class="skewed">Munch</span> is Oslo's most controversial
-architectural choice but the museum is a must-do in my book.
+waterfront, <span class="skewed">Munch</span> is Oslo's most
+<a href="/traveler/2023_05-scandinavia/04-oslo_culture?id=munch" target="_blank" rel="noopener noreferrer">controversial architectural choice</a>
+but the museum is a must-do in my book.
 
 As we enter I scan the QR code and quickly purchase tickets for all 6 patrons.
 There will be no waffling on my watch and if anybody asks me how much it cost
@@ -211,7 +214,7 @@ delight everyone seems to be, at the very least, moderately amused.
 On the 4th floor moderate amusement turns to "Ohhhh THAT guy!!"
 
 Ranked 4th on a
-<a target="_blank" rel="noreferrer noopener" href="https://www.cnn.com/style/article/most-famous-paintings/index.html#4-the-scream">list from CNN </a>
+<a target="_blank" rel="noreferrer noopener" href="https://www.cnn.com/style/article/most-famous-paintings/index.html#4-the-scream">list from CNN</a>
 of the most famous paintings in the world, Munch's *The Scream* is instantly
 recognizable.
 

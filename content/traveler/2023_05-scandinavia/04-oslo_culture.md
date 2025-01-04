@@ -319,7 +319,7 @@ in the crowd offering a take on the architecture of the Munch museum.
 </figure>
 
 
-<h4 class="article-subheader skewed" style="font-style:normal !important;">Munch</h4>
+<h4 id="munch" class="article-subheader skewed" style="font-style:normal !important;">Munch</h4>
 The Edvard Munch Museum (stylized <span class="skewed">Munch</span>) commands an
 inviting or ominous presence
 on the shores of the Oslofjord depending on who you ask. It's easily the most
