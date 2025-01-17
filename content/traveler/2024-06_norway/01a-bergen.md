@@ -23,7 +23,7 @@ Wait....
 What??
 
 Trembling, Jill falls into her chair at Zachariasbryggen in the heart of
-downtown Bergen, reeling from a bewildering encounter that left her spinning.
+downtown Bergen, reeling from a bewildering encounter,
 
 <div class="block-quote">
   <p>
@@ -527,37 +527,9 @@ of the fjords between the myriad tunnels (more than 30 along the route).
 As we approach the eastern flank of the *Sognefjord* the rain slowly begins to
 lift and we catch our first glimpses of the majesty of the fjords.
 
+<p class="mb-4">
 Our jaws slack agape 'neath steep walled canyons flanking placid emerald wa-
-
-<div class="text-center mb-2 fst-italic">
-<p>
-	TUNNEL
 </p>
-<p>
-	TUNNEL
-</p>
-<p>
-	TUNNEL
-</p>
-<p>
-	TUNNEL
-</p>
-<p>
-	TUNNEL
-</p>
-<p>
-	TUNNEL
-</p>
-<p>
-	TUNNEL
-</p>
-</div>
-
--ters
-
-Rocky outcrops reaching their craggy promontories to the sky
-
-Lush carpets of tr-
 
 <div class="tunnel skewed">
 <div style="margin-right: 75%;">
@@ -589,44 +561,97 @@ Lush carpets of tr-
 </div>
 </div>
 
-<div class="mx-5 mb-5">
--ees as far as the eye can see
+<p class="mt-5 text-end">
+-ters
+</p>
+
+
+Rocky outcrops reaching their craggy promontories to the sky
+
+<p class="mb-4">
+Lush carpets of tr-
+</p>
+
+<div class="tunnel skewed">
+<div style="margin-right: 75%;">
+	TUNNEL
 </div>
+<div style="margin-right: 70%;">
+	TUNNEL
+</div>
+<div style="margin-right: 64%;">
+	TUNNEL
+</div>
+<div style="margin-right: 55%;">
+	TUNNEL
+</div>
+<div style="margin-right: 46%;">
+	TUNNEL
+</div>
+<div style="margin-right: 35%;">
+	TUNNEL
+</div>
+<div style="margin-right: 26%;">
+	TUNNEL
+</div>
+<div style="margin-right: 20%;">
+	TUNNEL
+</div>
+<div style="margin-right: 15%;">
+	TUNNEL
+</div>
+</div>
+
+<p class="mt-5 text-end">
+-ees as far as the eye can see
+</p>
 
 Mountain crests covered in moss
 
+<p class="mb-4">
 Waterfalls tracing magnificent arcs from the tops of cli-
+</p>
 
-<div class="text-center mb-2 fst-italic">
-<p>
+<div class="tunnel skewed">
+<div style="margin-right: 75%;">
 	TUNNEL
-</p>
-<p>
+</div>
+<div style="margin-right: 70%;">
 	TUNNEL
-</p>
-<p>
+</div>
+<div style="margin-right: 64%;">
 	TUNNEL
-</p>
-<p>
+</div>
+<div style="margin-right: 55%;">
 	TUNNEL
-</p>
-<p>
+</div>
+<div style="margin-right: 46%;">
 	TUNNEL
-</p>
-<p>
+</div>
+<div style="margin-right: 35%;">
 	TUNNEL
-</p>
-<p>
+</div>
+<div style="margin-right: 26%;">
 	TUNNEL
-</p>
+</div>
+<div style="margin-right: 20%;">
+	TUNNEL
+</div>
+<div style="margin-right: 15%;">
+	TUNNEL
+</div>
 </div>
 
+<p class="mt-5 text-end">
 -ffs
+</p>
 
 Sitting dutifully in the driver's seat, Michael is the only occupant of our
 motor coach looking straight ahead. Despite our fixed port-side gazes, Jill
-and I can almost assuredly predict an approaching tunnel: every time Shannon
-starts a video we're inevitably seconds away from a tunnel.
+and I can almost assuredly predict an approaching tunnel - the instant that
+Shannon begins recording a video on her phone we're inevitably seconds away
+from a tunnel. No doubt it's Ska&eth;i chiding Shannon for attempting to
+document her majestic kingdom with a pithy phone video.
 
 As our red Toyota Corolla Cross begins its final descent to our destination 
 the crimson steed emerges from a tunnel into a steep-walled valley that snaps
@@ -634,6 +659,8 @@ our gaze frontward.
 
 "This must be the *Valley of the Waterfalls*," Jill declares, the
 only one of us who has done any advanced scouting.
+
+
 
 If it weren't the majestic torrents of water cascading from both sides of the
 jagged chasm stretched before us I would have thought she was talking about an

@@ -189,8 +189,8 @@ picked the wrong side of the train. Not to say this side is bad, it's just all
 the best bits are out the windows across the aisle where two surly
 septuagenarian women haughtily occupy one third of the inventory of a 6-seat alcove.
 
-The train slithers its way up the gorge, courageously clinging to the sheer
-canyon walls like a sure-footed Norwegian coastal goat.
+The train slithers its way up the gorge, clinging to the jagged
+canyon walls like a sure-footed Norwegian coastal goat. 
 
 Halfway through the journey the ferric goat rumbles to a stop, whereupon the
 conductor announces over the intercom that we will be stopping at the 
