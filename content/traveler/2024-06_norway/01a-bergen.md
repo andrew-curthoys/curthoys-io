@@ -653,19 +653,17 @@ Ska&eth;i chiding Shannon for attempting to
 document her majestic kingdom with a pithy phone video.
 
 Sitting dutifully in the driver's seat, Michael is the only occupant looking
-straight ahead. 
-As our red Toyota Corolla Cross begins its final descent to our destination 
-the crimson steed emerges from a tunnel into a steep-walled valley that snaps
+straight ahead. As he navigates our crimson steed into a landing pattern for our
+final destination we emerge from a tunnel into a steep-walled valley that snaps
 our gaze frontward.
+
+"Hoooooly shit," I buffoonedly exclaim.
 
 "This must be the *Valley of the Waterfalls*," Jill declares, the
 only one of us who has done any advanced scouting.
 
-
-
-If it weren't the majestic torrents of water cascading from both sides of the
-jagged chasm stretched before us I would have thought she was talking about an
-entry on Reese's Witherspoon's book list.
+With a name that would be at home on Reese Witherspoon's book list, the
+*Valley of the Waterfalls* is as advertized.
 
 The final tunnel before Fl&aring;m bores 7 miles through the precambrian gneiss
 of the southern Scandinavian Mountains, making it the third longest
