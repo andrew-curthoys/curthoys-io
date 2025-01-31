@@ -518,11 +518,11 @@ with a tight smile Shannon bordering on condescension,
 
 {{ m.divider() }}
 
-Sated and over caffeinated, we walk back to the car in the rain. From all accounts
-this seems to be the default weather pattern in Bergen. Like a sitting duck in
-the direct line of fire of the gulf stream's moist air. The rain continues for
-the first two hours of the three hour drive to Fl&aring;m, blanketing our view
-of the fjords between the myriad tunnels (more than 30 along the route).
+Sated and caffeinated, we splash back to the car in the rain. From all accounts
+this seems to be the default weather pattern in Bergen, a sitting duck in
+the middle of a deluge of warm, moist air from the gulf stream. The rain
+continues for the first two hours of the three hour drive to Fl&aring;m,
+blanketing our view of the fjords.
 
 As we approach the eastern flank of the *Sognefjord* the rain slowly begins to
 lift and we catch our first glimpses of the majesty of the fjords.
@@ -646,13 +646,14 @@ Waterfalls tracing magnificent arcs from the tops of cli-
 -ffs
 </p>
 
-Sitting dutifully in the driver's seat, Michael is the only occupant of our
-motor coach looking straight ahead. Despite our fixed port-side gazes, Jill
-and I can almost assuredly predict an approaching tunnel - the instant that
-Shannon begins recording a video on her phone we're inevitably seconds away
-from a tunnel. No doubt it's Ska&eth;i chiding Shannon for attempting to
+Despite our fixed port-side gazes, Jill and I can almost assuredly predict an
+approaching tunnel - if Shannon lifts her phone to the window to record a video
+we're inevitably seconds away from a subterranean expedition. No doubt it's
+Ska&eth;i chiding Shannon for attempting to
 document her majestic kingdom with a pithy phone video.
 
+Sitting dutifully in the driver's seat, Michael is the only occupant looking
+straight ahead. 
 As our red Toyota Corolla Cross begins its final descent to our destination 
 the crimson steed emerges from a tunnel into a steep-walled valley that snaps
 our gaze frontward.
