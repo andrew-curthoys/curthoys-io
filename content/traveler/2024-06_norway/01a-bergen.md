@@ -653,20 +653,24 @@ Ska&eth;i chiding Shannon for attempting to
 document her majestic kingdom with a pithy phone video.
 
 Sitting dutifully in the driver's seat, Michael is the only occupant looking
-straight ahead. As he navigates our crimson steed into a landing pattern for our
-final destination we emerge from a tunnel into a steep-walled valley that snaps
+straight ahead. As he navigates our crimson steed into our final descent
+we emerge from yet another tunnel into a steep-walled valley that snaps
 our gaze frontward.
 
-"Hoooooly shit," I buffoonedly exclaim.
+"Hoooooly shit," I exclaim with the sophistication of a distinguished scholar.
 
-"This must be the *Valley of the Waterfalls*," Jill declares, the
-only one of us who has done any advanced scouting.
+"This must be *The Valley of the Waterfalls*," Jill confidently declares, the
+only one of us who has done any advanced scouting. With a title perfectly
+fit for a dust jacket on Reese Witherspoon's book list,
+*The Valley of the Waterfalls* paints the picture of the edenic landscape
+stretched before us. On this drive we've seen valleys and we've seen waterfalls
+but this is the Platonic ideal of their geologic union.
 
-With a name that would be at home on Reese Witherspoon's book list, the
-*Valley of the Waterfalls* is as advertized.
+Lined with waterfalls so high their effluence appears to be falling in slow
+motion.
 
-The final tunnel before Fl&aring;m bores 7 miles through the precambrian gneiss
-of the southern Scandinavian Mountains, making it the third longest
+The final tunnel before Fl&aring;m bores 7 miles through a snarl of precambrian
+anorthosite streaked with charnockite intrusions making it the third longest
 road tunnel in Norway. Halfway through our subterranean journey the tubular
 cavern alights with colorful LEDs, washing the inside of the tunnel in a
 rotating series of bright pinks,
