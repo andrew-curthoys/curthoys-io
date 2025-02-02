@@ -5,7 +5,7 @@ slug_base: traveler/2024-06_norway
 day_alias: Oslo Redux
 prev_day: 01b-fjordin
 next_day: /traveler/2024-06_norway
-date: 2023-06-22
+date: 2023-06-24
 post_date: 2024-07-15
 category: Traveler
 subcat: Gallivanting

@@ -666,17 +666,55 @@ fit for a dust jacket on Reese Witherspoon's book list,
 stretched before us. On this drive we've seen valleys and we've seen waterfalls
 but this is the Platonic ideal of their geologic union.
 
-Lined with waterfalls so high their effluence appears to be falling in slow
+Sheer cliffs of anorthositic granite  A wide, verdant plain is beset Lined with waterfalls so high their effluence appears to be falling in slow
 motion.
 
-The final tunnel before Fl&aring;m bores 7 miles through a snarl of precambrian
-anorthosite streaked with charnockite intrusions making it the third longest
-road tunnel in Norway. Halfway through our subterranean journey the tubular
+At the terminus of the valley we reach the *Gudvangatunnelen*, the penultimate
+tunnel before reaching Fl&aring;m. Boring 7 miles through a snarl of precambrian
+charnockitic gneiss, the *Gudvangatunnelen* is Norway's third longest road
+tunnel (the first longest - the *L&aelig;rdalstunnelen* sits just on the other
+side of Fl&aring;m. It also carries the distinction of being the longest road
+tunnel in the world).
+
+Halfway through our subterranean journey the tubular
 cavern alights with colorful LEDs, washing the inside of the tunnel in a
 rotating series of bright pinks,
 purples, blues, and reds. It feels like a dance party might break out at any
 moment. As Jill later discovers, the lights were installed to break up the
 monotony of the miles upon miles of gray tunnel walls.
+
+A woman named Andrea Vianca Gaurano inexplicably uploaded videos of her playing
+a video game in which a goat roams around a school called Goatville High
+(go Razorbucks) gathering points by jumping on top of things.
+
+<div style="width:100%;height:0;padding-bottom:80%;margin-bottom:2em;position:relative">
+		<iframe src="https://lh3.googleusercontent.com/ggms/AF1QipNzQwkBkulPqJ-PoVNEBbZVTiWIvuGXMLD6x-v8=m18?cpn=9A-XyWH_sluTjm7Y" width="100%" height="100%" style="position:absolute;" frameBorder="0" allowFullScreen></iframe>
+</div>
+
+<div style="width:100%;height:0;padding-bottom:80%;margin-bottom:2em;position:relative">
+		<iframe src="https://lh3.googleusercontent.com/ggs/AF1QipMZqKpqB_SA5KUyQcfhYdjkqbDtgOl2wUI5UrYi=m18?cpn=N7DNMmtC4x3gcY6p" width="100%" height="100%" style="position:absolute;" frameBorder="0" allowFullScreen></iframe>
+</div>
+
+<div style="width:100%;height:0;padding-bottom:80%;margin-bottom:2em;position:relative">
+		<iframe src="https://lh3.googleusercontent.com/ggs/AF1QipPZJXFEXJcJjwUOaMes_oBUWYlr3X2kM09DEffJ=m18?cpn=gTFDVZ1amiDJFzy1" width="100%" height="100%" style="position:absolute;" frameBorder="0" allowFullScreen></iframe>
+</div>
+
+After some quick research I found these clips are from a video game called Goat
+Simulator,
+
+<div class="block-quote">
+In Goat Simulator, the player acquires points by performing acts of chaos—in
+this case, getting struck by a car shortly after licking a non-player human
+character. The game's novelty comes from various glitches in the game purposely
+left in place, such as the distortion of the human character's neck as a result
+of the collision.
+</div>
+
+Jerry Seinfeld, when talking about how long it takes him to make his coffee,
+once remarked "the secret to life is to waste time in ways that you like."
+It would appear that Ms. Vianca Gaurano has unlocked the mystery.
+
+Speaking of wasting time where were we...
 
 Finally, our red Toyota rumbles from the eastern end of the 3.1 mile
 Flenjatunnelen above the pastoral fjordtown of Fl&aring;m. Outstretched before
