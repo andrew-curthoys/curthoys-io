@@ -33,7 +33,7 @@ downtown Bergen, reeling from a bewildering encounter,
   <p>
 		and there was no bathroom...
 	</p>
-		so I went down one floor and *then* to the right...
+		so I went down one floor and <b>then</b> to the right...
   </p>
 	<p>
 		and there was no bathroom...
@@ -50,16 +50,19 @@ downtown Bergen, reeling from a bewildering encounter,
   </p>
 </div>
 
-"I've never been here, why would you trust me?"
+<div class="block-quote mb-3" style="color:firebrick!important;">
+	"I've never been here, why would you trust me?"
+</div>
 
-<div class="block-quote">
+<div class="block-quote mb-3">
 	MICHAEL!!!!
 </div>
 
 
 <h4 class="article-subheader">We Just Landed!!!"</h4>
-8 hours prior to Jill's downstairs mixup the 4.5 ft diameter
-wheels of a Boeing 787 Dreamliner touched down at Oslo Gardermoen Airport.
+8 hours prior to Jill's downstairs mixup the 4.5 ft diameter wheels of
+Norse Atlantic Airways flight NBT2's Boeing 787 Dreamliner touched down at
+Oslo Gardermoen Airport.
 
 <div class="sms">
 	<div class="chat">
@@ -229,8 +232,8 @@ Transatlantic Travelers I receive another text from Shannon,
 	</div>
 </div>
 
-
-The process to rebook was startlingly smooth; when I arrived at the counter I
+Unfortunately SAS Airlines was unamenable to my entreaties to wait for us. But
+the process to rebook was startlingly smooth; when I arrived at the counter I
 thought it would be anything but. Ascending the escalator to the departures
 gallery I'm confronted with the typical roiling swarm of humanity that
 agglomerates at transportation chokepoints in our global economy. Lines
@@ -245,7 +248,7 @@ approach the scrum my advanced height affords a favorable vantage from which
 to observe the locus of the collective's attention: a stylized aluminum
 monolith brandished with the italic uppercase blue
 <span style="color:#2B3087; font-style:italic; font-weight:bold;">SAS</span>
-logo shouldering a Microsoft Surface tablet in the middle stages of a hard reset.
+logo displaying a Microsoft Surface tablet in the middle stages of a hard reset.
 
 Beside the apparatus stood a SAS customer service representative in a smart,
 light blue skirt suit with a tight ponytail and strained smile that suggests,
@@ -695,8 +698,8 @@ monotony of the miles upon miles of gray tunnel walls.
 In the process of researching the names & details of this story I stumbled upon
 an attraction in Google Maps simply titled "Waterfall with bridge." It appears
 to be a relatively mundane (by Norwegian standards) waterfall equipped with a
-wooded footbridge over its outfall. With a 4.7 rating from 7 reviews, the likes
-of which you can find
+wooded footbridge over its outfall. With a 4.7 / 5 average rating from 7
+the reviews are tepid,
 
 <div class="block-quote mb-4">
 	Not a clear path towards this bridge, but a very beautiful place.
@@ -708,8 +711,18 @@ of which you can find
 	<span style="color:gold;font-weight:bold;">&starf;&starf;&starf;&starf;&star;</span>
 </div>
 
-But what caught my attention was a woman named Andrea Vianca Gaurano
-who inexplicably uploaded videos of her playing
+Then Arne Bergsvik, a certified local guide, enters the mix, putting these
+underwhelmed brats in their place,
+
+<div class="block-quote mb-4">
+	Nature will give you wonderful moments.  You just need to open your eyes or keep your ears open as well. Do not expect always wowww moments. Just enjoy.
+	<span style="color:gold;font-weight:bold;">&starf;&starf;&starf;&starf;&star;</span>
+</div>
+
+If that's all there was I wouldn't have given it any more thought. I certainly
+wouldn't be wasting my time writing about it.
+But what caught my attention were a series of "reviews" by a user named Andrea
+Vianca Gaurano who inexplicably uploaded videos of her playing
 a video game in which a goat roams around a school called Goatville High
 (go Razorbucks) gathering points by jumping on top of things.
 
@@ -736,9 +749,10 @@ left in place, such as the distortion of the human character's neck as a result
 of the collision.
 </div>
 
-Jerry Seinfeld, when talking about how long it takes him to make his coffee,
-once remarked "the secret to life is to waste time in ways that you like."
-It would appear that Ms. Vianca Gaurano has unlocked the mystery.
+Jerry Seinfeld, when talking about how long the process takes to make his coffee
+in the morning, once remarked "the secret to life is to waste time in ways that
+you like." If that's the case, then it would appear that Ms. Vianca Gaurano has
+unlocked the secret to life and is reveling in it.
 
 Speaking of wasting time where were we...
 
