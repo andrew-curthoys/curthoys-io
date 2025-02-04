@@ -666,15 +666,24 @@ fit for a dust jacket on Reese Witherspoon's book list,
 stretched before us. On this drive we've seen valleys and we've seen waterfalls
 but this is the Platonic ideal of their geologic union.
 
-Sheer cliffs of anorthositic granite  A wide, verdant plain is beset Lined with waterfalls so high their effluence appears to be falling in slow
-motion.
+Before us stretches a wide, verdant plain rolled out like an emerald carpet in
+the hallway of the gods. On either side towering palisades of anorthositic granite
+scrape the sky with their serrated edges. Torrents of water, too many to count,
+throw themselves from the cliffs as if to momentarily experience the feeling of
+flight. The spray seems to soar towards the earth in slow motion before
+crashing on the escarpment below.
+
+The wide valley is bisected by the N&aelig;r&oslash;ydalselvi River, collecting
+the      of the waterfalls before escorting it to the N&aelig;r&oslash;yfjord.
+(fun fact - the N&aelig;r&oslash;yfjord was the inspiration for Arendelle in
+*Frozen*)
 
 At the terminus of the valley we reach the *Gudvangatunnelen*, the penultimate
 tunnel before reaching Fl&aring;m. Boring 7 miles through a snarl of precambrian
 charnockitic gneiss, the *Gudvangatunnelen* is Norway's third longest road
 tunnel (the first longest - the *L&aelig;rdalstunnelen* sits just on the other
-side of Fl&aring;m. It also carries the distinction of being the longest road
-tunnel in the world).
+side of Fl&aring;m. It also carries the distinction of being the *world's*
+longest road tunnel).
 
 Halfway through our subterranean journey the tubular
 cavern alights with colorful LEDs, washing the inside of the tunnel in a
@@ -683,7 +692,24 @@ purples, blues, and reds. It feels like a dance party might break out at any
 moment. As Jill later discovers, the lights were installed to break up the
 monotony of the miles upon miles of gray tunnel walls.
 
-A woman named Andrea Vianca Gaurano inexplicably uploaded videos of her playing
+In the process of researching the names & details of this story I stumbled upon
+an attraction in Google Maps simply titled "Waterfall with bridge." It appears
+to be a relatively mundane (by Norwegian standards) waterfall equipped with a
+wooded footbridge over its outfall. With a 4.7 rating from 7 reviews, the likes
+of which you can find
+
+<div class="block-quote mb-4">
+	Not a clear path towards this bridge, but a very beautiful place.
+	<span style="color:gold;font-weight:bold;">&starf;&starf;&starf;&starf;&star;</span>
+</div>
+
+<div class="block-quote mb-4">
+	Short hike with your dog.	
+	<span style="color:gold;font-weight:bold;">&starf;&starf;&starf;&starf;&star;</span>
+</div>
+
+But what caught my attention was a woman named Andrea Vianca Gaurano
+who inexplicably uploaded videos of her playing
 a video game in which a goat roams around a school called Goatville High
 (go Razorbucks) gathering points by jumping on top of things.
 
