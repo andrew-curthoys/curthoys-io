@@ -15,8 +15,27 @@
   padding: 10px;
 }
 
+.chat-header {
+  width: 100%;
+  background-color: #A0A0A0;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.chat-recipient {
+  background-color: #A0A0A0;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
 .messages {
-  margin-top: 30px;
+  margin-top: 10px;
   display: flex;
   flex-direction: column;
 }
@@ -27,6 +46,10 @@
   margin-top: 5px;
   margin-bottom: 5px;
   display: inline-block;
+}
+
+.first-message {
+  margin-top: 5px;
 }
 
 .yours {
@@ -50,6 +73,7 @@
   background: #EEE;
   border-bottom-right-radius: 15px;
 }
+
 .yours .message.last:after {
   content: "";
   position: absolute;
