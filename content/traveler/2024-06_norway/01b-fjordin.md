@@ -193,7 +193,8 @@ The train slithers its way up the gorge, clinging to the jagged
 canyon walls like a sure-footed Norwegian coastal goat. 
 
 Halfway through the journey the ferric goat rumbles to a stop, whereupon the
-conductor announces over the intercom that we will be stopping at the 
+conductor announces over the intercom that we will be stopping at the
+Kjosfossen waterfall.
 
 
 Above the waterfall things 

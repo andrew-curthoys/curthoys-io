@@ -62,7 +62,8 @@ downtown Bergen, reeling from a bewildering encounter,
 <h4 class="article-subheader">We Just Landed!!!"</h4>
 8 hours prior to Jill's downstairs mixup the 4.5 ft diameter wheels of
 Norse Atlantic Airways flight NBT2's Boeing 787 Dreamliner touch down at
-Oslo Gardermoen Airport.
+Oslo Gardermoen Airport. Shortly thereafter I establish communication with the
+travelers,
 
 <div class="sms mb-3">
 	<div class="chat">
@@ -232,9 +233,9 @@ Transatlantic Travelers I receive another text from Shannon,
 	</div>
 </div>
 
-Unfortunately SAS Airlines was unamenable to my entreaties to wait for us. But
-the process to rebook was startlingly smooth; when I arrived at the counter I
-thought it would be anything but. Ascending the escalator to the departures
+Unfortunately SAS Airlines was unmoved by my entreaties to wait for my compadres.
+But the process to rebook was startlingly smooth; my arrival at the counter
+suggested it would be anything but. Ascending the escalator to the departures
 gallery I'm confronted with the typical roiling swarm of humanity that
 agglomerates at transportation chokepoints in our global economy. Lines
 snaking, nerves fraying, masses huddling. I wove my way through crowds whose
