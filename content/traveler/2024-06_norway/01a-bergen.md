@@ -499,6 +499,15 @@ side that says "Say hi to the goats" and photos of 10 goats named Pippi,
 Waldemar, Fl&oslash;ydis, Alex, Fr&oslash;ya, Ferdinand, Stjerna, Gucci, Trym,
 and, of course, Spot.
 
+We're not 10 steps away from the sign when we spot our first gaggle of goats
+munching on grass just off the pedestrian footpath.
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_goats1.JPEG" alt="Goats">
+  <figcaption class="figure-caption">Waldemar, Alex, & Gucci</figcaption>
+</figure>
+
+And then even on the footpath.
 
 <h4 class="article-subheader">Fjord Fordin'</h4>
 We take our time rousing ourselves after our late night enjoying the midnight

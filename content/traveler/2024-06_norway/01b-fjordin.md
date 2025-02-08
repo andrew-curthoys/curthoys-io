@@ -129,8 +129,6 @@ sliced into ghostly ribbons of ethereal vapor. Its final memory wispy
 tendrils carried away by the terminal gasp of the North Atlantic jet stream.
 
 
-
-
 From our vantage we spot a ship upon the fjord not much larger than a
 grain of rice. If not for its slender emerald tail of churned seawater its
 movements would be imperceptible to the naked eye.
@@ -176,9 +174,6 @@ made by cruise-ship passengers whose collective fitness level skews towards couc
 potato. The unrelenting mid-summer sun intensifies the collective distress;
 I pop my tarp.
 
-
-
-
 <h4 class="article-subheader">Trains Are So Cool, Part Deux</h4>
 The 12-mile Fl&aring;m Railway has been described as "the most
 beautiful train journey in the world". Starting at Fl&aring;m, the railway
@@ -190,12 +185,29 @@ the best bits are out the windows across the aisle where two surly
 septuagenarian women haughtily occupy one third of the inventory of a 6-seat alcove.
 
 The train slithers its way up the gorge, clinging to the jagged
-canyon walls like a sure-footed Norwegian coastal goat. 
+canyon walls like a sure-footed Norwegian coastal goat. Halfway through the
+journey the conductor announces over the intercom that we will be making a
+5-minute sightseeing stop at the Kjosfossen waterfall. Our trusty ferric goat
+rumbles to a stop at the base of the falls where we spill out of car 7 onto a
+wide platform with a striking view of the water feature.
 
-Halfway through the journey the ferric goat rumbles to a stop, whereupon the
-conductor announces over the intercom that we will be stopping at the
-Kjosfossen waterfall.
+The cascading torrents of Kjosfossen slalom 300 feet down a steep ravine like an
+alpine skier navigating a mogul field. The blissful cerulean sky provides the
+perfect backdrop to appreciate the wonder of nature.
 
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-flam-railway_kjosfossen1.jpg" alt="Waterfall">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-flam-railway_kjosfossen2.jpg" alt="Waterfall">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Kjosfossen<figcaption>
+</figure>
+
+Kjosfoss Kraftverk, a 3.6 MW hydroelectric power plant.
 
 Above the waterfall things 
 Switchbacks 
@@ -203,8 +215,8 @@ The only indication that you're not on a Disney ride is the swiftness with which
 the wooden support beams whiz by the train window.
 
 
-This guy's review is awesome, he has a few other hilarious reviews
-https://www.google.com/maps/contrib/116430857683765208067/reviews/@52.1515859,-53.0357885,21515326m/data=!3m2!1e3!4b1!4m3!8m2!3m1!1e1?hl=en&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+<!-- This guy's review is awesome, he has a few other hilarious reviews
+https://www.google.com/maps/contrib/116430857683765208067/reviews/@52.1515859,-53.0357885,21515326m/data=!3m2!1e3!4b1!4m3!8m2!3m1!1e1?hl=en&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D -->
 
 Trains are so cool because you can talk about the steepness of a hill like "18
 in 1" and say things like "rolling stock".
