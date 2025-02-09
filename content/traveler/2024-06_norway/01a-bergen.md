@@ -499,7 +499,7 @@ side that says "Say hi to the goats" and photos of 10 goats named Pippi,
 Waldemar, Fl&oslash;ydis, Alex, Fr&oslash;ya, Ferdinand, Stjerna, Gucci, Trym,
 and, of course, Spot.
 
-We're not 10 steps away from the sign when we spot our first gaggle of goats
+We're not 10 steps away from the sign when we spot our first tribe of goats
 munching on grass just off the pedestrian footpath.
 
 <figure class="figure container">
@@ -508,6 +508,37 @@ munching on grass just off the pedestrian footpath.
 </figure>
 
 And then even on the footpath.
+
+<figure class="figure">
+  <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_goats2.JPEG" alt="Goats">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_goats3.JPEG" alt="Goats">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_goats4.JPEG" alt="Goats">
+    </div>
+  </div>
+  <figcaption class="figure-caption">You've goat to pet me!</figcaption>
+</figure>
+
+Pippi was a particularly friendly capra aegagrus
+
+Before we leave there is a toll that must be paid.
+The troll who guards the mountain
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_goats3.JPEG" alt="Troll">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_goats4.JPEG" alt="Troll">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Gotta pay the troll toll</figcaption>
+</figure>
+
 
 <h4 class="article-subheader">Fjord Fordin'</h4>
 We take our time rousing ourselves after our late night enjoying the midnight

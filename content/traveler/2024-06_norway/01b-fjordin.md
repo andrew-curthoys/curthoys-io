@@ -185,7 +185,23 @@ the best bits are out the windows across the aisle where two surly
 septuagenarian women haughtily occupy one third of the inventory of a 6-seat alcove.
 
 The train slithers its way up the gorge, clinging to the jagged
-canyon walls like a sure-footed Norwegian coastal goat. Halfway through the
+canyon walls like a sure-footed Norwegian coastal goat. The windows slide down.
+Do we take advantage? We do
+
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="" alt="">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="" alt="">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Kjosfossen<figcaption>
+</figure>
+
+
+Halfway through the
 journey the conductor announces over the intercom that we will be making a
 5-minute sightseeing stop at the Kjosfossen waterfall. Our trusty ferric goat
 rumbles to a stop at the base of the falls where we spill out of car 7 onto a
