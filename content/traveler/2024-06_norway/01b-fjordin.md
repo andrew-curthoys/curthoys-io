@@ -56,11 +56,23 @@ in the middle of a caravan of RVs and motorcycles, a desirable spot where we
 can simply *go with the flow*. Our fearless leader at the front is tasked with
 the delicate dance of negotiating oncoming traffic.
 
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_drive1.JPEG" alt="One lane road">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_drive2.JPEG" alt="One lane road">
+    </div>
+  </div>
+  <figcaption class="figure-caption">Tight squeeze<figcaption>
+</figure>
+
 Half an hour and a dozen switchbacks later we find ourselves at the trailhead.
 As we unload the car we assess the weather to gauge our wardrobe selections.
 The sun is poking through mottled clouds, the temperature is hovering right in
 the gray area between shortsleeves and long. We're set to climb 2,000 vertical
-feet over the course of a mile and three-quarters. We will certainly work up a sweat
+feet over the course two miles. We will certainly work up a sweat
 on the hike but that will be countered by the cooler temperatures on the
 mountain. Will the sun stay out? Is it windy up there?
 
@@ -71,18 +83,15 @@ afforded what is almost certainly the most stunning view I've ever seen in my
 life.
 
 While soaking in the surroundings I feel the ominous presence of a dark slab of
-metamorphic rock looming over my right shoulder. I turn round and crane my neck,
-we couldn't possibly be going *all the way up there*???
+metamorphic rock looming over my right shoulder. I turn 'round, crane my neck,
+and ponder, we couldn't possibly be going *all the way up there*???
 
 <figure class="figure container">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_mountain_face.JPEG" alt="Big mountain">
   <figcaption class="figure-caption">Let me know when they put in a chairlift</figcaption>
 </figure>
 
-1,500 feet into the cerulean Norwegian sky. If we were standing on the pavement
-on 5th Avenue the top of this mountain would look down of the tip of the
-Empire State Building. It looks an
-insurmountable task; a hopeless fight against the relentless tug of gravity.
+1,500 feet into the cerulean Norwegian sky.
 
 <p class="block-quote">
 Colossal palisades<br>
@@ -91,6 +100,21 @@ Invite the bold<br>
 To explore their lofty kingdom
 </p>
 
+If we were standing on the pavement of 5th Avenue the apex of this mountain
+would look down on the top of the Empire State Building. It seems an
+insurmountable task; a hopeless fight against the relentless tug of gravity.
+
+But we set off anyway,
+
+trodding well trodden paths,
+
+Switching & switching back,
+
+Scrambling up rockfalls,
+
+And stopping, repeatedly, just to soak it all in
+
+
 No adventure story is complete without a harrowing test of mettle - ours occurs
 halfway through the hike when the trail winnows down to a slender footpath
 perched atop a cliff hugging the left side of the craggy mass. At this
@@ -98,6 +122,12 @@ point all conversation ceases while our expedition navigates the 50 yard
 tightrope maneuver, every ounce of concentration devoted to the
 precise placement of every step, grabbing hold to the edge of the cliff like
 Jimmy Stewart in *Vertigo*.
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_cliff.JPEG" alt="Cliff">
+  <figcaption class="figure-caption">Michael fearlessly leading the crew around
+	the cliff</figcaption>
+</figure>
 
 The final ascent tracks the moderate pitch of the mountain's shoulder. Patches
 of small, vibrant flowers line the path, explosions of yellows, reds, and pinks
@@ -108,6 +138,10 @@ The plateaued summit of Mt Prest sinks beneath our hiking boots, waterlogged
 from the winter's snowpack.
 
 <p class="block-quote">
+Squishy slosh mountaintop swamp
+On the roof of the world
+Swirling through the clouds
+At the right hand of Odin
 </p>
 
 A cairn stands erect at the R&oslash;yrgrind viewpoint, standing guard over the
@@ -126,8 +160,66 @@ lofty kingdom enveloped by a damp grey specter.
 
 Thankfully our chagrin is short lived; as quickly as it came it's gone,
 sliced into ghostly ribbons of ethereal vapor. Its final memory wispy
-tendrils carried away by the terminal gasp of the North Atlantic jet stream.
+tendrils carried away by the dying breaths of the North Atlantic jet stream.
 
+<div id="fjordCarousel" class="carousel carousel-dark slide my-4" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="3" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="4" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="5" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="6" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="7" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="8" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="9" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="10" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active carousel-centered" style="text-align: center;">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3029.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3023.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3037.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3044.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3045.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3066.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3086.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3098.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3184.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3192.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3195.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#fjordCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#fjordCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
 
 From our vantage we spot a ship upon the fjord not much larger than a
 grain of rice. If not for its slender emerald tail of churned seawater its

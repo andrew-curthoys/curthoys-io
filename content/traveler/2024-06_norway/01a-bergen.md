@@ -454,7 +454,7 @@ need to purchase tickets and all, but we're in
 Scandinavia where the efficiency of transactions knows no rival.
 
 Three taps on a touchscreen kiosk and one tap of my credit card and we're
-through. Between clicks 2 and 3 I make a quick decision to unilaterally purchase
+through. Between taps 2 and 3 I make a quick decision to unilaterally purchase
 all vouchers for the group - a choice not made out of magnanimity, but out of
 pure selfishness. The price
 of a ticket, while not expensive, falls in the grey area of "this seems
@@ -462,7 +462,12 @@ cool I guess but I don't know if I want to pay that much." As a funicular-head
 in a group of non-fheads I decide to incur the cost of the collective lest they
 demur against the inclined railway adventure.
 
-Funiculars are so fun because they typically terminate at an elevated vista with
+<figure class="figure container">
+	<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_entrance.JPEG" alt="Fl&oslash;ibanen">
+  <figcaption class="figure-caption">It's train time!</figcaption>
+</figure>
+
+Funiculars are so great because they typically terminate at an elevated vista with
 wonderful views but most importantly employ some crafty design and engineering.
 What's not to love! Funicular railways are characterized by a pair of railway
 carriages attached to a cable for locomotion. If not for the cable the
@@ -495,7 +500,7 @@ this environment. It's so stunning I'd just waste away, asking passersby *can
 you believe this view??*
 
 <figure class="figure container">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_view.JPEG" alt="The view!!">
+	<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_ride.jpg" alt="The ride!!">
   <div class="row">
     <div class="col-6">
       <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_view2.jpg" alt="The view!!">
@@ -504,17 +509,23 @@ you believe this view??*
       <img class="figure-img img-fluid float-left rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_view3.jpg" alt="The view!!">
     </div>
   </div>
+	<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_view.JPEG" alt="The view!!">
   <figcaption class="figure-caption">Talk about putting the FUN in funicular!!</figcaption>
 </figure>
 
+But *Mount ________* affords more than just views - we are treated to a
+restaurant & cafe, a spiderweb
+of hiking trails, an obstacle course, and even a treehouse shaped like a beehive
+that you can rent for the night!
 
-In our meanderings we happen upon a small building with a sign posted on the
-side that says "Say hi to the goats" and photos of 10 goats named Pippi,
+During our mountaintop meanderings we happen upon a small shed affixed with a
+sign that reads "Say hi to the goats" above a photo spread of goats named Pippi,
 Waldemar, Fl&oslash;ydis, Alex, Fr&oslash;ya, Ferdinand, Stjerna, Gucci, Trym,
 and, of course, Spot.
 
-We're not 10 steps away from the sign when we spot our first tribe of goats
-munching on grass just off the pedestrian footpath.
+Just as we finish reading the sign our attention is drawn to the sound of a bell
+and a bahh. We peer into the woods and spot our first tribe of goats with bells
+around their necks munching on grass just off the pedestrian footpath.
 
 <figure class="figure container">
 	<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01a-funicular_goats1.JPEG" alt="Goats">
@@ -528,7 +539,7 @@ And then even **on** the footpath.
   <figcaption class="figure-caption">Just goatin' off</figcaption>
 </figure>
 
-These species of *capra* were especially friendly, moseying up to us for pets
+These species of *capra* are especially friendly, moseying up to us for pets
 and even selfies.
 
 <figure class="figure">
@@ -543,9 +554,8 @@ and even selfies.
   <figcaption class="figure-caption">Pippi says hei</figcaption>
 </figure>
 
-
-Before we leave there is a toll that must be paid.
-The troll who guards the mountain
+Once we've had our fill of barnyard animal antics we head back to the terminal
+for the 11 o'clock train back downtown. But not before paying a toll.
 
 <figure class="figure">
   <div class="row">
@@ -559,9 +569,19 @@ The troll who guards the mountain
   <figcaption class="figure-caption">Gotta pay the troll toll</figcaption>
 </figure>
 
+Back down in town we spend an hour or so wandering about, at one point venturing
+over to a church with a cannonball embedded in its wall from a *18th century?*
+battle. While the church is quite striking the cannonball is... underwhelming.
+
+
+
+We make it back to the apartment after midnight while a dusky haze hangs in the
+night sky. Everyone is wiped and crashed immediately, eager for an adventure to
+the fjords!
+
 
 <h4 class="article-subheader">Fjord Fordin'</h4>
-We take our time rousing ourselves after our late night enjoying the midnight
+We are in no hurry to rouse ourselves after our late night enjoying the midnight
 sun. Haphazardly packed, we spill onto the streets of Bergen just before
 checkout time. After a bit of moseying we make our way to G&oslash;dt
 Br&oslash;d for some breakfast and coffee. Seeing as it's nearly noon our
@@ -577,7 +597,7 @@ in our eyes.
 
 "We should go get another refill right?"
 
-While Shannon is waiting in line for our illicit java a middle-aged woman in a
+While Shannon waits in line a middle-aged woman in a
 plaid rain jacket mistakes Shannon's hap modesty for a hapless
 American and flags down the barista. "Can you give this American a refill when
 you finish ringing me up" she presumably says in Norwegian and turns to Shannon
@@ -715,8 +735,8 @@ Waterfalls tracing magnificent arcs from the tops of cli-
 -ffs
 </p>
 
-Despite our fixed port-side gazes, Jill and I can almost assuredly predict an
-approaching tunnel - if Shannon lifts her phone to the window to record a video
+Despite our fixed port-side gazes, Jill and I can predict an approaching tunnel
+with near certainty - if Shannon lifts her phone to the window to record a video
 we're inevitably seconds away from a subterranean expedition. No doubt it's
 Ska&eth;i chiding Shannon for attempting to
 document her majestic kingdom with a pithy phone video.
@@ -739,11 +759,11 @@ Before us stretches a wide, verdant plain rolled out like an emerald carpet in
 the hallway of the gods. On either side towering palisades of anorthositic granite
 scrape the sky with their serrated edges. Torrents of water, too many to count,
 throw themselves from the cliffs as if to momentarily experience the feeling of
-flight. The spray seems to soar towards the earth in slow motion before
+flight. The spray appears to float towards the earth in slow motion before
 crashing on the escarpment below.
 
 The wide valley is bisected by the N&aelig;r&oslash;ydalselvi River, collecting
-the      of the waterfalls before escorting it to the N&aelig;r&oslash;yfjord.
+the      of the waterfalls, laconically escorting it to the N&aelig;r&oslash;yfjord.
 (fun fact - the N&aelig;r&oslash;yfjord was the inspiration for Arendelle in
 *Frozen*)
 
