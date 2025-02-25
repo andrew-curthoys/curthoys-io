@@ -100,81 +100,93 @@ Invite the bold<br>
 To explore their lofty kingdom
 </p>
 
-If we were standing on the pavement of 5th Avenue the apex of this mountain
-would look down on the top of the Empire State Building. It seems an
+If we were standing on the pavement of 5th Avenue the top of this mountain
+would look down on the spire of the Empire State Building. It seems an
 insurmountable task; a hopeless fight against the relentless tug of gravity.
 
 But we set off anyway,
 
-trodding well trodden paths,
+<p class="mb-0">
+Trodding well trodden paths
+</p>
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_trodden1.jpg" alt="Paths">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_trodden2.jpg" alt="Paths">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_trodden3.jpg" alt="Paths">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_trodden4.JPEG" alt="Paths">
+    </div>
+  </div>
+</figure>
 
-Switching & switching back,
+<p class="mt-4 mb-0">
+Switching & switching back
+</p>
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_switchback1.jpg" alt="Switchbacks">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_switchback2.JPEG" alt="Switchbacks">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_switchback3.jpg" alt="Switchbacks">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_switchback4.JPEG" alt="Switchbacks">
+    </div>
+  </div>
+</figure>
 
 Scrambling up rockfalls,
 
-And stopping, repeatedly, just to soak it all in
+
+Posing for photos
 
 
-No adventure story is complete without a harrowing test of mettle - ours occurs
-halfway through the hike when the trail winnows down to a slender footpath
-perched atop a cliff hugging the left side of the craggy mass. At this
-point all conversation ceases while our expedition navigates the 50 yard
-tightrope maneuver, every ounce of concentration devoted to the
-precise placement of every step, grabbing hold to the edge of the cliff like
-Jimmy Stewart in *Vertigo*.
-
-<figure class="figure container">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_cliff.JPEG" alt="Cliff">
-  <figcaption class="figure-caption">Michael fearlessly leading the crew around
-	the cliff</figcaption>
-</figure>
-
-The final ascent tracks the moderate pitch of the mountain's shoulder. Patches
-of small, vibrant flowers line the path, explosions of yellows, reds, and pinks
-spackle the mottled green of the dewy moss. Small fields of snow luxuriate in
-shady alcoves, stubbornly clinging to their crystalline structure.
-
-The plateaued summit of Mt Prest sinks beneath our hiking boots, waterlogged
-from the winter's snowpack.
-
-<p class="block-quote">
-Squishy slosh mountaintop swamp
-On the roof of the world
-Swirling through the clouds
-At the right hand of Odin
+<p class="mt-4 mb-0">
+Petting a dog
 </p>
-
-A cairn stands erect at the R&oslash;yrgrind viewpoint, standing guard over the
-Aurlandsfjord. We snap a few photos at the monument before signing the logbook.
-
-<figure class="figure container">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01-hike_logbook.JPEG" alt="Soggy Loggy">
-  <figcaption class="figure-caption">We did it</figcaption>
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_dog1.JPEG" alt="Dog">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_dog2.JPEG" alt="Dog">
+    </div>
+  </div>
 </figure>
 
-While gazing out over the 
-<a href="/traveler/2023_05-scandinavia/05-oslo_nature.html?id=fjord" target="_blank" rel="noopener noreferrer">glacially eroded sea inlet trough</a>
-the weather starts to change. The scattered clouds begin a descattering
-maneuver, enveloping the view of the fjord behind the veil of a misty fog. Our
-lofty kingdom enveloped by a damp grey specter.
+Watering the flora,
 
-Thankfully our chagrin is short lived; as quickly as it came it's gone,
-sliced into ghostly ribbons of ethereal vapor. Its final memory wispy
-tendrils carried away by the dying breaths of the North Atlantic jet stream.
 
-<div id="fjordCarousel" class="carousel carousel-dark slide my-4" data-bs-ride="carousel">
+And stopping, repeatedly, just to soak it all in
+<div id="fjordCarouselViews" class="carousel carousel-dark slide my-4" data-bs-ride="carousel">
   <div class="carousel-indicators">
-    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="3" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="4" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="5" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="6" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="7" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="8" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="9" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#fjordCarousel" data-bs-slide-to="10" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="3" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="4" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="5" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="6" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="7" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="8" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="9" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="10" aria-label="Slide 3"></button>
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active carousel-centered" style="text-align: center;">
@@ -211,31 +223,173 @@ tendrils carried away by the dying breaths of the North Atlantic jet stream.
       <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3195.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#fjordCarousel" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#fjordCarouselViews" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#fjordCarousel" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#fjordCarouselViews" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
 
-From our vantage we spot a ship upon the fjord not much larger than a
-grain of rice. If not for its slender emerald tail of churned seawater its
-movements would be imperceptible to the naked eye.
+
+
+
+No adventure story is complete without a harrowing test of mettle - ours occurs
+halfway through the hike when the trail winnows down to a slender footpath
+perched atop a cliff hugging the left side of the craggy mass. At this
+point all conversation ceases while our expedition navigates the 50 yard
+tightrope maneuver, every ounce of concentration devoted to the
+precise placement of every step, grabbing hold to the edge of the cliff like
+Jimmy Stewart in *Vertigo*.
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_cliff.JPEG" alt="Cliff">
+  <figcaption class="figure-caption">Michael fearlessly leading the crew around
+	the cliff</figcaption>
+</figure>
+
+The final ascent tracks the moderate pitch of the mountain's shoulder. Patches
+of small, vibrant flowers line the path, explosions of yellows, reds, and pinks
+spackle the mottled green of the dewy moss. Small fields of snow luxuriate in
+shady alcoves, stubbornly clinging to their crystalline structure.
+
+The plateaued summit of Mt Prest sinks beneath our hiking boots, waterlogged
+from the winter's snowpack.
+
+<p class="block-quote">
+Squishy sloshy mountaintop swamp
+ twirled
+Spongy soggy summit stomp
+Dancing on the roof of the world
+
+Slimy grimy slip & slide
+Spongy summit step & stomp
+Slimy dance on the roof of the world
+
+Dancefloor on the roof of the world.
+</p>
+
+A cairn stands erect at the R&oslash;yrgrind viewpoint, keeping a stoic,
+watchful eye over the
+Aurlandsfjord. We snap a few photos at the monument before signing the logbook.
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01-hike_logbook.JPEG" alt="Soggy Loggy">
+  <figcaption class="figure-caption">We did it</figcaption>
+</figure>
+
+While gazing out over the 
+<a href="/traveler/2023_05-scandinavia/05-oslo_nature.html?id=fjord" target="_blank" rel="noopener noreferrer">glacially eroded sea inlet trough</a>
+the weather starts to change. The scattered clouds begin a descattering
+maneuver, enveloping the view of the fjord behind the veil of a misty fog. Our
+lofty kingdom enveloped by a damp grey specter.
+
+Thankfully our chagrin is short lived; as quickly as it came it's gone,
+sliced into ghostly ribbons of ethereal vapor. Its final memory floating on wispy
+tendrils carried away by the dying breaths of the North Atlantic jet stream.
+
+<p class="block-quote">
+Ethereal vapor
+Swirling through the heavens
+
+At the right hand of Odin
+</p>
+
+<div id="fjordCarouselTop" class="carousel carousel-dark slide my-4" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="3" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="4" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="5" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="6" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="7" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="8" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="9" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="10" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active carousel-centered" style="text-align: center;">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3029.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3023.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3037.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3044.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3045.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3066.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3086.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3098.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3184.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3192.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3195.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#fjordCarouselTop" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#fjordCarouselTop" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+
+
 
 <h4 class="article-subheader">Cruisin'</h4>
-The morning after our mountaineering escapades Jill has procured passage on a
-sightseeing cruise through the fjords. Unfortunately so too have hordes of
-visitors aboard the *MV Brittania*, a cruise ship that snuck into port overnight
-much to our chagrin.
+The next morning Jill has planned an augmentation to our land-based fjord
+observations by booking a sightseeing cruise. Unfortunately we're not the only
+ones with the idea...
+
+During our mountaineering escapades yesterday we spotted a ship from atop Mount
+Prest not much larger than a grain of rice. If it weren't for its slender
+emerald tail of churned seawater it likely would have been imperceptible. To our
+chagrin that miniscule grain of rice was the *MV Brittania*, the flagship of
+P&O Cruises of Southampton, UK.
+
+Standing as tall as a 20 story building and as long as three-and-a-half football
+fields, the *Brittania*'s 4000 passengers have the permanent residents of
+Fl&aring;m outnumbered 10 to 1.
 
 According to the *Brittania*'s website their *passengers-to-space-ratio* is 33.
 It does not specify units. I'm unsure if this is good. Is *PTSR* a selling
-point among cruise ships? *Climb aboard the luxurious USS Dysentery with
-an industry leading 25 passengers-to-space-ratio! USS Dysentery. Escape the smell.*
+point among cruise ships?
 
+<div class="block-quote">
+  <p>
+    Climb aboard the luxurious USS Dysentery with an industry leading 25
+    passengers-to-space-ratio!
+  </p>
+  <p>
+    USS Dysentery
+  </p>
+  <p>
+    Escape the smell
+  </p>
+</div>
 
 Bright and early we hop aboard the *Future of the Fjords*, the first
 all-electric carbon fiber vessel in the world. With two 600 horsepower engines
@@ -246,11 +400,6 @@ capacity that's roughly equivalent to 1000 gallons of gasoline.
 
 As we're standing on the deck navigating the roiling sea of humanity belched
 upon Fl&aring;m by the *Brittania*
-
-Her 4000 passengers have the permanent residents of Fl&aring;m
-outnumbered 10 to 1. Much to their chagrin one would presume.
-
-*Brittania* 
 
 
 After our cruise we have a few hours to kill before our 6:30 PM reservation on
