@@ -275,20 +275,36 @@ A cairn stands erect at the R&oslash;yrgrind viewpoint, keeping a stoic,
 watchful eye over the
 Aurlandsfjord. We snap a few photos at the monument before signing the logbook.
 
-<figure class="figure container">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01-hike_logbook.JPEG" alt="Soggy Loggy">
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_cairn1.JPEG" alt="Cairn">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_logbook.JPEG" alt="Soggy Loggy">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_cairn2.JPEG" alt="Cairn">
+    </div>
+  </div>
   <figcaption class="figure-caption">We did it</figcaption>
 </figure>
 
 While gazing out over the 
 <a href="/traveler/2023_05-scandinavia/05-oslo_nature.html?id=fjord" target="_blank" rel="noopener noreferrer">glacially eroded sea inlet trough</a>
-the weather starts to change. The scattered clouds begin a descattering
-maneuver, enveloping the view of the fjord behind the veil of a misty fog. Our
+the weather starts to change. The scattered clouds initiate a descattering
+maneuver, enveloping our fjordview behind the veil of a misty fog. Our
 lofty kingdom enveloped by a damp grey specter.
 
-Thankfully our chagrin is short lived; as quickly as it came it's gone,
+Thankfully our chagrin is short lived - as quickly as it came the fog is gone,
 sliced into ghostly ribbons of ethereal vapor. Its final memory floating on wispy
 tendrils carried away by the dying breaths of the North Atlantic jet stream.
+
+<figure class="figure container">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_fog1.jpg" alt="Fog">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_fog2.jpg" alt="Fog">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_fog3.jpg" alt="Fog">
+  <figcaption class="figure-caption">Say ha det to the clouds!</figcaption>
+</figure>
+
 
 <p class="block-quote">
 Ethereal vapor
@@ -360,8 +376,8 @@ At the right hand of Odin
 
 
 <h4 class="article-subheader">Cruisin'</h4>
-The next morning Jill has planned an augmentation to our land-based fjord
-observations by booking a sightseeing cruise. Unfortunately we're not the only
+The next morning Jill has planned a supplement to our land-based fjord
+observations via a sightseeing cruise. Unfortunately we're not the only
 ones with the idea...
 
 During our mountaineering escapades yesterday we spotted a ship from atop Mount
@@ -369,6 +385,11 @@ Prest not much larger than a grain of rice. If it weren't for its slender
 emerald tail of churned seawater it likely would have been imperceptible. To our
 chagrin that miniscule grain of rice was the *MV Brittania*, the flagship of
 P&O Cruises of Southampton, UK.
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_cruise_ship.JPEG" alt="Cruise ship">
+  <figcaption class="figure-caption">Go find another fjord!</figcaption>
+</figure>
 
 Standing as tall as a 20 story building and as long as three-and-a-half football
 fields, the *Brittania*'s 4000 passengers have the permanent residents of
