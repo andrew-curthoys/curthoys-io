@@ -376,12 +376,12 @@ At the right hand of Odin
 
 
 <h4 class="article-subheader">Cruisin'</h4>
-The next morning Jill has planned a supplement to our land-based fjord
-observations via a sightseeing cruise. Unfortunately we're not the only
+The next morning Jill has planned a sightseeing cruise to supplement to our
+land-based fjord observations. Unfortunately we're not the only
 ones with the idea...
 
-During our mountaineering escapades yesterday we spotted a ship from atop Mount
-Prest not much larger than a grain of rice. If it weren't for its slender
+During our mountaineering escapades yesterday we spotted a spec upon the fjord
+not much larger than a grain of rice. If it weren't for its slender
 emerald tail of churned seawater it likely would have been imperceptible. To our
 chagrin that miniscule grain of rice was the *MV Brittania*, the flagship of
 P&O Cruises of Southampton, UK.
@@ -392,8 +392,8 @@ P&O Cruises of Southampton, UK.
 </figure>
 
 Standing as tall as a 20 story building and as long as three-and-a-half football
-fields, the *Brittania*'s 4000 passengers have the permanent residents of
-Fl&aring;m outnumbered 10 to 1.
+fields, the *Brittania*'s 4000 passengers outnumber the permanent residents of
+Fl&aring;m 10 to 1.
 
 According to the *Brittania*'s website their *passengers-to-space-ratio* is 33.
 It does not specify units. I'm unsure if this is good. Is *PTSR* a selling
@@ -412,7 +412,22 @@ point among cruise ships?
   </p>
 </div>
 
-Bright and early we hop aboard the *Future of the Fjords*, the first
+As we stroll into town this lovely Norwegian summer morning we're greeted with
+an altogether different experience than the charming fjordtown we roamed
+yesterday. Gone is the carefree chatter fluttering from charming sidewalk cafes.
+In are torpid droves of cruisepeople in gauche Norwegian graphic t-shirts
+bloating cafe queues and blocking sidewalks like atherosclerotic plaque.
+
+Swimming against the roiling sea of humanity belched upon the avenues of Fl&aring;m
+we finally manage to procure a coffee in a paper cup and a cold pastry. We have
+30 minutes till our vessel begins embarking but the line to board has already
+begun distending like a flight to Orlando when they announce boarding zone 1.
+Unfortunately we decide to join the procession lest we are stuck with an
+undesirable vantage. At least we have some stunning views to distract us from
+the inane prattle of cruise ship rewards points.
+
+Half an hour later the rope is mercifully dropped and we hop aboard the *Future
+of the Fjords*, the first
 all-electric carbon fiber vessel in the world. With two 600 horsepower engines
 powered by an 1800 kWh battery pack the *Future* can cruise at a breezy 16 knots
 for 40 nautical miles on a single charge. To put that into a little perspective,
@@ -421,7 +436,6 @@ capacity that's roughly equivalent to 1000 gallons of gasoline.
 
 As we're standing on the deck navigating the roiling sea of humanity belched
 upon Fl&aring;m by the *Brittania*
-
 
 After our cruise we have a few hours to kill before our 6:30 PM reservation on
 the Fl&aring;m Railway. Jill found a reasonable hike within walking distance so
