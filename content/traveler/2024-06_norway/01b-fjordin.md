@@ -424,24 +424,48 @@ we finally manage to procure a coffee in a paper cup and a cold pastry. We have
 begun distending like a flight to Orlando when they announce boarding zone 1.
 Unfortunately we decide to join the procession lest we are stuck with an
 undesirable vantage. At least we have some stunning views to distract us from
-the inane prattle of cruise ship rewards points.
+the inane prattle of cruise ship rewards point hacks.
 
-Half an hour later the rope is mercifully dropped and we hop aboard the *Future
-of the Fjords*, the first
+Half an hour later a stressed out teenager mercifully drops the rope to begin a
+slow plodding of humanity onto the *Future of the Fjords*, the first
 all-electric carbon fiber vessel in the world. With two 600 horsepower engines
 powered by an 1800 kWh battery pack the *Future* can cruise at a breezy 16 knots
-for 40 nautical miles on a single charge. To put that into a little perspective,
-making some rough assumptions on average car gas tank size and EV battery pack
-capacity that's roughly equivalent to 1000 gallons of gasoline.
+for 40 nautical miles on a single charge. To put that into a little perspective
+(making some rough assumptions on average car gas tank size and EV battery pack
+capacity) that's roughly equivalent to 1000 gallons of gasoline.
 
-As we're standing on the deck navigating the roiling sea of humanity belched
-upon Fl&aring;m by the *Brittania*
+We find a good spot on the top deck with a starboard vantage and without even
+realizing it we're 100 yards from the dock. The *Future of the Fjords* is so
+smooth and quiet her motion is indiscernible. Gliding across the fjord at a
+brisk clip without the rumble
+of a diesel engine, not to mention the noxious fumes,
+
+Electric propulsion is the only way to see the fjords.
+
+Half an hour into our sail we follow the fjord's leftward jaunt in the hulking
+shadow of Mt Prest. If you squint just right you can see the cairn where we
+signed the logbook yesterday.
+
+An hour into the sail we reach a fork in the fjord. Right takes you up the main
+leg of the *Aurlandsfjord* to meet the *Sognefjord*, where, if you follow 50
+miles to the west, you hit open the open ocean. We veer left, down the
+*N&aelig;r&oslash;yfjord*, the fjord-ward extension of the *Valley of the
+Waterfalls*
+
+(fun fact - the N&aelig;r&oslash;yfjord was the inspiration for Arendelle in
+*Frozen*)
+
+
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-cruise_route_map.png" alt="Cruise map">
+  <figcaption class="figure-caption">Fjords forever<figcaption>
+</figure>
 
 After our cruise we have a few hours to kill before our 6:30 PM reservation on
 the Fl&aring;m Railway. Jill found a reasonable hike within walking distance so
 we strap on our hikin' boots and set off southbound from town. We stroll along
 the Nedre Brekkevegan river bestride bucolic farms
-flanked by towering tree-covered cliffs.
+flanked by towering cliffs blanketed with trees.
 
 A mile south of town we veer right through a cut in the vegetation onto a
 well-trod path ascending yet another of Norway's innumerable mountains. The

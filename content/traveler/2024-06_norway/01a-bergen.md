@@ -763,19 +763,17 @@ flight. The spray appears to float towards the earth in slow motion before
 crashing on the escarpment below.
 
 The wide valley is bisected by the N&aelig;r&oslash;ydalselvi River, collecting
-the      of the waterfalls, laconically escorting it to the N&aelig;r&oslash;yfjord.
-(fun fact - the N&aelig;r&oslash;yfjord was the inspiration for Arendelle in
-*Frozen*)
-
-At the terminus of the valley we reach the *Gudvangatunnelen*, the penultimate
-tunnel before reaching Fl&aring;m. Boring 7 miles through a snarl of precambrian
-charnockitic gneiss, the *Gudvangatunnelen* is Norway's third longest road
+the effluence of the waterfalls, laconically escorting it to the
+N&aelig;r&oslash;yfjord. As we near the fjord we hang a right through the
+*Gudvangatunnelen*, the penultimate tunnel before reaching Fl&aring;m. Boring 7
+miles through a snarl of precambrian charnockitic gneiss, the *Gudvangatunnelen*
+holds the title of Norway's third longest road
 tunnel (the first longest - the *L&aelig;rdalstunnelen* sits just on the other
 side of Fl&aring;m. It also carries the distinction of being the *world's*
 longest road tunnel).
 
-Halfway through our subterranean journey the tubular
-cavern alights with colorful LEDs, washing the inside of the tunnel in a
+Halfway through our subterranean journey the tubular cavern alights with
+colorful, pulsing LEDs, washing the inside of the tunnel in a
 rotating series of bright pinks,
 purples, blues, and reds. It feels like a dance party might break out at any
 moment. As Jill later discovers, the lights were installed to break up the
