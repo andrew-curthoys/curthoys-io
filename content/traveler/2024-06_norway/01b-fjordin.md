@@ -444,17 +444,18 @@ Electric propulsion is the only way to see the fjords.
 
 Half an hour into our sail we follow the fjord's leftward jaunt in the hulking
 shadow of Mt Prest. If you squint just right you can see the cairn where we
-signed the logbook yesterday.
+signed the logbook yesterday. of sailing down a corridor of tranquil waters enveloped
+by verdant cliffs
 
-An hour into the sail we reach a fork in the fjord. Right takes you up the main
-leg of the *Aurlandsfjord* to meet the *Sognefjord*, where, if you follow 50
-miles to the west, you hit open the open ocean. We veer left, down the
-*N&aelig;r&oslash;yfjord*, the fjord-ward extension of the *Valley of the
-Waterfalls*
-
-(fun fact - the N&aelig;r&oslash;yfjord was the inspiration for Arendelle in
-*Frozen*)
-
+After 10 nautical miles of more of the same we reach a fork in the fjord.
+Finally something to get excited about. Right
+takes you up the main leg of the *Aurlandsfjord*, a tributary of the mighty
+*Sognefjord*, where, if you hang a left and cruise for 50 more miles, you hit
+the open ocean. For myriad reasons, including the presumed lack of ferry
+charging infrastructure on the fjord, we veer left, down the
+*N&aelig;r&oslash;yfjord*. This decision suits us, seeing as this is the the
+fjord-ward extension of the *Valley of the Waterfalls*, and most excitingly,
+the inspiration for Arendelle in *Frozen*.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-cruise_route_map.png" alt="Cruise map">

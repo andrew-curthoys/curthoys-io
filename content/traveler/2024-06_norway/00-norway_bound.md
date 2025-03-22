@@ -15,7 +15,7 @@ short_sum: Headed to Norway... Again
 summary: x
 
 <h4 class="article-subheader">Are You Following Me?</h4>
-I glance up from my book to see my good ol friend Zach looking down at me with a
+I glance up from my book to see my good friend Zach looking down at me with a
 quizzical gaze.
 
 "Are you on this flight to New YorK?"
@@ -25,8 +25,8 @@ quizzical gaze.
 "Yeah... what the hell, I saw you from across the terminal and thought there's
 no way I run into you two days in a row"
 
-I ran into Zach yesterday while he was out walking his dog. I
-ran into him today en route to a week in NYC with friends before his
+I crossed Zach's path yesterday while he was on a dog walk and I was on a bike
+ride. I ran into him today en route to a week in NYC with friends before his
 cousin's wedding in Boston. He lived in New York for 7 years before succumbing
 to the sylvan call of the Northern Carolina timberland.
 
@@ -36,19 +36,20 @@ to the sylvan call of the Northern Carolina timberland.
 
 "Crown Heights"
 
-"Wanna split a cab?"
+"Oh nice! That's pretty close to where I'm going, wanna split a cab?"
 
 "Hell of a deal"
 
-A few hours later we find ourselves at Herbert Von King Park in the heart of
+A few hours later said cab drops us at Herbert Von King Park in the heart of
 Bed Stuy with grumbling bellies.
 
-"There's a great ramen place near here but it doesn't open till noon, wanna grab
-a drink while we wait"
+"There's an awesome ramen place near here but it doesn't open till noon, wanna
+grab a drink while we wait?"
 
 "Great idea"
 
-I follow Zach with enough luggage to outfit two days of working in Manhattan, a
+I follow Zach towing an assemblage of luggage to outfit two days of working in
+Manhattan, a
 week of hiking in Norway, a wedding in St. Louis, and general city rompabout wear.
 We find a spot on the patio at **CAPT. DAN'S**
 <span class="text-danger">*"Good Time"*</span> **TAVERN**, an eclectic
@@ -174,6 +175,9 @@ beautiful views of the Oslofjord.
 "Well I had a suspicion - she asked me when Sondre was going to propose when I
 was here last year"
 
+<h4 class="article-subheader">Euros</h4>
+Unfortunately my time spent with Sondre is limited. My trip coincides with the
+UEFA European Championships
 
 We got too nervous and made our own travel luck
 
