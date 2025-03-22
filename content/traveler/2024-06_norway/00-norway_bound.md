@@ -172,12 +172,19 @@ beautiful views of the Oslofjord.
 
 "She said yes"
 
-"Well I had a suspicion - she asked me when Sondre was going to propose when I
-was here last year"
+"Well I hope you wouldn't tell me if she said no! I did have a suspicion she'd
+say yes - last year she asked me when the hell Sondre was going to propose!"
+
+"Monica and I are very excited"
+
+"As you should be!"
 
 <h4 class="article-subheader">Euros</h4>
 Unfortunately my time spent with Sondre is limited. My trip coincides with the
 UEFA European Championships
+
+Shooting pool with Brage's friends texting with Shannon
+
 
 We got too nervous and made our own travel luck
 
