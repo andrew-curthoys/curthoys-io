@@ -34,25 +34,27 @@ Asgard at the
 elysian sanctuary
 
 
-The trailhead for our hike sits above the town of Aurland, a stone's throw down
-the road from Fl&aring;m. As our Toyota moseys through town Jill recognizes a
+The trailhead for our hike sits above the town of Aurland, a stone's throw from
+Fl&aring;m. As our Toyota moseys through town Jill recognizes a
 landmark from her research,
 
-"Oh! Marianne Bakery! I remember reading about this place, they are supposed to
+"Oh! Marianne Bakery! I read about this place, they are supposed to
 have amazing cinnamon rolls!"
 
 In silent unison the entire car approves Jill's motion to adjourn
-for cinnamon rolls and Michael smoothly pulls into a parking space across the
-street from the bakery. 10 minutes later we are back on the road scarfing down
+for cinnamon rolls and Michael smoothly pulls into a parking space next to the
+bakery. 10 minutes later we are back on the road scarfing down
 a round of spiced pastries that exceed even Jill's prodigious expectations. 
 Unlike the gooey, hyperglycemic blobs of masonry paste that we're accustomed to,
 the *Kanelboller* dispense with the goo and go all in on nutmeg, cardamon,
-allspice, and, of course, the namesake cinnamon.
+allspice, and, of course, the namesake cinnamon. A perfect jolt of delicious
+carbs to fuel us on our hike.
 
 The drive to the trailhead is up a one-lane switchback road overlooking Aurland.
 And when I say one-lane I mean *ONE* lane. Uphill and downhill traffic must
-manage the single lane in a game of mountainside chicken. We have found ourselves
-in the middle of a caravan of RVs and motorcycles, a desirable spot where we
+manage the single lane in a game of mountainside chicken. Luckily we have found
+ourselves in the middle of an impromptu caravan of RVs and motorcycles; a
+desirable location where we
 can simply *go with the flow*. Our fearless leader at the front is tasked with
 the delicate dance of negotiating oncoming traffic.
 
@@ -100,7 +102,8 @@ Invite the bold<br>
 To explore their lofty kingdom
 </p>
 
-If we were standing on the pavement of 5th Avenue the top of this mountain
+If we were standing on the pavement of 5th Avenue in New York City the top of
+this mountain
 would look down on the spire of the Empire State Building. It seems an
 insurmountable task; a hopeless fight against the relentless tug of gravity.
 
@@ -150,10 +153,43 @@ Switching & switching back
   </div>
 </figure>
 
+<div class="mt-4 fs-5 fst-italic">
 Scrambling up rockfalls,
+</div>
+<figure class="figure">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_rockfall1.JPEG" alt="Switchbacks">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_rockfall2.JPEG" alt="Switchbacks">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_rockfall3.JPEG" alt="Switchbacks">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_rockfall4.jpg" alt="Switchbacks">
+    </div>
+  </div>
+</figure>
 
 
 Posing for photos
+</p>
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose1.jpg" alt="Switchbacks">
+  <div class="row">
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose2.jpg" alt="Switchbacks">
+    </div>
+    <div class="col-6">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose3.jpg" alt="Switchbacks">
+    </div>
+  </div>
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose4.jpg" alt="Switchbacks">
+</figure>
 
 
 <p class="mt-4 mb-0">
@@ -302,81 +338,22 @@ tendrils carried away by the dying breaths of the North Atlantic jet stream.
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_fog1.jpg" alt="Fog">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_fog2.jpg" alt="Fog">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_fog3.jpg" alt="Fog">
-  <figcaption class="figure-caption">Say ha det to the clouds!</figcaption>
+  <figcaption class="figure-caption">Behold! Mikkel of Salisbury performing the
+  kl&oslash;ddj&aring;lbr&aelig;kker, a traditional Norwegian ritual of clearing
+  the sky to showcase your good deads to the gods in the Garden of the
+  &AElig;sir</figcaption>
 </figure>
 
-
 <p class="block-quote">
-Ethereal vapor
-Swirling through the heavens
-
-At the right hand of Odin
+Ethereal vapor<br>
+Swirling through the heavens<br>
+Carried on a wing
+By the breath of Freyja
 </p>
-
-<div id="fjordCarouselTop" class="carousel carousel-dark slide my-4" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="3" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="4" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="5" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="6" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="7" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="8" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="9" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#fjordCarouselTop" data-bs-slide-to="10" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active carousel-centered" style="text-align: center;">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3029.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3023.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3037.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3044.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3045.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3066.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3086.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3098.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3184.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3192.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3195.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#fjordCarouselTop" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#fjordCarouselTop" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-
-
 
 
 <h4 class="article-subheader">Cruisin'</h4>
-The next morning Jill has planned a sightseeing cruise to supplement to our
+The next morning project leader Jill has planned a sightseeing cruise to supplement to our
 land-based fjord observations. Unfortunately we're not the only
 ones with the idea...
 
