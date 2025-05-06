@@ -109,9 +109,9 @@ insurmountable task; a hopeless fight against the relentless tug of gravity.
 
 But we set off anyway,
 
-<p class="mb-0">
+<div class="mt-4 fs-5 fst-italic">
 Trodding well trodden paths
-</p>
+</div>
 <figure class="figure">
   <div class="row">
     <div class="col-6">
@@ -131,9 +131,9 @@ Trodding well trodden paths
   </div>
 </figure>
 
-<p class="mt-4 mb-0">
+<div class="mt-4 fs-5 fst-italic">
 Switching & switching back
-</p>
+</div>
 <figure class="figure">
   <div class="row">
     <div class="col-6">
@@ -154,7 +154,7 @@ Switching & switching back
 </figure>
 
 <div class="mt-4 fs-5 fst-italic">
-Scrambling up rockfalls,
+Scrambling up rockfalls
 </div>
 <figure class="figure">
   <div class="row">
@@ -175,26 +175,33 @@ Scrambling up rockfalls,
   </div>
 </figure>
 
-
+<div class="mt-4 fs-5 fst-italic">
 Posing for photos
-</p>
+</div>
 <figure class="figure">
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose1.jpg" alt="Switchbacks">
+    <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose1.jpg" alt="Posing">
   <div class="row">
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose2.jpg" alt="Switchbacks">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose2.jpg" alt="Posing">
     </div>
     <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose3.jpg" alt="Switchbacks">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose3.jpg" alt="Posing">
     </div>
   </div>
-  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose4.jpg" alt="Switchbacks">
+  <div class="row">
+    <div class="col-7">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose5.jpg" alt="Posing">
+    </div>
+    <div class="col-5">
+      <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose6.jpg" alt="Posing">
+    </div>
+  </div>
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose4.jpg" alt="Posing">
 </figure>
 
-
-<p class="mt-4 mb-0">
+<div class="mt-4 fs-5 fst-italic">
 Petting a dog
-</p>
+</div>
 <figure class="figure">
   <div class="row">
     <div class="col-6">
@@ -206,10 +213,16 @@ Petting a dog
   </div>
 </figure>
 
-Watering the flora,
+<div class="mt-4 fs-5 fst-italic">
+Watering the flora
+</div>
+<figure class="figure container">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_watering_the_flora.JPEG" alt="Watering the flora">
+</figure>
 
-
+<div class="mt-4 fs-5 fst-italic">
 And stopping, repeatedly, just to soak it all in
+</div>
 <div id="fjordCarouselViews" class="carousel carousel-dark slide my-4" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -226,38 +239,12 @@ And stopping, repeatedly, just to soak it all in
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active carousel-centered" style="text-align: center;">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3029.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel1.jpg" class="figure-img img-fluid mt-2 rounded" alt="Fjord">
     </div>
     <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3023.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel2.jpg" class="figure-img img-fluid mt-2 rounded" alt="Fjord">
     </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3037.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3044.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3045.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3066.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3086.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3098.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3184.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3192.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2022_01-ski_trip/IMG_3195.JPEG" class="figure-img img-fluid mt-2 rounded" alt="Tree">
-    </div>
+
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#fjordCarouselViews" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
