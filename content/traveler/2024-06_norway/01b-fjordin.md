@@ -238,12 +238,12 @@ And stopping, repeatedly, just to soak it all in
     <button type="button" data-bs-target="#fjordCarouselViews" data-bs-slide-to="10" aria-label="Slide 3"></button>
   </div>
   <div class="carousel-inner">
-    <div class="carousel-item active carousel-centered" style="text-align: center;">
+    <div class="carousel-item active carousel-centered" style="text-align: center; height: 31rem;">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel1.jpg" class="figure-img img-fluid rounded" style="height: auto;" alt="Fjord">
+    </div>
+    <!-- <div class="carousel-item carousel-centered">
       <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel1.jpg" class="figure-img img-fluid mt-2 rounded" alt="Fjord">
-    </div>
-    <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel2.jpg" class="figure-img img-fluid mt-2 rounded" alt="Fjord">
-    </div>
+    </div> -->
 
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#fjordCarouselViews" data-bs-slide="prev">
