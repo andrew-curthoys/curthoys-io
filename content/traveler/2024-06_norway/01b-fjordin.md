@@ -197,6 +197,7 @@ Posing for photos
     </div>
   </div>
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose4.jpg" alt="Posing">
+  <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_pose7.jpg" alt="Posing">
 </figure>
 
 <div class="mt-4 fs-5 fst-italic">
@@ -239,12 +240,32 @@ And stopping, repeatedly, just to soak it all in
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active carousel-centered" style="text-align: center; height: 31rem;">
-      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel1.jpg" class="figure-img img-fluid rounded" style="height: auto;" alt="Fjord">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel1.jpg" class="figure-img img-fluid rounded center-element-xy" style="height: auto; max-height: 31em;" alt="Fjord">
     </div>
-    <!-- <div class="carousel-item carousel-centered">
-      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel1.jpg" class="figure-img img-fluid mt-2 rounded" alt="Fjord">
-    </div> -->
-
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel2.jpg" class="figure-img img-fluid rounded center-element-xy" style="height: auto; max-height: 31em;" alt="Fjord">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel3.jpg" class="figure-img img-fluid rounded center-element-xy" style="height: auto; max-height: 31em;" alt="Fjord">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel4.jpg" class="figure-img img-fluid rounded center-element-xy" style="height: auto; max-height: 31em;" alt="Fjord">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel5.jpg" class="figure-img img-fluid rounded center-element-xy" style="height: auto; max-height: 31em;" alt="Fjord">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel6.jpg" class="figure-img img-fluid rounded center-element-xy" style="height: auto; max-height: 31em;" alt="Fjord">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel7.jpg" class="figure-img img-fluid rounded center-element-xy" style="height: auto; max-height: 31em;" alt="Fjord">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel8.jpg" class="figure-img img-fluid rounded center-element-xy" style="height: auto; max-height: 31em;" alt="Fjord">
+    </div>
+    <div class="carousel-item carousel-centered">
+      <img src="/theme/images/traveler/2024-06_norway/01b-hike_carousel9.jpg" class="figure-img img-fluid rounded center-element-xy" style="height: auto; max-height: 31em;" alt="Fjord">
+    </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#fjordCarouselViews" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
