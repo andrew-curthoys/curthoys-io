@@ -16,7 +16,12 @@ summary: xxxxx
 
 
 <h4 class="article-subheader">Sea Buckthorn</h4>
-"Each of our cocktails is sourced with Norwegian ingredients
+"Each of our cocktails is sourced with Norwegian ingredients, inspired by
+nature and expertly crafted by our bartenders with spirits
+distilled on-site. I'll leave these menus here & let me know if you have any
+questions."
+
+
 
 
 
@@ -218,7 +223,13 @@ Ranked 4th on a
 of the most famous paintings in the world, Munch's *The Scream* is instantly
 recognizable.
 
-As luck would have it we are privileged to 
+As luck would have it we are privileged to see the museum's only painted version
+of *The Scream*. Unbeknownst to me (and others I would presume based on the
+article on Munchmuseet's website entitled, 
+<a href="https://www.munchmuseet.no/en/The-Scream/did-you-know...-that-there-are-many-versions-of-the-scream/">Did you know... that there are
+many versions of The Scream?</a>) there's not just one *The Scream*. Munch
+created two paintings, two drawings with pastel and crayon, and a lithograph
+that was used to produce an unknown number of prints.
 
 
 The space is more light and vibrant than many cold, stodgy spaces that may have

@@ -303,8 +303,7 @@ The plateaued summit of Mt Prest sinks beneath our hiking boots, waterlogged
 from the winter's snowpack.
 
 <p class="block-quote">
-Squishy sloshy mountaintop swamp
- twirled
+Squishy squoshy mountaintop swamp
 Spongy soggy summit stomp
 Dancing on the roof of the world
 
