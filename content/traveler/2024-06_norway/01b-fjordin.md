@@ -35,7 +35,7 @@ elysian sanctuary
 
 
 The trailhead for our hike sits above the town of Aurland, a stone's throw from
-Fl&aring;m. As our Toyota moseys through town Jill recognizes a
+our home base in Fl&aring;m. As our Toyota moseys through town Jill recognizes a
 landmark from her research,
 
 "Oh! Marianne Bakery! I read about this place, they are supposed to
@@ -295,9 +295,9 @@ Jimmy Stewart in *Vertigo*.
 </figure>
 
 The final ascent tracks the moderate pitch of the mountain's shoulder. Patches
-of small, vibrant flowers line the path, explosions of yellows, reds, and pinks
-spackle the mottled green of the dewy moss. Small fields of snow luxuriate in
-shady alcoves, stubbornly clinging to their crystalline structure.
+of small but vibrant flowers line the path, sparkles of yellows, reds, and pinks
+hidden within the mottled green mats of dewy moss. Small fields of snow
+luxuriate in shady alcoves, stubbornly clinging to their crystalline structure.
 
 The plateaued summit of Mt Prest sinks beneath our hiking boots, waterlogged
 from the winter's snowpack.
