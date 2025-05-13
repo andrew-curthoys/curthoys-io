@@ -472,10 +472,12 @@ they are more fragile than works on canvas. As a result they only display one
 version at a time on a rotating schedule, while "the two others rest in
 darkness" as the museum melodramatically describes.
 
+<div id="skrik">
 The version on display during our visit is a black & white lithograph. While
 the museum says that "all the versions are different, but equally powerful" I
 have to day that I think the colored painting is probably more powerful. But
 then again I have absolutely no idea what the hell I'm talking about.
+</div>
 
 <figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2023_05-scandinavia/oslo-culture_skrik3.jpg" alt="Skrik">

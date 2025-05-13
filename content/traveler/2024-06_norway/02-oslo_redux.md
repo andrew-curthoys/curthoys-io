@@ -229,8 +229,18 @@ article on Munchmuseet's website entitled,
 <a href="https://www.munchmuseet.no/en/The-Scream/did-you-know...-that-there-are-many-versions-of-the-scream/">Did you know... that there are
 many versions of The Scream?</a>) there's not just one *The Scream*. Munch
 created two paintings, two drawings with pastel and crayon, and a lithograph
-that was used to produce an unknown number of prints.
+that was used to produce an unknown number of prints. When I was here
+<a href="/traveler/2023_05-scandinavia/04-oslo_culture?id=skrik" target="_blank" rel="noopener noreferrer">last year</a>
+they had on display one of the black & white lithographs. It was a real womp
+womp moment. But seeing the full color painting this year is nothing short of
+exhilarating.
 
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/02-oslo_skrik.jpg" alt="Skrik">
+  <figcaption class="figure-caption">"Shaking with angst I felt a great scream in nature"</figcaption>
+</figure>
+
+A new installation this year was 
 
 The space is more light and vibrant than many cold, stodgy spaces that may have
 sparked the group's aversion to museums.

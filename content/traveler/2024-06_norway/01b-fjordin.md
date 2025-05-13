@@ -521,3 +521,5 @@ https://www.google.com/maps/contrib/116430857683765208067/reviews/@52.1515859,-5
 
 Trains are so cool because you can talk about the steepness of a hill like "18
 in 1" and say things like "rolling stock".
+
+* Foss hike
