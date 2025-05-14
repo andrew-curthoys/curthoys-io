@@ -15,14 +15,52 @@ short_sum: xxxxx
 summary: xxxxx
 
 
+<h4 class="article-subheader">There are no backpacks allowed in the museum</h4>
+"Ok good, because this is a purse"
+
+"No it's a backpack"
+
+"It's so small it's really just a purse"
+
+"No it's a backpack. It has 2 straps"
+
+"But it's.... a purse, why does it matter how many straps it has"
+
+"If it has two straps it is a backpack and cannot enter the museum"
+
+Opposite the inexorable resolve of Norwegian bureaucracy Kate stands no
+chance. She continues to assert the veracity of her pursely taxonomic
+classification but the stodgy security guard parries each claim with the deftness
+of a 19th century Parisian expressionist painter. With each diminishing
+exhortation, Kate realizes she has no effective counterargument to the logical
+consistency of the *2 strap defense*. Defeated, she slinks away to deposit her
+2-strapped bac into the locked receptacles.
+
+As we ride the escalator up to the exhibits I quickly check wikipedia for the
+definition of a backpack
+
+<div class="block-quote">
+A backpack—also called knapsack, schoolbag, rucksack, pack, booksack, bookbag,
+haversack or backsack—is, in its simplest frameless form, a fabric sack carried
+on one's back and secured with <b>two straps</b> that go over the shoulders; but
+it can have an external or internal frame, and there are bodypacks
+[emphasis mine].
+</div>
+
+"Kate, it looks like Wikipedia agrees with the security detail. 2 straps a
+backpack does make."
+
+"Whose side are you on??"
+
+
 <h4 class="article-subheader">Sea Buckthorn</h4>
 "Each of our cocktails is sourced with Norwegian ingredients, inspired by
 nature and expertly crafted by our bartenders with spirits
 distilled on-site. I'll leave these menus here & let me know if you have any
 questions."
 
-
-
+Later that night we find ourselves at Himkok, an award-winning cocktail bar in
+the heart of downtown Oslo.
 
 
 Our Oslo stint began with cocktails - g&ts from Kate and Dustin
@@ -146,7 +184,6 @@ In any case we're all hopped up on doughnuts and caffeine, champing at the bit
 to peruse the halls of my favorite museum, buoyed by an collective enthusiasm
 for the arts.
 
-
 <h4 class="article-subheader">Munch</h4>
 "I wouldn't exactly describe this crowd as *museum people*"
 
@@ -171,38 +208,6 @@ purse, it'll be fine."
 We mosey to the entrance where an unenthusiastic elderly man scans our tickets
 and points us towards the security checkpoint. "Please place all bags on the
 table for inspection." Kate drops her backpurse onto the table
-
-"There are no backpacks allowed in the museum"
-
-"It's a purse"
-
-"No it's a backpack"
-
-"It's so small it's really just a purse"
-
-"No it's a backpack. It has 2 straps"
-
-"But it's.... a purse"
-
-Defeated, Kate realizes she has no effective counterargument to the *2 strap
-defense* and slinks away to deposit her 2-strap bag into the locked receptacles.
-
-As we ride the escalator up to the exhibits I quickly check wikipedia for the
-definition of a backpack
-
-<div class="block-quote">
-A backpack—also called knapsack, schoolbag, rucksack, pack, booksack, bookbag,
-haversack or backsack—is, in its simplest frameless form, a fabric sack carried
-on one's back and secured with <b>two straps</b> that go over the shoulders; but
-it can have an external or internal frame, and there are bodypacks
-[emphasis mine].
-</div>
-
-"Kate, it looks like Wikipedia agrees with the security detail. 2 straps a
-backpack does make."
-
-"Whose side are you on??"
-
 
 
 In contrast with last year's exhibition, this year's offerings focus almost
@@ -232,8 +237,7 @@ created two paintings, two drawings with pastel and crayon, and a lithograph
 that was used to produce an unknown number of prints. When I was here
 <a href="/traveler/2023_05-scandinavia/04-oslo_culture?id=skrik" target="_blank" rel="noopener noreferrer">last year</a>
 they had on display one of the black & white lithographs. It was a real womp
-womp moment. But seeing the full color painting this year is nothing short of
-exhilarating.
+womp moment. But seeing the full color painting this year inspires bewonderment.
 
 <figure class="figure container">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/02-oslo_skrik.jpg" alt="Skrik">
