@@ -24,20 +24,22 @@ summary: xxxxx
 
 "No it's a backpack. It has 2 straps"
 
+Opposite the inexorable resolve of Norwegian bureaucracy Kate stands no
+chance.
+
 "But it's.... a purse, why does it matter how many straps it has"
 
 "If it has two straps it is a backpack and cannot enter the museum"
 
-Opposite the inexorable resolve of Norwegian bureaucracy Kate stands no
-chance. She continues to assert the veracity of her pursely taxonomic
+Kate continues to assert the veracity of her pursely taxonomic
 classification but the stodgy security guard parries each claim with the deftness
 of a 19th century Parisian expressionist painter. With each diminishing
 exhortation, Kate realizes she has no effective counterargument to the logical
 consistency of the *2 strap defense*. Defeated, she slinks away to deposit her
 2-strapped bac into the locked receptacles.
 
-As we ride the escalator up to the exhibits I quickly check wikipedia for the
-definition of a backpack
+As we ride the escalator up to the exhibits of the <span class="skewed">Munch</span>
+museum, I quickly check wikipedia for the definition of a backpack
 
 <div class="block-quote">
 A backpack—also called knapsack, schoolbag, rucksack, pack, booksack, bookbag,
@@ -53,17 +55,7 @@ backpack does make."
 "Whose side are you on??"
 
 
-<h4 class="article-subheader">Sea Buckthorn</h4>
-"Each of our cocktails is sourced with Norwegian ingredients, inspired by
-nature and expertly crafted by our bartenders with spirits
-distilled on-site. I'll leave these menus here & let me know if you have any
-questions."
 
-Later that night we find ourselves at Himkok, an award-winning cocktail bar in
-the heart of downtown Oslo.
-
-
-Our Oslo stint began with cocktails - g&ts from Kate and Dustin
 
 
 <h4 class="article-subheader">Wendelboe</h4>
@@ -248,3 +240,29 @@ A new installation this year was
 
 The space is more light and vibrant than many cold, stodgy spaces that may have
 sparked the group's aversion to museums.
+
+
+<h4 class="article-subheader">Sea Buckthorn</h4>
+Later that night we find ourselves at Himkok, an award-winning cocktail bar in
+the heart of downtown Oslo.
+
+"Each of our cocktails is sourced with Norwegian ingredients, inspired by
+nature and expertly crafted by our bartenders with spirits
+distilled on-site.
+
+I'll leave these menus here, may I suggest the sea buckthorn, made with a sea
+buckthorn cordial sourced from the Norwegian Sea,
+<a href="/traveler/2023_05-scandinavia/02-saetre?id=cheese" target="_blank" rel="noopener noreferrer">brunost</a>
+syrup, and paired with a Kvikk Lunsj, the most famous candy bar in Norway.
+
+With their in-house distillery, Himkok can tailor their spirit offerings to
+suit the flavor profiles of their cocktails. When discussing the gin that goes
+in their dry martini, Maros Dzurus, bar manager at Himkok relates,
+
+<div class="block-quote">
+We add meadowsweet that mimics sweetness, and we dilute after distillation with
+the birch sap that has a little bit Marzipan flavor and sweetness into it as
+well. Also — birch is the Norwegian national tree.
+</div>
+
+Our Oslo stint began with cocktails - g&ts from Kate and Dustin

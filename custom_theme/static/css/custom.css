@@ -6504,7 +6504,7 @@ textarea.form-control-lg {
 .mb-2 {
   margin-bottom: 0.5rem !important; }
 
-.mb-3 {
+.mb-3, .block-quote {
   margin-bottom: 1rem !important; }
 
 .mb-4 {
