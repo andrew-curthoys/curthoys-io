@@ -59,9 +59,10 @@ backpack does make."
 
 
 <h4 class="article-subheader">Wendelboe</h4>
+
 "How's everybody feeling? Anybody have any plans for the day?
 
-"Andrew, this is your leg of the trip"
+"Andrew, this is your leg of the trip, we're relying on you"
 
 "Alright, so how does everybody feel about coffee?"
 
@@ -69,14 +70,15 @@ backpack does make."
 
 "I was hoping you would say that, follow me"
 
-The gang saddles up and we set off on a short walk to Tim Wendelboe.
+The gang saddles up and we set off on a short walk to caffeine nirvana.
 
 "So there is a world renowned coffee shop just a few blocks away, I went here
 last year and it was exceptional."
 
-"How did you hear about it?"
+"So are you a coffee connoisseur?"
 
-"The barista at the coffee shop near Sondre's place recommended it. I had popped
+"Well I wouldn't go that far, I kinda happened onto it bay accident. It was
+recommended to my by the barista at the coffee shop near Sondre's place. I had popped
 in for a quick coffee - just an in & out to-go type thing on my way downtown -
 and it turns out the barista was Australian, so naturally I struck up a
 <a href="/traveler/2023_05-scandinavia/07-oslo_gastro?id=talormade" target="_blank" rel="noopener noreferrer">conversation</a> over a flat white."
@@ -85,33 +87,43 @@ and it turns out the barista was Australian, so naturally I struck up a
 
 "What can I say? So we eventually circled around to chatting about coffee & how
 I was amazed at how good the coffee was in Australia. She was a huge coffee
-geek down under & told me she actually moved to Oslo to work for Tim Wendelboe!
+geek down under & told me she actually moved to Oslo to work for Tim Wendelboe.
 
-"She worked her way up to his head roaster and then right before Covid she
+"My blank stare indicated that I did not know who Tim Wendelboe was so she
+politely explained to me he's one of the biggest names in coffee, winning
+innumerable awards including the World Barista Championship, the
+most prestigious prize in the coffee world.
+
+"She then explained her journey working her way up to Tim Wendelboe's head
+roaster and then right before Covid she
 opened up her own shop called <a href="https://talormade.no/" target="_blank" rel="noopener noreferrer">Talormade</a>
-seeing as her name is Talor.
-Unfortunately her shop is in the opposite direction because her coffee is
-amazing - she roasts it herself and makes fresh gourmet doughnuts to go with
-it. Did I mention she's a trained pasty chef?
+seeing as her name is Talor. I wish we could go there but unfortunately it's in
+the opposite direction and we won't have time to make it out there & back. Her
+coffee is amazing - she roasts it herself and makes fresh gourmet doughnuts to
+go with it. Did I mention she's a trained pasty chef?
 
-
-"But yeah, Talor is who told me to come to Tim Wendelboe last year and I popped
-in right before my ferry to Copenhagen. Oh! She also made me this incredible
-drink called a cappuccino freddo, have you ever had one?"
+"She also made me this incredible drink called a cappuccino freddo, have you ever had one?"
 
 "No never heard of it"
 
 "Neither had I. It's apparently from the Greek islands, it's a chilled espresso
 drink with a magical creamy foam that makes it feel lighter than air. It didn't
-make sense how light the glass was. I still think she might be a witch."
+make sense how light the glass was. I still think she might be a witch.
 
-"Anyways, here's Tim Wendelboe's shop. It's the only one since he's obsessed
+"Anyways, here's Tim Wendelboe's shop. It's the only location since he's obsessed
 with his coffee & doesn't want to sacrifice quality by expanding. He won the
 award for best barista *in the world* a few years ago so you'd think this
 place would have a line out the door. I don't get it."
 
-Thankfully for us the line was not even to the door of the small shop and after
-waiting less than 5 minutes a table opened up to accommodate the 6 of us.
+Thankfully for us the line was not even to the door of the small shop. After
+a less than 5 minute wait a table opened up to accommodate the 6 of us. I
+suppose world-class coffee is just a way of life in Norway.
+
+In contrast to many purveyors of caffeinated brews you don't just order
+"a coffee" at Tim Wendelboe. The menu comprises 6 distinct choices, with
+details on the farm of origin, the processing method, the cultivar of the
+coffee, and most importantly to our group, tasting notes.
+
 
 
 <h4 class="article-subheader">Nature Walk</h4>
