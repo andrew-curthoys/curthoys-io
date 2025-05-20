@@ -120,11 +120,42 @@ a less than 5 minute wait a table opened up to accommodate the 6 of us. I
 suppose world-class coffee is just a way of life in Norway.
 
 In contrast to many purveyors of caffeinated brews you don't just order
-"a coffee" at Tim Wendelboe. The menu comprises 6 distinct choices, with
-details on the farm of origin, the processing method, the cultivar of the
-coffee, and most importantly to our group, tasting notes.
+"a coffee" at Tim Wendelboe. The menu details 6 distinct offerings, each with
+a detailed description of the farm of origin, the processing method, the
+cultivar of the coffee, and most importantly to our group, flavour profile.
 
+I opt for the Geisha from the Caballero farm in Honduras, processed using the
+washed technique this coffee's tasting notes are described as sweet mandarin,
+jasmine, & honey. I have experience with Geisha coffee, albeit limited to one
+cup - last year upon my disembarkation in Copenhagen via the ferry from Oslo I
+stopped off at Coffee Collective (another recommendation from Talor) where the
+barista explained the history and characteristics of Geisha before preparing me
+a miniature carafe.
 
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/02-oslo_geisha.JPEG" alt="Geisha">
+  <figcaption class="figure-caption">My Geish-way drug</figcaption>
+</figure>
+
+Once the coffee hit my lips I my mind was blown. It was unlike any coffee I had
+ever tasted. It was almost closer to tea than coffee, it was so light and
+delicate. According to wikipedia, "Geisha is known for its sweet flavor and
+aroma of floral notes, jasmine, chocolate, honey, and even black tea. These
+sweet floral notes, and complex flavor profiles are some of the many
+characteristics that Geisha coffee shares with most other African coffees."
+
+Could I tell you what jasmine tastes like? Probably not. I am here to tell you
+that Geisha coffee is so mindblowingly exquisite that it transcends from a cup
+of coffee to an *experience*. I don't know much about coffee but I know about
+that.
+
+So that's what brings us here, with another Geisha setup before me. Prepared by
+the grand baristamaster himself (or more precisely some of his minions).
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/02-oslo_wendelboe_coffee.JPG" alt="Coffee">
+  <figcaption class="figure-caption">I mean just look at that ceramic!!</figcaption>
+</figure>
 
 <h4 class="article-subheader">Nature Walk</h4>
 Functionally caffeinated we step out into the beautiful Norwegian summer
