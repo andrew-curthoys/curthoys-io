@@ -157,6 +157,15 @@ the grand baristamaster himself (or more precisely some of his minions).
   <figcaption class="figure-caption">I mean just look at that ceramic!!</figcaption>
 </figure>
 
+While most cafes serve mugs of scalding hot over-roasted over-extracted sawdust
+masquerading as coffee, Tim Wendelboe serves his coffee at an approachable
+temperature, allowing the patron to experience its full bouquet of dazzling
+flavors. Forgoing the need for a handle, my squat coffee mug slightly resembles
+a Winnie the Pooh hunny pot - and the potion within is just as addicting. The
+coffee is a lithe ballerina flitting across my palate, each delicate
+tap of its en pointe toes enlivening individual tastebuds.
+
+
 <h4 class="article-subheader">Nature Walk</h4>
 Functionally caffeinated we step out into the beautiful Norwegian summer
 sunshine. Downtown is only a couple miles away so we decide to hoof it
