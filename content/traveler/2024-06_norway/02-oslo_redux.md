@@ -124,9 +124,15 @@ In contrast to many purveyors of caffeinated brews you don't just order
 a detailed description of the farm of origin, the processing method, the
 cultivar of the coffee, and most importantly to our group, flavour profile.
 
-I opt for the Geisha from the Caballero farm in Honduras, processed using the
-washed technique this coffee's tasting notes are described as sweet mandarin,
-jasmine, & honey. I have experience with Geisha coffee, albeit limited to one
+I opt for the *Geisha* from Caballero farm in Honduras. Wendelboe's attention to
+detail follows the entire lifecycle of the coffee bean, from seed to cup. On
+their website they have an
+<a href="https://timwendelboe.no/farms-we-buy-from/caballeros/" target="_blank" rel="noopener noreferrer">in-depth biography</a>
+of the farm, detailing their personal relationship with Tim, the history and 
+geography of the farm, coffee profiles, processing methods, innovations, and
+community empowerment.
+
+I have experience with the *Geisha* cultivar, albeit limited to one
 cup - last year upon my disembarkation in Copenhagen via the ferry from Oslo I
 stopped off at Coffee Collective (another recommendation from Talor) where the
 barista explained the history and characteristics of Geisha before preparing me
@@ -149,8 +155,8 @@ that Geisha coffee is so mindblowingly exquisite that it transcends from a cup
 of coffee to an *experience*. I don't know much about coffee but I know about
 that.
 
-So that's what brings us here, with another Geisha setup before me. Prepared by
-the grand baristamaster himself (or more precisely some of his minions).
+So that's what brings us here, with another Geisha setup luxuriating before me.
+Prepared by the grand baristamaster himself (or more precisely some of his minions).
 
 <figure class="figure container">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/02-oslo_wendelboe_coffee.JPG" alt="Coffee">
@@ -162,8 +168,26 @@ masquerading as coffee, Tim Wendelboe serves his coffee at an approachable
 temperature, allowing the patron to experience its full bouquet of dazzling
 flavors. Forgoing the need for a handle, my squat coffee mug slightly resembles
 a Winnie the Pooh hunny pot - and the potion within is just as addicting. The
-coffee is a lithe ballerina flitting across my palate, each delicate
+coffee flits across my palate as a lithe ballerina, each delicate
 tap of its en pointe toes enlivening individual tastebuds.
+
+The coffee tastes slightly sweet and floral, with a subtle citrusy tartness on
+the finish. A small glass of sparkling water accompanies the coffee to cleanse
+the palate.  I take a small sip of water before trying my compatriots' brews
+from other farms in Honduras & Colombia.
+
+"Oh my god!"
+
+"This is so good!"
+
+"This doesn't even taste like coffee!"
+
+
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/02-oslo_wendelboe_coffee_group.jpg" alt="Coffee">
+  <figcaption class="figure-caption">Caffeine chums</figcaption>
+</figure>
 
 
 <h4 class="article-subheader">Nature Walk</h4>
