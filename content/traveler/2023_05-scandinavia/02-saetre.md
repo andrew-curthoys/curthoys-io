@@ -621,7 +621,7 @@ pain to report how many nonsensical bar snacks I consumed.
   <figcaption class="figure-caption">Sunday Funday.<figcaption>
 </figure>
 
-<h4 class="article-subheader">Ok, Just One Bridge Really Quick</h4>
+<h4 class="article-subheader" id="akrobaten">Ok, Just One Bridge Really Quick</h4>
 As we finish up at Pokalen we stroll out into the 9 PM Oslo sunshine. Separating
 the Barcode district from the city center is a 13-lane train station transected
 by a beautiful pedestrian bridge called the Akrobaten.

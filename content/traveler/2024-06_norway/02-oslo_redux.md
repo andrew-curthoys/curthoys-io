@@ -143,7 +143,7 @@ a miniature carafe.
   <figcaption class="figure-caption">My Geish-way drug</figcaption>
 </figure>
 
-Once the coffee hit my lips I my mind was blown. It was unlike any coffee I had
+Once the coffee hit my lips my mind was blown. It was unlike any coffee I had
 ever tasted. It was almost closer to tea than coffee, it was so light and
 delicate. According to wikipedia, "Geisha is known for its sweet flavor and
 aroma of floral notes, jasmine, chocolate, honey, and even black tea. These
@@ -167,14 +167,18 @@ While most cafes serve mugs of scalding hot over-roasted over-extracted sawdust
 masquerading as coffee, Tim Wendelboe serves his coffee at an approachable
 temperature, allowing the patron to experience its full bouquet of dazzling
 flavors. Forgoing the need for a handle, my squat coffee mug slightly resembles
-a Winnie the Pooh hunny pot - and the potion within is just as addicting. The
-coffee flits across my palate as a lithe ballerina, each delicate
-tap of its en pointe toes enlivening individual tastebuds.
+a Winnie the Pooh hunny pot - and the potion within is just as addicting.
 
-The coffee tastes slightly sweet and floral, with a subtle citrusy tartness on
+The coffee flits across my palate as a lithe ballerina, each delicate
+tap of its en pointe toes enlivening individual tastebuds. It tastes slightly
+sweet and floral, with a subtle citrusy tartness on
 the finish. A small glass of sparkling water accompanies the coffee to cleanse
-the palate.  I take a small sip of water before trying my compatriots' brews
-from other farms in Honduras & Colombia.
+the palate. I take a small sip of water before trying my compatriots' brews
+from other farms in Honduras & Colombia, each telling a story of a fruit grown
+half a world away by a farmer with a face and a name and a story.
+
+In an act of great selflessness I offer the riches of my mug to the table,
+proselytizing the majesty of Geisha. Their minds are similarly blown,
 
 "Oh my god!"
 
@@ -182,9 +186,9 @@ from other farms in Honduras & Colombia.
 
 "This doesn't even taste like coffee!"
 
+"What. What the hell is this?"
 
-
-<figure class="figure container">
+<figure class="figure">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/02-oslo_wendelboe_coffee_group.jpg" alt="Coffee">
   <figcaption class="figure-caption">Caffeine chums</figcaption>
 </figure>
@@ -195,8 +199,8 @@ Functionally caffeinated we step out into the beautiful Norwegian summer
 sunshine. Downtown is only a couple miles away so we decide to hoof it
 along the
 <a href="/traveler/2023_05-scandinavia/05-oslo_nature?id=aker" target="_blank" rel="noopener noreferrer">Akerselva</a>
-and soak up the beautiful weather. The entire length of the Akerselva, Oslo's
-main confluence flowing through town, was designated as an ecopark in the 1980s
+river and soak up the beautiful weather. The entire length of the Akerselva,
+Oslo's main confluence, was designated as an ecopark in the 1980s
 after a century and a half of pollution from the myriad mills and factories that
 line the river. Most of the industrial buildings have been converted into bars,
 restaurants, apartments, galleries, and various frivolities of modern life.
@@ -217,15 +221,27 @@ word *Hundeparkering*, i.e. a tiny parking garage for your hound. I would assume
 it's only used for owners to run in and grab a coffee but unfortunately for our
 curiosity there are no hunds parked in the hus at the moment.
 
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/02-oslo_hound_parking.jpg" alt="Coffee">
+  <figcaption class="figure-caption">Hound parking!!!</figcaption>
+</figure>
+
 Our southerly stroll continues past a gaggle of schoolchildren running about
 during recess, go-getters out for a jog, people posted up on blankets in 
 the park. All things you do when you have a bipolar relationship with the sun.
-Eventually we find ourselves on the outskirts of the city center, where we
-cross the *Arkobaten* bridge, i.e. The Acrobat. This asymmetrical steel, glass,
+Eventually we find ourselves on the outskirts of the city center rambling across
+the
+<a href="/traveler/2023_05-scandinavia/02-saetre?id=akrobaten" target="_blank" rel="noopener noreferrer">*Akrobaten*</a>
+, i.e. The Acrobat bridge. This asymmetrical steel, glass,
 and concrete truss suspension bridge is a beautiful piece of engineering that
 nobody else seems to really care about. I mean it won 1st Prize for
 Extraordinary Steel & Composite Bridges at the European Award for Steel Bridges
 in 2012, you guys, come on!
+
+<figure class="figure container">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/02-oslo_akrobaten.jpg" alt="Akrobaten">
+  <figcaption class="figure-caption">Just look at the transverse asymmetry!!</figcaption>
+</figure>
 
 Just as we reach the other side of the bridge I let out an excited shriek,
 
