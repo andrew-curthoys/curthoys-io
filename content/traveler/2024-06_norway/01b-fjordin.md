@@ -17,47 +17,33 @@ summary: xxxxx
 {% import 'macros.html' as m %}
 
 <h4 class="article-subheader">Are you sure that's the right way?</h4>
-Pretty sure, it's what the map on AllTrails says
+"Pretty sure... it's what the map on AllTrails says"
 
-"I dunno, that looks like a cliff"
+I dunno, that looks like a cliff
 
-I think there's a trail that wraps around
+"I think there's a trail that wraps around"
 
-"That wraps around a cliff??"
+That wraps around a cliff??
 
-Halfway up Mt Prest we've found ourselves in quite a pickle; standing on the
-precipice of what would appear to the novice hiker as a cliff. AllTrails insists
-it's a trail but as we would discover throughout this trip Norwegians are much
-more serious about hiking than we. You could say they grade on a curve.
-Which brings us to our current cliff pickle (if you told
-me that Cliff Pickle was a NASCAR driver in the 1970s I'd believe you. Hell I'd
-probably think you were lying if you told me Cliff Pickle wasn't a NASCAR driver
-in the 1970s).
+"There's only one way to find out"
 
-No adventure story is complete without a harrowing test of mettle
+Halfway up Mt Prest we've found ourselves in quite a pickle. Standing on the
+precipice of what would appear to be a cliff our otherwise trusty trail has
+winnowed down to a slender footpath perched atop a cliff hugging the left side
+of Prest's craggy mass (if you told me that Cliff Pickle was a NASCAR
+driver in the 1970s I'd believe you. Hell I'd probably think you were lying if
+you told me Cliff Pickle wasn't a NASCAR driver in the 1970s).
+
+But no adventure story is complete without a harrowing test of mettle:
 
 Ahab vs Moby Dick
+
 Hercules vs the Hydra
-Odysseus vs the Sirens
+
 Atreyu vs the Nothing
-Doc Holliday vs Johnny Ringo
-Happy Gilmore vs Shooter McGavin
+
+
 Me vs a short narrative
-
-
-ours occurs
-halfway through the hike when the trail winnows down to a slender footpath
-perched atop a cliff hugging the left side of the craggy mass. At this
-point all conversation ceases while our expedition navigates the 50 yard
-tightrope maneuver, every ounce of concentration devoted to the
-precise placement of every step, grabbing hold to the edge of the cliff like
-Jimmy Stewart in *Vertigo*.
-
-<figure class="figure">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_cliff.JPEG" alt="Cliff">
-  <figcaption class="figure-caption">Michael fearlessly leading the crew around
-	the cliff</figcaption>
-</figure>
 
 <h4 class="article-subheader">Mountain Climbers</h4>
 5
@@ -75,6 +61,7 @@ Asgard at the
 
 elysian sanctuary
 
+That morning we rose our heads in the Norwegian fjordtown of Fl&aring;m.
 
 The trailhead for our hike sits above the town of Aurland, a stone's throw from
 our home base in Fl&aring;m. As our Toyota moseys through town Jill recognizes a
@@ -554,3 +541,21 @@ Trains are so cool because you can talk about the steepness of a hill like "18
 in 1" and say things like "rolling stock".
 
 * Foss hike
+
+AllTrails insists
+it's a trail, but as we would discover throughout this trip Norwegians are much
+more serious about hiking than we. A Norwegian "easy" will work up a serious
+lather; a Norwegian "moderate" will test your limits; a Norwegian "hard"
+will find me at the bar wishing godspeed to the intrepid hikers.
+
+. At this
+point all conversation ceases while our expedition navigates the 50 yard
+tightrope maneuver, every ounce of concentration devoted to the
+precise placement of every step, grabbing hold to the edge of the cliff like
+Jimmy Stewart in *Vertigo*.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_cliff.JPEG" alt="Cliff">
+  <figcaption class="figure-caption">Michael fearlessly leading the crew around
+	the cliff</figcaption>
+</figure>
