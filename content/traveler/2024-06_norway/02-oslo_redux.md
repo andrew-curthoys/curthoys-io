@@ -358,3 +358,15 @@ well. Also — birch is the Norwegian national tree.
 </div>
 
 Our Oslo stint began with cocktails - g&ts from Kate and Dustin
+
+
+
+
+
+Vippa
+Sondre
+Cocktails
+Lorry
+Supper?
+Himkok
+Pride festival

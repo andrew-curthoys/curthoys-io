@@ -16,6 +16,48 @@ summary: xxxxx
 
 {% import 'macros.html' as m %}
 
+<h4 class="article-subheader">Are you sure that's the right way?</h4>
+Pretty sure, it's what the map on AllTrails says
+
+"I dunno, that looks like a cliff"
+
+I think there's a trail that wraps around
+
+"That wraps around a cliff??"
+
+Halfway up Mt Prest we've found ourselves in quite a pickle; standing on the
+precipice of what would appear to the novice hiker as a cliff. AllTrails insists
+it's a trail but as we would discover throughout this trip Norwegians are much
+more serious about hiking than we. You could say they grade on a curve.
+Which brings us to our current cliff pickle (if you told
+me that Cliff Pickle was a NASCAR driver in the 1970s I'd believe you. Hell I'd
+probably think you were lying if you told me Cliff Pickle wasn't a NASCAR driver
+in the 1970s).
+
+No adventure story is complete without a harrowing test of mettle
+
+Ahab vs Moby Dick
+Hercules vs the Hydra
+Odysseus vs the Sirens
+Atreyu vs the Nothing
+Doc Holliday vs Johnny Ringo
+Happy Gilmore vs Shooter McGavin
+Me vs a short narrative
+
+
+ours occurs
+halfway through the hike when the trail winnows down to a slender footpath
+perched atop a cliff hugging the left side of the craggy mass. At this
+point all conversation ceases while our expedition navigates the 50 yard
+tightrope maneuver, every ounce of concentration devoted to the
+precise placement of every step, grabbing hold to the edge of the cliff like
+Jimmy Stewart in *Vertigo*.
+
+<figure class="figure">
+		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_cliff.JPEG" alt="Cliff">
+  <figcaption class="figure-caption">Michael fearlessly leading the crew around
+	the cliff</figcaption>
+</figure>
 
 <h4 class="article-subheader">Mountain Climbers</h4>
 5
@@ -278,29 +320,13 @@ And stopping, repeatedly, just to soak it all in
 </div>
 
 
-
-
-No adventure story is complete without a harrowing test of mettle - ours occurs
-halfway through the hike when the trail winnows down to a slender footpath
-perched atop a cliff hugging the left side of the craggy mass. At this
-point all conversation ceases while our expedition navigates the 50 yard
-tightrope maneuver, every ounce of concentration devoted to the
-precise placement of every step, grabbing hold to the edge of the cliff like
-Jimmy Stewart in *Vertigo*.
-
-<figure class="figure container">
-		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_cliff.JPEG" alt="Cliff">
-  <figcaption class="figure-caption">Michael fearlessly leading the crew around
-	the cliff</figcaption>
-</figure>
-
 The final ascent tracks the moderate pitch of the mountain's shoulder. Patches
 of small but vibrant flowers line the path, sparkles of yellows, reds, and pinks
 hidden within the mottled green mats of dewy moss. Small fields of snow
 luxuriate in shady alcoves, stubbornly clinging to their crystalline structure.
 
-The plateaued summit of Mt Prest sinks beneath our hiking boots, waterlogged
-from the winter's snowpack.
+As we reach Mt Prest's plateaued summit the ground sinks beneath our hiking
+boots, waterlogged from the winter's snowpack.
 
 <p class="block-quote">
 Squishy squoshy mountaintop swamp
@@ -358,6 +384,11 @@ Carried on a wing
 By the breath of Freyja
 </p>
 
+After our hike we &AElig;gir Brewpub
+
+
+Goat escape
+
 
 <h4 class="article-subheader">Cruisin'</h4>
 The next morning project leader Jill has planned a sightseeing cruise to supplement to our
@@ -366,9 +397,9 @@ ones with the idea...
 
 During our mountaineering escapades yesterday we spotted a spec upon the fjord
 not much larger than a grain of rice. If it weren't for its slender
-emerald tail of churned seawater it likely would have been imperceptible. To our
-chagrin that miniscule grain of rice was the *MV Brittania*, the flagship of
-P&O Cruises of Southampton, UK.
+emerald tail of churned seawater it likely would have been imperceptible.
+Unfortunately that miniscule grain of rice was the
+*MV Brittania*, the flagship of P&O Cruises of Southampton, UK.
 
 <figure class="figure">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_cruise_ship.JPEG" alt="Cruise ship">
@@ -400,12 +431,12 @@ As we stroll into town this lovely Norwegian summer morning we're greeted with
 an altogether different experience than the charming fjordtown we roamed
 yesterday. Gone is the carefree chatter fluttering from charming sidewalk cafes.
 In are torpid droves of cruisepeople in gauche Norwegian graphic t-shirts
-bloating cafe queues and blocking sidewalks like atherosclerotic plaque.
+distending cafe queues and blocking sidewalks like atherosclerotic plaque.
 
 Swimming against the roiling sea of humanity belched upon the avenues of Fl&aring;m
 we finally manage to procure a coffee in a paper cup and a cold pastry. We have
 30 minutes till our vessel begins embarking but the line to board has already
-begun distending like a flight to Orlando when they announce boarding zone 1.
+begun swelling like a flight to Orlando when they announce boarding zone 1.
 Unfortunately we decide to join the procession lest we are stuck with an
 undesirable vantage. At least we have some stunning views to distract us from
 the inane prattle of cruise ship rewards point hacks.
