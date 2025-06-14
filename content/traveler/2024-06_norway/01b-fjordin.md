@@ -46,20 +46,7 @@ Atreyu vs the Nothing
 Me vs a short narrative
 
 <h4 class="article-subheader">Mountain Climbers</h4>
-5
-Heaved to the heavens
-soaring palisades
-walking in the clouds
-right hand of Odin
 
-7
-Explore their lofty kingdom
-Squishy slosh mountaintop swamp
-swamp on the roof of the world
-
-Asgard at the 
-
-elysian sanctuary
 
 That morning we rose our heads in the Norwegian fjordtown of Fl&aring;m.
 
@@ -76,11 +63,23 @@ bakery. 10 minutes later we are back on the road scarfing down
 a round of spiced pastries that exceed even Jill's prodigious expectations. 
 Unlike the gooey, hyperglycemic blobs of masonry paste that we're accustomed to,
 the *Kanelboller* dispense with the goo and go all in on nutmeg, cardamon,
-allspice, and, of course, the namesake cinnamon. A perfect jolt of delicious
+allspice, and, of course, the namesake cinnamon. It's delicious but in a way
+that removes the "guilty" from guilty pleasure; a perfect jolt of delectable
 carbs to fuel us on our hike.
 
-The drive to the trailhead is up a one-lane switchback road overlooking Aurland.
-And when I say one-lane I mean *ONE* lane. Uphill and downhill traffic must
+As we pull out of town it's impossible to ignore the beauty of our 
+
+Out the left side of the Toyota, unfurled to our 10 o'clock as far as the eye
+can see stretches the tranquil waters of the *Aurlandsfjord*. The entirety of
+our right flank is shadowed by an aval ridge of viridescent highlands, keeping
+an austere watch over the fjord below.
+
+Straight ahead stands Mt Prest; the object of they day's conquest.
+
+As we begin the upward progression of our journey to the trailhead our paved
+trail begins losing mass; narrowing as the waistline of a flatlander beginning a
+mountain climbing regimen. Eventually we find ourselves on a one-lane road,
+and when I say one-lane I mean *ONE* lane. Uphill and downhill traffic must
 manage the single lane in a game of mountainside chicken. Luckily we have found
 ourselves in the middle of an impromptu caravan of RVs and motorcycles; a
 desirable location where we
@@ -316,16 +315,6 @@ As we reach Mt Prest's plateaued summit the ground sinks beneath our hiking
 boots, waterlogged from the winter's snowpack.
 
 <p class="block-quote">
-Squishy squoshy mountaintop swamp
-Spongy soggy summit stomp
-Dancing on the roof of the world
-
-Slimy grimy slip & slide
-Spongy summit step & stomp
-Slimy dance on the roof of the world
-
-Dancefloor on the roof of the world.
-</p>
 
 A cairn stands erect at the R&oslash;yrgrind viewpoint, keeping a stoic,
 watchful eye over the
@@ -364,12 +353,7 @@ tendrils carried away by the dying breaths of the North Atlantic jet stream.
   &AElig;sir</figcaption>
 </figure>
 
-<p class="block-quote">
-Ethereal vapor<br>
-Swirling through the heavens<br>
-Carried on a wing
-By the breath of Freyja
-</p>
+
 
 After our hike we &AElig;gir Brewpub
 
