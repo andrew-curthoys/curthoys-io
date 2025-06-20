@@ -23,7 +23,7 @@ Wait....
 What??
 
 Trembling, Jill falls into her chair at Zachariasbryggen Brewery in the heart of
-downtown Bergen, reeling from a bewildering encounter,
+downtown Bergen, reeling from a bewildering encounter she shan't forget,
 
 <div class="block-quote">
   <p>
@@ -115,8 +115,8 @@ by the last remnants of my coffee. A coffee, which I take no pleasure in
 reporting, is considerably superior to nearly all coffee you
 get in the states. Thanks Charbucks.
 
-Anyways, just as I'm about to traverse across the terminal to greet our
-Transatlantic Travelers I receive another text from Shannon,
+Anyways, just as I'm about to traverse the terminal to _____tword_____ the
+transatlantic travelers I receive another text from Shannon,
 
 <div class="sms">
 	<div class="chat">

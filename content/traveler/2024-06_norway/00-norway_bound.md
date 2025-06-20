@@ -144,10 +144,10 @@ Wichita Lineman
 
 
 
-<h4 class="article-subheader">S&aelig;tre</h4>
+<h4 class="article-subheader">How Close Are You To The Sea?</h4>
 7 hours on an overnight flight with no legroom led
 
-In such a beleaguered state I was in no position to lean on the generosity of
+In such a beleaguered state I was in no position to deny the generosity of
 others. And in the hierarchy of "others" I would consider Tom & Monica Bratlie
 family.
 
@@ -179,14 +179,53 @@ say yes - last year she asked me when the hell Sondre was going to propose!"
 
 "As you should be!"
 
+
+"Do you mind if I stop at the store for groceries for dinner?"
+
+"Of course not!"
+
+Big Tom pulls off into a _______ (grocery store) where he navigates his cart
+with the deftness of Ayrton Senna ___spelling___ at Monaco 1986???
+As I must imagine most grocery runs in Norway begin, ours begins at the fish
+counter. Big Tom has the personality that I can't tell if he has known this
+pescine professional for years or has just met him. While they presumably
+discuss fish stuff I walk the length of his case, admiring the fishes he has
+mongered.
+
+In the middle of conversing about our goings since my last annual (hopefully)
+visit to Norway Big Tom casually whips together a truffle roasted Halibut, seared
+broccolini, braised mushrooms, blistered tomatoes, and mashed potatoes.
+all paired with a sauvignon blanc. 
+
+Gratitude
+
+We ferry our supper to the rooftop deck, overlooking the southern reaches of the
+*Oslofjord*.
+
+"How close are you to the sea?" Big Tom asks me in a tone that suggests
+proximity to the sea is a essential to the human condition as oxygen.
+
+"Pretty close actually, it's only about 3 hours"
+
+"Oh.. ok" remarks Big Tom, hiding a pained expression.
+
+I was excited to tell Big Tom how close I lived to the sea. One of my favorite
+__benefits__ of living in the Triangle of North Carolina is our proximity to the
+sea. 3 hours to the mountains and 3 hours to the sea. What could be better?
+
+Big Tom lives 2 hours from the mountains and could kick a soccer ball into the sea.
+
+That's better.
+
+
 <h4 class="article-subheader">Euros</h4>
 Unfortunately my time spent with Sondre is limited. My trip coincides with the
-UEFA European Championships
+UEFA European  Championship soccer tournament.
 
 Shooting pool with Brage's friends texting with Shannon
 
 
-We got too nervous and made our own travel luck
+"We got too nervous and made our own travel luck"
 
-Ok, I feel much better that you are all sorted out, I'm going to hit the sack,
-it's way past my bedtime.
+"Ok, I feel much better that you are all sorted out, I'm going to hit the sack,
+it's way past my bedtime."

@@ -67,17 +67,15 @@ allspice, and, of course, the namesake cinnamon. It's delicious but in a way
 that removes the "guilty" from guilty pleasure; a perfect jolt of delectable
 carbs to fuel us on our hike.
 
-As we pull out of town it's impossible to ignore the beauty of our 
+Back on the paved trail, the tranquil waters of the *Aurlandsfjord* unfurl like
+an azure meadow to our 10 o'clock. Galloping over our
+right shoulder the viridescent ridge of the fjord highlands keep an austere
+watch over the valley below.
 
-Out the left side of the Toyota, unfurled to our 10 o'clock as far as the eye
-can see stretches the tranquil waters of the *Aurlandsfjord*. The entirety of
-our right flank is shadowed by an aval ridge of viridescent highlands, keeping
-an austere watch over the fjord below.
+And straight ahead stands Mt Prest; the object of our conquest.
 
-Straight ahead stands Mt Prest; the object of they day's conquest.
-
-As we begin the upward progression of our journey to the trailhead our paved
-trail begins losing mass; narrowing as the waistline of a flatlander beginning a
+As we begin the upward progression towards the trailhead the road narrows
+as the waistline of a flatlander beginning a
 mountain climbing regimen. Eventually we find ourselves on a one-lane road,
 and when I say one-lane I mean *ONE* lane. Uphill and downhill traffic must
 manage the single lane in a game of mountainside chicken. Luckily we have found
@@ -98,23 +96,22 @@ the delicate dance of negotiating oncoming traffic.
   <figcaption class="figure-caption">Tight squeeze<figcaption>
 </figure>
 
-Half an hour and a dozen switchbacks later we find ourselves at the trailhead.
-As we unload the car we assess the weather to gauge our wardrobe selections.
-The sun is poking through mottled clouds, the temperature is hovering right in
+Half an hour and a dozen switchbacks later we arrive at the trailhead.
+Wile unloading the car we assess the weather to gauge our wardrobe selections.
+The sun is poking through mottled clouds with the temperature hovering in
 the gray area between shortsleeves and long. We're set to climb 2,000 vertical
-feet over the course two miles. We will certainly work up a sweat
-on the hike but that will be countered by the cooler temperatures on the
-mountain. Will the sun stay out? Is it windy up there?
+feet, which will certainly work up a sweat but will that be countered by the
+cooler temperatures on the mountain? Will the sun stay out? Is it windy up there?
 
-Sufficiently geared up, we hit the trail. The first half mile of the hike takes
-us up a mild grade to the top of a bluff overlooking the *Sognefjord*. If this
+Sufficiently geared up, we hit the trail. The first half mile is an easy stroll
+up a mild grade to the top of a bluff overlooking the *Sognefjord*. If this
 was the extent of the hike I'd be thrilled. From even this lower station I'm
 afforded what is almost certainly the most stunning view I've ever seen in my
 life.
 
 While soaking in the surroundings I feel the ominous presence of a dark slab of
 metamorphic rock looming over my right shoulder. I turn 'round, crane my neck,
-and ponder, we couldn't possibly be going *all the way up there*???
+and peer... We couldn't possibly be going *all the way up there*???
 
 <figure class="figure container">
 		<img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_mountain_face.JPEG" alt="Big mountain">
@@ -340,8 +337,8 @@ maneuver, enveloping our fjordview behind the veil of a misty fog. Our
 lofty kingdom enveloped by a damp grey specter.
 
 Thankfully our chagrin is short lived - as quickly as it came the fog is gone,
-sliced into ghostly ribbons of ethereal vapor. Its final memory floating on wispy
-tendrils carried away by the dying breaths of the North Atlantic jet stream.
+sliced into ghostly ribbons of ethereal vapor floating away on wispy
+tendrils carried by the dying breaths of the North Atlantic jet stream.
 
 <figure class="figure container">
   <img class="figure-img img-fluid mt-2 rounded" src="/theme/images/traveler/2024-06_norway/01b-hike_fog1.jpg" alt="Fog">
