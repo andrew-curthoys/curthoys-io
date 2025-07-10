@@ -210,7 +210,7 @@ proximity to the sea is a essential to the human condition as oxygen.
 "Oh.. ok" remarks Big Tom, hiding a pained expression.
 
 I was excited to tell Big Tom how close I lived to the sea. One of my favorite
-__benefits__ of living in the Triangle of North Carolina is our proximity to the
+perks of living in the Triangle of North Carolina is our proximity to the
 sea. 3 hours to the mountains and 3 hours to the sea. What could be better?
 
 Big Tom lives 2 hours from the mountains and could kick a soccer ball into the sea.

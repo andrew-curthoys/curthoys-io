@@ -115,7 +115,7 @@ by the last remnants of my coffee. A coffee, which I take no pleasure in
 reporting, is considerably superior to nearly all coffee you
 get in the states. Thanks Charbucks.
 
-Anyways, just as I'm about to traverse the terminal to _____tword_____ the
+Anyways, just as I'm about to traverse the terminal to tuggle the
 transatlantic travelers I receive another text from Shannon,
 
 <div class="sms">

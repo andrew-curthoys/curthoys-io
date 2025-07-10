@@ -21,18 +21,22 @@ summary: xxxxx
 
 I dunno, that looks like a cliff
 
-"I think there's a trail that wraps around"
+"It looks like there's a trail that wraps around"
 
 That wraps around a cliff??
 
+"Yeah, at least that's what it shows"
+
+I think your phone is wrong
+
 "There's only one way to find out"
 
-Halfway up Mt Prest we've found ourselves in quite a pickle. Standing on the
-precipice of what would appear to be a cliff our otherwise trusty trail has
-winnowed down to a slender footpath perched atop a cliff hugging the left side
-of Prest's craggy mass (if you told me that Cliff Pickle was a NASCAR
+Standing on the precipice of what would appear to be a cliff our otherwise
+trusty trail has winnowed down to a slender footpath perched atop a cliff
+hugging the left side
+of Prest's craggy mass. It's quite the pickle (if you told me that Cliff Pickle was a NASCAR
 driver in the 1970s I'd believe you. Hell I'd probably think you were lying if
-you told me Cliff Pickle wasn't a NASCAR driver in the 1970s).
+you told me Cliff Pickle *wasn't* a NASCAR driver in the 1970s).
 
 But no adventure story is complete without a harrowing test of mettle:
 
@@ -42,24 +46,22 @@ Hercules vs the Hydra
 
 Atreyu vs the Nothing
 
-
 Me vs a short narrative
 
+With modest confidence and oversized gumption Michael tiptoes up to the edge of
+the cliff...
+
 <h4 class="article-subheader">Mountain Climbers</h4>
-
-
-That morning we rose our heads in the Norwegian fjordtown of Fl&aring;m.
-
-The trailhead for our hike sits above the town of Aurland, a stone's throw from
-our home base in Fl&aring;m. As our Toyota moseys through town Jill recognizes a
-landmark from her research,
+Our triumphant arrival to Fl&aring;m comes and goes; we're merely passing through
+on our way Aurland, an even smaller town a stone's
+throw from Fl&aring;m. As our Toyota moseys across a small bridge in Aurland
+Jill perks up,
 
 "Oh! Marianne Bakery! I read about this place, they are supposed to
 have amazing cinnamon rolls!"
 
 In silent unison the entire car approves Jill's motion to adjourn
-for cinnamon rolls and Michael smoothly pulls into a parking space next to the
-bakery. 10 minutes later we are back on the road scarfing down
+for cinnamon rolls. 10 minutes later we're back on the road scarfing down
 a round of spiced pastries that exceed even Jill's prodigious expectations. 
 Unlike the gooey, hyperglycemic blobs of masonry paste that we're accustomed to,
 the *Kanelboller* dispense with the goo and go all in on nutmeg, cardamon,
@@ -68,15 +70,15 @@ that removes the "guilty" from guilty pleasure; a perfect jolt of delectable
 carbs to fuel us on our hike.
 
 Back on the paved trail, the tranquil waters of the *Aurlandsfjord* unfurl like
-an azure meadow to our 10 o'clock. Galloping over our
-right shoulder the viridescent ridge of the fjord highlands keep an austere
-watch over the valley below.
+an azure meadow to our left. Over our right shoulder the viridescent ridge of
+the fjord highlands swells like a galloping herd, an ever-present reminder
+of the ancient and sacred forces that built the fjords.
 
 And straight ahead stands Mt Prest; the object of our conquest.
 
-As we begin the upward progression towards the trailhead the road narrows
-as the waistline of a flatlander beginning a
-mountain climbing regimen. Eventually we find ourselves on a one-lane road,
+As our Toyota begins the upward progression towards the trailhead the road narrows
+like the waistline of a flatlander beginning a
+mountain climbing regimen. Eventually we find ourselves on a one-lane road;
 and when I say one-lane I mean *ONE* lane. Uphill and downhill traffic must
 manage the single lane in a game of mountainside chicken. Luckily we have found
 ourselves in the middle of an impromptu caravan of RVs and motorcycles; a
@@ -302,7 +304,6 @@ And stopping, repeatedly, just to soak it all in
   </button>
 </div>
 
-
 The final ascent tracks the moderate pitch of the mountain's shoulder. Patches
 of small but vibrant flowers line the path, sparkles of yellows, reds, and pinks
 hidden within the mottled green mats of dewy moss. Small fields of snow
@@ -313,8 +314,7 @@ boots, waterlogged from the winter's snowpack.
 
 <p class="block-quote">
 
-A cairn stands erect at the R&oslash;yrgrind viewpoint, keeping a stoic,
-watchful eye over the
+At the R&oslash;yrgrind viewpoint a cairn stands guard over the
 Aurlandsfjord. We snap a few photos at the monument before signing the logbook.
 
 <figure class="figure">
@@ -355,6 +355,7 @@ tendrils carried by the dying breaths of the North Atlantic jet stream.
 After our hike we &AElig;gir Brewpub
 
 
+Ate the last three pizzas
 Goat escape
 
 
@@ -445,6 +446,7 @@ the inspiration for Arendelle in *Frozen*.
   <figcaption class="figure-caption">Fjords forever<figcaption>
 </figure>
 
+<h4 class="article-subheader">Mountain Climbers, Part Deux</h4>
 After our cruise we have a few hours to kill before our 6:30 PM reservation on
 the Fl&aring;m Railway. Jill found a reasonable hike within walking distance so
 we strap on our hikin' boots and set off southbound from town. We stroll along
@@ -458,7 +460,15 @@ made by cruise-ship passengers whose collective fitness level skews towards couc
 potato. The unrelenting mid-summer sun intensifies the collective distress;
 I pop my tarp.
 
-<h4 class="article-subheader">Trains Are So Cool, Part Deux</h4>
+The trail terminates at a grassy knob overlooking the town halfway up the
+Brekkefossen waterfall.  We are treated to ideal summer weather, the sun is 
+
+It feels fine weather for an ice cold beer. Thankfully we presumed as much and
+packed an assortment of sudsy companions: Footballfeber
+Pils, Dag Sitrus Pale Ale, Dag Mango Pale Ale, and of course the Sassy Li'l Sis
+Session IPA from our friends at &AElig;gir for just the occasion.
+
+<h4 class="article-subheader">Trains Are (Still) So Cool</h4>
 The 12-mile Fl&aring;m Railway has been described as "the most
 beautiful train journey in the world". Starting at Fl&aring;m, the railway
 winds 2,841 vertical feet up the Halling Valley to the cozy town of Myrdal.
