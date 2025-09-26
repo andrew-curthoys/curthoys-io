@@ -21,7 +21,7 @@ summary: xxxxx
 
 I dunno, that looks like a cliff
 
-"It looks like there's a trail that wraps around"
+"The map shows a trail that wraps around"
 
 That wraps around a cliff??
 
@@ -33,8 +33,8 @@ I think your phone is wrong
 
 Standing on the precipice of what would appear to be a cliff our otherwise
 trusty trail has winnowed down to a slender footpath perched atop a cliff
-hugging the left side
-of Prest's craggy mass. It's quite the pickle (if you told me that Cliff Pickle was a NASCAR
+hugging the left side of Mt. Prest's craggy mass. It's quite the pickle
+(if you told me that Cliff Pickle was a NASCAR
 driver in the 1970s I'd believe you. Hell I'd probably think you were lying if
 you told me Cliff Pickle *wasn't* a NASCAR driver in the 1970s).
 
@@ -313,6 +313,11 @@ As we reach Mt Prest's plateaued summit the ground sinks beneath our hiking
 boots, waterlogged from the winter's snowpack.
 
 <p class="block-quote">
+Squishy squoshy mountaintop swamp
+Spongy soggy summit stomp
+Striking hiking vikings
+Dancing on the roof of the world
+</p>
 
 At the R&oslash;yrgrind viewpoint a cairn stands guard over the
 Aurlandsfjord. We snap a few photos at the monument before signing the logbook.
@@ -334,7 +339,7 @@ While gazing out over the
 <a href="/traveler/2023_05-scandinavia/05-oslo_nature.html?id=fjord" target="_blank" rel="noopener noreferrer">glacially eroded sea inlet trough</a>
 the weather starts to change. The scattered clouds initiate a descattering
 maneuver, enveloping our fjordview behind the veil of a misty fog. Our
-lofty kingdom enveloped by a damp grey specter.
+heavenly prairie enveloped by a damp grey specter.
 
 Thankfully our chagrin is short lived - as quickly as it came the fog is gone,
 sliced into ghostly ribbons of ethereal vapor floating away on wispy
@@ -351,7 +356,7 @@ tendrils carried by the dying breaths of the North Atlantic jet stream.
 </figure>
 
 
-
+<h4 class="article-subheader">Drikkelag</h4>
 After our hike we &AElig;gir Brewpub
 
 
@@ -360,11 +365,17 @@ Goat escape
 
 
 <h4 class="article-subheader">Cruisin'</h4>
-The next morning project leader Jill has planned a sightseeing cruise to supplement to our
-land-based fjord observations. Unfortunately we're not the only
-ones with the idea...
+"Oh no.... do we have to share the boat with.... *them*?"
 
-During our mountaineering escapades yesterday we spotted a spec upon the fjord
+"Ughhhh it looks like it, unfortunately"
+
+"They just got off a boat, why would they want to get back on another boat?"
+
+"There's no logic with *these people*"
+
+*These people* are, of course, *cruise people*.
+
+During our mountaineering escapades yesterday we spotted a speck upon the fjord
 not much larger than a grain of rice. If it weren't for its slender
 emerald tail of churned seawater it likely would have been imperceptible.
 Unfortunately that miniscule grain of rice was the
@@ -403,9 +414,13 @@ In are torpid droves of cruisepeople in gauche Norwegian graphic t-shirts
 distending cafe queues and blocking sidewalks like atherosclerotic plaque.
 
 Swimming against the roiling sea of humanity belched upon the avenues of Fl&aring;m
-we finally manage to procure a coffee in a paper cup and a cold pastry. We have
-30 minutes till our vessel begins embarking but the line to board has already
-begun swelling like a flight to Orlando when they announce boarding zone 1.
+we finally manage to procure a coffee in a paper cup and a cold pastry. 
+
+A full hour before embarkation is scheduled to begin a caucus begins forming
+that, while aligned impeccably in the axis parallel to a set of faux chains
+strung between temporary stanchions, distends diversely and oftentimes,
+extensively in the perpendicular axis. 30 minutes to boarding and the line
+has swollen like a flight to Orlando when they announce zone 1.
 Unfortunately we decide to join the procession lest we are stuck with an
 undesirable vantage. At least we have some stunning views to distract us from
 the inane prattle of cruise ship rewards point hacks.
@@ -460,47 +475,39 @@ made by cruise-ship passengers whose collective fitness level skews towards couc
 potato. The unrelenting mid-summer sun intensifies the collective distress;
 I pop my tarp.
 
+The first half of the trail ascends a moderate grade of wide, earthen stairs
+framed by wooden boards. As we approach the top the wide steps give way to
+a steep set of stone steps that claims cruise ship cardio kills with no mercy.
 The trail terminates at a grassy knob overlooking the town halfway up the
-Brekkefossen waterfall.  We are treated to ideal summer weather, the sun is 
+Brekkefossen waterfall.
+
+Today is the type of day that a million dollar bounty on the first person to
+spot a cloud would go unclaimed. From our vantage the town below and sky above
+look like they have been filtered through a fisheye lens. 
 
 It feels fine weather for an ice cold beer. Thankfully we presumed as much and
 packed an assortment of sudsy companions: Footballfeber
 Pils, Dag Sitrus Pale Ale, Dag Mango Pale Ale, and of course the Sassy Li'l Sis
 Session IPA from our friends at &AElig;gir for just the occasion.
 
+
 <h4 class="article-subheader">Trains Are (Still) So Cool</h4>
 The 12-mile Fl&aring;m Railway has been described as "the most
 beautiful train journey in the world". Starting at Fl&aring;m, the railway
 winds 2,841 vertical feet up the Halling Valley to the cozy town of Myrdal.
 
-As the electric beast begins its skyward journey we quickly realize that we
+As the electric beast begins its journey into the deep blue Norwegian sky we
+quickly realize that we
 picked the wrong side of the train. Not to say this side is bad, it's just all
 the best bits are out the windows across the aisle where two surly
 septuagenarian women haughtily occupy one third of the inventory of a 6-seat alcove.
 
 The train slithers its way up the gorge, clinging to the jagged
-canyon walls like a sure-footed Norwegian coastal goat. The windows slide down.
-Do we take advantage? We do
-
-<figure class="figure">
-  <div class="row">
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="" alt="">
-    </div>
-    <div class="col-6">
-      <img class="figure-img img-fluid mt-2 rounded" src="" alt="">
-    </div>
-  </div>
-  <figcaption class="figure-caption">Kjosfossen<figcaption>
-</figure>
-
-
-Halfway through the
+canyon walls like a sure-footed Norwegian coastal goat. Halfway through the
 journey the conductor announces over the intercom that we will be making a
 5-minute sightseeing stop at the Kjosfossen waterfall. Our trusty ferric goat
 rumbles to a stop at the base of the falls where we spill out of car 7 onto a
 wide platform with a striking view of the water feature.
-
 The cascading torrents of Kjosfossen slalom 300 feet down a steep ravine like an
 alpine skier navigating a mogul field. The blissful cerulean sky provides the
 perfect backdrop to appreciate the wonder of nature.
@@ -519,8 +526,8 @@ perfect backdrop to appreciate the wonder of nature.
 
 Kjosfoss Kraftverk, a 3.6 MW hydroelectric power plant.
 
-Above the waterfall things 
-Switchbacks 
+Above the waterfall the grade steepens precipitously and our train's meandering
+slither transforms into a tight coil of switchbacks.
 The only indication that you're not on a Disney ride is the swiftness with which
 the wooden support beams whiz by the train window.
 
