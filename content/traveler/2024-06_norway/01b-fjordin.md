@@ -468,6 +468,11 @@ we strap on our hikin' boots and set off southbound from town. We stroll along
 the Nedre Brekkevegan river bestride bucolic farms
 flanked by towering cliffs blanketed with trees.
 
+<photo of goats>
+
+On our walk we hear a toot toot and spin around to find a silly little red choo
+choo train full of tourists charging up our rear.
+
 A mile south of town we veer right through a cut in the vegetation onto a
 well-trod path ascending yet another of Norway's innumerable mountains. The
 length of the trail is littered with the heaving breaths of ambitious decisions
@@ -478,15 +483,15 @@ I pop my tarp.
 The first half of the trail ascends a moderate grade of wide, earthen stairs
 framed by wooden boards. As we approach the top the wide steps give way to
 a steep set of stone steps that claims cruise ship cardio kills with no mercy.
-The trail terminates at a grassy knob overlooking the town halfway up the
-Brekkefossen waterfall.
+The trail terminates at a grassy knob halfway up the Brekkefossen waterfall
+overlooking Fl&aring;m valley. From our vantage the way the mountains envelop the
+town below, the fjord beyond, and the chasmal blue sky above make it feel like
+we're looking through a fisheye lens.
 
-Today is the type of day that a million dollar bounty on the first person to
-spot a cloud would go unclaimed. From our vantage the town below and sky above
-look like they have been filtered through a fisheye lens. 
-
-It feels fine weather for an ice cold beer. Thankfully we presumed as much and
-packed an assortment of sudsy companions: Footballfeber
+Our rendezvous with the solstice sun is unencumbered by even the wispiest of
+clouds. Feels fine weather for an ice cold beer 'fyou ask me. Thankfully we
+presumed we'd be in a sudsy mood and packed an assortment of cooler companions:
+Footballfeber
 Pils, Dag Sitrus Pale Ale, Dag Mango Pale Ale, and of course the Sassy Li'l Sis
 Session IPA from our friends at &AElig;gir for just the occasion.
 
