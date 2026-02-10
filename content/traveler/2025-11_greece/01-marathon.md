@@ -16,93 +16,128 @@ summary: xxxxx
 
 {% import 'macros.html' as m %}
 
-<h4 class="article-subheader">The Cheesecake Factory</h4>
-Walden Galleria, 29 November, 2024.
+<h4 class="article-subheader">Bravo! Bravo!</h4>
 
-The scene of a blunder of monumental proportions. In the midst of small talk
-with family I blurt out to my cousin Marty's wife,
+Onto the wide coastal plain where the outmanned Athenian hoplites defeated
+the armies of the Persian Empire in the Battle of Marathon in 490 BCE.
 
-"Stacy, did you know they run the 'original' marathon each year? From Marathon
-to Athens, just like that one guy, what was his name Philly-peedees something?"
+The first 3 miles run along the coastal plain between 
 
-Before Stacy can respond, my mom jumps in,
 
-"Oh! Andrew! You should run that! I want to go to Greece!"
 
-Turns to Stacy, "Stacy, we're going to Greece, do you have some recommendations
-for us?"
+<h4 class="article-subheader"></h4>
 
-And that's the moment I went from "maybe I'll run the Athens marathon" to
-"well shit, I'm running the Athens marathon."
+I take a right from the hotel and walk about half a mile due north to Omonia
+Square, one of the 6 pickup locations in Athens for marathon runners. I sidle
+up to a blob of runners gathered on a street corner beside a line of buses that
+stretch down the block and around the corner. The mob slowly shuffles toward the
+corner where I assume we are boarding, but I am mistaken. Once we get to the
+corner the throng snakes to the right around a building and stretches, 5 people
+wide, for 4 blocks. How are there this many people 
 
-<h4 class="article-subheader">Should We Get A Walking Negroni?</h4>
-5 hours earlier, we land at PHL airport, located just downstream of the
-confluence of the Schuylkill and Delaware Rivers, the natural boundaries 
-of the questionably cognomened City of Brotherly Love. Our original plan for the
-extended layover in Philly was mostly centered around Shannon's certain
-somnolence - when we booked the flights she was scheduled to work the overnight
-shift the night before, meaning I would pick her up from work in a bleary-eyed
-daze. But three days before the trip we got some good news,
+As I board the bus I count the rows of seats and surmise there are around 60
+seats. With 25,000 people participants that's over 400 buses!! And that's not
+counting any support staff. What a logistical feat.
 
-"Oh my god!! Kristen took my overnight!!"
+I find a seat about halfway back on the right next to a thin gentleman with
+olive complexion and a tightly cropped beard. He doesn't appear much for talking,
+which is just as fine with me. I slouch in my seat, put some music on my
+headphones, and close my eyes to snag some much needed rest from Hypnos.
 
-"The one before we leave for Greece?"
+An hour later our bus pulls into the Marathon Athletic Park under a light
+drizzling rain. Thousands of athletes are swarmed about like the tailgate lot
+outside a football game. As I step off the bus I quickly learn that Europeans
+have a much more laissez-faire attitude towards public urination - dozens of
+men casually water a low wall between the buses and a field dotted with a few
+women watering the crops.
 
-"YES!!"
+I make my way through the crowds, past a statue of Nike, over patches of squishy
+mud, and around a mob of people with a mild sense of modesty waiting in line
+for the porta-johns (or as they call them over there, chemical toilets). At the
+heart of the athletic park is a track-ringed field surrounded by a small stadium
+of marble benches.
 
-"No way!! That's incredible!!"
+Each participant has been assigned a wave based on anticipated galloping pace
+and my respectable saunter in <a href="">New York</a>
+has landed me in wave 5. This positions me on the outside of the stadium, along
+the road where the race begins. We have over an hour till the starting gun so I
+find a nice stretch of unoccupied marble and lay down on my back, face to the
+drizzle, to try to get a few more winks.
 
-"I know!! I'm so excited!!"
+With 15 minutes to race time I begrudgingly peel myself up off the ground and
+shuffle over to the corral for wave 5. Run clubs, friend groups, bucket listers,
+all waiting with nervous anticipation for the starting gun. I don't
+understand any of the words flying around my head, spoken in tongues foreign
+to me, but I can feel the energy. The electricity in the air is strong as a
+thunderstorm. It's as if mighty Zeus has sprinkled a dusting of lightning
+bolts upon the crowd like a crack of black pepper upon a spanikopita.
 
-So instead of spending the entire layover in the minute suites catching up on
-some well deserved sleep we set a course for the Chase Sapphire lounge.
+At 9 AM sharp the starting gun erupts for wave 1. These are the runners whose
+locomotion resembles the winged sandals of Hermes. They speak incessantly of PRs.
+They have a *race plan*. They probably got a good night's sleep.
 
-"It says you can only 3 hours before your flight takes off"
+They will be enjoying a greek coffee and bougatsa in Athens by noon.
 
-"Well I guess we can try and if they don't let us in we can grab a coffee and
-hang out for an hour"
+A handful of cracks from the starting gun later and wave 5 has reached the
+starting line. To the right of the crowd a DJ pumps dance music from an
+elevated platform. Everybody is bopping & grooving, the mass of runners roiling
+in a syncopated rhythm like swells upon the Adriatic. As the time draws nigh
+the DJ begins a countdown
 
-"Rules are meant to be broken"
+*10*
+*9*
+*8*
+*7*
+*6*
+*5*
+*4*
+*3*
+*2*
 
-"Please don't tell that to our children"
+<h4 class="article-subheader">The Hill</h4>
+At the end of a moderate mile-long downhill section we reach the most grueling
+section of the race. Mile 11. The start of 9 miles of unrelenting uphill. A
+climb that would take you from the streets of Manhattan to the top floor of the
+Chrysler Building.
 
-We confidently stroll up to the concierge and hand over our documents. The agent
-looks at our boarding passes, glances at the computer, pauses for a split
-second to ponder the time constraint, then a thought bubble appears over her
-head with the words "fuck it" as she sighs and hands back our boarding passes
-with a smile.
+But we're ready for this. Just one foot in front of the other. Follow the blue
+line. During my training in Durham, I just so happened to put many inclined
+miles beneath me.
 
-Once inside we nestle into a small round table set against a bench booth that
-runs the length of the wall. A tall waitress in a dark button down and striped
-apron comes to take our order. After a quick scan of the surprisingly
-appetizing cocktail menu we settle on the *Sapphire*, the signature cocktail of
-the lounge seemingly constructed by a bartender with a bucket of
-ingredient-labeled fridge magnets tossing a handful at the walk-in door just to
-see what happens. As described by the menu: "**Sapphire** *the essence of a
-traveler's love of discovery, created with Bluecoat Dry Gin, blueberry,
-goldenberry, lime, ginger, oregano, five-spice powder, bee pollen, and pearl
-dust.* If I gave you the option of "cocktail" or "vacuum bag" for the question
-of "where do pollen and dust belong" I'm sure most would pick the latter.
+A typical training session would go like this, "hmmm ok I haven't been through
+that neighborhood, let's make a loop down through there and see where it takes
+me." During my training, as my mileage increased, I made note of the public
+water fountains around the city, so that by the time I got into the upper teens
+and 20 mile distances I wouldn't have to carry water.
 
-_____PHOTO OF COCKIES_____
+Omonia Square
+Couldn't sleep
+Alarm 
+0.5 mile walk to the meetup point
+Buses forever
+25k people running
+60 people per bus
 
-The cocktails have a nice balance of tart and sweet, a little fruit with some
-herbal complexity that hits the spot. I can surely say that it's the best
-cocktail I've ever had at an airport. I can also surely say that the number of
-cocktails I've had at airports is less than the number of 
+Mile 0-3: flat, small decline
+Mile 3-10: rolling hills
+Mile 10-11: steep downhill
+Mile 11-20: all uphill 840 ft elevation gain
+Mile 20-26: descent into Athens
 
-To accompany the cocktail we split a nice pasta with red sauce and a burger,
-brought to us by what I'm now finding out is a buzzing Philly gastropub, Middle
-Child Clubhouse. If you told me that Middle Child Clubhouse was an 80s movie
-with Cory Feldman I'd believe you.
+Nea Makri
+Right turn at the outskirts of coastal town Rafina
+Pikermi
 
-Seeing as we have 4 more hours here we do some exploring of the sprawling 20,000
-square foot lounge. Off to our right we find a gaming room that  a kids play area, which I'm sure
-weary parents 
+start was hot & humid
+a little rain
+got some interspersed clouds
+sea breeze once we got up hill outside Rafina
 
-"Well we have about 30 minutes till they start boarding, we should probably pack
-up and head over to our gate"
+We're not going fast
 
-"Should we get a walking Negroni?"
-
-"Thought you'd never ask"
+mile 3 marathon tomb
+mile 6 Nea Makri
+Mile 9 Outskirts of Rafina, view of the sea to the left up the hill
+Mile 10 steep downhill right after right turn at Rafina west towards Athens
+Mile 14 Pikermi
+Mile 17.5 - met up with Laura & Shannon (thought it would be mile 16) - Le Mans coffee
