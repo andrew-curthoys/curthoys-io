@@ -100,15 +100,36 @@ section of the race. Mile 11. The start of 9 miles of unrelenting uphill. A
 climb that would take you from the streets of Manhattan to the top floor of the
 Chrysler Building.
 
-But we're ready for this. Just one foot in front of the other. Follow the blue
-line. During my training in Durham, I just so happened to put many inclined
-miles beneath me.
+Just one foot in front of the other. Follow the blue line.
 
+As luck would have it, I am prepared for this. And I say luck because hill
+training was no part of my regimen, Durham just happens to be moderately hilly.
 A typical training session would go like this, "hmmm ok I haven't been through
 that neighborhood, let's make a loop down through there and see where it takes
-me." During my training, as my mileage increased, I made note of the public
-water fountains around the city, so that by the time I got into the upper teens
-and 20 mile distances I wouldn't have to carry water.
+me."
+
+While plodding through my 19 mile training run I managed to climb over 1,100 ft,
+which is no small feat. (I did stop halfway through for coffee & pastries with
+Shannon which surely ensmallens the feat).
+
+During my training, as my mileage increased, I made note of the public
+water fountains around the city, so that I never had to carry water.
+
+So I am physically prepared for the hill, but am I mentally?
+
+I entered this race begrudgingly, trained reluctantly, and aspired moderately.
+I have no qualms about going slow. But I make myself a rule: no walking. I must
+take an uncompromising position because I know how easily I can convince myself
+to reduce my gait to a stroll. Why take this position? I'm not completely sure,
+perhaps it's to inflate my sense of accomplishment; perhaps it's to get this
+damn thing over with more quickly; most likely it's to hold moral superiority
+over the throngs of moseying competitors who have capitulated to their natural
+pain-aversion instincts.
+
+Thankfully, as the hill begins the density of the spectators increases. A road
+lined with joyous Greeks shouting *BRAVO!! BRAVO!!* provides an inexplicable
+jolt to my fortitude.
+
 
 Omonia Square
 Couldn't sleep
