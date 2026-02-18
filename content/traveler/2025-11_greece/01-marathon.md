@@ -19,9 +19,16 @@ summary: xxxxx
 <h4 class="article-subheader">Bravo! Bravo!</h4>
 
 Onto the wide coastal plain where the outmanned Athenian hoplites defeated
-the armies of the Persian Empire in the Battle of Marathon in 490 BCE.
+the armies of the Persian Empire in the Battle of Marathon in 490 BCE. The road
+cuts a straight line through a pastoral countryside situated between the rugged
+spine of Mount Pentelicus (where most of the marble for the Acropolis was
+sourced) a mile to our right and the sea a mile to our left. The pace of life
+here stands in stark contrast to the sprawling metropolis to which we approach,
+filled with the clatter and exhaust of a phalanx of motorbikes twenty something
+miles ahead.
 
-The first 3 miles run along the coastal plain between 
+Spaced about every quarter mile stands a family of Greek farmers, smiling,
+waving, and shouting *Bravo!!* to the passing runners.
 
 
 
