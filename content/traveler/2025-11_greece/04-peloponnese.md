@@ -22,7 +22,3 @@ Stay at 3 charities
 Sunrise
 Big hike & swim
 
-We slept in before heading out to explore the town on foot. First order of
-business is breakfast, so we make a 10 minute walk through the windy, narrow
-streets of old Nafplio to YiaYia brunch & more, a
-recommendation from the bubbly receptionist at the hotel.
