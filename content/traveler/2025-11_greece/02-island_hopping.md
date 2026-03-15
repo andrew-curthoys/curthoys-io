@@ -107,3 +107,30 @@ ticket agents seem to do. "Ok, here are your tickets, the ferry will depart in
 "Efcharisto"(sp?)
 
 The family arrives just in time to walk right up the gangplank.
+
+
+
+Little hotel
+
+"Ohhh yes my friend, yes. The rrrrooom is &euro;60 but if you have cass, it's
+&euro; 55."
+
+"Ok great, I don't have that on me right now, let men run down to the water
+real quick & I can get it from my family."
+
+"Yes yes, of course my friend! Here are the keys"
+
+"Oh you can hang onto the keys until I get back with the cash"
+
+"No, no, here take, take. You take the keys, my friend!"
+
+"But I haven't paid!"
+
+"Dat's ok my friend! Dat's ok, you ken pay when you come back!"
+
+"Are you sure?"
+
+"Yes my friend, of course!"
+
+
+

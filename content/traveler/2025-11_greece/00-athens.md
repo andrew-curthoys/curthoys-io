@@ -111,3 +111,73 @@ up and head over to our gate"
 "Should we get a walking Negroni?"
 
 "Thought you'd never ask"
+
+
+
+We shuffle onto the plane past bleary eyed faces frightened with the reality of
+a night spent crumpled in an airplane seat with 31" pitch. Halfway down the bird
+we hit a traffic jam as people cram their belongings into the overhead bins; as
+we idle we are treated to the unhinged ramblings of a woman whose age and
+red wine glass consumption are in the *advanced* category haranguing a
+30-something couple sitting next to
+them with the glow of the start of a honeymoon. The gentleman and I lock eyes
+and make a wide-eyed face to wordlessly communicate "we don't know this lady,
+and she's crazy" Y'know, this guy &#x1F633;
+
+Our aisle logjam clears and we mouth "I'm so sorry" to them as they return looks
+of thanks & wry smiles. We continue to our seats at the back of the plane, and
+when I say back of the plane I mean *back* of the plane. We stow our luggage
+and slump into two seats in the very last row. At least there are only two seats
+in this row and we have about a half-seat's worth of room between us and the
+window for activities.
+
+As we wait for takeoff we settle in and rifle through our personal items,
+grabbing headphones, sleep masks, books, moisturizer, snacks, everything to
+prepare for a night in the American Airlines Motel. Shortly after takeoff the
+flight attendants shuffle through the aisles handing out snacks before the
+proper meal service. As the attendant, an older gentleman with a kind face,
+rosy cheeks, and avuncular disposition, reaches us he looks to the bottom of
+his snack bin and snaps his head up with a look of cheeky displeasure,
+
+"Well would ya look at that! We're out of pretzels!"
+
+"Ah dang, that's ok we'll be fine"
+
+"No, no, that's not ok. You need your pretzels! Let me go check. I'm sorry about
+that!"
+
+"Really, it's not a big deal"
+
+Before he can hear our retort he's gone, slipped off to the back galley in a
+flash in search of the elusive bag of airline pretzels.
+
+5 minutes later he reappears,
+
+"I'm sorry, I couldn't find any more pretzels, we're *completely* out of them!"
+
+"No worries, we'll be fine"
+
+"Hmmm no, that won't do. I'll be right back"
+
+And again, like a flash, he's gone. A minute later he's back and slaps a plastic
+airplane cup on Shannon's tray table and begins filling it with red wine before
+Shannon can object. Sufficiently filled, he reaches over Shannon to hand me two
+ice-cold unopened Goose Island IPAs.
+
+"Here you go, I felt so bad about the pretzels, you're all the way in the back
+here, I'll take care of you."
+
+"Alright! Thanks Bob!" I say as I read his American Airlines branded nametag.
+
+"You got it, I'll be back in a little to check up on you."
+
+For the rest of the flight until we close our eyes to slumber Bob keeps Shannon's
+wine cup full and my beer supply with a full inventory. We love Bob.
+
+
+
+
+
+Walking around the stadium to get a preview of it
+We get a beer from the woman
+"Yes, you can drink beer wherever! In Greece everything is free!!"
