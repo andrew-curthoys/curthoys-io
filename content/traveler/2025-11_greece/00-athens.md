@@ -174,6 +174,26 @@ here, I'll take care of you."
 For the rest of the flight until we close our eyes to slumber Bob keeps Shannon's
 wine cup full and my beer supply with a full inventory. We love Bob.
 
+With cups that runneth over we scan the seatback screen for entertainment.
+Finding little to rouse our interest we settle on *The Opera*, a _________
+for no other reason that it's a story of Greek mythology. It tells the story of
+Orpheus and Eurydice through the vocal mastery of opera singers and fantastical
+visual effects.
+
+Near the start of act II Bob arrives with supper, a plastic cellophane-wrapped
+tray with flabby penne pasta smothered in a salty syrup resembling red sauce,
+a pile of soggy steamed vegetables stripped of all nutritional value and a
+dinner roll resembling a roof shingle. We gobble it down in a state of half
+drunken somnolent delirium.
+
+Within seconds of Bob lifting the detritus of our chow from our tray tables
+Shannon curls up in her seat with the deftness of a contortionist and
+immediately enters into a state of torpor, enraging yours truly in the process.
+For the next 7 hours I twist and turn, trying every possible configuration of
+my corporeal extent into this seat and adjacent space along the bulkhead(?) in a
+futile attempt at entering a state of subconsciousness. I manage maybe an hour
+or two of sleep.
+
 
 
 
