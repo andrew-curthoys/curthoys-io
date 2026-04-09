@@ -17,6 +17,13 @@ summary: xxxxx
 {% import 'macros.html' as m %}
 
 <h4 class="article-subheader">Bravo! Bravo!</h4>
+As the bobbing mass of humanity spills out onto the wide coastal plain of
+Marathon, scattered groups of spectators enthusiastically voice their support
+
+*Bravo!! Bravo!!*
+
+The first of hundreds (thousands?) of *Bravos* we will hear over the next few
+hours.
 
 Onto the wide coastal plain where the outmanned Athenian hoplites defeated
 the armies of the Persian Empire in the Battle of Marathon in 490 BCE. The road
@@ -28,19 +35,26 @@ filled with the clatter and exhaust of a phalanx of motorbikes twenty something
 miles ahead.
 
 Spaced about every quarter mile stands a family of Greek farmers, smiling,
-waving, and shouting *Bravo!!* to the passing runners.
+waving, shouting,
 
+*Bravo!! Bravo!!*
 
 
 <h4 class="article-subheader"></h4>
-
-I take a right from the hotel and walk about half a mile due north to Omonia
-Square, one of the 6 pickup locations in Athens for marathon runners. I sidle
-up to a blob of runners gathered on a street corner beside a line of buses that
-stretch down the block and around the corner. The mob slowly shuffles toward the
+9-Nov 2025. Marathon Day. 6 AM.
+I take a right from the hotel headed due north to Omonia Square, one of 6 pickup
+locations in Athens for marathon runners. With a notable lack of pep in my step
+I sidle up to a crowd of brightly clad athletes gathered on the eastern side of
+the promenade. Beside the conclave stretches a line of buses down the block and
+out of sight. I insert myself into the assemblage as we slowly shuffle toward the
 corner where I assume we are boarding, but I am mistaken. Once we get to the
 corner the throng snakes to the right around a building and stretches, 5 people
-wide, for 4 blocks. How are there this many people 
+wide, for 4 blocks.
+
+How are there this many people stupid enough to undertake
+such an asinine event? We're boarding perfectly fine buses to ship us half a
+degree of latitude north, only for us to eschew the wonders of modern
+transportation in favor of bipedal locomotion back to where we started!
 
 As I board the bus I count the rows of seats and surmise there are around 60
 seats. With 25,000 people participants that's over 400 buses!! And that's not
@@ -138,6 +152,8 @@ lined with joyous Greeks shouting *BRAVO!! BRAVO!!* provides an inexplicable
 jolt to my fortitude.
 
 
+	
+
 Omonia Square
 Couldn't sleep
 Alarm 
@@ -169,3 +185,10 @@ Mile 9 Outskirts of Rafina, view of the sea to the left up the hill
 Mile 10 steep downhill right after right turn at Rafina west towards Athens
 Mile 14 Pikermi
 Mile 17.5 - met up with Laura & Shannon (thought it would be mile 16) - Le Mans coffee
+
+
+
+After 'thon
+* Supper
+* The Dude bar
+* Next night at 

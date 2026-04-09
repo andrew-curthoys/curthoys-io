@@ -175,10 +175,12 @@ For the rest of the flight until we close our eyes to slumber Bob keeps Shannon'
 wine cup full and my beer supply with a full inventory. We love Bob.
 
 With cups that runneth over we scan the seatback screen for entertainment.
-Finding little to rouse our interest we settle on *The Opera*, a _________
-for no other reason that it's a story of Greek mythology. It tells the story of
-Orpheus and Eurydice through the vocal mastery of opera singers and fantastical
-visual effects.
+Finding little to rouse our interest we settle on *The Opera!*, an Italian film
+from 2024 for no other reason that it's a story of Greek mythology. It tells
+the tale of Orpheus and Eurydice through the vocal mastery of opera singers and
+fantastical visual effects. It's a perfect plane movie - we don't really need to
+pay too close attention and the performances and scenery are enough to dazzle
+you.
 
 Near the start of act II Bob arrives with supper, a plastic cellophane-wrapped
 tray with flabby penne pasta smothered in a salty syrup resembling red sauce,
@@ -190,10 +192,122 @@ Within seconds of Bob lifting the detritus of our chow from our tray tables
 Shannon curls up in her seat with the deftness of a contortionist and
 immediately enters into a state of torpor, enraging yours truly in the process.
 For the next 7 hours I twist and turn, trying every possible configuration of
-my corporeal extent into this seat and adjacent space along the bulkhead(?) in a
+my corporeal extent into this seat and adjacent space along the window in a
 futile attempt at entering a state of subconsciousness. I manage maybe an hour
 or two of sleep.
 
+At least my bloodshot eyes are treated to some miraculous views of the Greek
+islands and Attic Peninsula as we make our final descent. Upon landing Shannon
+pops up with the energy and excitement of a kid on Christmas.
+
+
+
+
+Before we even reach customs we see the most Greek thing you could imagine: the
+Winston Smoking Zone, a glass box for smokers to rip a dart in
+an otherwise non-smoking facility. We walk past, admiring the specimens within
+like animals at a zoo before we are herded into cattle pens at the
+customs checkpoint.
+
+45 minutes later we are on the curb outside the airport firmly on Greek soil. I
+check the transportation options to our hotel - 55 minutes via cab, 50 minutes
+via train. I reason that I'd rather be on a train and moving than stuck in
+traffic for an hour so we hoof it to the train platform. After checking, double
+checking, triple checking, and confirming that I still have a slight understanding
+of Greek letters we find the correct train.
+
+Once we take one step in the train we know we have blundered. Every seat has
+long since been filled and the standing room is at a premium. A person with
+cruder sensibilities might call it "nuts to butts." But not me. I would never.
+
+Even stowing our luggage is a struggle, fighting with an obstinate woman standing
+directly in front of the rack who would seemingly rather gouge her eyes out than
+temporarily shift half a step to her right to allow access to the compartment.
+And so begins the hour long train ride on our feet operating on little to no
+sleep (at least some of us).
+
+After an interminable ride that felt like Charon carrying us across the
+river Styx we are mercifully deposited at the Monastiraki station in the
+heart of Athens.
+
+
+With bloodshot eyes and aching feet we drag ourselves into the lobby of the
+Athens Tower Hotel. After the exchange of pleasantries and instructions that
+don't even set up a tent in their itinerant journey through my brain, the
+front desk clerk hands us the keys to room 311. We head to the tiny elevator
+with our sights set on some shuteye.
+
+3-ish hours later my alarm squawks to rouse us from our mid-afternoon nap. I
+feel better, not great, not terrible. We sent out a missive on the group chat
+to align plans while preparing ourselves for the day. We agree to meet at a
+patio coffee shop a block away near Monastiraki Square. In the course of our
+sluggish ablutions our coffee shop companions have relocated, unbeknownst to us.
+So we search high & low for Karen & Lynne, free spirits carried by the whims of
+the Meltemi winds.
+
+
+
+"You said you would be at the coffee shop"
+
+"Yeah but you took so long! We weren't going to sit there all day!"
+
+"I mean, that's fair, but you should tell us where you're going"
+
+"We didn't know where we were going"
+
+"Well at least tells us that you're leaving the coffee shop so we don't just
+wander around looking for you"
+
+"Well we're here now"
+
+
+
+
+
+After wandering the square for half an hour the fussyness quotient of the group
+grows to untenable levels and we start to search for food. After a perusing
+stroll past pushy restaurant hypemen hawking the unique benefits of their
+particular restaurant that's the exact same as every other restaurant we settle
+on ΜΑΙΑΝΔΡΟΣ, a breezy outdoor restaurant and cafe with no such carnival
+barker. The food must speak for itself we tell ourselves.
+
+Unfortunately I cannot stay to assess the wisdom of our choice of eatery, as I
+still need to collect my race packet, inconveniently located at the Faliro
+Taekwondo and Handball Olympic Stadium 5 miles away overlooking the Saronic
+Gulf on the delightfully named Leoforos Poseidonos avenue.
+
+"Ok, I'm just going to grab some street meat and go grab my packet"
+
+"Are you sure? I can go with you," Shannon supportively offers
+
+"Nah, don't worry about it, y'all have fun & I'll catch up with you when I get
+back. It looks like it's about half an hour away so I'll be back in a little
+over an hour I reckon"
+
+Spoiler alert: an hour later I'm still in a cab on the way to the stadium.
+
+After splitting off from the group I snag the meal I was really angling for:
+a mouthwatering gyro pita sandwich from a street vendor. Marinated chargrilled
+mystery meat from a spit, chopped onions, a few shards of lettuce,
+unidentifiable creamy white sauce, soggy tomatoes, french fries. It's perfection.
+
+As I chow down on my messy ball of goop I order a cab to the Taekwondo stadium.
+After a frustrating 15 minute wait for my driver to arrive we set off
+southwest to the stadium and quickly hit a snarl of traffic that dash my plans
+of a quick trip. The 30 minute estimate turns into nearly an hour before I
+step out of the cab onto Leoforos Poseidonos.
+
+
+
+Nov 7
+Street meat
+Convention
+Wine tasting
+
+Nov 8
+Greek soldiers dancing
+Acropolis Tour
+Stadium
 
 
 
@@ -201,3 +315,10 @@ or two of sleep.
 Walking around the stadium to get a preview of it
 We get a beer from the woman
 "Yes, you can drink beer wherever! In Greece everything is free!!"
+
+
+
+Acropolis tour
+Probably not the best advice to be on your feet all day the day before a marathon
+
+Shannon peeing in an alley
