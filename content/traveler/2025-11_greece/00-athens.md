@@ -297,6 +297,42 @@ southwest to the stadium and quickly hit a snarl of traffic that dash my plans
 of a quick trip. The 30 minute estimate turns into nearly an hour before I
 step out of the cab onto Leoforos Poseidonos.
 
+A stream of fit-looking people in athleisurewear descend upon the arena like an
+obedient army of ants to pay homage to their queen. I expect this operation to
+be a quick in & out packet grab but the second I step into the arena I'm
+disabused of that notion. Inside the atrium people roam around in a state of
+organized chaos. After assessing the hectic state of affairs I see a sign
+that reads "Packet Pickup This Way."
+
+I follow the sign down a stairwell into the bowls of the arena, past stacks of
+empty cardboard boxes, weaving through groups of runners, dodging thankless
+volunteers running through the atria keeping this whole spectacle rumbling along.
+
+We make a right turn down a wide hallway that dumps us onto the arena floor.
+Instead of the packet pick up I find myself bobbing on a river of humanity
+methodically plodding through a valley of vendor booths in a zombie-like state
+of consumerist torpor. Each open-air    being led   10-foot tall advertising placards
+of ripped people in tank tops, sweat glistening in just the right places,
+imply that, you too could be jacked and sweaty and attractive if you could just
+tap your phone on the card reader right there.
+
+Want to run faster? We have a pair of Nike UltraSwift HyperFlex Crosstrainer
+Xtremes in your size!
+
+Wardrobe too meh? The Adidas WickSmart PolarBlast AdiMaxxx t-shirt is
+scientifically engineered to make you more fuckable!
+
+Dehydrated? Nothing the VitaminWater Hydr8 ElectoLyte LiquiBlaster IonBalance+++
+suppository can't handle!
+
+This inane ath________ drivel continues for the length of the arena,
+where it loops back on itself for more of the same all the way back down. This
+slithering consumerist hydra snakes back upon itself 6 times, providing 2
+football fields-worth of neon colored polyester horseshit to sift through.
+
+After a few double-backs I duck a rope and cut across the floor towards the
+exit.
+
 
 
 Nov 7
