@@ -19,16 +19,19 @@ summary: xxxxx
 <h4 class="article-subheader">Should we grab our swimsuits?<h4>
 "I don't know, it looks pretty cold"
 
-"But... we're... here... Like we gotta"
+"But... we're... here..." *gestures to the Argolic Gulf*
 
 "Can't we just enjoy the view"
 
-"I mean we could, but it's the Aegean.
+"I mean we could, but... we're... here..." *gestures again to the Argolic Gulf*
 
-This is how the conversation went in my head. In reality Shannon 
+"Ok, you convinced me. You make such a convincing argument, Andrew. You are so
+smart!!"
 
-We hoof it back up the hill to the Nissan.
+This is how the conversation went in my head.
 
+In reality Shannon had to convince me to stop being such a weenie and jump in.
+And jump in we did, into the frigid waters 'neath the cliffs of Nafplio.
 
 The sun sets over a coastline of serrated peaks, painting the pale blue sky
 a deep orange between wispy puffs of clouds.
@@ -42,10 +45,38 @@ Shortest history of Greece
 Shopping
 
 
-We sleep in before heading out to explore the town on foot. First order of
-business is breakfast, so we make a 10 minute walk through the windy, narrow
-streets of old Nafplio to Kalimera, a
-recommendation from the bubbly receptionist at the hotel. We are seated on their
+The next morning we take our time rolling out of bed, listening to the sounds of
+the town rousing for the day outside our open windows. Once bipedal we take a
+10 minute stroll through the windy, narrow streets of old Nafplio to Kalimera, a
+breakfast recommendation from the bubbly receptionist at the hotel. As we walk
+through the open door of the restaurant with a full patio of tables adorned with
+tablecloths and place settings the woman working appears generally confused as to
+our presence. In the few hundred milliseconds of confused silence before I
+sheepishly inquire, "uhhh, are you open?", our body language has
+the following conversation,
+
+*Excuse me, what are you doing here?*
+
+*Isn't this a restaurant? We're here for breakfast*
+
+*Please hold while I confirm your assertion... Ok yes, this does appear to be
+a restaurant*
+
+*Ok wonderful, every single piece of evidence aligns with reality*
+
+*Can I help you*
+
+*Do you work here? Can we get breakfast?*
+
+*This is a restaurant, what a strange supposition that you would come here and
+be fed breakfast*
+
+*I'm so confused*
+
+Thin with a white polo shirt and brunette hair tied up into a tight
+bun.
+
+working at the restaurant appears generally surprised that we have  are seated on their
 street-front patio. I don't tarry too long with the menu - the first item listed
 is "Traditional Greek Breakfast" - when in Nafplio as they say.
 

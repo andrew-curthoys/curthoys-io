@@ -291,6 +291,11 @@ a mouthwatering gyro pita sandwich from a street vendor. Marinated chargrilled
 mystery meat from a spit, chopped onions, a few shards of lettuce,
 unidentifiable creamy white sauce, soggy tomatoes, french fries. It's perfection.
 
+<figure class="figure">
+  <img class="figure-img img-fluid mt-2 rounded" src="" alt="Street Meat">
+	<figcaption class="figure-caption">Street meat</figcaption>
+</figure>
+
 As I chow down on my messy ball of goop I order a cab to the Taekwondo stadium.
 After a frustrating 15 minute wait for my driver to arrive we set off
 southwest to the stadium and quickly hit a snarl of traffic that dash my plans
