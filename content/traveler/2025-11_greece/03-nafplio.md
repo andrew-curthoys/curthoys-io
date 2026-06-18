@@ -47,7 +47,7 @@ Shopping
 
 The next morning we take our time rolling out of bed, listening to the sounds of
 the town rousing for the day outside our open windows. Once bipedal we take a
-10 minute stroll through the windy, narrow streets of old Nafplio to Kalimera, a
+10 minute stroll through the narrow winding streets of old Nafplio to Kalimera, a
 breakfast recommendation from the bubbly receptionist at the hotel. As we walk
 through the open door of the restaurant with a full patio of tables adorned with
 tablecloths and place settings the woman working appears generally confused as to

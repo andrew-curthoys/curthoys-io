@@ -16,14 +16,43 @@ summary: xxxxx
 
 {% import 'macros.html' as m %}
 
-<h4 class="article-subheader">Bravo! Bravo!</h4>
-As the bobbing mass of humanity spills out onto the wide coastal plain of
-Marathon, scattered groups of spectators enthusiastically voice their support
+<h4 class="">Why are you bleeding?</h4>
+I stumble into *Guglhupf*, a German bakery and beer hall where I have agreed
+to meet Shannon for a pastry and coffee on mile 15 of my 20 mile training run.
 
-*Bravo!! Bravo!!*
+"Well, around mile 12 I was running through Duke Park when I tripped over a
+tree branch and fell flat on my face in front of the entire playground. Those
+kids will never respect me after that."
+
+"Well I *had* sympathy for you."
+
+"Nothing you can say can sting more than those judgemental glares."
+
+"...I got you a coffee."
+
+"You have no idea how hurtful a toddler can be!" 
+
+"...It's getting cold"
+
+"Thank you my love"
+
+
+<h4 class="article-subheader">Bravo! Bravo!</h4>
+A bobbing mass of humanity spills out onto the wide coastal plain of
+Marathon, Greece. Floating upon that river of malformed vertebrates like a family
+from Omaha on a rafting trip down the Grand Canyon I ride the current. Flanking
+each side of the asphalt canyon a phalanx of spectators enthusiastically voice
+their support
+
+*Bravo!! Bravo!! Braaaaavoooooooo!!!!*
 
 The first of hundreds (thousands?) of *Bravos* we will hear over the next few
 hours.
+
+
+
+
+
 
 Onto the wide coastal plain where the outmanned Athenian hoplites defeated
 the armies of the Persian Empire in the Battle of Marathon in 490 BCE. The road
@@ -40,8 +69,17 @@ waving, shouting,
 *Bravo!! Bravo!!*
 
 
-<h4 class="article-subheader"></h4>
+<h4 class="article-subheader">Bleeeeeeeeep</h4>
 9-Nov 2025. Marathon Day. 6 AM.
+My alarm rudely wakes me from a restless sleep. I turned in at an early hour
+but I just couldn't bring myself to fall asleep. I laid and laid and laid. I got up to go to the bathroom. I drank some water. I read. I counted sheep. I learned
+Greek. I did everything except go to sleep. Shannon stayed out with my family
+to enjoy the Athens nightlife and I was wide awake when she returned, buzzing on
+the high of a vibey DJ set with craft cocktails at the foot of the Acropolis.
+
+They were drinking cocktails while looking at the Acropolis and I was laying
+here like a dumbass and not sleeping.
+
 I take a right from the hotel headed due north to Omonia Square, one of 6 pickup
 locations in Athens for marathon runners. With a notable lack of pep in my step
 I sidle up to a crowd of brightly clad athletes gathered on the eastern side of

@@ -228,8 +228,8 @@ load off and the rest of the gang continues on for a peek at the Temple of
 Apollo.
 
 Unfortunately the site is closed to visitors so our only vantage is through a
-rusty chain link fence. Built in the 6th century BC (before the Parthenon -
-5th century BC) the sole remaining vestige of the once great temple is a 25 foot
+rusty chain link fence. Built in the 6th century BC (a hundred or so years
+before the Parthenon) the sole remaining vestige of the once great temple is a 25 foot
 shard of a Doric column, solemnly standing guard over the entrance to the island.
 
 
@@ -253,3 +253,62 @@ Go for stroll with Uncle Brad & Laura & Auntie.
 
 "I will if you will."
 
+A shared glimmer shines between our tripartite alliance as we realize we're
+going in. We pop our tarps and shuffle over the sandy beach flecked with
+fragments of broken limestone towards water so clear that Snell's Law is the
+only indicator that it's actually there.
+
+I dip a toe in,
+
+"Ooooooohhhhhhh chillllllly!!!"
+
+"How cold is it?" noted frigiphobe Shannon asks
+
+"It's not warm"
+
+"I'm scared"
+
+I'm waist deep by the time Shannon works up the courage to step into the cool
+clear water
+
+"EEEEEEEEEPPP!!!!"
+
+"Come on in!! It's actually not that bad once you get used to it!!"
+
+"I don't trust you"
+
+"Can't blame ya there"
+
+A few minutes later Shannon, Laura, and I are floating up to our necks in the
+same sea that Jason returned triumphantly with the golden fleece.
+
+
+
+
+We walk back to town past an outdoor table where Uncle Brad is enjoying a glass
+of red wine. We join him for a tipple just as his waiter gets into a type of
+Greek dialogue where we can't tell if they are the best of friends or mortal
+enemies. A cacophonous melee of impassioned shouting unfolds before us, each
+stanza accompanied by swift flail of the arm and a jerk of the head to the side
+as if to spit at the thought of the other's accusation.
+
+It is a lovely way to spend an afternoon.
+
+
+
+As the shadows dock grow long on the dock our time with the Buffalonians grows
+nigh. We gather on the pier and share hugs and reassurances that we shall see
+each other once again very soon we watch the Blue Star Ferries Blue Galaxy
+cruise into port with the effortlessness afforded by a seafaring civilization
+with 4 millennia of experience. A second (and third) round of hugs are shared
+as we see our beloved family off on their voyage. We leave them with condolences
+on their 6 AM flight tomorrow as we slink off back towards the sidewalk cafes
+for another glass of wine and pistachio ice cream.
+
+
+Bon voyage to Buffalo folks
+
+
+
+
+Supper at 
