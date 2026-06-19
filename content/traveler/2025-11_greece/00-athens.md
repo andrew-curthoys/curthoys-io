@@ -330,7 +330,7 @@ scientifically engineered to make you more fuckable!
 Dehydrated? Nothing the VitaminWater Hydr8 ElectoLyte LiquiBlaster IonBalance+++
 suppository can't handle!
 
-This inane athmaxxxxing drivel continues for the length of the arena,
+This inane athmaxxxxing drivel continues for the length of the arena -
 an overabundance of linear footage for shopping if you ask me. The mad bit
 though, is that the stationary parade of glorified knickknack shops
 turns back upon itself and goes back down the length of the arena *again*.
@@ -339,7 +339,37 @@ slithering consumerist hydra snakes back upon itself 6 times, providing 2
 football fields-worth of neon colored polyester horseshit to sift through.
 
 After a few double-backs I duck a rope and cut across the floor towards the
-exit.
+exit. On my way out of the arena I stop at the one actual cool thing in the
+entire building. Standing a few yards from the exit doors a cubic obelisk
+curiously draws the attention of a handful of runners peering at its surface.
+
+*What the hell is that?*
+
+Interest piqued I sidle up to the monument to find a pointillist-esque
+assemblage of thousands of names digitally
+scrawled upon its surface. 20,000 names. A number that doesn't 
+A typical NFL stadium would hold thrice that amount. The number of British
+soldiers killed on the first day of the Somme. The number 20,000 is just a
+number. Until it's not.
+
+
+
+
+<h4 class="article-subheader">Everything in Greece is Free!</h4>
+On Marathon Eve Laura, Shannon, and I venture out towards the Panathenic
+Stadium to get eyes on the setup. On the way we 
+
+"It's 12:55, I think they are about to do the changing of the guard, how do we
+feel about waiting for that?"
+
+"Indifferent"
+
+"Same"
+
+"Hmmmmm.... Ok why don't we wait for a few minutes and if it's bad we can just
+bounce"
+
+"Ok yeah I can get on board with that"
 
 
 
