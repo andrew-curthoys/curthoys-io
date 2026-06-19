@@ -77,8 +77,19 @@ Greek. I did everything except go to sleep. Shannon stayed out with my family
 to enjoy the Athens nightlife and I was wide awake when she returned, buzzing on
 the high of a vibey DJ set with craft cocktails at the foot of the Acropolis.
 
-They were drinking cocktails while looking at the Acropolis and I was laying
-here like a dumbass and not sleeping.
+I was laying here like a dumbass for 2 hours while they were drinking cocktails
+within shouting distance of the Parthenon! What a schmuck!
+
+Shannon, a normal person, falls asleep right away when her head hits the pillow.
+Me, a psychotic person, stay awake for another 2 hours. Half of my allotted 8
+hours squandered. At this point my brain starts to rebel against itself.
+
+*What if we just staaaayyyyyy awake allllllll night my precioussssss????*
+
+
+
+
+
 
 I take a right from the hotel headed due north to Omonia Square, one of 6 pickup
 locations in Athens for marathon runners. With a notable lack of pep in my step
@@ -155,17 +166,31 @@ the DJ begins a countdown
 
 <h4 class="article-subheader">The Hill</h4>
 At the end of a moderate mile-long downhill section we reach the most grueling
-section of the race. Mile 11. The start of 9 miles of unrelenting uphill. A
-climb that would take you from the streets of Manhattan to the top floor of the
-Chrysler Building.
+section of the race. Mile 11. The start of 9 miles of unrelenting uphill. Just
+imagine walking up the stairwell of a 120 story building. But also running
+9 miles. So dumb.
 
-Just one foot in front of the other. Follow the blue line.
+Just one foot in front of the other. Follow the blue line. Trust the process.
 
-As luck would have it, I am prepared for this. And I say luck because hill
-training was no part of my regimen, Durham just happens to be moderately hilly.
-A typical training session would go like this, "hmmm ok I haven't been through
-that neighborhood, let's make a loop down through there and see where it takes
-me."
+As luck would have it, I am prepared for this.
+
+Luck.
+
+Not preparation.
+
+Luck because Durham, situated in the piedmont of Northern Carolina, just happens to
+be moderately hilly. A "marathoner", if they lived here, would plan their
+training runs around the topography, maximizing the undulations to their benefit.
+Me, a "lazy person", planned my training runs around a flat map - "hmmm ok I
+haven't been through that neighborhood, let's make a loop down through there
+and see where it takes me."
+
+Those nonsense excursions through unexplored neighborhoods with no aim other
+than putting miles *behind* and not necessarily *under* me are my protector.
+Those miles, _____(trodded)____ while gazing at the canopies of
+____(tall)_____ oaks and stately trunks of Longleaf Pines I was unwittingly
+training my body to endure hills. If I purposefully did hill training I would
+have hated it. Thankfully the hills were just there.
 
 While plodding through my 19 mile training run I managed to climb over 1,100 ft,
 which is no small feat. (I did stop halfway through for coffee & pastries with

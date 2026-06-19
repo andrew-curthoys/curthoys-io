@@ -330,8 +330,11 @@ scientifically engineered to make you more fuckable!
 Dehydrated? Nothing the VitaminWater Hydr8 ElectoLyte LiquiBlaster IonBalance+++
 suppository can't handle!
 
-This inane ath________ drivel continues for the length of the arena,
-where it loops back on itself for more of the same all the way back down. This
+This inane athmaxxxxing drivel continues for the length of the arena,
+an overabundance of linear footage for shopping if you ask me. The mad bit
+though, is that the stationary parade of glorified knickknack shops
+turns back upon itself and goes back down the length of the arena *again*.
+I thought I was at the end but I was just at the beginning. This
 slithering consumerist hydra snakes back upon itself 6 times, providing 2
 football fields-worth of neon colored polyester horseshit to sift through.
 
