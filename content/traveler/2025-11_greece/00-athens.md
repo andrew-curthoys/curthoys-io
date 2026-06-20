@@ -346,18 +346,36 @@ curiously draws the attention of a handful of runners peering at its surface.
 *What the hell is that?*
 
 Interest piqued I sidle up to the monument to find a pointillist-esque
-assemblage of thousands of names digitally
-scrawled upon its surface. 20,000 names. A number that doesn't 
-A typical NFL stadium would hold thrice that amount. The number of British
-soldiers killed on the first day of the Somme. The number 20,000 is just a
-number. Until it's not.
+assemblage of thousands of names digitally scrawled upon its surface.
+25,000 names. 25,000 stories. 25,000 
+A typical NFL stadium would hold thrice that amount. The number of fallen British
+soldiers on the first day of the Somme. The number 25,000 is just a
+number. Until you see it in names.
+
+Much like the cold blooded psychopath Anton Chigurh says in *No Country for
+Old Men*, after the gas station cashier correctly calls a coin toss that
+unbeknownst to him saves his life,
+*Anywhere not in your pocket.
+Or it'll get mixed in with the others and become just a coin. Which it is.*
 
 
 
 
 <h4 class="article-subheader">Everything in Greece is Free!</h4>
 On Marathon Eve Laura, Shannon, and I venture out towards the Panathenic
-Stadium to get eyes on the setup. On the way we 
+Stadium to get eyes on the setup for the finish of the big race. On our way to
+the stadium grounds we pass by Syntagma Square just outside the Hellenic
+Parliament Building. *Syntagma*, Greek for
+"Constitution" is so named for the constitution that King Otto of Bavaria
+granted to the people of Greece in 1844. King Otto was a repressive and
+unpopular monarch and was exiled during an uprising on 10 October 1862.
+
+On the square, right in front of the neoclassical fa&ccedil;ade of the
+parliament building, sits the Tomb of the Unknown Soldier, a cenotaph dedicated
+to all the brave fighters who have lost their lives in support of Greece. Every
+hour, on the hour, 365 days a year rain or shine a group of Greek soldiers,
+called *Evzones* execute an intricately choreographed changing of the guard
+procession.
 
 "It's 12:55, I think they are about to do the changing of the guard, how do we
 feel about waiting for that?"
@@ -371,7 +389,17 @@ bounce"
 
 "Ok yeah I can get on board with that"
 
+We stroll up to a group of onlookers gathered around the marble steps leading
+up to the Tomb of the Unknown Soldier.
 
+"Please stand back!! Make room!!" a military guard angrily shouts at the crowd.
+
+People slowly make a lane for the new Evzones to pass through, all the while
+jockeying for prime viewing real estate.
+
+
+
+After the 
 
 Nov 7
 Street meat
