@@ -1,10 +1,10 @@
-title: Hellenistic Pilgrimage
-subtitle: The birthplace of democracy
-slug: traveler/2025-11_greece/00-athens
+title: Island Hopping
+subtitle: Sailing the High Seas
+slug: traveler/2025-11_greece/02-island-hopping
 slug_base: traveler/2025-11_greece
-day_alias: Athens
-prev_day: /traveler/2025-11_greece
-next_day: 01-marathon
+day_alias: Island Hopping
+prev_day: 01-marathon
+next_day: 03-nafplio
 date: 2025-11-05
 post_date: 
 category: Traveler
@@ -89,22 +89,24 @@ the ticket clerk.
 
 "Oh, cutting it a little close aren't we?"
 
-"I wasn't expecting a 2 km hike to get here from the ticket office."
+"Can we just get these tickets, please?"
 
 "We recommend arriving to the gate 30 minutes before departure."
 
-"*I'm aware*."
+"I'm aware, but your main office was closed and the unhelpful agent at the
+other kiosk sent us the wrong way so we had to hike 2 km to get here, so can
+we just get the tickets!?"
 
 "Are the 3 passengers with you?"
 
-"They're *coming*," I point from the arrow end of *that way* towards our family
-making good time, all things considered.
+"They're *coming*," I point towards the fletching end of *that way* towards our
+family making good time, all things considered.
 
 "I see," she says as she click-clacks away at her keyboard in a way that only
 ticket agents seem to do. "Ok, here are your tickets, the ferry will depart in
 5 minutes from gate E9 directly behind you. *Enjoy your trip*."
 
-"Efcharisto"(sp?)
+"Efcharist&oacute;"
 
 The family arrives just in time to walk right up the gangplank.
 
@@ -115,7 +117,7 @@ waters of the Adriatic Sea the swells begin to toss the ferry around like a
 toddler's bathtime playtoy. I shoot a concerned glance to Uncle Brad, the most
 prone to seasickness in the group,
 
-"How are you doing?"
+"How ya goin?"
 
 "I'm doing ok"
 
@@ -280,7 +282,7 @@ clear water
 "Can't blame ya there"
 
 A few minutes later Shannon, Laura, and I are floating up to our necks in the
-same sea that Jason returned triumphantly with the golden fleece.
+same sea upon which Jason triumphantly captained the Argo with the golden fleece.
 
 
 
@@ -291,6 +293,63 @@ Greek dialogue where we can't tell if they are the best of friends or mortal
 enemies. A cacophonous melee of impassioned shouting unfolds before us, each
 stanza accompanied by swift flail of the arm and a jerk of the head to the side
 as if to spit at the thought of the other's accusation.
+
+Arguing for the sake of arguing is a lost art in the New World, throughout
+Europe, Africa, and the Arab world arguing for sport is as natural as breathing.
+On a recent episode of Trevor Noah's podcast *What Now* Trevor & Kareem Rahma
+(the Subway Takes guy) discuss their collective history with collective
+disagreement,
+
+<div class="block-quote">
+<p>
+Kareem:
+<br>
+And so when I used to see my dad, like, interacting with his friends, they were
+always arguing. It was never a moment where they weren't.
+</p>
+
+<p>
+Trevor:
+<br>
+I'm so glad you said that this is a thing that I've been trying to explain to
+many of my American friends who have no recent immigrant family. And I go, one
+of the national pastimes of most immigrant communities is arguing. But like
+arguing for the sake of arguing, but like in a really, really fun way. It's about
+football. Who's the best footballer? Who's the best team? Who's the best coach?
+But it's always benign, you know? Oh, where do you get the best hummus? Whaatt,
+that's not hummus! You can't even count that place!
+</p>
+
+<p>
+Kareem:
+<br>
+But with a passion.
+</p>
+
+<p>
+Trevor:
+<br>
+Yeah. And then you fight and you're arguing. You don't know food! No you don't
+know food!! And you get into this whole thing.
+</p>
+
+<p>
+Kareem:
+<br>
+And they don't talk for 24 hours.
+</p>
+
+<p>
+Trevor:
+<br>
+Yeah, yeah. But like that thing, it's funny that you say that because I would
+say this to my American friends, I go, I sometimes feel like Americans need to
+fight more seriously about things that are less serious so that they can just
+enjoy the fight. Not every fight can be about like war in Iran. Like these are big
+fights, guys. This is too big. And it's exhausting. Healthcare. Yo, that's a big
+fight. Just fight about small things. Yeah. You know? 
+</p>
+</div>
 
 It is a lovely way to spend an afternoon.
 

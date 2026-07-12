@@ -1,10 +1,10 @@
 title: Peloponnese
 subtitle: The peninsula you forgot from history class
-slug: traveler/2025-11_greece/00-athens
+slug: traveler/2025-11_greece/04-peloponnese
 slug_base: traveler/2025-11_greece
 day_alias: Pelopon
-prev_day: /traveler/2025-11_greece/xxxxxxx
-next_day: 0xxxxxxxx
+prev_day: 03-nafplio
+next_day: 
 date: 2025-11-12
 post_date: 
 category: Traveler
@@ -81,3 +81,28 @@ Our original plan was to stay in Kalimata tonight, but I'm not too keen on
 driving 2 hours in the dark, plus this beach is too incredible to leave. We must
 come back tomorrow. I grab my phone to find accommodations for the night and
 settle on the Three Charities Resort, a 10 minute drive away in Gialova.
+
+<h4 class="article-subheader">Navarino Fortress</h4>
+The next morning we wake up before the sun to see it rise above the Taygetos
+Mountains. We find a spot on the East-West oriented Gialova Beach that's
+perfectly oriented to witness Helios's journey. We unfurl a blanket on the
+sand, zipping our jackets and squeezing each other tight. Over the next half
+hour the sky slowly changes from the charcoal of a dusky night to the pale
+azure of the Aegean Sea right before the sun peeks it head over the horizon. Then
+a warm orange glow dances across the sky, breathing life and much needed warmth
+into our frigid bones.
+
+As we watch Helios continues his heavenly journey we peek over to the ruins
+atop the promontory to our right.
+
+"Should we go hike up to that castle?"
+
+"Yeah, it looks like there was a hiking trail that starts at the end of the
+beach that leads up to the top"
+
+"Let's do it!"
+
+So we gather our things, head back to the hotel for more appropriate hiking
+apparel and an hour later we are at the trailhead at the end of the beach
+at the foot of the 600 foot palisade home to the Old Navarino Fortress.
+

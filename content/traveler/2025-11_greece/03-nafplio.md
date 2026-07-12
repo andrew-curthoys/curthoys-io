@@ -1,10 +1,10 @@
 title: Hellenistic Pilgrimage
 subtitle: The birthplace of democracy
-slug: traveler/2025-11_greece/00-athens
+slug: traveler/2025-11_greece/03-nafplio
 slug_base: traveler/2025-11_greece
 day_alias: Athens
-prev_day: /traveler/2025-11_greece
-next_day: 01-marathon
+prev_day: 02-island-hopping
+next_day: 04-peloponnese
 date: 2025-11-05
 post_date: 
 category: Traveler

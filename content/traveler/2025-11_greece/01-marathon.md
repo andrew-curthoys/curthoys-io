@@ -1,10 +1,10 @@
-title: Hellenistic Pilgrimage
-subtitle: The birthplace of democracy
-slug: traveler/2025-11_greece/00-athens
+title: The Original Marathon
+subtitle: Pheidippides' Folly
+slug: traveler/2025-11_greece/01-marathon
 slug_base: traveler/2025-11_greece
 day_alias: Athens
-prev_day: /traveler/2025-11_greece
-next_day: 01-marathon
+prev_day: 00-athens
+next_day: 02-island-hopping
 date: 2025-11-05
 post_date: 
 category: Traveler
