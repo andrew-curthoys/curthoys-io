@@ -17,16 +17,22 @@ summary: xxxxx
 {% import 'macros.html' as m %}
 
 <h4 class="">Why are you bleeding?</h4>
-I stumble into *Guglhupf*, a German bakery and beer hall where I have agreed
-to meet Shannon for a pastry and coffee on mile 15 of my 20 mile training run.
+I stumble into *Guglhupf*, a German bakery and beer hall in Durham, NC where I
+have agreed to meet Shannon for a pastry and coffee on mile 15 of my 20 mile
+training run.
 
 "Well, around mile 12 I was running through Duke Park when I tripped over a
-tree branch and fell flat on my face in front of the entire playground. Those
-kids will never respect me after that."
+tree branch and fell flat on my face in front of the entire playground."
+
+"Oh noooo! Are you ok?"
+
+"The sting of the scrapes on my hands and my knees is but a temporary malady;
+the shame I felt from
+that audience of toddlers is an affliction from which I may never recover."
 
 "Well I *had* sympathy for you."
 
-"Nothing you can say can sting more than those judgemental glares."
+"Nothing you can say can pierce deeper into my soul than those judgemental glares."
 
 "...I got you a coffee."
 
@@ -39,29 +45,28 @@ kids will never respect me after that."
 
 <h4 class="article-subheader">Bravo! Bravo!</h4>
 A bobbing mass of humanity spills out onto the wide coastal plain of
-Marathon, Greece. Floating upon that river of malformed vertebrates like a family
-from Omaha on a rafting trip down the Grand Canyon I ride the current. Flanking
-each side of the asphalt canyon a phalanx of spectators enthusiastically voice
+Marathon, Greece. Floating upon that river of malformed vertebrates I ride the
+current like a family from Omaha on a rafting trip down the Grand Canyon. Flanking
+each side of the asphalt crevasse a phalanx of spectators enthusiastically voice
 their support
 
 *Bravo!! Bravo!! Braaaaavoooooooo!!!!*
 
-The first of hundreds (thousands?) of *Bravos* we will hear over the next few
-hours.
+These are the first of hundreds (thousands?) of *Bravos* we will hear over the
+next few hours.
 
+A mile into the race we are past the initial conglomeration of spectators grouped
+near the start onto the wide costal plain of Marathon. The pastoral setting
+provides an ideal milieu to imagine the setting in 490 BCE when an outmanned
+garrison of Athenian hoplites faced the mighty Persian Empire, the largest
+empire the world had ever seen.
 
-
-
-
-
-Onto the wide coastal plain where the outmanned Athenian hoplites defeated
-the armies of the Persian Empire in the Battle of Marathon in 490 BCE. The road
-cuts a straight line through a pastoral countryside situated between the rugged
+A mile to our right stands the rugged
 spine of Mount Pentelicus (where most of the marble for the Acropolis was
-sourced) a mile to our right and the sea a mile to our left. The pace of life
+sourced); a mile to our left lies the sea. The pace of life
 here stands in stark contrast to the sprawling metropolis to which we approach,
-filled with the clatter and exhaust of a phalanx of motorbikes twenty something
-miles ahead.
+filled with the clatter and exhaust of a cavalry regiment of motorbikes twenty
+something miles ahead.
 
 Spaced about every quarter mile stands a family of Greek farmers, smiling,
 waving, shouting,
@@ -86,12 +91,11 @@ hours squandered. At this point my brain starts to rebel against itself.
 
 *What if we just staaaayyyyyy awake allllllll night my precioussssss????*
 
+I can't be for certain but I estimate that I manage ~2-3 hours of sleep before
+my alarm rouses me. I sluggishly wipe the drowsiness from my eyes, splash some
+cold water on my face, and hop in the shower for a quick rinse.
 
-
-
-
-
-I take a right from the hotel headed due north to Omonia Square, one of 6 pickup
+15 minutes later I hang a right from the hotel towards Omonia Square, one of 6 pickup
 locations in Athens for marathon runners. With a notable lack of pep in my step
 I sidle up to a crowd of brightly clad athletes gathered on the eastern side of
 the promenade. Beside the conclave stretches a line of buses down the block and
@@ -165,7 +169,9 @@ the DJ begins a countdown
 *2*
 
 <h4 class="article-subheader">The Hill</h4>
-At the end of a moderate mile-long downhill section we reach the most grueling
+Miles 3-10 feature a set of rolling hills. With the
+cresting of each small knob we are greeted with the fresh, cool breath of the
+sea. we reach the most grueling
 section of the race. Mile 11. The start of 9 miles of unrelenting uphill. Just
 imagine walking up the stairwell of a 120 story building. But also running
 9 miles. So dumb.
@@ -215,7 +221,24 @@ lined with joyous Greeks shouting *BRAVO!! BRAVO!!* provides an inexplicable
 jolt to my fortitude.
 
 
+towns along the route
+
+
 	
+<h4 class="article-subheader">Battle of Marathon</h4>
+Around mile 3 the route takes a 90 degree left turn headed towards the sea. A
+half mile later the road loops around a circular park covered in olive trees.
+Hidden behind the copse, at the center of the circle, stands the __________
+(marathon tomb)
+
+
+details of the battle
+
+
+
+
+<h4 class="article-subheader">
+
 
 Omonia Square
 Couldn't sleep
