@@ -156,3 +156,74 @@ Midwestern sensibility,  "I'm so sorry! I shoulda come in on the back here!!"
 Canadian! Very polite people those Canadians..." he continues to tell his wife
 about the politeness of Canadians as we make our way down the aisle out of
 earshot.
+
+
+
+<h4 class="article-subheader">Wedding</h4>
+Rental car
+Pick up mom & Alex
+Sitting in traffic
+Marianne & Ad
+Grocery store - guy chatting when buying beer
+Aass lager, Isbjorn
+Miss the train
+Drive
+See the train 
+End up driving there
+Champagne
+See everyone 
+Ceremony
+Elvis on Ice maniac
+Bar after the ceremony
+Sleep till 1 PM
+Get dressed up
+Drive to hotel
+Drive back once Karen is ready
+"I don't want to be late, what if everybody is watching me"
+Shannon drops us off
+Speaks in Norwegian
+Eventually pull up my phone to live translate
+Tom & Monica's speech they printed in English
+Brage great speech, turns out it was completely off the cuff
+Supper
+Cigars on the porch
+Tom "sailing is the reason for living"
+Chunk of an iceberg for whiskey
+See Sondre's old friends from Norway Day
+Shots
+Dancing
+Electric violin
+Party goes till 2 AM
+Afterparty - too crowded & we bail quickly
+Wake up all hung
+Chat with Ad about planes - Timmy
+Divide luggage into Tom & Monica's car 
+Barely squeeze into our car with luggage
+Alex giving directions "In 800 pesos you're going to turn left, ok we'll be on this road for 10 kilopesos"
+Hang out at Tom & Monica's
+Go for a swim
+Amazing lunch - sausages, shrimp, 
+
+
+Drive back to Oslo
+Drop bags
+Drop car
+Accidentally back into the pylon forget to press the little button into park made it the whole time with nothing
+The guy working didn't give a shit
+No charges
+Check in to hotel
+Himkok
+Andy Mac
+Cockies
+Back to hotel
+Beers from front desk
+hang in room with beers with Allie
+Sleep
+
+Short walk to train station
+Easy train ride to airport
+Insane security line probably took an hour 100 yards?? Looks off as far as the eye can see, get to the end of that, turn right, same thing, turn right again, back to the same length as we started
+Coffee & croissant
+Easy flight
+Zurich airport
+
